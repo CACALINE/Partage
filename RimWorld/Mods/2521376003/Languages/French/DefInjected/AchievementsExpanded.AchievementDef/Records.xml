@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Vanilla Achivements Expanded.-->
+  <OneShotOneKill.label>Un Tir, Un Mort</OneShotOneKill.label>
+  <OneShotOneKill.description>Faire en sorte qu'un seul colon obtienne 100 tirs à la tête.</OneShotOneKill.description>
+  
+  <TriggerHappy.label>Gâchette facile</TriggerHappy.label>
+  <TriggerHappy.description>Faire tirer 2000 coups de feu par un seul colon</TriggerHappy.description>
+  
+  <OneSolidGardner.label>Agriculture intensive</OneSolidGardner.label>
+  <OneSolidGardner.description>Faites semer 10000 plantes par un seul colon.</OneSolidGardner.description>
+  
+  <LifeSentence.label>Condamnation à vie</LifeSentence.label>
+  <LifeSentence.description>Avoir un seul prisonnier depuis 2 ans.</LifeSentence.description>
+  
+  <IMightNeedAShrink.label>J'aurais besoin d'un psy</IMightNeedAShrink.label>
+  <IMightNeedAShrink.description>Faire en sorte qu'un seul colon passe 24 heures au total en état mental.</IMightNeedAShrink.description>
+  
+  <DrDolittle.label>Docteur Dolittle</DrDolittle.label>
+  <DrDolittle.description>Faire apprivoiser 50 animaux à un seul colon.</DrDolittle.description>
+  
+  <ProfessionalStripper.label>Dépouilleur professionnel</ProfessionalStripper.label>
+  <ProfessionalStripper.description>Demandez à un seul colon de dépouiller 100 corps.</ProfessionalStripper.description>
+  
+  <BladeRunner.label>Blade Runner</BladeRunner.label>
+  <BladeRunner.description>Faire en sorte qu'un seul colon tue 50 mécanoïdes.</BladeRunner.description>
+  
+  <ThreeStarMichelin.label>3 étoiles Michelin</ThreeStarMichelin.label>
+  <ThreeStarMichelin.description>Demandez à un seul colon de cuisiner 10000 repas.</ThreeStarMichelin.description>
+  
+  <ScrubUp.label>Chirurgien professionnel</ScrubUp.label>
+  <ScrubUp.description>Effectuez un total de 50 opérations.</ScrubUp.description>
+  
+  <TheRimsBrightest.label>Les plus brillants du monde</TheRimsBrightest.label>
+  <TheRimsBrightest.description>Passez un total de 2 ans à faire des recherches.</TheRimsBrightest.description>
+  
+  <IWishThisWasIkea.label>J'aimerais que ce soit du IKEA</IWishThisWasIkea.label>
+  <IWishThisWasIkea.description>Construisez et démontez un total de 100 structures.</IWishThisWasIkea.description>
+  
+  <ImOnFire.label>Je suis en feu !</ImOnFire.label>
+  <ImOnFire.description>Faire en sorte qu'un seul colon passe un total de 3 jours sur le feu.</ImOnFire.description>
+  
+</LanguageData>

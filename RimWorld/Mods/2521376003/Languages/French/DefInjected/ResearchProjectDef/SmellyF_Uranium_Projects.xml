@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<!--Traduction FR Nuclear Energy-->
+	<UraniumProcessing.label>Raffinage de l'uranium</UraniumProcessing.label>
+	<UraniumProcessing.description>Recherchez le processus de raffinage de l'uranium à sa forme la plus pure. Traitez-le dans la station d'enrichissement et de raffinage de l'uranium. C'est la première étape pour créer l'énergie de l'uranium.</UraniumProcessing.description>
+  
+	<CoolingSys.label>Systèmes de refroidissement</CoolingSys.label>
+	<CoolingSys.description>Créez des systèmes de refroidissement avancés pour empêcher le réacteur de surchauffer. Les composants sont fabriqués dans un atelier de fabrication, le reste sur une table d'usinage ou établi d'assemblage.</CoolingSys.description>
+	
+	<SmallNuclearReactor.label>Petit réacteur nucléaire</SmallNuclearReactor.label>
+	<SmallNuclearReactor.description>Apprenez à fabriquer une bonne source d'énergie en utilisant de l'uranium raffiné.</SmallNuclearReactor.description>
+	
+	<NuclearReactor.label>Réacteur nucléaire</NuclearReactor.label>
+	<NuclearReactor.description>Apprenez à fabriquer une grande source d'énergie en utilisant de l'uranium raffiné.</NuclearReactor.description>
+	
+	<GiantNuclearReactor.label>Réacteur nucléaire géant</GiantNuclearReactor.label>
+	<GiantNuclearReactor.description>Apprenez à fabriquer une puissante source d'énergie en utilisant de l'uranium raffiné.</GiantNuclearReactor.description>
+	
+	<ContWall.label>Mur et porte de confinement</ContWall.label>
+	<ContWall.description>Permet de construire un mur de confinement et une porte pour construire une chambre de confinement pour les réacteurs. Peut arrêter l'explosion d'un réacteur normal</ContWall.description>
+	
+	<StrContWall.label>Mur et porte de confinement renforcé</StrContWall.label>
+	<StrContWall.description>Permet de construire un mur de confinement renforcé et une porte pour construire une chambre de confinement pour les réacteurs. Peut arrêter l'explosion d'un réacteur géant</StrContWall.description>
+</LanguageData>

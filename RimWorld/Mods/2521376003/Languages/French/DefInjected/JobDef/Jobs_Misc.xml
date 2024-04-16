@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--suppress ALL -->
+<LanguageData>
+	<!--Traduction FR Hospitality-->
+	<CharmGuest.reportString>Essaye de nouer des liens d'amitié entre TargetA et vos colons.</CharmGuest.reportString>
+	<GuestImproveRelationship.reportString>Essaye d'arrondir les angles avec la faction de TargetA.</GuestImproveRelationship.reportString>
+	<BuyItem.reportString>S'enquiert de TargetA.</BuyItem.reportString>
+	<BrowseItems.reportString>Regarde les articles en vente.</BrowseItems.reportString>
+	<ClaimGuestBed.reportString>Choisit un lit.</ClaimGuestBed.reportString>
+
+	<!--<Traduction FR tous les vanilla furniture expanded.-->
+<!-- rearming TargetA. -->
+<VFES_RearmTrap.reportString>réarme TargetA.</VFES_RearmTrap.reportString>
+
+<!--Traduction FR animal controls--> 
+ <AnimalControls_Wait_PayAttention.reportString>à l'affût de TargetA.</AnimalControls_Wait_PayAttention.reportString>
+ 
+ <!--<Traduction FR vanilla social interactions expanded.-->
+  <VSIE_VentToFriend.reportString>maintient un débat TargetA.</VSIE_VentToFriend.reportString>
+  <VSIE_StandAndHearVenting.reportString>sonne les soucis de TargetA.</VSIE_StandAndHearVenting.reportString>
+  <VSIE_TakingBeer.reportString>prend une bière avec TargetA.</VSIE_TakingBeer.reportString>
+  <VSIE_TalkToSecondPawn.reportString>parle à TargetA.</VSIE_TalkToSecondPawn.reportString>
+  <VSIE_HonorPawn.reportString>honore TargetA.</VSIE_HonorPawn.reportString>
+  <VSIE_Skygaze.reportString>regarde le ciel avec TargetB.</VSIE_Skygaze.reportString>
+  <VSIE_ViewArtTogether.reportString>regarde une oeuvre d'art avec TargetB.</VSIE_ViewArtTogether.reportString>
+  <VSIE_BuildSnowmanTogether.reportString>construit un bonhomme de neige avec TargetB.</VSIE_BuildSnowmanTogether.reportString>
+  <VSIE_GotoWith.reportString>se promène avec TargetB.</VSIE_GotoWith.reportString>
+  <VSIE_GotoTalkToSecondPawn.reportString>parle à TargetA.</VSIE_GotoTalkToSecondPawn.reportString>
+  <VSIE_Follow.reportString>se promène avec TargetA.</VSIE_Follow.reportString>
+  <VSIE_OneStandLovin.reportString>a un coup d'un soir.</VSIE_OneStandLovin.reportString>
+  <VSIE_WatchTelevisionTogether.reportString>regarde la télévision.</VSIE_WatchTelevisionTogether.reportString>
+  <VSIE_HaveMealTogether.reportString>A un rendez-vous.</VSIE_HaveMealTogether.reportString>
+  
+  <!--Traduction FR vanilla expanded framework-->
+  <VFEC_EquipShield.reportString>équiper la TargetA</VFEC_EquipShield.reportString>
+</LanguageData>

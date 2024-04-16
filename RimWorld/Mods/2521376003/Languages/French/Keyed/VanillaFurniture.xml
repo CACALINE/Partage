@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+<!--Traduction FR vanilla expanded framework-->
+<!-- Auto Drill -->
+
+<VFE_ChunkToMine>Forer pour {0}</VFE_ChunkToMine>
+<VFE_ChunkRandomMine>Forage de morceaux aléatoires</VFE_ChunkRandomMine>
+<VFE_ChooseMine>Choisissez le type de morceau à forer</VFE_ChooseMine>
+<VFE_ChooseMineDesc>Choisissez le type de roche à forer. Vous pouvez choisir n'importe quel type de roche de la carte, ou au hasard.</VFE_ChooseMineDesc>
+<VFE_RandomRock>Morceau aléatoire</VFE_RandomRock>
+<VFE_PleaseSelectOutput>Sélectionner la sortie de la machine</VFE_PleaseSelectOutput>
+<VFE_NeedsWater>Ce bâtiment doit être placé sur l'eau</VFE_NeedsWater>
+
+<!-- Random Building Graphics -->
+
+<VFE_ChangeGraphic>Modifier le graphique</VFE_ChangeGraphic>
+<VFE_ChangeGraphicDesc>Modifier le graphique de ce bâtiment au hasard entre ceux disponibles</VFE_ChangeGraphicDesc>
+
+<!-- Random Building Graphics, Options -->
+
+<VFE_RandomOrSequentially>Le bouton "Modifier le graphique" modifie le graphique de manière aléatoire (désélectionner pour séquentiel)</VFE_RandomOrSequentially>
+<VFE_HideRandomizeButton>Masquer le bouton "Modifier le graphique"</VFE_HideRandomizeButton>
+
+
+
+</LanguageData>

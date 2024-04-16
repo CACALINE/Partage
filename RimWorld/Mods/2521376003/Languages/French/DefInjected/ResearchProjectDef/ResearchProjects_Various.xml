@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR vanilla apparel expanded.-->
+  <VAE_CasualWear.label>Vêtements décontractés</VAE_CasualWear.label>
+  <VAE_CasualWear.description>Vêtements décontractés d’artisanat avec des fonctionnalités pratiques pour toute situation de la vie.</VAE_CasualWear.description>
+
+  <VAE_FormalWear.label>Usage formel</VAE_FormalWear.label>
+  <VAE_FormalWear.description>Costumes d’artisanat et vêtements de cérémonie.</VAE_FormalWear.description>
+
+  <VAE_WorkAttire.label>Tenue de travail</VAE_WorkAttire.label>
+  <VAE_WorkAttire.description>Confectionnez des vêtements confortables et fonctionnels pour tout type de travail.</VAE_WorkAttire.description>
+
+  <VAE_SterileAttire.label>Vêtements stériles</VAE_SterileAttire.label>
+  <VAE_SterileAttire.description>Vêtements stériles utilisés par les médecins et les scientifiques.</VAE_SterileAttire.description>
+
+  <VAE_MilitaryClothing.label>Vêtements militaires</VAE_MilitaryClothing.label>
+  <VAE_MilitaryClothing.description>Confectionnez des tenues résistantes aux intempéries pour protéger vos soldats.</VAE_MilitaryClothing.description>
+
+  <!--<Traduction FR tous les vanilla furniture expanded.-->
+<!-- siege equipment -->
+<VFES_SiegeEquipment.label>équipement de siège</VFES_SiegeEquipment.label>
+<!-- Construct medieval siege equipment. -->
+<VFES_SiegeEquipment.description>Construire des équipements de sièges médiéval.</VFES_SiegeEquipment.description>
+
+<!-- EN: trench warfare -->
+<VFES_TrenchWarfare.label>guerre de tranchées</VFES_TrenchWarfare.label>
+<!-- EN: Adapt a trench warfare doctrine with a selection of weapons for close-quarters combat, as well as the ability to dig trenches. -->
+<VFES_TrenchWarfare.description>Adapter une doctrine de guerre de tranchées avec une sélection d'armes pour le combat rapproché, ainsi que la possibilité de creuser des tranchées.</VFES_TrenchWarfare.description>
+
+<!-- artillery -->
+<VFES_Artillery.label>artillerie</VFES_Artillery.label>
+<!-- Learn how to construct field artillery capable of bombarding distant targets within a location's region on the world. -->
+<VFES_Artillery.description>Apprenez à construire une artillerie de campagne capable de bombarder des cibles éloignées dans une région du monde.</VFES_Artillery.description>
+
+<!-- sentry guns -->
+<VFES_SentryGuns.label>armes sentinelle</VFES_SentryGuns.label>
+<!-- Craft self-powered, reliable sentry guns to be utilised in the field. -->
+<VFES_SentryGuns.description>Fabriquez des armes sentinelle autonomes et fiables à utiliser sur le terrain.</VFES_SentryGuns.description>
+
+<!-- metal alloy barricades -->
+<VFES_MetalAlloysBarricades.label>barricades métalliques</VFES_MetalAlloysBarricades.label>
+<!-- Construct reinforced metal barricades. -->
+<VFES_MetalAlloysBarricades.description>Construire des barricades métalliques renforcées.</VFES_MetalAlloysBarricades.description>
+
+<!-- concealed defenses -->
+<VFES_ConcealedDefenses.label>défenses cachées</VFES_ConcealedDefenses.label>
+<!-- Construct submersible barriers and turrets, perfect for indoor defenses. -->
+<VFES_ConcealedDefenses.description>Construisez des barrières et des tourelles rétractables, parfaites pour les défenses intérieures.</VFES_ConcealedDefenses.description>
+
+<!-- missile turret -->
+<VFES_MissileBarrage.label>tourelle de missile</VFES_MissileBarrage.label>
+<!-- Adapt explosive technology in a form of surface-to-surface missile launcher. -->
+<VFES_MissileBarrage.description>Adapter la technologie explosive à une forme de lance-missiles sol-sol.</VFES_MissileBarrage.description>
+
+
+<!-- pulse-charged defenses -->
+<VFES_PulseChargedDefenses.label>défenses à impulsion</VFES_PulseChargedDefenses.label>
+<!-- Develop advanced charge cannons capable of keeping consistent firing speed. -->
+<VFES_PulseChargedDefenses.description>Développez des canons à impulsion avancés capables de maintenir une vitesse de tir constante.</VFES_PulseChargedDefenses.description>
+
+<!-- railgun -->
+<VFES_Railgun.label>canon sur rail</VFES_Railgun.label>
+<!-- Adapt spacecraft weaponry as part of your defensive systems. -->
+<VFES_Railgun.description>Adaptez l'armement des vaisseaux spatiaux dans le cadre de vos systèmes défensifs.</VFES_Railgun.description>
+
+<!-- EMP cannon -->
+<VFES_EMPCannon.label>canon EMP</VFES_EMPCannon.label>
+<!-- Develop EMP cannons, useful throughout the galaxy with it's ability to stun mechanoids. -->
+<VFES_EMPCannon.description>Développe des canons à impulsion électromagnétique (EMP), utiles dans toute la galaxie en raison de leur capacité à étourdir les mécanoïdes.</VFES_EMPCannon.description>
+
+<!-- repulsor technology -->
+<VFES_RepulsorTechnology.label>technologie répulsive</VFES_RepulsorTechnology.label>
+<!-- Build shield generators that project energy fields capable of repelling projectiles. -->
+<VFES_RepulsorTechnology.description>Construisez des générateurs de boucliers qui projettent des champs d'énergie capables de repousser les projectiles.</VFES_RepulsorTechnology.description>
+</LanguageData>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR children, school and learning.-->
+  <ColonyChild.title>Enfant de la colonie</ColonyChild.title>
+  <ColonyChild.titleShort>Colonie d'enfants</ColonyChild.titleShort>
+  <ColonyChild.baseDescription>[PAWN_nameDef] est né et a grandi sur une colonie de la planète Rimworld.</ColonyChild.baseDescription>
+  
+</LanguageData>

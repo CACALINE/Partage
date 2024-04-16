@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Tous les vanilla animals expanded.-->
+	<!-- extint animals pass -->
+  <AEXP_ExtintAnimalsPasses.label>passage d'animaux en voie d'extinction</AEXP_ExtintAnimalsPasses.label>
+
+<!--<Traduction FR vanilla social interactions expanded.-->
+  <!-- Good -->
+
+  <VSIE_OneNightStand.label>Coup d'un soir</VSIE_OneNightStand.label>
+</LanguageData>

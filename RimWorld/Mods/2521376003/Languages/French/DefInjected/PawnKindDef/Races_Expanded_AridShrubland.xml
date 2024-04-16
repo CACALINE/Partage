@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Tous les vanilla animals expanded.-->
+  <!-- AridShrubland-->
+  <!-- coyote -->
+  <AEXP_Coyote.label>coyote</AEXP_Coyote.label>
+  <!-- coyotes -->
+  <AEXP_Coyote.labelPlural>coyotes</AEXP_Coyote.labelPlural>
+  <!-- coyote puppy -->
+  <AEXP_Coyote.lifeStages.0.label>chiot coyote</AEXP_Coyote.lifeStages.0.label>
+  <!-- coyote puppies -->
+  <AEXP_Coyote.lifeStages.0.labelPlural>chiots coyotes</AEXP_Coyote.lifeStages.0.labelPlural>
+  <!-- male coyote puppy -->
+  <AEXP_Coyote.lifeStages.0.labelMale>chiot coyote</AEXP_Coyote.lifeStages.0.labelMale>
+  <!-- male coyote puppies -->
+  <AEXP_Coyote.lifeStages.0.labelMalePlural>chiots coyotes</AEXP_Coyote.lifeStages.0.labelMalePlural>
+  <!-- female coyote puppy -->
+  <AEXP_Coyote.lifeStages.0.labelFemale>chiot coyote</AEXP_Coyote.lifeStages.0.labelFemale>
+  <!-- female coyote puppies -->
+  <AEXP_Coyote.lifeStages.0.labelFemalePlural>chiots coyotes</AEXP_Coyote.lifeStages.0.labelFemalePlural>
+  <!-- coyote -->
+  <AEXP_Coyote.lifeStages.1.label>coyote</AEXP_Coyote.lifeStages.1.label>
+  <!-- coyotes -->
+  <AEXP_Coyote.lifeStages.1.labelPlural>coyotes</AEXP_Coyote.lifeStages.1.labelPlural>
+  <!-- male coyote -->
+  <AEXP_Coyote.lifeStages.1.labelMale>coyote</AEXP_Coyote.lifeStages.1.labelMale>
+  <!-- male coyotes -->
+  <AEXP_Coyote.lifeStages.1.labelMalePlural>coyotes</AEXP_Coyote.lifeStages.1.labelMalePlural>
+  <!-- female coyote -->
+  <AEXP_Coyote.lifeStages.1.labelFemale>coyote</AEXP_Coyote.lifeStages.1.labelFemale>
+  <!-- female coyotes -->
+  <AEXP_Coyote.lifeStages.1.labelFemalePlural>coyotes</AEXP_Coyote.lifeStages.1.labelFemalePlural>
+  <!-- coyote -->
+  <AEXP_Coyote.lifeStages.2.label>coyote</AEXP_Coyote.lifeStages.2.label>
+  <!-- coyotes -->
+  <AEXP_Coyote.lifeStages.2.labelPlural>coyotes</AEXP_Coyote.lifeStages.2.labelPlural>
+  <!-- male coyote -->
+  <AEXP_Coyote.lifeStages.2.labelMale>coyote</AEXP_Coyote.lifeStages.2.labelMale>
+  <!-- male coyotes -->
+  <AEXP_Coyote.lifeStages.2.labelMalePlural>coyotes</AEXP_Coyote.lifeStages.2.labelMalePlural>
+  <!-- female coyote -->
+  <AEXP_Coyote.lifeStages.2.labelFemale>coyote</AEXP_Coyote.lifeStages.2.labelFemale>
+  <!-- female coyotes -->
+  <AEXP_Coyote.lifeStages.2.labelFemalePlural>coyotes</AEXP_Coyote.lifeStages.2.labelFemalePlural>
+  <!-- male coyote -->
+  <AEXP_Coyote.labelMale>coyote</AEXP_Coyote.labelMale>
+  <!-- male coyotes -->
+  <AEXP_Coyote.labelMalePlural>coyotes</AEXP_Coyote.labelMalePlural>
+  <!-- female coyote -->
+  <AEXP_Coyote.labelFemale>coyote</AEXP_Coyote.labelFemale>
+  <!-- female coyotes -->
+  <AEXP_Coyote.labelFemalePlural>coyotes</AEXP_Coyote.labelFemalePlural>
+  
+  <!-- giraffe -->
+  <AEXP_Giraffe.label>girafe</AEXP_Giraffe.label>
+  <!-- giraffes -->
+  <AEXP_Giraffe.labelPlural>girafes</AEXP_Giraffe.labelPlural>
+  <!-- giraffe calf -->
+  <AEXP_Giraffe.lifeStages.0.label>bébé girafe</AEXP_Giraffe.lifeStages.0.label>
+  <!-- giraffe calves -->
+  <AEXP_Giraffe.lifeStages.0.labelPlural>bébés girafes</AEXP_Giraffe.lifeStages.0.labelPlural>
+  <!-- male giraffe calf -->
+  <AEXP_Giraffe.lifeStages.0.labelMale>bébé girafe</AEXP_Giraffe.lifeStages.0.labelMale>
+  <!-- male giraffe calves -->
+  <AEXP_Giraffe.lifeStages.0.labelMalePlural>bébés girafes</AEXP_Giraffe.lifeStages.0.labelMalePlural>
+  <!-- female giraffe calf -->
+  <AEXP_Giraffe.lifeStages.0.labelFemale>bébé girafe</AEXP_Giraffe.lifeStages.0.labelFemale>
+  <!-- female giraffe calves -->
+  <AEXP_Giraffe.lifeStages.0.labelFemalePlural>bébés girafes</AEXP_Giraffe.lifeStages.0.labelFemalePlural>
+  <!-- giraffe -->
+  <AEXP_Giraffe.lifeStages.1.label>girafe</AEXP_Giraffe.lifeStages.1.label>
+  <!-- giraffes -->
+  <AEXP_Giraffe.lifeStages.1.labelPlural>girafes</AEXP_Giraffe.lifeStages.1.labelPlural>
+  <!-- male giraffe -->
+  <AEXP_Giraffe.lifeStages.1.labelMale>girafe</AEXP_Giraffe.lifeStages.1.labelMale>
+  <!-- male giraffes -->
+  <AEXP_Giraffe.lifeStages.1.labelMalePlural>girafes</AEXP_Giraffe.lifeStages.1.labelMalePlural>
+  <!-- female giraffe -->
+  <AEXP_Giraffe.lifeStages.1.labelFemale>girafe</AEXP_Giraffe.lifeStages.1.labelFemale>
+  <!-- female giraffes -->
+  <AEXP_Giraffe.lifeStages.1.labelFemalePlural>girafes</AEXP_Giraffe.lifeStages.1.labelFemalePlural>
+  <!-- giraffe -->
+  <AEXP_Giraffe.lifeStages.2.label>girafe</AEXP_Giraffe.lifeStages.2.label>
+  <!-- giraffes -->
+  <AEXP_Giraffe.lifeStages.2.labelPlural>girafes</AEXP_Giraffe.lifeStages.2.labelPlural>
+  <!-- male giraffe -->
+  <AEXP_Giraffe.lifeStages.2.labelMale>girafe</AEXP_Giraffe.lifeStages.2.labelMale>
+  <!-- male giraffes -->
+  <AEXP_Giraffe.lifeStages.2.labelMalePlural>girafes</AEXP_Giraffe.lifeStages.2.labelMalePlural>
+  <!-- female giraffe -->
+  <AEXP_Giraffe.lifeStages.2.labelFemale>girafe</AEXP_Giraffe.lifeStages.2.labelFemale>
+  <!-- female giraffes -->
+  <AEXP_Giraffe.lifeStages.2.labelFemalePlural>girafes</AEXP_Giraffe.lifeStages.2.labelFemalePlural>
+  <!-- male giraffe -->
+  <AEXP_Giraffe.labelMale>girafe</AEXP_Giraffe.labelMale>
+  <!-- male giraffes -->
+  <AEXP_Giraffe.labelMalePlural>girafes</AEXP_Giraffe.labelMalePlural>
+  <!-- female giraffe -->
+  <AEXP_Giraffe.labelFemale>girafe</AEXP_Giraffe.labelFemale>
+  <!-- female giraffes -->
+  <AEXP_Giraffe.labelFemalePlural>girafes</AEXP_Giraffe.labelFemalePlural>
+
+  <!-- hippopotamus -->
+  <AEXP_Hippopotamus.label>hippopotame</AEXP_Hippopotamus.label>
+  <!-- hippopotami -->
+  <AEXP_Hippopotamus.labelPlural>hippopotames</AEXP_Hippopotamus.labelPlural>
+  <!-- hippopotamus calf -->
+  <AEXP_Hippopotamus.lifeStages.0.label>bébé hippopotame</AEXP_Hippopotamus.lifeStages.0.label>
+  <!-- hippopotamus calfs -->
+  <AEXP_Hippopotamus.lifeStages.0.labelPlural>bébés hippopotames</AEXP_Hippopotamus.lifeStages.0.labelPlural>
+  <!-- male hippopotamus calf -->
+  <AEXP_Hippopotamus.lifeStages.0.labelMale>bébé hippopotame</AEXP_Hippopotamus.lifeStages.0.labelMale>
+  <!-- male hippopotamus calfs -->
+  <AEXP_Hippopotamus.lifeStages.0.labelMalePlural>bébés hippopotames</AEXP_Hippopotamus.lifeStages.0.labelMalePlural>
+  <!-- female hippopotamus calf -->
+  <AEXP_Hippopotamus.lifeStages.0.labelFemale>bébé hippopotame</AEXP_Hippopotamus.lifeStages.0.labelFemale>
+  <!-- female hippopotamus calfs -->
+  <AEXP_Hippopotamus.lifeStages.0.labelFemalePlural>bébés hippopotames</AEXP_Hippopotamus.lifeStages.0.labelFemalePlural>
+  <!-- hippopotamus -->
+  <AEXP_Hippopotamus.lifeStages.1.label>hippopotame</AEXP_Hippopotamus.lifeStages.1.label>
+  <!-- hippopotami -->
+  <AEXP_Hippopotamus.lifeStages.1.labelPlural>hippopotames</AEXP_Hippopotamus.lifeStages.1.labelPlural>
+  <!-- male hippopotamus -->
+  <AEXP_Hippopotamus.lifeStages.1.labelMale>hippopotame</AEXP_Hippopotamus.lifeStages.1.labelMale>
+  <!-- male hippopotamuss -->
+  <AEXP_Hippopotamus.lifeStages.1.labelMalePlural>hippopotames</AEXP_Hippopotamus.lifeStages.1.labelMalePlural>
+  <!-- female hippopotamus -->
+  <AEXP_Hippopotamus.lifeStages.1.labelFemale> hippopotame</AEXP_Hippopotamus.lifeStages.1.labelFemale>
+  <!-- female hippopotamuss -->
+  <AEXP_Hippopotamus.lifeStages.1.labelFemalePlural> hippopotames</AEXP_Hippopotamus.lifeStages.1.labelFemalePlural>
+  <!-- hippopotamus -->
+  <AEXP_Hippopotamus.lifeStages.2.label>hippopotame</AEXP_Hippopotamus.lifeStages.2.label>
+  <!-- hippopotami -->
+  <AEXP_Hippopotamus.lifeStages.2.labelPlural>hippopotames</AEXP_Hippopotamus.lifeStages.2.labelPlural>
+  <!-- male hippopotamus -->
+  <AEXP_Hippopotamus.lifeStages.2.labelMale>hippopotame</AEXP_Hippopotamus.lifeStages.2.labelMale>
+  <!-- male hippopotamuss -->
+  <AEXP_Hippopotamus.lifeStages.2.labelMalePlural>hippopotames</AEXP_Hippopotamus.lifeStages.2.labelMalePlural>
+  <!-- female hippopotamus -->
+  <AEXP_Hippopotamus.lifeStages.2.labelFemale> hippopotame</AEXP_Hippopotamus.lifeStages.2.labelFemale>
+  <!-- female hippopotamuss -->
+  <AEXP_Hippopotamus.lifeStages.2.labelFemalePlural> hippopotames</AEXP_Hippopotamus.lifeStages.2.labelFemalePlural>
+  <!-- male hippopotamus -->
+  <AEXP_Hippopotamus.labelMale>hippopotame</AEXP_Hippopotamus.labelMale>
+  <!-- male hippopotami -->
+  <AEXP_Hippopotamus.labelMalePlural>hippopotames</AEXP_Hippopotamus.labelMalePlural>
+  <!-- female hippopotamus -->
+  <AEXP_Hippopotamus.labelFemale> hippopotame</AEXP_Hippopotamus.labelFemale>
+  <!-- female hippopotami -->
+  <AEXP_Hippopotamus.labelFemalePlural> hippopotames</AEXP_Hippopotamus.labelFemalePlural>
+
+  <!-- zebra -->
+  <AEXP_Zebra.label>zèbre</AEXP_Zebra.label>
+  <!-- zebras -->
+  <AEXP_Zebra.labelPlural>zèbres</AEXP_Zebra.labelPlural>
+  <!-- zebra foal -->
+  <AEXP_Zebra.lifeStages.0.label>bébé zèbre</AEXP_Zebra.lifeStages.0.label>
+  <!-- zebra foals -->
+  <AEXP_Zebra.lifeStages.0.labelPlural>bébés zèbre</AEXP_Zebra.lifeStages.0.labelPlural>
+  <!-- male zebra foal -->
+  <AEXP_Zebra.lifeStages.0.labelMale>bébé zèbre</AEXP_Zebra.lifeStages.0.labelMale>
+  <!-- male zebra foals -->
+  <AEXP_Zebra.lifeStages.0.labelMalePlural>bébés zèbre</AEXP_Zebra.lifeStages.0.labelMalePlural>
+  <!-- female zebra foal -->
+  <AEXP_Zebra.lifeStages.0.labelFemale>bébé zèbre</AEXP_Zebra.lifeStages.0.labelFemale>
+  <!-- female zebra foals -->
+  <AEXP_Zebra.lifeStages.0.labelFemalePlural>bébés zèbre</AEXP_Zebra.lifeStages.0.labelFemalePlural>
+  <!-- zebra -->
+  <AEXP_Zebra.lifeStages.1.label>zèbre</AEXP_Zebra.lifeStages.1.label>
+  <!-- zebra -->
+  <AEXP_Zebra.lifeStages.1.labelPlural>zèbres</AEXP_Zebra.lifeStages.1.labelPlural>
+  <!-- male zebra -->
+  <AEXP_Zebra.lifeStages.1.labelMale>zèbre</AEXP_Zebra.lifeStages.1.labelMale>
+  <!-- male zebras -->
+  <AEXP_Zebra.lifeStages.1.labelMalePlural>zèbres</AEXP_Zebra.lifeStages.1.labelMalePlural>
+  <!-- female zebra -->
+  <AEXP_Zebra.lifeStages.1.labelFemale>zèbre</AEXP_Zebra.lifeStages.1.labelFemale>
+  <!-- female zebras -->
+  <AEXP_Zebra.lifeStages.1.labelFemalePlural>zèbres</AEXP_Zebra.lifeStages.1.labelFemalePlural>
+  <!-- zebra -->
+  <AEXP_Zebra.lifeStages.2.label>zèbre</AEXP_Zebra.lifeStages.2.label>
+  <!-- zebra -->
+  <AEXP_Zebra.lifeStages.2.labelPlural>zèbres</AEXP_Zebra.lifeStages.2.labelPlural>
+  <!-- male zebra -->
+  <AEXP_Zebra.lifeStages.2.labelMale>zèbre</AEXP_Zebra.lifeStages.2.labelMale>
+  <!-- male zebras -->
+  <AEXP_Zebra.lifeStages.2.labelMalePlural>zèbres</AEXP_Zebra.lifeStages.2.labelMalePlural>
+  <!-- female zebra -->
+  <AEXP_Zebra.lifeStages.2.labelFemale>zèbre</AEXP_Zebra.lifeStages.2.labelFemale>
+  <!-- female zebras -->
+  <AEXP_Zebra.lifeStages.2.labelFemalePlural>zèbres</AEXP_Zebra.lifeStages.2.labelFemalePlural>
+  <!-- male zebra -->
+  <AEXP_Zebra.labelMale>zèbre</AEXP_Zebra.labelMale>
+  <!-- male zebras -->
+  <AEXP_Zebra.labelMalePlural>zèbres</AEXP_Zebra.labelMalePlural>
+  <!-- female zebra -->
+  <AEXP_Zebra.labelFemale>zèbre</AEXP_Zebra.labelFemale>
+  <!-- female zebras -->
+  <AEXP_Zebra.labelFemalePlural>zèbres</AEXP_Zebra.labelFemalePlural>
+
+  <!-- wildebeest -->
+  <AEXP_Wildebeest.label>gnou</AEXP_Wildebeest.label>
+  <!-- wildebeests -->
+  <AEXP_Wildebeest.labelPlural>gnous</AEXP_Wildebeest.labelPlural>
+  <!-- wildebeest calf -->
+  <AEXP_Wildebeest.lifeStages.0.label>veau gnou</AEXP_Wildebeest.lifeStages.0.label>
+  <!-- wildebeest calves -->
+  <AEXP_Wildebeest.lifeStages.0.labelPlural>veaux gnou</AEXP_Wildebeest.lifeStages.0.labelPlural>
+  <!-- male wildebeest calf -->
+  <AEXP_Wildebeest.lifeStages.0.labelMale>veau gnou</AEXP_Wildebeest.lifeStages.0.labelMale>
+  <!-- male wildebeest calves -->
+  <AEXP_Wildebeest.lifeStages.0.labelMalePlural>veaux gnou</AEXP_Wildebeest.lifeStages.0.labelMalePlural>
+  <!-- female wildebeest calf -->
+  <AEXP_Wildebeest.lifeStages.0.labelFemale>velle gnou</AEXP_Wildebeest.lifeStages.0.labelFemale>
+  <!-- female wildebeest calves -->
+  <AEXP_Wildebeest.lifeStages.0.labelFemalePlural>velles gnou</AEXP_Wildebeest.lifeStages.0.labelFemalePlural>
+  <!-- wildebeest -->
+  <AEXP_Wildebeest.lifeStages.1.label>gnou</AEXP_Wildebeest.lifeStages.1.label>
+  <!-- wildebeest -->
+  <AEXP_Wildebeest.lifeStages.1.labelPlural>gnous</AEXP_Wildebeest.lifeStages.1.labelPlural>
+  <!-- wildebeest bull -->
+  <AEXP_Wildebeest.lifeStages.1.labelMale>gnou</AEXP_Wildebeest.lifeStages.1.labelMale>
+  <!-- male wildebeests -->
+  <AEXP_Wildebeest.lifeStages.1.labelMalePlural>gnous</AEXP_Wildebeest.lifeStages.1.labelMalePlural>
+  <!-- wildebeest cow -->
+  <AEXP_Wildebeest.lifeStages.1.labelFemale>gnou</AEXP_Wildebeest.lifeStages.1.labelFemale>
+  <!-- female wildebeests -->
+  <AEXP_Wildebeest.lifeStages.1.labelFemalePlural>gnous</AEXP_Wildebeest.lifeStages.1.labelFemalePlural>
+  <!-- wildebeest -->
+  <AEXP_Wildebeest.lifeStages.2.label>gnou</AEXP_Wildebeest.lifeStages.2.label>
+  <!-- wildebeest -->
+  <AEXP_Wildebeest.lifeStages.2.labelPlural>gnous</AEXP_Wildebeest.lifeStages.2.labelPlural>
+  <!-- wildebeest bull -->
+  <AEXP_Wildebeest.lifeStages.2.labelMale>gnou</AEXP_Wildebeest.lifeStages.2.labelMale>
+  <!-- male wildebeests -->
+  <AEXP_Wildebeest.lifeStages.2.labelMalePlural>gnous</AEXP_Wildebeest.lifeStages.2.labelMalePlural>
+  <!-- wildebeest cow -->
+  <AEXP_Wildebeest.lifeStages.2.labelFemale>gnou</AEXP_Wildebeest.lifeStages.2.labelFemale>
+  <!-- female wildebeests -->
+  <AEXP_Wildebeest.lifeStages.2.labelFemalePlural>gnous</AEXP_Wildebeest.lifeStages.2.labelFemalePlural>
+  <!-- wildebeest bull -->
+  <AEXP_Wildebeest.labelMale>gnou</AEXP_Wildebeest.labelMale>
+  <!-- wildebeest bulls -->
+  <AEXP_Wildebeest.labelMalePlural>gnous</AEXP_Wildebeest.labelMalePlural>
+  <!-- wildebeest cow -->
+  <AEXP_Wildebeest.labelFemale>gnou</AEXP_Wildebeest.labelFemale>
+  <!-- wildebeest cows -->
+  <AEXP_Wildebeest.labelFemalePlural>gnous</AEXP_Wildebeest.labelFemalePlural>
+  
+  <!-- crocodile -->
+  <AEXP_Crocodile.label>crocodile</AEXP_Crocodile.label>
+  <!-- crocodiles -->
+  <AEXP_Crocodile.labelPlural>crocodiles</AEXP_Crocodile.labelPlural>
+  <!-- crocodile -->
+  <AEXP_Crocodile.lifeStages.0.label>bébé crocodile</AEXP_Crocodile.lifeStages.0.label>
+  <!-- crocodile -->
+  <AEXP_Crocodile.lifeStages.0.labelPlural>bébés crocodiles</AEXP_Crocodile.lifeStages.0.labelPlural>
+  <!-- male crocodile -->
+  <AEXP_Crocodile.lifeStages.0.labelMale>bébé crocodile</AEXP_Crocodile.lifeStages.0.labelMale>
+  <!-- male crocodiles -->
+  <AEXP_Crocodile.lifeStages.0.labelMalePlural>bébés crocodiles</AEXP_Crocodile.lifeStages.0.labelMalePlural>
+  <!-- female crocodile -->
+  <AEXP_Crocodile.lifeStages.0.labelFemale>bébé crocodile</AEXP_Crocodile.lifeStages.0.labelFemale>
+  <!-- female crocodiles -->
+  <AEXP_Crocodile.lifeStages.0.labelFemalePlural>bébés crocodiles</AEXP_Crocodile.lifeStages.0.labelFemalePlural>
+  <!-- crocodile -->
+  <AEXP_Crocodile.lifeStages.1.label>crocodile</AEXP_Crocodile.lifeStages.1.label>
+  <!-- crocodile -->
+  <AEXP_Crocodile.lifeStages.1.labelPlural>crocodiles</AEXP_Crocodile.lifeStages.1.labelPlural>
+  <!-- male crocodile -->
+  <AEXP_Crocodile.lifeStages.1.labelMale>crocodile</AEXP_Crocodile.lifeStages.1.labelMale>
+  <!-- male crocodiles -->
+  <AEXP_Crocodile.lifeStages.1.labelMalePlural>crocodiles</AEXP_Crocodile.lifeStages.1.labelMalePlural>
+  <!-- female crocodile -->
+  <AEXP_Crocodile.lifeStages.1.labelFemale>crocodile</AEXP_Crocodile.lifeStages.1.labelFemale>
+  <!-- female crocodiles -->
+  <AEXP_Crocodile.lifeStages.1.labelFemalePlural>crocodiles</AEXP_Crocodile.lifeStages.1.labelFemalePlural>
+  <!-- crocodile -->
+  <AEXP_Crocodile.lifeStages.2.label>crocodile</AEXP_Crocodile.lifeStages.2.label>
+  <!-- crocodile -->
+  <AEXP_Crocodile.lifeStages.2.labelPlural>crocodiles</AEXP_Crocodile.lifeStages.2.labelPlural>
+  <!-- male crocodile -->
+  <AEXP_Crocodile.lifeStages.2.labelMale>crocodile</AEXP_Crocodile.lifeStages.2.labelMale>
+  <!-- male crocodiles -->
+  <AEXP_Crocodile.lifeStages.2.labelMalePlural>crocodiles</AEXP_Crocodile.lifeStages.2.labelMalePlural>
+  <!-- female crocodile -->
+  <AEXP_Crocodile.lifeStages.2.labelFemale>crocodile</AEXP_Crocodile.lifeStages.2.labelFemale>
+  <!-- female crocodiles -->
+  <AEXP_Crocodile.lifeStages.2.labelFemalePlural>crocodiles</AEXP_Crocodile.lifeStages.2.labelFemalePlural>
+  <!-- male crocodile -->
+  <AEXP_Crocodile.labelMale>crocodile</AEXP_Crocodile.labelMale>
+  <!-- male crocodiles -->
+  <AEXP_Crocodile.labelMalePlural>crocodiles</AEXP_Crocodile.labelMalePlural>
+  <!-- female crocodile -->
+  <AEXP_Crocodile.labelFemale>crocodile</AEXP_Crocodile.labelFemale>
+  <!-- female crocodiles -->
+  <AEXP_Crocodile.labelFemalePlural>crocodiles</AEXP_Crocodile.labelFemalePlural>
+
+  <!-- cheetah -->
+  <AEXP_Cheetah.label>guépard</AEXP_Cheetah.label>
+  <!-- cheetahs -->
+  <AEXP_Cheetah.labelPlural>guépards</AEXP_Cheetah.labelPlural>
+  <!-- cheetah -->
+  <AEXP_Cheetah.lifeStages.0.label>chiot guépard</AEXP_Cheetah.lifeStages.0.label>
+  <!-- cheetah -->
+  <AEXP_Cheetah.lifeStages.0.labelPlural>chiots guépards</AEXP_Cheetah.lifeStages.0.labelPlural>
+  <!-- male cheetah -->
+  <AEXP_Cheetah.lifeStages.0.labelMale>chiot guépard</AEXP_Cheetah.lifeStages.0.labelMale>
+  <!-- male cheetahs -->
+  <AEXP_Cheetah.lifeStages.0.labelMalePlural>chiots guépards</AEXP_Cheetah.lifeStages.0.labelMalePlural>
+  <!-- female cheetah -->
+  <AEXP_Cheetah.lifeStages.0.labelFemale>chiot guépard</AEXP_Cheetah.lifeStages.0.labelFemale>
+  <!-- female cheetahs -->
+  <AEXP_Cheetah.lifeStages.0.labelFemalePlural>chiots guépards</AEXP_Cheetah.lifeStages.0.labelFemalePlural>
+  <!-- cheetah -->
+  <AEXP_Cheetah.lifeStages.1.label>guépard</AEXP_Cheetah.lifeStages.1.label>
+  <!-- cheetah -->
+  <AEXP_Cheetah.lifeStages.1.labelPlural>guépards</AEXP_Cheetah.lifeStages.1.labelPlural>
+  <!-- male cheetah -->
+  <AEXP_Cheetah.lifeStages.1.labelMale>guépard</AEXP_Cheetah.lifeStages.1.labelMale>
+  <!-- male cheetahs -->
+  <AEXP_Cheetah.lifeStages.1.labelMalePlural>guépards</AEXP_Cheetah.lifeStages.1.labelMalePlural>
+  <!-- female cheetah -->
+  <AEXP_Cheetah.lifeStages.1.labelFemale>guépard</AEXP_Cheetah.lifeStages.1.labelFemale>
+  <!-- female cheetahs -->
+  <AEXP_Cheetah.lifeStages.1.labelFemalePlural>guépards</AEXP_Cheetah.lifeStages.1.labelFemalePlural>
+  <!-- cheetah -->
+  <AEXP_Cheetah.lifeStages.2.label>guépard</AEXP_Cheetah.lifeStages.2.label>
+  <!-- cheetah -->
+  <AEXP_Cheetah.lifeStages.2.labelPlural>guépards</AEXP_Cheetah.lifeStages.2.labelPlural>
+  <!-- male cheetah -->
+  <AEXP_Cheetah.lifeStages.2.labelMale>guépard</AEXP_Cheetah.lifeStages.2.labelMale>
+  <!-- male cheetahs -->
+  <AEXP_Cheetah.lifeStages.2.labelMalePlural>guépards</AEXP_Cheetah.lifeStages.2.labelMalePlural>
+  <!-- female cheetah -->
+  <AEXP_Cheetah.lifeStages.2.labelFemale>guépard</AEXP_Cheetah.lifeStages.2.labelFemale>
+  <!-- female cheetahs -->
+  <AEXP_Cheetah.lifeStages.2.labelFemalePlural>guépards</AEXP_Cheetah.lifeStages.2.labelFemalePlural>
+  <!-- male cheetah -->
+  <AEXP_Cheetah.labelMale>guépard</AEXP_Cheetah.labelMale>
+  <!-- male cheetahs -->
+  <AEXP_Cheetah.labelMalePlural>guépards</AEXP_Cheetah.labelMalePlural>
+  <!-- female cheetah -->
+  <AEXP_Cheetah.labelFemale>guépard</AEXP_Cheetah.labelFemale>
+  <!-- female cheetahs -->
+  <AEXP_Cheetah.labelFemalePlural>guépards</AEXP_Cheetah.labelFemalePlural>
+</LanguageData>

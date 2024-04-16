@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+	<!-- vitals centre -->
+	<Facility_VitalsCentre.label>moniteur de centres vitaux</Facility_VitalsCentre.label>
+	<!-- A large centre for monitoring the vitals of several patients at once, increasing medical tend quality, surgery success chance and immunity gain speed when placed in the vicinity of a hospital bed or surgical table. Only works for hospital beds or surgical tables - normal beds will not benefit. -->
+	<Facility_VitalsCentre.description>Un centre de surveillance des signes vitaux de différents patients. Il augmente la qualité des soins médicaux, les chances de réussite des chirurgies et la rapidité de l'immunité. Il ne fonctionne que lorsqu'il est placé à proximité de lits d'hôpitaux ou de tables d'opération.</Facility_VitalsCentre.description>
+	<!-- La traducción literal es "soporte para terapia intravenosa" -->
+	<!-- intravenous drip stand -->
+	<Facility_IVDrip.label>support de perfusion intraveineux</Facility_IVDrip.label>
+	<!-- An intravenous drip stand for quickly delivering lost fluids to a patient, helping the immune system and blood loss recovery when placed directly adjacent to a hospital bed or surgical table. Only works for hospital beds or surgical tables - normal beds will not benefit. Attaching more than one stand to the same bed will have no effect. -->
+	<Facility_IVDrip.description>Un support de perfusion intraveineuse pour administrer rapidement les fluides perdus à un patient, aidant le système immunitaire et la récupération de la perte de sang lorsqu'il est placé directement à côté d'un lit d'hôpital ou d'une table chirurgicale. Ne fonctionne que pour les lits d'hôpitaux ou les tables chirurgicales - les lits normaux n'en bénéficieront pas. Fixer plus d'un support au même lit n'aura aucun effet.</Facility_IVDrip.description>
+	<!-- Verificar la descripción -->
+	<!-- research counter -->
+	<Facility_ResearchCounter.label>bureau scientifique</Facility_ResearchCounter.label>
+	<!-- A waist high sterilised surface for performing sensitive research on. Gives a small boost to nearby research benches as well as helping to keep the area clean. Stacks up to 20 times. -->
+	<Facility_ResearchCounter.description>Une surface stérilisée à hauteur de taille pour les recherches sensibles. Il donne un petit coup de pouce aux bancs de recherche à proximité et aide à garder la zone propre. S'empile jusqu'à 20 fois.</Facility_ResearchCounter.description>
+</LanguageData>

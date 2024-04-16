@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR vanilla events expanded.-->
+<!--<Belle aurore -->
+
+  <VEE_Aurora.label>belle aurore</VEE_Aurora.label>
+  <VEE_Aurora.description>La vue est incroyable.</VEE_Aurora.description>
+  
+  <!--<Frappé par des grêlons -->
+
+  <VEE_Hail.label>frappé par des grêlons</VEE_Hail.label>
+  <VEE_Hail.description>Je suis frappé par des grêlons.</VEE_Hail.description>
+
+</LanguageData>

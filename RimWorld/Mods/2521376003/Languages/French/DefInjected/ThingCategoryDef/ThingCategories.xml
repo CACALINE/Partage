@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR vanilla apparel expanded.-->
+  <!-- Boots and Gloves -->
+
+  <VAE_BootsAndGloves.label>Gants et chaussures</VAE_BootsAndGloves.label>
+
+  <!--<Traduction FR animal controls.-->
+  <!-- Foods -->
+
+  <Plants.label>Plantes</Plants.label>
+  <Crops.label>Cultures</Crops.label>
+  <Trees.label>Arbres</Trees.label>
+  <OtherEdible.label>Autres comestibles</OtherEdible.label>
+  
+  <!--Traduction FR vanilla expanded framework-->
+  <VFEC_Shields.label>boucliers</VFEC_Shields.label>
+</LanguageData>

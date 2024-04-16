@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+<!-- hologram -->
+<VFE_HologramOn.label>hologramme</VFE_HologramOn.label>
+<!-- A human-sized light projecting device, depicting an artwork made using several programming languages. Needs to be plugged in to display the artwork. -->
+<VFE_HologramOn.description>Un appareil de projection de lumière à taille humaine, représentant une œuvre d'art réalisée avec différents langages de programmation. Il doit être connecté pour projeter l'oeuvre d'art.</VFE_HologramOn.description>
+
+<!-- unfinished hologram -->
+<UnfinishedHologram.label>hologramme inachevé</UnfinishedHologram.label>
+
+<!-- EN: hologram base -->
+<HologramBase.label>base d'hologramme</HologramBase.label>
+<!-- EN: A human-sized light projecting device, depicting an artwork made using several programming languages. Needs to be plugged in to display the artwork. -->
+<HologramBase.description>Un appareil de projection de lumière à taille humaine, représentant une œuvre d'art réalisée avec différents langages de programmation. Il doit être connecté pour projeter l'oeuvre d'art.</HologramBase.description>
+
+</LanguageData>

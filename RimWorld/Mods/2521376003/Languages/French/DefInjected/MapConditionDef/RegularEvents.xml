@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR vanilla events expanded.-->
+  <!--<Tempête de grêle-->
+
+  <HailStorm.label>Tempête de grêle</HailStorm.label>
+  <HailStorm.description>Une étrange tempête de grêle à petite échelle ravage la région. Toute personne ou créature qui ne se cache pas sous le toit risque d'être blessée par des éclats de glace.</HailStorm.description>
+  <HailStorm.endMessage>La tempête de grêle se termine.</HailStorm.endMessage>
+  
+    <!--<Sécheresse-->
+
+  <Drought.label>Sécheresse</Drought.label>
+  <Drought.description>Une sécheresse inhabituelle s'est installée.
+  
+La sécheresse est dévastatrice pour la vie végétale et détruira rapidement toutes les cultures qui ne sont pas plantées dans la culture hydroponique. Veillez à récolter rapidement toutes les plantes que vous pouvez.</Drought.description>
+  <Drought.endMessage>La sécheresse prend fin.</Drought.endMessage>
+  
+    <!--<Bataille de l'espace-->
+
+  <SpaceBattle.label>Bataille de l'espace</SpaceBattle.label>
+  <SpaceBattle.description>Une bataille spatiale fait rage dans le ciel, elle peut durer jusqu'à 1 jour.</SpaceBattle.description>
+  <SpaceBattle.endMessage>La bataille spatiale est terminée.</SpaceBattle.endMessage>
+  
+</LanguageData>

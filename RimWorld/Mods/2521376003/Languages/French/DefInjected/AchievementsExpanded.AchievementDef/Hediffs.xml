@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Vanilla Achivements Expanded.-->
+  <T-800.label>T-800</T-800.label>
+  <T-800.description>Avoir un seul colon avec des jambes, des bras, une colonne vertébrale, des oreilles et des yeux bioniques.</T-800.description>
+  
+  <imAPirate.label>Je suis un pirate !</imAPirate.label>
+  <imAPirate.description>Installer une jambe de bois sur un colon</imAPirate.description>
+  
+  <onEdge.label>Sur le fil du rasoir</onEdge.label>
+  <onEdge.description>Acquérir l'immunité lorsque l'infection est à 99 %.</onEdge.description>
+  
+  <thatllShowHim.label>Ça lui apprendra</thatllShowHim.label>
+  <thatllShowHim.description>Laisser mourir de faim un colon</thatllShowHim.description>
+  
+</LanguageData>

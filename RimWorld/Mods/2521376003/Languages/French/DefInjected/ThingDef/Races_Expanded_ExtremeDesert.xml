@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Tous les vanilla animals expanded.-->
+  <!-- camel -->
+  <AEXP_Camel.label>chameau</AEXP_Camel.label>
+  <!-- A large land mammal adapted to arid environments. Domesticated since ancient times, its wool and leather are both exceptionally good at insulating against the desert heat, and its milk is quite nourishing. It can be used as a pack animal, but two humps make it extremely uncomfortable to ride.\n\nBy storing water in its large humps and reclaiming moisture from its breath as it exhales, it can go weeks without drinking. -->
+  <AEXP_Camel.description>Domestiqué depuis l'Antiquité, sa laine et son cuir sont exceptionnellement bons pour isoler de la chaleur du désert et son lait est très nutritif. Il peut être utilisé comme animal de bât, mais ses deux bosses le rendent trop inconfortable pour parcourir n'importe quelle distance. \n\nEn stockant l'eau dans ses grandes bosses et en récupérant l'humidité de son haleine en expirant, il peut passer des semaines sans boire.</AEXP_Camel.description>
+  <!-- left hoof -->
+  <AEXP_Camel.tools.left_hoof.label>sabot gauche</AEXP_Camel.tools.left_hoof.label>
+  <!-- right hoof -->
+  <AEXP_Camel.tools.right_hoof.label>sabot droit</AEXP_Camel.tools.right_hoof.label>
+  <!-- head -->
+  <AEXP_Camel.tools.head.label>tête</AEXP_Camel.tools.head.label>
+
+  <Corpse_AEXP_Camel.label>cadavre de chameau</Corpse_AEXP_Camel.label>
+  <Corpse_AEXP_Camel.description>Le corps sans vie d'un chameau.</Corpse_AEXP_Camel.description>
+  <Meat_AEXP_Camel.label>viande de chameau</Meat_AEXP_Camel.label>
+  <Meat_AEXP_Camel.description>viande crue coupée en quartiers. Peut être cuit ou consommé cru.</Meat_AEXP_Camel.description>
+
+  <!-- rattlesnake -->
+  <AEXP_Rattlesnake.label>serpent à sonnette</AEXP_Rattlesnake.label>
+  <!-- A highly venomous snake, recieving it's name from a rattle at the end of their tail. The sound generated sounds as a warning to any predators, however in case it doesn't work, rattlesnake's venom-fangs inflict extremely painful toxin. -->
+  <AEXP_Rattlesnake.description>Serpent à la morsure très venimeuse, il tire son nom de la sonnette au bout de sa queue. Le son généré fonctionne comme un avertissement contre tout prédateur. Cependant, si cela ne fonctionne pas, ses crocs venimeux peuvent infliger une toxine extrêmement douloureuse.</AEXP_Rattlesnake.description>
+  <!-- venom-fangs -->
+  <AEXP_Rattlesnake.tools.venomfangs.label>crocs venimeux</AEXP_Rattlesnake.tools.venomfangs.label>
+  <!-- head -->
+  <AEXP_Rattlesnake.tools.head.label>tête</AEXP_Rattlesnake.tools.head.label>
+
+  <Corpse_AEXP_Rattlesnake.label>cadavre de serpent à sonnette</Corpse_AEXP_Rattlesnake.label>
+  <Corpse_AEXP_Rattlesnake.description>Le corps sans vie d'un serpent à sonnette.</Corpse_AEXP_Rattlesnake.description>
+
+  <!-- megascorpion -->
+  <AEXP_Megascorpion.label>méga scorpion</AEXP_Megascorpion.label>
+  <!-- A giant, genetically-engineered scorpion. Once created as a perfect assassination tool, it is not often seen returning to it's natural habitat - desert. A very potent poison in it's stinger helps it in tacking even much bigger prey. A eusocial creature, it cannot reproduce individually. -->
+  <AEXP_Megascorpion.description>Un scorpion géant génétiquement modifié. Une fois créé comme un outil d'assassinat parfait, on ne le voit pas souvent retourner dans son habitat naturel - le désert. Un poison très puissant dans son dard l'aide à s'attaquer à des proies encore plus grosses. Créature eusociale, elle ne peut pas se reproduire individuellement.</AEXP_Megascorpion.description>
+  <!-- stinger -->
+  <AEXP_Megascorpion.tools.stinger.label>piqûre</AEXP_Megascorpion.tools.stinger.label>
+  <!-- mandibles -->
+  <AEXP_Megascorpion.tools.mandibles.label>mandibules</AEXP_Megascorpion.tools.mandibles.label>
+  <!-- head -->
+  <AEXP_Megascorpion.tools.head.label>tête</AEXP_Megascorpion.tools.head.label>
+  
+</LanguageData>

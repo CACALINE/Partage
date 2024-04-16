@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+	<!-- basic furniture -->
+	<MF_BasicFurniture.label>mobilier de base</MF_BasicFurniture.label>
+	<!-- Build simple furniture like simple beds, basic tables, stools, benches and more. -->
+	<MF_BasicFurniture.description>Construisez des meubles simples comme des lits simples, des tables, des tabourets, des bancs et plus.</MF_BasicFurniture.description>
+	<!-- complex furniture -->
+	<ComplexFurniture.label>mobilier complexe</ComplexFurniture.label>
+	<!-- Build complex furniture like beds, end tables, dining chairs, armchairs, dressers, tool cabinets, billiard tables, and poker tables, vents, sarcophagi, and more. -->
+	<ComplexFurniture.description>Construisez des meubles complexes comme des lits, des tables d'extrémité, des chaises de salle à manger, des canapés, des commodes, des armoires à outils, des tables de billard, des tables de poker, des évents, des sarcophages et plus.</ComplexFurniture.description>
+	<!-- artisan furniture -->
+	<MF_RoyalFurniture.label>mobilier de luxe</MF_RoyalFurniture.label>
+	<!-- Build luxury furniture focused strongly on aesthetics and beauty over practicality, usually only seen in the houses of the wealthy elite. Including poster beds, royal chairs, tables and armchairs. -->
+	<MF_RoyalFurniture.description>Construisez des meubles de luxe avec un fort accent sur l'esthétique et la beauté plutôt que sur l'aspect pratique, généralement uniquement dans les maisons de riches. Y compris les lits à baldaquin, les chaises, les tables et les canapés de luxe.</MF_RoyalFurniture.description>
+	<!-- modern furniture -->
+	<MF_ModernFurniture.label>mobilier moderne</MF_ModernFurniture.label>
+	<!-- Learn to build furniture of the modern day that is focused on practicality over beauty, such as roulette tables, wardrobes, dart boards, punching bags and ergonomic beds. -->
+	<MF_ModernFurniture.description>Aprende a construir muebles actuales que se centran en la practicidad por encima de la belleza, como mesas con ruleta, armarios, dianas, sacos de boxeo y camas ergonómicas.</MF_ModernFurniture.description>
+	<!-- waste disposal -->
+	<MF_WasteDisposal.label>gestion des déchets</MF_WasteDisposal.label>
+	<!-- Learn to build small and large bins, objects that slowly clean the environment they are in. -->
+	<MF_WasteDisposal.description>Apprenez à construire de petites et grandes poubelles, des objets qui nettoient lentement l'environnement dans lequel ils se trouvent.</MF_WasteDisposal.description>
+	<!-- basic electronics -->
+	<TubeTelevision.label>électronique de base</TubeTelevision.label>
+	<!-- Build basic electronic joy sources such as tube televisions, industrial radios, arcades and more. -->
+	<TubeTelevision.description>Construisez des sources de joie électroniques de base telles que des téléviseurs à tube, des radios industrielles, des arcades et plus encore.</TubeTelevision.description>
+	<!-- complex electronics -->
+	<FlatscreenTelevision.label>électronique complexe</FlatscreenTelevision.label>
+	<!-- Build complex electronic joy sources such as flatscreen televisions, longwave radios and more. -->
+	<FlatscreenTelevision.description>Créez des sources de joie électroniques complexes telles que des téléviseurs à écran plat, des radios à ondes longues et plus encore.</FlatscreenTelevision.description>
+
+	<!-- Farming -->
+	<!-- artificial ecosystems -->
+	<VFE_Res_AdvancedHydroponics.label>écosystèmes artificiels</VFE_Res_AdvancedHydroponics.label>
+	<!-- Learn to construct artificial ecosystems, highly advanced terraria which vastly improve upon hydroponics. -->
+	<VFE_Res_AdvancedHydroponics.description>Apprenez à construire des écosystèmes artificiels, des terrariums très avancés qui améliorent considérablement la culture hydroponique.</VFE_Res_AdvancedHydroponics.description>
+
+	<!-- sprinklers -->
+	<VFE_Res_Sprinkler.label>arroseurs</VFE_Res_Sprinkler.label>
+	<!-- Assemble schematics for a device which can automatically water fields, increasing the speed at which crops grow. -->
+	<VFE_Res_Sprinkler.description>Apprenez à construire un appareil capable d'irriguer automatiquement les champs, augmentant ainsi la vitesse de croissance des cultures.</VFE_Res_Sprinkler.description>
+
+	<!-- farming techniques -->
+	<VFE_Res_FarmingTechniques.label>techniques de culture</VFE_Res_FarmingTechniques.label>
+	<!-- Develop a theoretical basis for larger-scale farming operations, including centralized feeding and dedicated scarecrows to keep your crops uneaten. -->
+	<VFE_Res_FarmingTechniques.description>Développez une base théorique pour des opérations agricoles à plus grande échelle, y compris une alimentation centralisée et des épouvantails dédiés pour garder vos cultures intactes.</VFE_Res_FarmingTechniques.description>
+
+	<!-- Production -->
+	<!-- Manufacturing -->
+	<VFE_Manufacturing.label>Production à grande échelle</VFE_Manufacturing.label>
+	<!-- Build manufacturing benches and efficient work center. -->
+	<VFE_Manufacturing.description>Apprenez à construire des postes de travail surdimensionnés qui permettent la production à grande échelle de nourriture, de vêtements, de composants ou d'armes.</VFE_Manufacturing.description>
+
+	<!-- Spacer -->
+	<!-- spacer furniture -->
+	<SpacerFurniture.label>mobilier spatial</SpacerFurniture.label>
+	<!-- Build advanced furniture usually only seen in advanced colonies and glitterworld buildings. -->
+	<SpacerFurniture.description>Construisez des meubles avancés que l'on ne voit normalement que dans les colonies et les bâtiments avancés de mondes high tech.</SpacerFurniture.description>
+	<!-- spacer electronics -->
+	<SpacerElectronics.label>électronique spatiale</SpacerElectronics.label>
+	<!-- Build advanced electronics usually only seen in advanced colonies and glitterworld buildings. -->
+	<SpacerElectronics.description>Construisez des composants électroniques avancés que l'on ne voit normalement que dans les colonies futuristes.</SpacerElectronics.description>
+	<!-- mechanite restoration -->
+	<MechaniteRestoration.label>restauration d'objets</MechaniteRestoration.label>
+	<!-- Use ultratech mechanites to aid in restoration of objects by constructing a mechanite repair shelf. -->
+	<MechaniteRestoration.description>Créez un mécanisme avancé pour aider à restaurer les éléments endommagés. Cela déverrouille l'étagère de réparation.</MechaniteRestoration.description>
+
+	<!-- Props and decor-->
+	<!-- EN: industrial props -->
+  	<IndustrialProps.label>accessoires industriels</IndustrialProps.label>
+  	<!-- EN: Unlocks industrial props and decorations. -->
+  	<IndustrialProps.description>Débloquez des accessoires et des décorations industriels.</IndustrialProps.description>
+
+  	<!-- EN: vehicle props -->
+  	<VehicleProps.label>véhicules</VehicleProps.label>
+  	<!-- EN: Unlocks a wide selection of land vehicle props. -->
+  	<VehicleProps.description>Débloquez une large sélection de véhicules terrestres.</VehicleProps.description>
+
+  	<!-- EN: plant props -->
+  	<PlantProps.label>plantes artificielles</PlantProps.label>
+  	<!-- EN: Unlocks a selection of fake plants and trees. -->
+  	<PlantProps.description>Débloquez une sélection de fausses plantes et arbres.</PlantProps.description>
+
+  	<!-- EN: medieval props -->
+  	<MedievalProps.label>accessoires médiévaux</MedievalProps.label>
+  	<!-- EN: Unlocks a number of medieval inspired decorations. -->
+  	<MedievalProps.description>Débloquez un grand nombre de décorations d'inspiration médiévale.</MedievalProps.description>
+
+  	<!-- EN: farm props -->
+  	<FarmProps.label>accessoires de ferme</FarmProps.label>
+  	<!-- EN: Grants access to a selection of farming related props. -->
+  	<FarmProps.description>Donne accès à une sélection d'accessoires liés à l'agriculture.</FarmProps.description>
+
+  	<!-- EN: power props -->
+  	<PowerProps.label>accessoires d'énergie</PowerProps.label>
+  	<!-- EN: Unlocks a number of generators and other power-based props. -->
+  	<PowerProps.description>Débloquez une série de générateurs et d'autres accessoires basés sur la puissance.</PowerProps.description>
+
+  	<!-- EN: kitchen props -->
+  	<KitchenProps.label>accessoires de cuisine</KitchenProps.label>
+  	<!-- EN: Unlocks a selection of kitchen-based props. -->
+  	<KitchenProps.description>Débloquez une sélection d'accessoires de cuisine.</KitchenProps.description>
+
+  	<!-- EN: decals -->
+  	<DecalsProps.label>marquage de sol</DecalsProps.label>
+  	<!-- EN: Unlocks a large number of customisable floor decals. -->
+  	<DecalsProps.description>Déverrouille un grand nombre de marquages de sol personnalisables.</DecalsProps.description>
+
+  	<!-- EN: furniture -->
+  	<FurnitureProps.label>accessoires mobiliers</FurnitureProps.label>
+  	<!-- EN: Gives access too a variety of furniture props. -->
+  	<FurnitureProps.description>Donne également accès à une variété de meubles d'accessoires.</FurnitureProps.description>
+
+  	<!-- EN: spaceship props -->
+  	<SpaceshipProps.label>accessoires de vaisseau</SpaceshipProps.label>
+  	<!-- EN: Unlocks a selection of spaceship props. -->
+  	<SpaceshipProps.description>Débloquez une sélection d'accessoires pour vaisseaux spatiaux.</SpaceshipProps.description>
+
+  	<!-- EN: spacer props -->
+  	<SpacerProps.label>accessoires spatiaux</SpacerProps.label>
+  	<!-- EN: Unlocks a large number of spacer inspired props and decorations. -->
+  	<SpacerProps.description>Débloquez une myriade d'accessoires et de décorations inspirés de l'espace.</SpacerProps.description>
+</LanguageData>

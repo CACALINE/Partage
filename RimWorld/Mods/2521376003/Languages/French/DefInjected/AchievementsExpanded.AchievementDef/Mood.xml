@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Vanilla Achivements Expanded.-->
+  <aHappyEnding.label>Une fin heureuse</aHappyEnding.label>
+  <aHappyEnding.description>Avoir une humeur moyenne de 90% dans la colonie</aHappyEnding.description>
+  
+  <areYouNotEntertained.label>Vous ne vous amusez pas ?</areYouNotEntertained.label>
+  <areYouNotEntertained.description>Avoir une humeur moyenne de 5% dans la colonie</areYouNotEntertained.description>
+  
+</LanguageData>

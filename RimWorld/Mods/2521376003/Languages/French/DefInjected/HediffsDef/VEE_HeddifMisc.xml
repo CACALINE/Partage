@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR vanilla events expanded.-->
+  <Traitor.label>traître</Traitor.label>
+  <Traitor.description>traître</Traitor.description>
+  
+  <StandOff.label>affrontement</StandOff.label>
+  <StandOff.description>affrontement</StandOff.description>
+  
+  <MightJoin.label>peut rejoindre</MightJoin.label>
+  <MightJoin.description>peut rejoindre</MightJoin.description>
+
+</LanguageData>

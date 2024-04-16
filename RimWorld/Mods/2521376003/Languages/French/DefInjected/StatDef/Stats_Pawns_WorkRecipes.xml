@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR children, school and learning.-->
+  <SchoolLearnGeneralEfficiency.label>efficacité de l'apprentissage scolaire</SchoolLearnGeneralEfficiency.label>
+  <SchoolLearnGeneralEfficiency.description>Multiplicateur de la quantité apprise lors de l'étude des matières générales.</SchoolLearnGeneralEfficiency.description>
+  
+  <SchoolLearnGeneralSpeed.label>vitesse d'apprentissage scolaire</SchoolLearnGeneralSpeed.label>
+  <SchoolLearnGeneralSpeed.description>Vitesse à laquelle cette personne peut apprendre les matières générales.</SchoolLearnGeneralSpeed.description>
+  
+  <SchoolTeachGeneralEfficiency.label>efficacité de l'enseignement scolaire</SchoolTeachGeneralEfficiency.label>
+  <SchoolTeachGeneralEfficiency.description>Multiplicateur de la quantité enseigner lors de l'étude des matières générales.</SchoolTeachGeneralEfficiency.description>
+  
+  <SchoolTeachGeneralSpeed.label>vitesse d'enseignement scolaire</SchoolTeachGeneralSpeed.label>
+  <SchoolTeachGeneralSpeed.description>Vitesse à laquelle cette personne peut enseigner les matières générales.</SchoolTeachGeneralSpeed.description>
+
+</LanguageData>

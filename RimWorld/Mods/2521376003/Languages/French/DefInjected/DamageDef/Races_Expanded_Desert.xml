@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Tous les vanilla animals expanded.-->
+  <!-- Gila Monster -->
+
+  <!-- venomous bite -->
+  <AEXP_GilaToxicBuildUp.label>morsure venimeuse</AEXP_GilaToxicBuildUp.label>
+  <!-- {0} has been bitten to death -->
+  <AEXP_GilaToxicBuildUp.deathMessage>{0} a été mordu à mort.</AEXP_GilaToxicBuildUp.deathMessage>
+
+
+</LanguageData>

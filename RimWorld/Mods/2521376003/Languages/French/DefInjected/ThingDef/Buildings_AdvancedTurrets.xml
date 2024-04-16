@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+<!-- double autocannon -->
+<VFES_Turret_AutocannonDouble.label>tourelle à double canon</VFES_Turret_AutocannonDouble.label>
+<!-- A heavy automatic turret enhanced with 2 barrels. Its large-caliber shells do heavy damage over significant ranges, but its barrels must be refurbished after use. It cannot fire at close-up targets, and may explode when damaged. -->
+<VFES_Turret_AutocannonDouble.description>Une tourelle automatique lourde améliorée avec 2 canons. Ses obus de gros calibre font de gros dégâts sur de grandes distances, mais ses canons doivent être reconditionnés après utilisation. Impossible de tirer sur les cibles proches et peut exploser en subissant des dégâts.</VFES_Turret_AutocannonDouble.description>
+<!-- EN: Barrel durability -->
+<VFES_Turret_AutocannonDouble.comps.CompRefuelable.fuelGizmoLabel>Durabilité du canon</VFES_Turret_AutocannonDouble.comps.CompRefuelable.fuelGizmoLabel>
+<!-- EN: Shots until barrel change -->
+<VFES_Turret_AutocannonDouble.comps.CompRefuelable.fuelLabel>Tirs jusqu'au changement de canon</VFES_Turret_AutocannonDouble.comps.CompRefuelable.fuelLabel>
+<!-- EN: Cannot shoot: Needs new barrel -->
+<VFES_Turret_AutocannonDouble.comps.CompRefuelable.outOfFuelMessage>Incapable de tirer: nécessite un nouveau canon</VFES_Turret_AutocannonDouble.comps.CompRefuelable.outOfFuelMessage>
+
+<!-- double autocannon -->
+<VFES_TurretDoubleAutocannon_Top.label>double canon automatique</VFES_TurretDoubleAutocannon_Top.label>
+<!-- A self-loading large-bore double cannon designed to be attached to a turret. -->
+<VFES_TurretDoubleAutocannon_Top.description>Un canon double de gros calibre à chargement automatique conçu pour être attaché à une tourelle.</VFES_TurretDoubleAutocannon_Top.description>
+<!-- EN: double autocannon -->
+<VFES_TurretDoubleAutocannon_Top.verbs.Verb_Shoot.label>double canon automatique</VFES_TurretDoubleAutocannon_Top.verbs.Verb_Shoot.label>
+
+<!-- rocket turret -->
+<VFES_Turret_TriRocket.label>tourelle de missile</VFES_Turret_TriRocket.label>
+<!-- A heavy turret capable of launching a barrage of self-propelled surface to surface rockets. It cannot fire at close-up targets, and may explode when damaged. -->
+<VFES_Turret_TriRocket.description>Une tourelle lourde capable de tirer une grêle de missiles automoteurs. Ne peut pas tirer sur des cibles proches et peut exploser si endommagé.</VFES_Turret_TriRocket.description>
+
+<!-- salvo turret launcher -->
+<VFES_TurretTriRocket_Top.label>triple roquette</VFES_TurretTriRocket_Top.label>
+<!-- A self-loading large-bore triple salvo launcher designed to be attached to a turret. -->
+<VFES_TurretTriRocket_Top.description>Un lanceur à chargement automatique de gros calibre à triple canon conçu pour être attaché à une tourelle.</VFES_TurretTriRocket_Top.description>
+<!-- EN: salvo turret launcher -->
+<VFES_TurretTriRocket_Top.verbs.Verb_Shoot.label>triple roquette</VFES_TurretTriRocket_Top.verbs.Verb_Shoot.label>
+<!-- rocket -->
+<VFES_Bullet_HighExplosiveMissile.label>missile</VFES_Bullet_HighExplosiveMissile.label>
+<!-- EN: rocket stock -->
+<VFES_Turret_TriRocket.comps.CompRefuelable.fuelGizmoLabel>réserve de missiles</VFES_Turret_TriRocket.comps.CompRefuelable.fuelGizmoLabel>
+<!-- EN: Shots until reload -->
+<VFES_Turret_TriRocket.comps.CompRefuelable.fuelLabel>Tirs avant le rechargement</VFES_Turret_TriRocket.comps.CompRefuelable.fuelLabel>
+<!-- EN: Cannot shoot: Needs shells -->
+<VFES_Turret_TriRocket.comps.CompRefuelable.outOfFuelMessage>Impossible de tirer: besoin de munitions</VFES_Turret_TriRocket.comps.CompRefuelable.outOfFuelMessage>
+
+
+</LanguageData>

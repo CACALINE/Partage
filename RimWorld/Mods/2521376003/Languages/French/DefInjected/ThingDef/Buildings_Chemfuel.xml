@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+  <!-- EN: chemfuel pump -->
+  <VPE_ChemfuelPump.label>pompe à chemfuel</VPE_ChemfuelPump.label>
+  <!-- EN: An industrial style pump capable of extracting chemfuel from underground pockets. After the chemfuel is fully extracted, chemfuel pump can be safely deconstructed. -->
+  <VPE_ChemfuelPump.description>Une pompe de style industriel capable d'extraire le chemfuel des poches souterraines. Une fois le biocarburant complètement extrait, la pompe à biocarburant peut être déconstruite en toute sécurité.</VPE_ChemfuelPump.description>
+
+
+</LanguageData>

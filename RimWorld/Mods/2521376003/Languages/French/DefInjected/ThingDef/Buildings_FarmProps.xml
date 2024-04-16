@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+<!-- EN: empty food boxes -->
+<VFEPD_FoodBox.label>boîtes de nourriture vides</VFEPD_FoodBox.label>
+<!-- EN: A stack of empty food boxes. -->
+<VFEPD_FoodBox.description>Une pile de boîtes de nourriture vides.</VFEPD_FoodBox.description>
+
+<!-- EN: large hay bale -->
+<VFEPD_HayBaleLarge.label>grande botte de foin</VFEPD_HayBaleLarge.label>
+<!-- EN: A large roll of hay. -->
+<VFEPD_HayBaleLarge.description>Une grande botte de foin.</VFEPD_HayBaleLarge.description>
+
+<!-- EN: medium hay bale -->
+<VFEPD_HayBaleMedium.label>botte de foin moyene</VFEPD_HayBaleMedium.label>
+<!-- EN: A medium block of hay. -->
+<VFEPD_HayBaleMedium.description>Une botte de foin moyenne.</VFEPD_HayBaleMedium.description>
+
+<!-- EN: small hay bale -->
+<VFEPD_HayBaleSmall.label>petite botte de foin</VFEPD_HayBaleSmall.label>
+<!-- EN: A medium block of hay. -->
+<VFEPD_HayBaleSmall.description>Une petite botte de foin.</VFEPD_HayBaleSmall.description>
+
+<!-- EN: hedge -->
+<VFEPD_Hedge.label>haie</VFEPD_Hedge.label>
+<!-- EN: A natural hedge. -->
+<VFEPD_Hedge.description>Une haie naturelle.</VFEPD_Hedge.description>
+
+<!-- EN: wooden logs -->
+<VFEPD_WoodenLogs.label>bûches de bois</VFEPD_WoodenLogs.label>
+<!-- EN: A small, passable stack of wooden logs. -->
+<VFEPD_WoodenLogs.description>Un petit tas de bûches de bois.</VFEPD_WoodenLogs.description>
+
+<!-- EN: large wooden logs -->
+<VFEPD_WoodenLogsLarge.label>grosses bûches de bois</VFEPD_WoodenLogsLarge.label>
+<!-- EN: A large, impassable stack of wooden logs. -->
+<VFEPD_WoodenLogsLarge.description>Un gros tas de bûches en bois.</VFEPD_WoodenLogsLarge.description>
+
+<!-- EN: wooden wagon -->
+<VFEPD_WoodenWagon.label>wagon de bois</VFEPD_WoodenWagon.label>
+<!-- EN: A large stationary wagon to carry goods. -->
+<VFEPD_WoodenWagon.description>Un grand wagon stationnaire pour transporter des marchandises.</VFEPD_WoodenWagon.description>
+
+
+</LanguageData>

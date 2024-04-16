@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Mods Prisoner Arena (Continued) de Mlie.-->
+  <!-- Special mental states not from mental breaks -->
+  <Fighter.label>Combat en arène</Fighter.label>
+  <Fighter.beginLetter>{0} se bat dans l'arène. Retirez le plus tard</Fighter.beginLetter>
+  <Fighter.beginLetterLabel>Début de la bataille</Fighter.beginLetterLabel>
+  <Fighter.baseInspectLine>En combat</Fighter.baseInspectLine>
+</LanguageData>

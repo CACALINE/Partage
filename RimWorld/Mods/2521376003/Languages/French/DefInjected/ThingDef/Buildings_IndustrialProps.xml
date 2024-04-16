@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+<!-- EN: bin bag -->
+<VFEPD_BinBag.label>sac poubelle</VFEPD_BinBag.label>
+<!-- EN: A black bag containing various sort of rubbish. -->
+<VFEPD_BinBag.description>Un sac noir contenant divers types de déchets.</VFEPD_BinBag.description>
+
+<!-- EN: large wooden box -->
+<VFEPD_BoxLarge.label>grande caisse en bois</VFEPD_BoxLarge.label>
+<!-- EN: A large wooden box with various content. -->
+<VFEPD_BoxLarge.description>Une grande boîte en bois avec divers contenus.</VFEPD_BoxLarge.description>
+
+<!-- EN: small wooden box -->
+<VFEPD_BoxSmall.label>petite boîte en bois</VFEPD_BoxSmall.label>
+<!-- EN: A small wooden box with various content. -->
+<VFEPD_BoxSmall.description>Une petite boîte en bois avec divers contenus.</VFEPD_BoxSmall.description>
+
+<!-- EN: large cardboard box -->
+<VFEPD_CardboardBoxLarge.label>grande boîte en carton</VFEPD_CardboardBoxLarge.label>
+<!-- EN: A large cardboard box with various content. -->
+<VFEPD_CardboardBoxLarge.description>Une grande boîte en carton avec divers contenus.</VFEPD_CardboardBoxLarge.description>
+
+<!-- EN: small cardboard box -->
+<VFEPD_CardboardBoxSmall.label>petite boîte en carton</VFEPD_CardboardBoxSmall.label>
+<!-- EN: A small cardboard box with various content. -->
+<VFEPD_CardboardBoxSmall.description>Une petite boîte en carton avec divers contenus.</VFEPD_CardboardBoxSmall.description>
+
+<!-- EN: brick pile -->
+<VFEPD_BrickPile.label>tas de briques</VFEPD_BrickPile.label>
+<!-- EN: A pile of bricks. -->
+<VFEPD_BrickPile.description>Une pile de briques.</VFEPD_BrickPile.description>
+
+<!-- EN: green barrel -->
+<VFEPD_BarrelGreen.label>baril vert</VFEPD_BarrelGreen.label>
+<!-- EN: A green metal barrel. -->
+<VFEPD_BarrelGreen.description>Un tonneau en métal vert.</VFEPD_BarrelGreen.description>
+
+<!-- EN: grey barrel -->
+<VFEPD_BarrelGrey.label>baril gris</VFEPD_BarrelGrey.label>
+<!-- EN: A grey metal barrel. -->
+<VFEPD_BarrelGrey.description>Un tonneau en métal gris.</VFEPD_BarrelGrey.description>
+
+<!-- EN: red barrel -->
+<VFEPD_BarrelRed.label>baril rouge</VFEPD_BarrelRed.label>
+<!-- EN: A red metal barrel. -->
+<VFEPD_BarrelRed.description>Un tonneau en métal rouge.</VFEPD_BarrelRed.description>
+
+<!-- EN: yellow barrel -->
+<VFEPD_BarrelYellow.label>baril jaune</VFEPD_BarrelYellow.label>
+<!-- EN: A yellow metal barrel. -->
+<VFEPD_BarrelYellow.description>Un tonneau en métal jaune.</VFEPD_BarrelYellow.description>
+
+<!-- EN: blue barrel -->
+<VFEPD_BarrelBlue.label>baril bleu</VFEPD_BarrelBlue.label>
+<!-- EN: A blue metal barrel. -->
+<VFEPD_BarrelBlue.description>Un tonneau en métal bleu.</VFEPD_BarrelBlue.description>
+
+<!-- EN: pallet with cardboard boxes -->
+<VFEPD_PalletCardboard.label>palette avec boîtes en carton</VFEPD_PalletCardboard.label>
+<!-- EN: A large pallet with several cardboard boxes. -->
+<VFEPD_PalletCardboard.description>Une grande palette avec plusieurs cartons.</VFEPD_PalletCardboard.description>
+
+<!-- EN: pallet with wooden boxes -->
+<VFEPD_PalletBoxes.label>palette avec caisses en bois</VFEPD_PalletBoxes.label>
+<!-- EN: A large pallet with several wooden boxes. -->
+<VFEPD_PalletBoxes.description>Une grande palette avec plusieurs caisses en bois.</VFEPD_PalletBoxes.description>
+
+<!-- EN: pallet -->
+<VFEPD_Pallet.label>palette</VFEPD_Pallet.label>
+<!-- EN: A large pallet. -->
+<VFEPD_Pallet.description>Une grande palette.</VFEPD_Pallet.description>
+
+<!-- EN: pallet with green barrels -->
+<VFEPD_PalletBarrelGreen.label>palette avec tonneaux verts</VFEPD_PalletBarrelGreen.label>
+<!-- EN: A green metal barrels on a wooden pallet. -->
+<VFEPD_PalletBarrelGreen.description>Un tonneau en métal vert sur une palette en bois.</VFEPD_PalletBarrelGreen.description>
+
+<!-- EN: pallet with grey barrels -->
+<VFEPD_PalletBarrelGrey.label>palette avec tonneaux gris</VFEPD_PalletBarrelGrey.label>
+<!-- EN: A grey metal barrel on a wooden pallet. -->
+<VFEPD_PalletBarrelGrey.description>Un tonneau en métal gris sur une palette en bois.</VFEPD_PalletBarrelGrey.description>
+
+<!-- EN: pallet with red barrels -->
+<VFEPD_PalletBarrelRed.label>palette avec tonneaux rouge</VFEPD_PalletBarrelRed.label>
+<!-- EN: A red metal barrel on a wooden pallet. -->
+<VFEPD_PalletBarrelRed.description>Un tonneau en métal rouge sur une palette en bois.</VFEPD_PalletBarrelRed.description>
+
+<!-- EN: pallet with yellow barrels -->
+<VFEPD_PalletBarrelYellow.label>palette avec tonneaux jaunes</VFEPD_PalletBarrelYellow.label>
+<!-- EN: A yellow metal barrel on a wooden pallet. -->
+<VFEPD_PalletBarrelYellow.description>Un tonneau en métal jaune sur une palette en bois.</VFEPD_PalletBarrelYellow.description>
+
+<!-- EN: pallet with blue barrels -->
+<VFEPD_PalletBarrelBlue.label>palette avec tonneaux bleus</VFEPD_PalletBarrelBlue.label>
+<!-- EN: A blue metal barrel on a wooden pallet. -->
+<VFEPD_PalletBarrelBlue.description>Un tonneau en métal bleu sur une palette en bois.</VFEPD_PalletBarrelBlue.description>
+
+<!-- EN: green cargo container -->
+<VFEPD_ContainerGreen.label>conteneur de fret vert</VFEPD_ContainerGreen.label>
+<!-- EN: A green metal cargo container. Impassable. Cannot hold roof. -->
+<VFEPD_ContainerGreen.description>Un conteneur de fret en métal vert. Infranchissable. Ne peux pas soutenir un toit.</VFEPD_ContainerGreen.description>
+
+<!-- EN: grey cargo container -->
+<VFEPD_ContainerGrey.label>conteneur de fret gris</VFEPD_ContainerGrey.label>
+<!-- EN: A grey metal cargo container. Impassable. Cannot hold roof. -->
+<VFEPD_ContainerGrey.description>Un conteneur de fret en métal gris. Infranchissable. Ne peux pas soutenir un toit.</VFEPD_ContainerGrey.description>
+
+<!-- EN: red cargo container -->
+<VFEPD_ContainerRed.label>conteneur de fret rouge</VFEPD_ContainerRed.label>
+<!-- EN: A red metal cargo container. Impassable. Cannot hold roof. -->
+<VFEPD_ContainerRed.description>Un conteneur de fret en métal rouge. Infranchissable. Ne peux pas soutenir un toit.</VFEPD_ContainerRed.description>
+
+<!-- EN: yellow cargo container -->
+<VFEPD_ContainerYellow.label>conteneur de fret jaune</VFEPD_ContainerYellow.label>
+<!-- EN: A yellow metal cargo container. Impassable. Cannot hold roof. -->
+<VFEPD_ContainerYellow.description>Un conteneur de fret en métal jaune. Infranchissable. Ne peux pas soutenir un toit.</VFEPD_ContainerYellow.description>
+
+<!-- EN: blue cargo container -->
+<VFEPD_ContainerBlue.label>conteneur de fret bleu</VFEPD_ContainerBlue.label>
+<!-- EN: A blue metal cargo container. Impassable. Cannot hold roof. -->
+<VFEPD_ContainerBlue.description>Un conteneur de fret en métal bleu. Infranchissable. Ne peux pas soutenir un toit.</VFEPD_ContainerBlue.description>
+
+<!-- EN: stack of pipes -->
+<VFEPD_Pipes.label>tas de tuyaux</VFEPD_Pipes.label>
+<!-- EN: A large stack of industrial pipes. -->
+<VFEPD_Pipes.description>Une grande pile de tuyaux industriels.</VFEPD_Pipes.description>
+
+<!-- EN: stack of planks -->
+<VFEPD_Planks.label>tas de planches</VFEPD_Planks.label>
+<!-- EN: A large stack of wooden planks. -->
+<VFEPD_Planks.description>Un gros tas de planches de bois.</VFEPD_Planks.description>
+
+<!-- EN: cone -->
+<VFEPD_Cone.label>cône</VFEPD_Cone.label>
+<!-- EN: An industrial street cone. -->
+<VFEPD_Cone.description>Un cône de rue industriel.</VFEPD_Cone.description>
+
+<!-- EN: concrete bags -->
+<VFEPD_ConcreteBags.label>sacs en béton</VFEPD_ConcreteBags.label>
+<!-- EN: A large stack of concrete bags. -->
+<VFEPD_ConcreteBags.description>Un gros tas de sacs en béton.</VFEPD_ConcreteBags.description>
+
+<!-- EN: water tank -->
+<VFEPD_WaterTank.label>réservoir d'eau</VFEPD_WaterTank.label>
+<!-- EN: An industrial water tank. -->
+<VFEPD_WaterTank.description>Un réservoir d'eau industriel.</VFEPD_WaterTank.description>
+
+<!-- EN: ventilation shaft -->
+<VFEPD_VentilationShaft.label>conduit de ventilation</VFEPD_VentilationShaft.label>
+<!-- EN: An exhaust to a ventilation system. -->
+<VFEPD_VentilationShaft.description>Un échappement vers un système de ventilation.</VFEPD_VentilationShaft.description>
+
+<!-- EN: electrical cabinet -->
+<VFEPD_ElectricalCabinet.label>armoire électrique</VFEPD_ElectricalCabinet.label>
+<!-- EN: A small metal cabinet containing electrical circuits and fuses. -->
+<VFEPD_ElectricalCabinet.description>Une petite armoire métallique contenant des circuits électriques et des fusibles.</VFEPD_ElectricalCabinet.description>
+
+<!-- EN: lockers -->
+<VFEPD_Lockers.label>casier</VFEPD_Lockers.label>
+<!-- EN: A metal locker unit, allowing workers to store valuable belongings. -->
+<VFEPD_Lockers.description>Une unité de casier en métal, permettant aux travailleurs de stocker leurs effets personnels de valeur.</VFEPD_Lockers.description>
+
+<!-- EN: gas tank -->
+<VFEPD_GasTank.label>réservoir de gaz</VFEPD_GasTank.label>
+<!-- EN: A large metal gas tank. -->
+<VFEPD_GasTank.description>Un grand réservoir d'essence en métal.</VFEPD_GasTank.description>
+
+
+</LanguageData>

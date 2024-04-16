@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Tous les vanilla animals expanded.-->
+  <!-- fore-flipper -->
+  <AEXP_ForeFlipper.label>nageoire avant</AEXP_ForeFlipper.label>
+  <!-- hind-flippers -->
+  <AEXP_HindFlippers.label>nageoire arrière</AEXP_HindFlippers.label>
+
+
+</LanguageData>

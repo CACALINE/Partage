@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR vanilla social interactions expanded.-->
+  <VSIE_MealTogether.label>Dîner romantique</VSIE_MealTogether.label>
+  <VSIE_MealTogether.letterText>{ORGANIZER_labelShort} a un dîner romantique avec {COMPANION_labelShort}.</VSIE_MealTogether.letterText>
+  <VSIE_MealTogether.calledOffMessage>Le rendez-vous a été annulé.</VSIE_MealTogether.calledOffMessage>
+  <VSIE_MealTogether.finishedMessage>Le rendez-vous est terminé.</VSIE_MealTogether.finishedMessage>
+  <VSIE_MealTogether.letterTitle>Dîner romantique</VSIE_MealTogether.letterTitle>
+
+  <VSIE_MovieNight.label>Soirée film</VSIE_MovieNight.label>
+  <VSIE_MovieNight.letterText>{ORGANIZER_labelShort} regarde un film avec {COMPANION_labelShort}.</VSIE_MovieNight.letterText>
+  <VSIE_MovieNight.calledOffMessage>Le rendez-vous a été annulé</VSIE_MovieNight.calledOffMessage>
+  <VSIE_MovieNight.finishedMessage>Le rendez-vous est terminé.</VSIE_MovieNight.finishedMessage>
+  <VSIE_MovieNight.letterTitle>Soirée film</VSIE_MovieNight.letterTitle>
+
+  <VSIE_BuildingSnowmen.label>Construire un bonhomme de neige</VSIE_BuildingSnowmen.label>
+  <VSIE_BuildingSnowmen.letterText>{ORGANIZER_labelShort} fait un bonhomme de neige avec {COMPANION_labelShort}.</VSIE_BuildingSnowmen.letterText>
+  <VSIE_BuildingSnowmen.calledOffMessage>Le rendez-vous a été annulé.</VSIE_BuildingSnowmen.calledOffMessage>
+  <VSIE_BuildingSnowmen.finishedMessage>Le rendez-vous est terminé.</VSIE_BuildingSnowmen.finishedMessage>
+  <VSIE_BuildingSnowmen.letterTitle>Construire un bonhomme de neige</VSIE_BuildingSnowmen.letterTitle>
+
+  <VSIE_ViewingArtTogether.label>S'émerveiller devant l'art ensemble</VSIE_ViewingArtTogether.label>
+  <VSIE_ViewingArtTogether.letterText>{ORGANIZER_labelShort} regarde une oeuvre d'art avec {COMPANION_labelShort}.</VSIE_ViewingArtTogether.letterText>
+  <VSIE_ViewingArtTogether.calledOffMessage>Le rendez-vous a été annulé.</VSIE_ViewingArtTogether.calledOffMessage>
+  <VSIE_ViewingArtTogether.finishedMessage>Le rendez-vous est terminé.</VSIE_ViewingArtTogether.finishedMessage>
+  <VSIE_ViewingArtTogether.letterTitle>Regardent une oeuvre d'art</VSIE_ViewingArtTogether.letterTitle>
+
+  <VSIE_Skygazing.label>Observation du ciel</VSIE_Skygazing.label>
+  <VSIE_Skygazing.letterText>{ORGANIZER_labelShort} observe le ciel avec {COMPANION_labelShort}.</VSIE_Skygazing.letterText>
+  <VSIE_Skygazing.calledOffMessage>Le rendez-vous a été annulé.</VSIE_Skygazing.calledOffMessage>
+  <VSIE_Skygazing.finishedMessage>Le rendez-vous est terminé.</VSIE_Skygazing.finishedMessage>
+  <VSIE_Skygazing.letterTitle>Observation du ciel</VSIE_Skygazing.letterTitle>
+
+  <VSIE_GoingForAWalk.label>Promenade</VSIE_GoingForAWalk.label>
+  <VSIE_GoingForAWalk.letterText>{ORGANIZER_labelShort} se promène avec {COMPANION_labelShort}.</VSIE_GoingForAWalk.letterText>
+  <VSIE_GoingForAWalk.calledOffMessage>Le rendez-vous a été annulé.</VSIE_GoingForAWalk.calledOffMessage>
+  <VSIE_GoingForAWalk.finishedMessage>Le rendez-vous est terminé.</VSIE_GoingForAWalk.finishedMessage>
+  <VSIE_GoingForAWalk.letterTitle>Promenade</VSIE_GoingForAWalk.letterTitle>
+  
+  <VSIE_GrabbingBeer.label>Prendre une bière</VSIE_GrabbingBeer.label>
+  <VSIE_GrabbingBeer.letterText>{ORGANIZER_labelShort} boit une bière avec {COMPANION_labelShort}.</VSIE_GrabbingBeer.letterText>
+  <VSIE_GrabbingBeer.calledOffMessage>L'apéro a été annulé.</VSIE_GrabbingBeer.calledOffMessage>
+  <VSIE_GrabbingBeer.finishedMessage>L'apéro est terminé.</VSIE_GrabbingBeer.finishedMessage>
+  <VSIE_GrabbingBeer.letterTitle>Prendre une bièe</VSIE_GrabbingBeer.letterTitle>
+
+  <VSIE_BingeParty.label>Grosse fête</VSIE_BingeParty.label>
+  <VSIE_BingeParty.letterText>{ORGANIZER_labelShort} suggère d'organiser une petite fête de rien du tout. Soyez averti - les grosses fêtes peuvent durer plusieurs heures. Les colons consommeront de la nourriture et des médicaments jusqu'à ce que ce soit fini. Pour empêcher un colon de rejoindre le groupe, mobilisez-le.</VSIE_BingeParty.letterText>
+  <VSIE_BingeParty.calledOffMessage>La grosse fête a été annulée.</VSIE_BingeParty.calledOffMessage>
+  <VSIE_BingeParty.finishedMessage>la grosse fête est terminée.</VSIE_BingeParty.finishedMessage>
+  <VSIE_BingeParty.letterTitle>Grosse fête</VSIE_BingeParty.letterTitle>
+
+  <VSIE_OutdoorParty.label>Fête en plein air</VSIE_OutdoorParty.label>
+  <VSIE_OutdoorParty.letterText>{ORGANIZER_labelShort} suggère d'organiser une fête en plein air. Les colons sortent et font un feu de camp, puis s'assoient et parlent.</VSIE_OutdoorParty.letterText>
+  <VSIE_OutdoorParty.calledOffMessage>La fête en plein air a été annulée.</VSIE_OutdoorParty.calledOffMessage>
+  <VSIE_OutdoorParty.finishedMessage>La fête en plein air est terminée.</VSIE_OutdoorParty.finishedMessage>
+  <VSIE_OutdoorParty.letterTitle>Fête en plein air</VSIE_OutdoorParty.letterTitle>
+
+  <VSIE_Funeral.label>Funérailles</VSIE_Funeral.label>
+  <VSIE_Funeral.letterText>Les colons se rassemblent sur la tombe de {DEADPAWN_labelShort} pour lui rendre hommage.</VSIE_Funeral.letterText>
+  <VSIE_Funeral.calledOffMessage>Les funérailles ont été annulées.</VSIE_Funeral.calledOffMessage>
+  <VSIE_Funeral.finishedMessage>Les funérailles sont terminées.</VSIE_Funeral.finishedMessage>
+  <VSIE_Funeral.letterTitle>Funérailles</VSIE_Funeral.letterTitle>
+
+  <VSIE_BirthdayParty.label>Fête d'anniversaire</VSIE_BirthdayParty.label>
+  <VSIE_BirthdayParty.letterText>{ORGANIZER_labelShort} organise une fête d'anniversaire! Tous ceux qui participent à la fête gagnent en détente, en énergie sociale et en humeur positive durable.</VSIE_BirthdayParty.letterText>
+  <VSIE_BirthdayParty.calledOffMessage>La fête d'anniversaire a été annulée.</VSIE_BirthdayParty.calledOffMessage>
+  <VSIE_BirthdayParty.finishedMessage>La fête d'anniversaire est terminée.</VSIE_BirthdayParty.finishedMessage>
+  <VSIE_BirthdayParty.letterTitle>Fête d'anniversaire</VSIE_BirthdayParty.letterTitle>
+
+
+</LanguageData>

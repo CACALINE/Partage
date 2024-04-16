@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+<!--Traduction FR vanilla expanded framework-->
+  <VFEMechForceRecharge>Forcer la recharge</VFEMechForceRecharge>
+  <VFEMechForceRechargeDesc>Ordonnez à la machine associée de revenir sur cette plate-forme pour être rechargée, quel que soit le niveau actuel de sa batterie.</VFEMechForceRechargeDesc>
+  <VFEMechAttachTurret>Fixer la tourelle</VFEMechAttachTurret>
+  <VFEMechAttachTurretDesc>Construisez une tourelle au sommet de cette plateforme mobile. Il faudra pour cela qu'un colon fournisse des ressources égales au coût de construction normal de cette tour.</VFEMechAttachTurretDesc>
+  <VFEMechMachineDied>Machine détruite</VFEMechMachineDied>
+  <VFEMechMachineDiedDesc>Une de vos machines a été détruite ! Vous pouvez démonter ses restes sur une table d'usinage. Afin de construire une machine de remplacement, l'un de vos colons devra livrer les pièces suivantes sur sa plate-forme : \n\n{0}</VFEMechMachineDiedDesc>
+  <VFEMechNoResources>Pas assez de ressources</VFEMechNoResources>
+  <VFEMechNoTurret>Aucune tourelle mobile active</VFEMechNoTurret>
+  <VFEMechReconstruct>Nécessaire pour reconstruire la machine :</VFEMechReconstruct>
+  <VFEMechTurretResources>Nécessaire pour construire la tourelle :</VFEMechTurretResources>
+  <VFEMechLowerRange>Réduire la portée </VFEMechLowerRange>
+  <VFEMechLowerRangeDesc>Réduire le nombre de tuiles que cette machine va parcourir.</VFEMechLowerRangeDesc>
+  <VFEMechRaiseRange>Augmenter la portée</VFEMechRaiseRange>
+  <VFEMechRaiseRangeDesc>Augmente le nombre de tuiles que cette machine peut parcourir.</VFEMechRaiseRangeDesc>
+  <VFEMechStopMachine>Arrêtez la machine</VFEMechStopMachine>
+  <VFEMechStopMachineDesc>Arrêtez la progression de cette machine et forcez-la à revenir à la base.</VFEMechStopMachineDesc>
+  <VFEMechStartMachine>Démarrer la machine</VFEMechStartMachine>
+  <VFEMechStartMachineDesc>Démarrez cette machine.</VFEMechStartMachineDesc>
+  <VFEMechMachineHitObstacle>La machine a rencontré un obstacle !</VFEMechMachineHitObstacle>
+  <VFEMechSetArea>Définir la zone</VFEMechSetArea>
+  <VFEMechSetAreaDesc>Définit la zone autorisée pour toutes les machines associées à cette plate-forme.</VFEMechSetAreaDesc>
+  
+</LanguageData>

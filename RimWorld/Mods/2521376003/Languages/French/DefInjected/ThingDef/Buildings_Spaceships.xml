@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+	<!-- EN: superpod -->
+	<VFEPD_Superpod.label>superpod</VFEPD_Superpod.label>
+	<!-- EN: A large, out-of-service, multi use drop pod. -->
+	<VFEPD_Superpod.description>Une grande capsule polyvalente désaffectée.</VFEPD_Superpod.description>
+
+	<!-- EN: black skip -->
+	<VFEPD_SkipBlack.label>navette noire</VFEPD_SkipBlack.label>
+	<!-- EN: A light-weight, out-of-service skip, allowing users to travel comfortably for a short distance. -->
+	<VFEPD_SkipBlack.description>Une embarcation légère et déclassée qui permet aux utilisateurs de voyager confortablement sur une courte distance.</VFEPD_SkipBlack.description>
+
+	<!-- EN: black gunship -->
+	<VFEPD_AlbatrossBlack.label>vaisseau de combat noir</VFEPD_AlbatrossBlack.label>
+	<!-- EN: A large, multi-personel transport ship currently out of service. -->
+	<VFEPD_AlbatrossBlack.description>Un grand navire de transport multi-personnes actuellement hors service.</VFEPD_AlbatrossBlack.description>
+
+	<!-- EN: white skip -->
+	<VFEPD_SkipWhite.label>navette blanche</VFEPD_SkipWhite.label>
+	<!-- EN: A light-weight, out-of-service skip, allowing users to travel comfortably for a short distance. -->
+	<VFEPD_SkipWhite.description>Une embarcation légère et déclassée qui permet aux utilisateurs de voyager confortablement sur une courte distance.</VFEPD_SkipWhite.description>
+
+	<!-- EN: white gunship -->
+	<VFEPD_AlbatrossWhite.label>vaisseau de combat blanc</VFEPD_AlbatrossWhite.label>
+	<!-- EN: A large, multi-personel transport ship currently out of service. -->
+	<VFEPD_AlbatrossWhite.description>Un grand navire de transport multi-personnes actuellement hors service.</VFEPD_AlbatrossWhite.description>
+
+	<!-- EN: silver skip -->
+	<VFEPD_SkipSilver.label>navette argentée</VFEPD_SkipSilver.label>
+	<!-- EN: A light-weight, out-of-service skip, allowing users to travel comfortably for a short distance. -->
+	<VFEPD_SkipSilver.description>Une embarcation légère et déclassée qui permet aux utilisateurs de voyager confortablement sur une courte distance.</VFEPD_SkipSilver.description>
+
+	<!-- EN: silver gunship -->
+	<VFEPD_AlbatrossSilver.label>avaisseau de combat argenté</VFEPD_AlbatrossSilver.label>
+	<!-- EN: A large, multi-personel transport ship currently out of service. -->
+	<VFEPD_AlbatrossSilver.description>Un grand navire de transport multi-personnes actuellement hors service.</VFEPD_AlbatrossSilver.description>
+
+	<!-- EN: blue skip -->
+	<VFEPD_SkipBlue.label>navette bleue</VFEPD_SkipBlue.label>
+	<!-- EN: A light-weight, out-of-service skip, allowing users to travel comfortably for a short distance. -->
+	<VFEPD_SkipBlue.description>Une embarcation légère et déclassée qui permet aux utilisateurs de voyager confortablement sur une courte distance.</VFEPD_SkipBlue.description>
+
+	<!-- EN: blue gunship -->
+	<VFEPD_AlbatrossBlue.label>vaisseau de combat bleu</VFEPD_AlbatrossBlue.label>
+	<!-- EN: A large, multi-personel transport ship currently out of service. -->
+	<VFEPD_AlbatrossBlue.description>Un grand navire de transport multi-personnes actuellement hors service.</VFEPD_AlbatrossBlue.description>
+
+	<!-- EN: red skip -->
+	<VFEPD_SkipRed.label>navette rouge</VFEPD_SkipRed.label>
+	<!-- EN: A light-weight, out-of-service skip, allowing users to travel comfortably for a short distance. -->
+	<VFEPD_SkipRed.description>Une embarcation légère et déclassée qui permet aux utilisateurs de voyager confortablement sur une courte distance.</VFEPD_SkipRed.description>
+
+	<!-- EN: red gunship -->
+	<VFEPD_AlbatrossRed.label>vaisseau de combat rouge</VFEPD_AlbatrossRed.label>
+	<!-- EN: A large, multi-personel transport ship currently out of service. -->
+	<VFEPD_AlbatrossRed.description>Un grand navire de transport multi-personnes actuellement hors service.</VFEPD_AlbatrossRed.description>
+
+
+</LanguageData>

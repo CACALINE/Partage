@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+<!--Traduction FR vanilla expanded framework-->
+  <VEF_SecondaryAcidBurn.label>brûlure d'acide</VEF_SecondaryAcidBurn.label>
+  <VEF_SecondaryAcidBurn.deathMessage>{0} a été brûler par l'acide puis à succomber.</VEF_SecondaryAcidBurn.deathMessage>
+
+</LanguageData>

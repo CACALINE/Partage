@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+<!--Traduction FR vanilla expanded framework-->
+  <VFE_Mechanoids_Power.label>puissance</VFE_Mechanoids_Power.label>
+  <VFE_Mechanoids_Power.description>La puissance représente l'état de la batterie interne d'une machine. Si elle devient trop faible, la machine cesse d'effectuer des tâches et retourne à sa station pour se recharger.</VFE_Mechanoids_Power.description>
+
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+<!-- Learning Boost -->
+<Computer_LearningBoost.label>Apprentissage accéléré</Computer_LearningBoost.label>
+<!-- EN: Learning boost due to computer activity -->
+<Computer_LearningBoost.description>Un bonus d'apprentissage grâce à l'activité sur ordinateur.</Computer_LearningBoost.description>
+<!-- Minor -->
+<Computer_LearningBoost.stages.0.label>lent</Computer_LearningBoost.stages.0.label>
+<!-- Major -->
+<Computer_LearningBoost.stages.1.label>rapide</Computer_LearningBoost.stages.1.label>
+<!-- Max -->
+<Computer_LearningBoost.stages.2.label>extrême</Computer_LearningBoost.stages.2.label>
+
+
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Vanilla Achivements Expanded.-->
+  <iWillSurvive.label>Je survivrai</iWillSurvive.label>
+  <iWillSurvive.description>Avoir 7 colons</iWillSurvive.description>
+  
+  <imStillStanding.label>Je suis encore debout</imStillStanding.label>
+  <imStillStanding.description>Avoir 12 colons</imStillStanding.description>
+  
+  <imASurvivor.label>Je suis un(e) survivant(e)</imASurvivor.label>
+  <imASurvivor.description>Avoir 18 colons</imASurvivor.description>
+  
+  <aintNoStoppingUsNow.label>Rien ne peut nous arrêter maintenant</aintNoStoppingUsNow.label>
+  <aintNoStoppingUsNow.description>Avoir 33 colons</aintNoStoppingUsNow.description>
+  
+</LanguageData>

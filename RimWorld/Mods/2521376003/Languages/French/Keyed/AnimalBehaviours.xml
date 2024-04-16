@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+<!--Traduction FR vanilla expanded framework-->
+	<VEF_AsexualHatched>{0} s'est reproduit de manière asexuée.</VEF_AsexualHatched>
+	<VEF_AsexualCloning>{0} s'est cloné lui-même.</VEF_AsexualCloning>
+	<VEF_AsexualHatchedEgg>{0} a sporulé.</VEF_AsexualHatchedEgg>
+	<VEF_NotTameable>Cette créature est indomptable</VEF_NotTameable>
+	<VEF_TimeToMetamorphosis>Le temps de la métamorphose: {0}</VEF_TimeToMetamorphosis>
+	
+	<VEF_WarningEggExplodes>Attention, cet œuf explose à l'éclosion !</VEF_WarningEggExplodes>
+	
+	<VEF_TimeToDie>L'animal expire dans: {0}</VEF_TimeToDie>
+	
+	<!-- Mod options -->
+	
+	<VCE_AffectsAllAnimalMods>Ces options de comportement animal affecteront tous les mods animaux qui partagent le code du Vanilla Expanded Framework</VCE_AffectsAllAnimalMods>
+	<VCE_CorpseDecayingEffectOption>Autoriser les mécanismes de décomposition des cadavres (par exemple, l'effet de la limace d'Helixien).</VCE_CorpseDecayingEffectOption>
+	<VCE_DigWhenHungryOption>Autoriser de creuser quand les mécaniciens ont faim (par exemple, les Frostmites creusant des cadavres)</VCE_DigWhenHungryOption>
+	<VCE_DigPeriodicallyOption>Permet aux animaux de creuser périodiquement</VCE_DigPeriodicallyOption>
+	<VCE_AnimalParticlesOption>Autoriser les particules animales (gaz et saleté)</VCE_AnimalParticlesOption>
+	<VCE_AsexualReproductionOption>Autoriser la reproduction asexuée</VCE_AsexualReproductionOption>
+	<VFE_AsexualReproductionDisabled>Reproduction sexuelle désactivée via les options de mod</VFE_AsexualReproductionDisabled>
+	<VCE_BlinkMechanicsOption>Autoriser les mécanismes "clignotants" (par exemple, les Skiphounds)</VCE_BlinkMechanicsOption>
+	<VCE_BuildPeriodicallyOption>Autoriser les animaux à construire des choses (par exemple, les castors à construire des barrages)</VCE_BuildPeriodicallyOption>	
+	<VCE_ChargeBatteriesOption>Autoriser les animaux à recharger les batteries à proximité ou à faire le plein</VCE_ChargeBatteriesOption>
+	<VCE_ExplodingEggsOption>Autoriser les oeufs d'animaux qui explosent (comme ceux des dragons)</VCE_ExplodingEggsOption>
+	<VCE_HoveringOption>Autoriser les animaux à "planer", en ignorant les coûts de déplacement du terrain</VCE_HoveringOption>
+	<VCE_GraphicChangingOption>Autoriser les animaux à modifier les graphiques (par exemple, le Yak caméléon)</VCE_GraphicChangingOption>
+	<VCE_EffecterOption>Autorise les animaux à causer des troubles, des états mentaux ou des pensées</VCE_EffecterOption>
+	<VCE_RegenerationOption>Autoriser la régénération de la santé (active et passive)</VCE_RegenerationOption>
+	<VCE_ResurrectionOption>Autoriser les animaux à ressusciter automatiquement (par exemple Phoenix Owlcat)</VCE_ResurrectionOption>
+	<VCE_UntameableOption>Autoriser certains animaux à être indomptables</VCE_UntameableOption>
+
+
+
+
+</LanguageData>

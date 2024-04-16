@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+<!--<Traduction FR Tous les vanilla animals expanded.-->
+	<!-- beaver dam -->
+  <AEXP_BeaverDam.label>barrage de castor</AEXP_BeaverDam.label>
+  <!-- Beaver dams or beaver impoundments are dams built by beavers to provide ponds as protection against predators such as coyotes, wolves, and bears, and to provide easy access to food during winter. -->
+  <AEXP_BeaverDam.description>Les barrages de castors sont construits pour fournir une protection contre les prédateurs tels que les coyotes, les loups et les ours, et pour fournir un accès facile à la nourriture pendant l'hiver.</AEXP_BeaverDam.description>
+
+  <!--<Traduction FR tous les vanilla furniture expanded.-->
+  <!-- EN: helixien gas geyser -->
+  <VPE_HelixienGeyser.label>geyser de gaz hélixien</VPE_HelixienGeyser.label>
+  <!-- EN: A natural source of high-pressure gas. Helixien gas pumps can be built on top to extract the gas -->
+  <VPE_HelixienGeyser.description>Une source naturelle de gaz à haute pression. Les pompes à essence Helixien peuvent être construites par dessus pour extraire le gaz.</VPE_HelixienGeyser.description>
+
+  <!-- EN: chemfuel pond -->
+  <VPE_ChemfuelPond.label>bassin de chemfuel</VPE_ChemfuelPond.label>
+  <!-- EN: A natural source of chemfuel, more common in arid biomes. A chemfuel pump can be installed here to extract the chemfuel. The pond will run out eventually. -->
+  <VPE_ChemfuelPond.description>Une source naturelle de chemfuel, plus courante dans les biomes arides. Une pompe chimfuel peut être installée ici pour extraire le chemfuel. L'étang finira par s'épuiser.</VPE_ChemfuelPond.description>
+
+
+</LanguageData>

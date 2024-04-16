@@ -1,0 +1,1402 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Tous les vanilla animals expanded.-->
+	<!-- EN: Cats-->
+	<!-- EN: abyssinian cat -->
+	<Corpse_AEXP_CatAbyssinian.label>cadavre de chat abyssin</Corpse_AEXP_CatAbyssinian.label>
+	<Corpse_AEXP_CatAbyssinian.description>Le corps sans vie d'un chat abyssin.</Corpse_AEXP_CatAbyssinian.description>
+	
+	<!-- EN: bengal cat -->
+	<Corpse_AEXP_CatBengal.label>cadavre de chat bengali</Corpse_AEXP_CatBengal.label>
+	<Corpse_AEXP_CatBengal.description>Le corps sans vie d'un chat bengali.</Corpse_AEXP_CatBengal.description>
+	
+	<!-- EN: british shorthair cat -->
+	<Corpse_AEXP_CatBritishShorthair.label>cadavre de chat british shorthair</Corpse_AEXP_CatBritishShorthair.label>
+	<Corpse_AEXP_CatBritishShorthair.description>Le corps sans vie d'un chat british shorthair à poil court.</Corpse_AEXP_CatBritishShorthair.description>
+
+	<!-- EN: maine coon -->
+	<Corpse_AEXP_CatMaineCoon.label>cadavre de chat maine coon</Corpse_AEXP_CatMaineCoon.label>
+	<Corpse_AEXP_CatMaineCoon.description>Le corps sans vie d'un chat maine coon.</Corpse_AEXP_CatMaineCoon.description>
+
+	<!-- EN: munchkin cat -->
+	<Corpse_AEXP_CatMunchkin.label>cadavre de chat Munchkin</Corpse_AEXP_CatMunchkin.label>
+	<Corpse_AEXP_CatMunchkin.description>Le corps sans vie d'un chat Munchkin.</Corpse_AEXP_CatMunchkin.description>
+
+	<!-- EN: norwegian forest cat -->
+	<Corpse_AEXP_CatNorwegianForest.label>cadavre de chat des forêts norvégiennes</Corpse_AEXP_CatNorwegianForest.label>
+	<Corpse_AEXP_CatNorwegianForest.description>Le corps sans vie d'un chat des forêts norvégiennes.</Corpse_AEXP_CatNorwegianForest.description>
+	
+	<!-- EN: persian cat -->
+	<Corpse_AEXP_CatPersian.label>cadavre de chat persan</Corpse_AEXP_CatPersian.label>
+	<Corpse_AEXP_CatPersian.description>Le corps sans vie d'un chat persan.</Corpse_AEXP_CatPersian.description>
+	
+	<!-- EN: siamese cat -->
+	<Corpse_AEXP_CatSiamese.label>cadavre de chat siamois</Corpse_AEXP_CatSiamese.label>
+	<Corpse_AEXP_CatSiamese.description>Le corps sans vie d'un chat siamois.</Corpse_AEXP_CatSiamese.description>
+	
+	<!-- EN: somali cat -->
+	<Corpse_AEXP_CatSomali.label>cadavre de chat somali</Corpse_AEXP_CatSomali.label>
+	<Corpse_AEXP_CatSomali.description>Le corps sans vie d'un chat somali.</Corpse_AEXP_CatSomali.description>
+	
+	<!-- EN: sphynx cat -->
+	<Corpse_AEXP_CatSphynx.label>cadavre de chat sphinx</Corpse_AEXP_CatSphynx.label>
+	<Corpse_AEXP_CatSphynx.description>Le corps sans vie d'un chat sphinx.</Corpse_AEXP_CatSphynx.description>
+	
+	<!-- EN: Dogs -->
+	<!-- EN: beagle -->
+	<Corpse_AEXP_Beagle.label>cadavre de beagle</Corpse_AEXP_Beagle.label>
+	<Corpse_AEXP_Beagle.description>Le cadavre sans vie d'un beagle.</Corpse_AEXP_Beagle.description>
+	
+	<Corpse_AEXP_Chihuahua.label>cadavre de chihuahua</Corpse_AEXP_Chihuahua.label>
+	<Corpse_AEXP_Chihuahua.description>Le cadavre sans vie d'un chihuahua.</Corpse_AEXP_Chihuahua.description>
+	
+	<!-- EN: corgi -->
+	<Corpse_AEXP_Corgi.label>cadavre de corgi</Corpse_AEXP_Corgi.label>
+	<Corpse_AEXP_Corgi.description>Le cadavre sans vie d'un corgi.</Corpse_AEXP_Corgi.description>
+	
+	<!-- EN: french bulldog -->
+	<Corpse_AEXP_FrenchBulldog.label>cadavre de bouledogue français</Corpse_AEXP_FrenchBulldog.label>
+	<Corpse_AEXP_FrenchBulldog.description>Le cadavre sans vie d'un bouledogue français.</Corpse_AEXP_FrenchBulldog.description>
+	
+	<!-- german shepherd -->
+	<Corpse_AEXP_GermanShepherd.label>cadavre de berger allemand</Corpse_AEXP_GermanShepherd.label>
+	<Corpse_AEXP_GermanShepherd.description>Le cadavre sans vie d'un berger allemand.</Corpse_AEXP_GermanShepherd.description>
+	
+	<!-- great dane -->
+	<Corpse_AEXP_GreatDane.label>cadavre de dogue allemand</Corpse_AEXP_GreatDane.label>
+	<Corpse_AEXP_GreatDane.description>Le cadavre sans vie d'un dogue allemand.</Corpse_AEXP_GreatDane.description>
+	
+	<!-- poodle -->
+	<Corpse_AEXP_Poodle.label>cadavre de caniche</Corpse_AEXP_Poodle.label>
+	<Corpse_AEXP_Poodle.description>Le cadavre sans vie d'un caniche.</Corpse_AEXP_Poodle.description>
+	
+	<!-- pug -->
+	<Corpse_AEXP_Pug.label>cadavre de carlin</Corpse_AEXP_Pug.label>
+	<Corpse_AEXP_Pug.description>Le cadavre sans vie d'un carlin.</Corpse_AEXP_Pug.description>
+	
+	<!-- rottweiler -->
+	<Corpse_AEXP_Rottweiler.label>cadavre de rottweiler</Corpse_AEXP_Rottweiler.label>
+	<Corpse_AEXP_Rottweiler.description>Le cadavre sans vie d'un rottweiler.</Corpse_AEXP_Rottweiler.description>
+	
+	<!-- shih-tzu -->
+	<Corpse_AEXP_Shih-Tzu.label>cadavre de shih-tzu</Corpse_AEXP_Shih-Tzu.label>
+	<Corpse_AEXP_Shih-Tzu.description>Le cadavre sans vie d'un shih-tzu.</Corpse_AEXP_Shih-Tzu.description>
+	
+	<!-- welsh terrier -->
+	<Corpse_AEXP_WelshTerrier.label>cadavre de welsh terrier</Corpse_AEXP_WelshTerrier.label>
+	<Corpse_AEXP_WelshTerrier.description>Le cadavre sans vie d'un welsh terrier.</Corpse_AEXP_WelshTerrier.description>
+	
+	<!--<Traduction FR tous les vanilla furniture expanded.-->
+	<!-- EN: slab bed (blueprint) -->
+	<Blueprint_Bed_StoneSlab.label>lit de pierre (plan)</Blueprint_Bed_StoneSlab.label>
+	<!-- EN: slab bed (blueprint) -->
+	<Blueprint_Install_Bed_StoneSlab.label>lit de pierre (installation)</Blueprint_Install_Bed_StoneSlab.label>
+	<!-- EN: slab bed (building) -->
+	<Frame_Bed_StoneSlab.label>lit de pierre (construction)</Frame_Bed_StoneSlab.label>
+	<!-- EN: A large slab of smoothed stone, very uncomfortable and only marginally better than sleeping on the floor. -->
+	<Frame_Bed_StoneSlab.description>Une grande dalle de pierre utilisée pour se prélasser, c'est assez inconfortable mais bien mieux que de dormir sur le sol.</Frame_Bed_StoneSlab.description>
+
+	<!-- EN: simple bed (blueprint) -->
+	<Blueprint_Bed_Simple.label>cama sencilla (anteproyecto)</Blueprint_Bed_Simple.label>
+	<!-- EN: simple bed (blueprint) -->
+	<Blueprint_Install_Bed_Simple.label>cama sencilla (anteproyecto)</Blueprint_Install_Bed_Simple.label>
+	<!-- EN: simple bed (building) -->
+	<Frame_Bed_Simple.label>cama sencilla (en construcción)</Frame_Bed_Simple.label>
+	<!-- EN: A somewhat comfy net and pillow rested on a sturdy frame. -->
+	<Frame_Bed_Simple.description>Una cama compuesta por una sábana y una almohada apoyada en un armazón robusto.</Frame_Bed_Simple.description>
+
+	<!-- EN: sitting cushion (blueprint) -->
+	<Blueprint_Seat_Cushion.label>cojín (anteproyecto)</Blueprint_Seat_Cushion.label>
+	<!-- EN: sitting cushion (blueprint) -->
+	<Blueprint_Install_Seat_Cushion.label>cojín (anteproyecto)</Blueprint_Install_Seat_Cushion.label>
+	<!-- EN: sitting cushion (building) -->
+	<Frame_Seat_Cushion.label>cojín (en construcción)</Frame_Seat_Cushion.label>
+	<!-- EN: A comfortable and attractive chair not specifically used for dining. Can be used at tables, work stations, and elsewhere. -->
+	<Frame_Seat_Cushion.description>Una silla cómoda y atractiva que no se usa específicamente para cenar. Puede ser usada en mesas, estaciones de trabajo y otros lugares.</Frame_Seat_Cushion.description>
+
+	<!-- EN: bench (blueprint) -->
+	<Blueprint_Seat_Bench.label>banco (anteproyecto)</Blueprint_Seat_Bench.label>
+	<!-- EN: bench (blueprint) -->
+	<Blueprint_Install_Seat_Bench.label>banco (anteproyecto)</Blueprint_Install_Seat_Bench.label>
+	<!-- EN: bench (building) -->
+	<Frame_Seat_Bench.label>banco (en construcción)</Frame_Seat_Bench.label>
+	<!-- EN: A simple long platform on which multiple people may sit at the same time, not very comfortable but much better than nothing. Can be used at tables, work stations, and elsewhere. -->
+	<Frame_Seat_Bench.label>Una larga plataforma en la que varias personas pueden sentarse al mismo tiempo, no muy cómoda pero mucho mejor que nada. Puede ser usada en mesas, estaciones de trabajo y otros lugares.</Frame_Seat_Bench.label>
+
+	<!-- EN: square chair (blueprint) -->
+	<Blueprint_Seat_SquareChair.label>silla cuadrada (anteproyecto)</Blueprint_Seat_SquareChair.label>
+	<!-- EN: square chair (blueprint) -->
+	<Blueprint_Install_Seat_SquareChair.label>silla cuadrada (anteproyecto)</Blueprint_Install_Seat_SquareChair.label>
+	<!-- EN: square chair (building) -->
+	<Frame_Seat_SquareChair.label>silla cuadrada (en construcción)</Frame_Seat_SquareChair.label>
+	<!-- EN: A comfortable and attractive chair not specifically used for dining. Can be used at tables, work stations, and elsewhere. -->
+	<Frame_Seat_SquareChair.description>Una silla cómoda y atractiva que no se usa específicamente para cenar. Puede ser usada en mesas, estaciones de trabajo y otros lugares.</Frame_Seat_SquareChair.description>
+
+	<!-- EN: table (1x1) (blueprint) -->
+	<Blueprint_Table_1x1c.label>mesa (1x1) (anteproyecto)</Blueprint_Table_1x1c.label>
+	<!-- EN: table (1x1) (blueprint) -->
+	<Blueprint_Install_Table_1x1c.label>mesa (1x1) (anteproyecto)</Blueprint_Install_Table_1x1c.label>
+	<!-- EN: table (1x1) (building) -->
+	<Frame_Table_1x1c.label>mesa (1x1) (en construcción)</Frame_Table_1x1c.label>
+	<!-- EN: A smooth, waist high surface for eating off of, commonly found in kitchens and bars. -->
+	<Frame_Table_1x1c.description>Una superficie lisa, a la altura de la cintura para comer, comúnmente encontrada en cocinas y bares.</Frame_Table_1x1c.description>
+
+	<!-- stone campfire (blueprint) -->
+	<Blueprint_Stone_Campfire.label>fogata de piedra (anteproyecto)</Blueprint_Stone_Campfire.label>
+	<!-- stone campfire (blueprint) -->
+	<Blueprint_Install_Stone_Campfire.label>fogata de piedra (anteproyecto)</Blueprint_Install_Stone_Campfire.label>
+	<!-- stone campfire (building) -->
+	<Frame_Stone_Campfire.label>fogata de piedra (en construcción)</Frame_Stone_Campfire.label>
+	<!-- Cooks meals but produces less heat but more light, burns out slower than the standard campfire. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable. -->
+	<Frame_Stone_Campfire.description>Cocina las comidas produciendo menos calor pero más luz que una fogata de madera, se quema más despacio que la estándar. Como todas las fuentes de calor, debe ser colocada en el interior para que tenga un espacio cerrado para calentar. Es reabastecible.</Frame_Stone_Campfire.description>
+
+	<!-- EN: lamp end table (blueprint) -->
+	<Blueprint_Table_LightEndTable.label>mesita con lámpara (anteproyecto)</Blueprint_Table_LightEndTable.label>
+	<!-- EN: lamp end table (blueprint) -->
+	<Blueprint_Install_Table_LightEndTable.label>mesita con lámpara (anteproyecto)</Blueprint_Install_Table_LightEndTable.label>
+	<!-- EN: lamp end table (building) -->
+	<Frame_Table_LightEndTable.label>mesita con lámpara (en construcción)</Frame_Table_LightEndTable.label>
+	<!-- EN: A small bedside table that has been adorned with a light, making nearby beds more comfortable. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect. -->
+	<Frame_Table_LightEndTable.description>Una pequeña mesa de noche adornada con una luz. Hace que las camas cercanas sean un poco más cómodas. Deben ser colocados directamente adyacentes a su cabeza. Colocar más de una mesa auxiliar cerca de la misma cama no tendrá ningún efecto.</Frame_Table_LightEndTable.description>
+
+	<!-- EN: industrial radio (blueprint) -->
+	<Blueprint_Radio_Industrial.label>radio industrial (anteproyecto)</Blueprint_Radio_Industrial.label>
+	<!-- EN: industrial radio (blueprint) -->
+	<Blueprint_Install_Radio_Industrial.label>radio industrial (anteproyecto)</Frame_Install_Radio_Industrial.label>
+	<!-- EN: industrial radio (building) -->
+	<Frame_Radio_Industrial.label>radio industrial (en construcción)</Frame_Radio_Industrial.label>
+	<!-- EN: An old device from a bygone era, it is able to pick up radio waves and play them back. Even on the rimworlds, there is often an old transmitter or lone radio station broadcasting something. -->
+	<Frame_Radio_Industrial.description>Un viejo dispositivo de una época pasada, es capaz de captar las ondas de radio y reproducirlas. A menudo hay un viejo transmisor o una estación de radio solitaria que transmite algo.</Blueprint_Radio_Industrial.description>
+
+	<!-- EN: longwave radio (blueprint) -->
+	<Blueprint_Radio_Spacer.label>radio de onda larga (anteproyecto)</Blueprint_Radio_Spacer.label>
+	<!-- EN: longwave radio (blueprint) -->
+	<Blueprint_Install_Radio_Spacer.label>radio de onda larga (anteproyecto)</Blueprint_Install_Radio_Spacer.label>
+	<!-- EN: longwave radio (building) -->
+	<Frame_Radio_Spacer.label>radio de onda larga (en construcción)</Frame_Radio_Spacer.label>
+	<!-- EN: A high tech radio reciever that is able to pick up very faint signals and play them back at crystal clear quality. -->
+	<Frame_Radio_Spacer.description>Un receptor de radio de alta tecnología capaz de captar señales muy débiles y reproducirlas con una calidad nítida.</Frame_Radio_Spacer.description>
+
+	<!-- EN: arcade machine (blueprint) -->
+	<Blueprint_Joy_Arcade.label>arcade (anteproyecto)</Blueprint_Joy_Arcade.label>
+	<!-- EN: arcade machine (blueprint) -->
+	<Blueprint_Install_Joy_Arcade.label>arcade (anteproyecto)</Blueprint_Install_Joy_Arcade.label>
+	<!-- EN: arcade machine (building) -->
+	<Frame_Joy_Arcade.label>arcade (en construcción)</Frame_Joy_Arcade.label>
+	<!-- EN: A tall cabinet that holds a small cathode ray display and control panel for playing a variety of pre-installed games. -->
+	<Frame_Joy_Arcade.description>Un gabinete alto que contiene una pequeña pantalla de rayos catódicos y un panel de control para jugar a una variedad de juegos preinstalados.</Frame_Joy_Arcade.description>
+
+	<!-- EN: old computer (blueprint) -->
+	<Blueprint_Joy_InudstrialComputer.label>ordenador antiguo (anteproyecto)</Blueprint_Joy_InudstrialComputer.label>
+	<!-- EN: old computer (blueprint) -->
+	<Blueprint_Install_Joy_InudstrialComputer.label>ordenador antiguo (anteproyecto)</Blueprint_Install_Joy_InudstrialComputer.label>
+	<!-- EN: old computer (building) -->
+	<Frame_Joy_InudstrialComputer.label>ordenador antiguo (en construcción)</Frame_Joy_InudstrialComputer.label>
+	<!-- EN: A desktop computer based off an old design, very inefficient and prone to crashing. Gives a minor boost to learning after use. -->
+	<Frame_Joy_InudstrialComputer.description>Un ordenador de sobremesa basado en un diseño antiguo, muy ineficiente y propenso a los accidentes. Da un pequeño impulso al aprendizaje después de su uso.</Frame_Joy_InudstrialComputer.description>
+
+	<!-- EN: modern computer (blueprint) -->
+	<Blueprint_Joy_ModernComputer.label>ordenador moderno (anteproyecto)</Blueprint_Joy_ModernComputer.label>
+	<!-- EN: modern computer (blueprint) -->
+	<Blueprint_Install_Joy_ModernComputer.label>ordenador moderno (anteproyecto)</Blueprint_Install_Joy_ModernComputer.label>
+	<!-- EN: modern computer (building) -->
+	<Frame_Joy_ModernComputer.label>ordenador moderno (en construcción)</Frame_Joy_ModernComputer.label>
+	<!-- EN: A high tech computer with utilising an LCD monitor and better performance parts that are less prone to crashing. Gives a boost to learning after use. -->
+	<Frame_Joy_ModernComputer.description>Un ordenador de alta tecnología que utiliza un monitor LCD y piezas de mejor rendimiento que son menos propensas a romperse. Da un impulso al aprendizaje después de su uso.</Frame_Joy_ModernComputer.description>
+
+	<!-- EN: piano (blueprint) -->
+	<Blueprint_Joy_Piano.label>piano moderno (anteproyecto)</Blueprint_Joy_Piano.label>
+	<!-- EN: piano (blueprint) -->
+	<Blueprint_Install_Joy_Piano.label>piano moderno (anteproyecto)</Blueprint_Install_Joy_Piano.label>
+	<!-- EN: piano (building) -->
+	<Frame_Joy_Piano.label>piano moderno (en construcción)</Frame_Joy_Piano.label>
+	<!-- EN: A large playable piano for practising on, quite enjoyable and it is a great way to develop artistic talent. -->
+	<Frame_Joy_Piano.description>Un gran piano para practicar, muy agradable y es una gran manera de desarrollar el talento artístico.</Frame_Joy_Piano.description>
+
+	<!-- EN: roulette table (blueprint) -->
+	<Blueprint_Joy_RouletteTable.label>mesa con ruleta (anteproyecto)</Blueprint_Joy_RouletteTable.label>
+	<!-- EN: roulette table (blueprint) -->
+	<Blueprint_Install_Joy_RouletteTable.label>mesa con ruleta (anteproyecto)</Blueprint_Install_Joy_RouletteTable.label>
+	<!-- EN: roulette table (building) -->
+	<Frame_Joy_RouletteTable.label>mesa con ruleta (en construcción)</Frame_Joy_RouletteTable.label>
+	<!-- EN: A soft-topped bounded table with a wheel for playing roulette, a good way to train your social skills and luck. -->
+	<Frame_Joy_RouletteTable.description>Una mesa delimitada con una rueda para jugar a la ruleta, una buena forma de entrenar tus habilidades sociales y tu suerte.</Frame_Joy_RouletteTable.description>
+
+	<!-- EN: darts board (blueprint) -->
+	<Blueprint_Joy_DartsBoard.label>tablero de dardos (anteproyecto)</Blueprint_Joy_DartsBoard.label>
+	<!-- EN: darts board (blueprint) -->
+	<Blueprint_Install_Joy_DartsBoard.label>tablero de dardos (anteproyecto)</Blueprint_Install_Joy_DartsBoard.label>
+	<!-- EN: darts board (building) -->
+	<Frame_Joy_DartsBoard.label>tablero de dardos (en construcción)</Frame_Joy_DartsBoard.label>
+	<!-- EN: A popular game among rimworlds involving throwing darts at a circular target, It's relaxing, and trains shooting skills at a higher rate than horseshoes or hoopstone. -->
+	<Frame_Joy_DartsBoard.description>Un juego popular en rimworld, consiste en lanzar dardos a un blanco circular, es relajante, y entrena las habilidades de tiro a un ritmo mayor que las herraduras o el aro.</Frame_Joy_DartsBoard.description>
+
+	<!-- EN: punching bag (blueprint) -->
+	<Blueprint_Joy_PunchingBag.label>saco de boxeo (anteproyecto)</Blueprint_Joy_PunchingBag.label>
+	<!-- EN: punching bag (blueprint) -->
+	<Blueprint_Install_Joy_PunchingBag.label>saco de boxeo (anteproyecto)</Blueprint_Install_Joy_PunchingBag.label>
+	<!-- EN: punching bag (building) -->
+	<Frame_Joy_PunchingBag.label>saco de boxeo (en construcción)</Frame_Joy_PunchingBag.label>
+	<!-- EN: A fabric filled punching bag to let out anger on. Can be quite calming and helps to train melee ability.-->
+	<Frame_Joy_PunchingBag.description>Un saco de boxeo lleno de tela para liberar la ira. Es bastante relajante y ayuda a entrenar la habilidad de combate cuerpo a cuerpo.</Frame_Joy_PunchingBagdescription>
+
+	<!-- EN: outdoor lamp (blueprint) -->
+	<Blueprint_Light_Streetlamp.label>lámpara exterior (anteproyecto)</Blueprint_Light_Streetlamp.label>
+	<!-- EN: outdoor lamp (blueprint) -->
+	<Blueprint_Install_Light_Streetlamp.label>lámpara exterior (anteproyecto)</Blueprint_Install_Light_Streetlamp.label>
+	<!-- EN: outdoor lamp (building) -->
+	<Frame_Light_Streetlamp.label>lámpara exterior (en construcción)</Frame_Light_Streetlamp.label>
+	<!-- EN: A tall electrical lamp that lights an area, able to be placed outside without catching fire, making it ideal for road lighting and only turns on at night. -->
+	<Frame_Light_Streetlamp.description>Una lámpara eléctrica capaz de iluminar áreas en el exterior sin dañarse, ideal para la iluminación de carreteras. Sólo se enciende durante la noche.</Frame_Light_Streetlamp.description>
+
+	<!-- EN: file cabinet (blueprint) -->
+	<Blueprint_Misc_FileCabinet.label>archivador (anteproyecto)</Blueprint_Misc_FileCabinet.label>
+	<!-- EN: file cabinet (blueprint) -->
+	<Blueprint_Install_Misc_FileCabinet.label>archivador (anteproyecto)</Blueprint_Install_Misc_FileCabinet.label>
+	<!-- EN: file cabinet (building) -->
+	<Frame_Misc_FileCabinet.label>archivador (en construcción)</Frame_Misc_FileCabinet.label>
+	<!-- EN: A piece of furniture used for organising documents and records in paper form. It will help you perform research taks faster. -->
+	<Frame_Misc_FileCabinet.description>Un mueble utilizado para organizar documentos y registros en papel. Ayuda a realizar tareas de investigación más rápidamente.</Frame_Misc_FileCabinet.description>
+
+	<!-- EN: shelf (1x1) (blueprint) -->
+	<Blueprint_Shelf_1x1c.label>estante (1x1) (anteproyecto)</Blueprint_Shelf_1x1c.label>
+	<!-- EN: shelf (1x1) (blueprint) -->
+	<Blueprint_Install_Shelf_1x1c.label>estante (1x1) (anteproyecto)</Blueprint_Install_Shelf_1x1c.label>
+	<!-- EN: shelf (1x1) (building) -->
+	<Frame_Shelf_1x1c.label>estante (1x1) (en construcción)</Frame_Shelf_1x1c.label>
+	<!-- EN:  A small shelf for storing miscellaneous items. Items stored in this will not deteriorate, even if outside. -->
+	<Frame_Shelf_1x1c.description>Un pequeño estante para almacenar diversos artículos. Los artículos almacenados en esto no se deteriorarán, aunque estén en el exterior.</Frame_Shelf_1x1c.description>
+
+	<!-- EN: weapon rack (blueprint) -->
+	<Blueprint_Shelf_WeaponRack.label>estante de armas (anteproyecto)</Blueprint_Shelf_WeaponRack.label>
+	<!-- EN: weapon rack (blueprint) -->
+	<Blueprint_Install_Shelf_WeaponRack.label>estante de armas (anteproyecto)</Blueprint_Install_Shelf_WeaponRack.label>
+	<!-- EN: weapon rack (building) -->
+	<Frame_Shelf_WeaponRack.label>estante de armas (en construcción)</Frame_Shelf_WeaponRack.label>
+	<!-- EN: A heavy duty rack for storing weaponry. Weapons stored in this will not deteriorate, even if outside. -->
+	<Frame_Shelf_WeaponRack.description>Un estante para almacenar armas. Las armas almacenadas en esto no se deteriorarán, aunque estén en el exterior.</Frame_Shelf_WeaponRack.description>
+
+	<!-- EN: small bin (blueprint) -->
+	<Blueprint_Bin_Small.label>papelera pequeña (anteproyecto)</Blueprint_Bin_Small.label>
+	<!-- EN: small bin (blueprint) -->
+	<Blueprint_Install_Bin_Small.label>papelera pequeña (anteproyecto)</Blueprint_Install_Bin_Small.label>
+	<!-- EN: small bin (building) -->
+	<Frame_Bin_Small.label>papelera pequeña (en construcción)</Frame_Bin_Small.label>
+	<!-- EN: A small bin to help keeping the area around it somewhat clean. Slowly removes trash and filth in a 10 Cell radius. -->
+	<Frame_Bin_Small.description>Un pequeño recipiente que ayuda a mantener el entorno más limpio. Elimina lentamente la basura y la suciedad en un radio de 10 casillas.</Frame_Bin_Small.description>
+
+	<!-- EN: large bin (blueprint) -->
+	<Blueprint_Bin_Large.label>papelera grande (anteproyecto)</Blueprint_Bin_Large.label>
+	<!-- EN: large bin (blueprint) -->
+	<Blueprint_Install_Bin_Large.label>papelera grande (anteproyecto)</Blueprint_Install_Bin_Large.label>
+	<!-- EN: large bin (building) -->
+	<Frame_Bin_Large.label>papelera grande (en construcción)</Frame_Bin_Large.label>
+	<!-- EN: A large bin to help keeping the area around it clean. Slowly removes trash and filth in a 20 Cell radius. -->
+	<Frame_Bin_Large.description>Un gran contenedor que ayuda a mantener el entorno más limpio. Elimina lentamente la basura y la suciedad en un radio de 20 casillas.</Frame_Bin_Large.description>
+
+	<!-- EN: ergonomic bed (blueprint) -->
+	<Blueprint_Bed_Ergonomic.label>cama ergonómica (anteproyecto)</Blueprint_Bed_Ergonomic.label>
+	<!-- EN: ergonomic bed (blueprint) -->
+	<Blueprint_Install_Bed_Ergonomic.label>cama ergonómica (anteproyecto)</Blueprint_Install_Bed_Ergonomic.label>
+	<!-- EN: ergonomic bed (building) -->
+	<Frame_Bed_Ergonomic.label>cama ergonómica (en construcción)</Frame_Bed_Ergonomic.label>
+	<!-- EN: An ergonomically designed bed to help support the spine, distribute body weight and overall enchance sleep quality. -->
+	<Frame_Bed_Ergonomic.description>Una cama ergonómica que ayuda a sostener la columna vertebral, distribuir el peso y mejorar la calidad del sueño.</Frame_Bed_Ergonomic.description>
+
+	<!-- EN: ergonomic double bed (blueprint) -->
+	<Blueprint_Bed_DoubleErgonomic.label>cama ergonómica doble (anteproyecto)</Blueprint_Bed_DoubleErgonomic.label>
+	<!-- EN: ergonomic double bed (blueprint) -->
+	<Blueprint_Install_Bed_DoubleErgonomic.label>cama ergonómica doble (anteproyecto)</Blueprint_Install_Bed_DoubleErgonomic.label>
+	<!-- EN: ergonomic double bed (building) -->
+	<Frame_Bed_DoubleErgonomic.label>cama ergonómica doble (en construcción)</Frame_Bed_DoubleErgonomic.label>
+	<!-- EN: An ergonomically designed double-wide bed to help support the spine, distribute body weight and overall enchance sleep quality. Fits two. -->
+	<Frame_Bed_DoubleErgonomic.description>Una cama ergonómica para dos personas, ayuda a sostener la columna vertebral, distribuir el peso y mejorar la calidad del sueño.</Frame_Bed_DoubleErgonomic.description>
+
+	<!-- EN: wardrobe (blueprint) -->
+	<Blueprint_Table_Wardrobe.label>armario (anteproyecto)</Blueprint_Table_Wardrobe.label>
+	<!-- EN: wardrobe (blueprint) -->
+	<Blueprint_Install_Table_Wardrobe.label>armario (anteproyecto)</Blueprint_Install_Table_Wardrobe.label>
+	<!-- EN: wardrobe (building) -->
+	<Frame_Table_Wardrobe.label>armario (en construcción)</Frame_Table_Wardrobe.label>
+	<!-- EN: A tall wardrobe for storing clothing and other items. Gives a small sleep effectiveness bonus to all nearby beds. Placing more than one wardrobe near the same bed has no effect. -->
+	<Frame_Table_Wardrobe.description>Un armario para guardar ropa y otros artículos. Proporciona un pequeño bono de efectividad en el sueño a todas las camas cercanas. Colocar más de un armario cerca de la misma cama no tiene ningún efecto.</Frame_Table_Wardrobe.description>
+
+	<!-- EN: ergonomic chair (blueprint) -->
+	<Blueprint_Seat_ModernChair.label>silla ergonómica (anteproyecto)</Blueprint_Seat_ModernChair.label>
+	<!-- EN: ergonomic chair (blueprint) -->
+	<Blueprint_Install_Seat_ModernChair.label>silla ergonómica (anteproyecto)</Blueprint_Install_Seat_ModernChair.label>
+	<!-- EN: ergonomic chair (building) -->
+	<Frame_Seat_ModernChair.label>silla ergonómica (en construcción)</Frame_Seat_ModernChair.label>
+	<!-- EN: A flexible ergonomic chair designed to fit the curves of the human body, improving comfort. -->
+	<Frame_Seat_ModernChair.description>Una silla ergonómica flexible diseñada para adaptarse a las curvas del cuerpo humano, mejorando la comodidad.</Frame_Seat_ModernChair.description>
+
+	<!-- EN: modern lamp (blueprint) -->
+	<Blueprint_Light_ModernLamp.label>lámpara moderna (anteproyecto)</Blueprint_Light_ModernLamp.label>
+	<!-- EN: modern lamp (blueprint) -->
+	<Blueprint_Install_Light_ModernLamp.label>lámpara moderna (anteproyecto)</Blueprint_Install_Light_ModernLamp.label>
+	<!-- EN: modern lamp (building) -->
+	<Frame_Light_ModernLamp.label>lámpara moderna (en construcción)</Frame_Light_ModernLamp.label>
+	<!-- EN: A power saving lamp that more effectively converts electricity to light, useful for lighting rooms. Will short circuit in rain. -->
+	<Frame_Light_ModernLamp.description>Una lámpara de ahorro de energía que convierte eficazmente la electricidad en luz, útil para iluminar habitaciones. Hará cortocircuitos con la lluvia.</Frame_Light_ModernLamp.description>
+
+	<!-- EN: royal poster bed (blueprint) -->
+	<Blueprint_Bed_Kingsize.label>cama real (anteproyecto)</Blueprint_Bed_Kingsize.label>
+	<!-- EN: royal poster bed (blueprint) -->
+	<Blueprint_Install_Bed_Kingsize.label>cama real (anteproyecto)</Blueprint_Install_Bed_Kingsize.label>
+	<!-- EN: royal poster bed (building) -->
+	<Frame_Bed_Kingsize.label>cama real (en construcción)</Frame_Bed_Kingsize.label>
+	<!-- EN: A bed fit for a king, flush with gold-inlaid posters and a high head rest. Extremely comfortable and beautiful, it is a true luxury. Fits two. -->
+	<Frame_Bed_Kingsize.description>Una cama extremadamente cómoda y hermosa, digna de un rey, con incrustaciones de oro y un alto respaldo para la cabeza. Esta cama es un verdadero lujo.</Frame_Bed_Kingsize.description>
+
+	<!-- EN: royal end table (blueprint) -->
+	<Blueprint_Table_RoyalEndTable.label>mesa de noche real (anteproyecto)</Blueprint_Table_RoyalEndTable.label>
+	<!-- EN: royal end table (blueprint) -->
+	<Blueprint_Install_Table_RoyalEndTable.label>mesa de noche real (anteproyecto)</Blueprint_Install_Table_RoyalEndTable.label>
+	<!-- EN: royal end table (building) -->
+	<Frame_Table_RoyalEndTable.label>mesa de noche real (en construcción)</Frame_Table_RoyalEndTable.label>
+	<!-- EN: A small bedside table that has been adorned with luxury gold fittings, making nearby beds more comfortable. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect. -->
+	<Frame_Table_RoyalEndTable.description>Una pequeña mesa que ha sido adornada con lujosos accesorios de oro, digna de la nobleza. Hace que las camas cercanas sean más cómodas. Deben ser colocados directamente adyacentes a su cabeza. Colocar más de una mesa auxiliar cerca de la misma cama no tendrá ningún efecto.</Frame_Table_RoyalEndTable.description>
+
+	<!-- EN: royal dresser (blueprint) -->
+	<Blueprint_Table_RoyalDresser.label>cómoda real (anteproyecto)</Blueprint_Table_RoyalDresser.label>
+	<!-- EN: royal dresser (blueprint) -->
+	<Blueprint_Install_Table_RoyalDresser.label>cómoda real (anteproyecto)</Blueprint_Install_Table_RoyalDresser.label>
+	<!-- EN: royal dresser (building) -->
+	<Frame_Table_RoyalDresser.label>cómoda real (en construcción)</Frame_Table_RoyalDresser.label>
+	<!-- EN: A luxurious dresser, adorned with solid gold and elegant in design, making nearby beds more comfortable.Placing more than one end table near the same bed has no effect. -->
+	<Frame_Table_RoyalDresser.description>Una cómoda lujosa adornada con oro macizo, de diseño elegante, digna de la nobleza. Hace que las camas cercanas sean más cómodas. Colocar más de una cómoda cerca de la misma cama no tendrá ningún efecto.</Frame_Table_RoyalDresser.description>
+
+	<!-- EN: royal chair (blueprint) -->
+	<Blueprint_Seat_RoyalChair.label>silla real (anteproyecto)</Blueprint_Seat_RoyalChair.label>
+	<!-- EN: royal chair (blueprint) -->
+	<Blueprint_Install_Seat_RoyalChair.label>silla real (anteproyecto)</Blueprint_Install_Seat_RoyalChair.label>
+	<!-- EN: royal chair (building) -->
+	<Frame_Seat_RoyalChair.label>silla real (en construcción)</Frame_Seat_RoyalChair.label>
+	<!-- EN: A comfy, padded seat with a high back plate rested inside a gold frame. Can be used at tables, work stations, and elsewhere. -->
+	<Frame_Seat_RoyalChair.description>Un cómodo asiento acolchado con una placa de respaldo apoyada en un marco de oro. Puede ser usado en mesas, estaciones de trabajo y otros lugares.</Frame_Seat_RoyalChair.description>
+
+	<!-- EN: royal armchair (blueprint) -->
+	<Blueprint_Seat_RoyalArmchair.label>sillón real (anteproyecto)</Blueprint_Seat_RoyalArmchair.label>
+	<!-- EN: royal armchair (blueprint) -->
+	<Blueprint_Install_Seat_RoyalArmchair.label>sillón real (anteproyecto)</Blueprint_Install_Seat_RoyalArmchair.label>
+	<!-- EN: royal armchair (building) -->
+	<Frame_Seat_RoyalArmchair.label>sillón real (en construcción)</Frame_Seat_RoyalArmchair.label>
+	<!-- EN: A large, soft, luxurious seat. Fitted inside a golden frame for only the wealthiest elites. Can be used at tables, work stations, and elsewhere. -->
+	<Frame_Seat_RoyalArmchair.description>Un asiento grande, suave y lujoso, ajustado con un marco de oro digno de la nobleza. Exelente para relajarse.</Frame_Seat_RoyalArmchair.description>
+
+	<!-- EN: royal table (1x1) (blueprint) -->
+	<Blueprint_Table_Royal1x1c.label>mesa real (1x1) (anteproyecto)</Blueprint_Table_Royal1x1c.label>
+	<!-- EN: royal table (1x1) (blueprint) -->
+	<Blueprint_Install_Table_Royal1x1c.label>mesa real (1x1) (anteproyecto)</Blueprint_Install_Table_Royal1x1c.label>
+	<!-- EN: royal table (1x1) (building) -->
+	<Frame_Table_Royal1x1c.label>mesa real (1x1) (en construcción)</Frame_Table_Royal1x1c.label>
+	<!-- EN: An impressive looking table for eating off of, this one being complete with a gold outer rim and rounded ends, suited for the wealthy. -->
+	<Frame_Table_Royal1x1c.description>Una mesa impresionante para comer, con un borde exterior de oro y extremos redondeados, una mesa digna de la nobleza.</Frame_Table_Royal1x1c.description>
+
+	<!-- EN: royal table (2x2) (blueprint) -->
+	<Blueprint_Table_Royal2x2c.label>mesa real (2x2) (anteproyecto)</Blueprint_Table_Royal2x2c.label>
+	<!-- EN: royal table (2x2) (blueprint) -->
+	<Blueprint_Install_Table_Royal2x2c.label>mesa real (2x2) (anteproyecto)</Blueprint_Install_Table_Royal2x2c.label>
+	<!-- EN: royal table (2x2) (building) -->
+	<Frame_Table_Royal2x2c.label>mesa real (2x2) (en construcción)</Frame_Table_Royal2x2c.label>
+	<!-- EN: An impressive looking table for eating off of, this one being complete with a gold outer rim and rounded ends, suited for the wealthy. -->
+	<Frame_Table_Royal2x2c.description>Una mesa impresionante para comer, con un borde exterior de oro y extremos redondeados, una mesa digna de la nobleza.</Frame_Table_Royal2x2c.description>
+
+	<!-- EN: royal table (1x2) (blueprint) -->
+	<Blueprint_Table_Royal1x2c.label>mesa real (1x2) (anteproyecto)</Blueprint_Table_Royal1x2c.label>
+	<!-- EN: royal table (1x2) (blueprint) -->
+	<Blueprint_Install_Table_Royal1x2c.label>mesa real (1x2) (anteproyecto)</Blueprint_Install_Table_Royal1x2c.label>
+	<!-- EN: royal table (1x2) (building) -->
+	<Frame_Table_Royal1x2c.label>mesa real (1x2) (en construcción)</Frame_Table_Royal1x2c.label>
+	<!-- EN: An impressive looking table for eating off of, this one being complete with a gold outer rim and rounded ends, suited for the wealthy. -->
+	<Frame_Table_Royal1x2c.description>Una mesa impresionante para comer, con un borde exterior de oro y extremos redondeados, una mesa digna de la nobleza.</Frame_Table_Royal1x2c.description>
+
+	<!-- EN: royal table (3x3) (blueprint) -->
+	<Blueprint_Table_Royal3x3c.label>mesa real (3x3) (anteproyecto)</Blueprint_Table_Royal3x3c.label>
+	<!-- EN: royal table (3x3) (blueprint) -->
+	<Blueprint_Install_Table_Royal3x3c.label>mesa real (3x3) (anteproyecto)</Blueprint_Install_Table_Royal3x3c.label>
+	<!-- EN: royal table (3x3) (building) -->
+	<Frame_Table_Royal3x3c.label>mesa real (3x3) (en construcción)</Frame_Table_Royal3x3c.label>
+	<!-- EN: An impressive looking table for eating off of, this one being complete with a gold outer rim and rounded ends, suited for the wealthy. -->
+	<Frame_Table_Royal3x3c.description>Una mesa impresionante para comer, con un borde exterior de oro y extremos redondeados, una mesa digna de la nobleza.</Frame_Table_Royal3x3c.description>
+
+	<!-- EN: royal table (2x4) (blueprint) -->
+	<Blueprint_Table_Royal2x4c.label>mesa real (2x4) (anteproyecto)</Blueprint_Table_Royal2x4c.label>
+	<!-- EN: royal table (2x4) (blueprint) -->
+	<Blueprint_Install_Table_Royal2x4c.label>mesa real (2x4) (anteproyecto)</Blueprint_Install_Table_Royal2x4c.label>
+	<!-- EN: royal table (2x4) (building) -->
+	<Frame_Table_Royal2x4c.label>mesa real (2x4) (en construcción)</Frame_Table_Royal2x4c.label>
+	<!-- EN: An impressive looking table for eating off of, this one being complete with a gold outer rim and rounded ends, suited for the wealthy. -->
+	<Frame_Table_Royal2x4c.description>Una mesa impresionante para comer, con un borde exterior de oro y extremos redondeados, una mesa digna de la nobleza.</Frame_Table_Royal2x4c.description>
+
+	<!-- EN: air conditioning unit (blueprint) -->
+	<Blueprint_AirConditioningUnit.label>unidad de aire acondicionado (anteproyecto)</Blueprint_AirConditioningUnit.label>
+	<!-- EN: air conditioning unit (blueprint) -->
+	<Blueprint_Install_AirConditioningUnit.label>unidad de aire acondicionado (anteproyecto)</Blueprint_Install_AirConditioningUnit.label>
+	<!-- EN: air conditioning unit (building) -->
+	<Frame_AirConditioningUnit.label>unidad de aire acondicionado (en construcción)</Frame_AirConditioningUnit.label>
+	<!-- EN: An air-cooling machine that fits into a wall. Exhaust cool air without forcing warm air onto another room. Can be used to cool down rooms during summer, or to create a walk-in freezer. -->
+	<Frame_AirConditioningUnit.description>Una máquina de refrigeración de aire que se ajusta a la pared. Extiende el aire frío sin forzar el aire caliente a otra habitación. Puede usarse para enfriar habitaciones durante el verano, o para crear un congelador</Frame_AirConditioningUnit.description>
+
+	<!-- Art -->
+	<!-- EN: archotech sculpture (blueprint) -->
+	<Blueprint_Install_VFE_ArchotechSculpture.label>escultura arqueotécnica (anteproyecto)</Blueprint_Install_VFE_ArchotechSculpture.label>
+
+	<!-- EN: pottery (blueprint) -->
+	<Blueprint_Install_VFE_Pottery.label>alfarería (anteproyecto)</Blueprint_Install_VFE_Pottery.label>
+
+	<!-- EN: small statue (blueprint) -->
+	<Blueprint_Install_VFE_StatueSmall.label>estatua pequeña (anteproyecto)</Blueprint_Install_VFE_StatueSmall.label>
+
+	<!-- EN: carving (blueprint) -->
+	<Blueprint_Install_VFE_Carving.label>tallado (anteproyecto)</Blueprint_Install_VFE_Carving.label>
+
+	<!-- EN: large statue (blueprint) -->
+	<Blueprint_Install_VFE_StatueLarge.label>estatua mediana (anteproyecto)</Blueprint_Install_VFE_StatueLarge.label>
+
+	<!-- EN: grand statue (blueprint) -->
+	<Blueprint_Install_VFE_StatueGrand.label>estatua grande (anteproyecto)</Blueprint_Install_VFE_StatueGrand.label>
+
+	<!-- EN: monument (blueprint) -->
+	<Blueprint_Install_VFE_Monument.label>monumento (anteproyecto)</Blueprint_Install_VFE_Monument.label>
+
+	<!-- EN: relief (blueprint) -->
+	<Blueprint_Install_VFE_Relief.label>relieve (anteproyecto)</Blueprint_Install_VFE_Relief.label>
+
+	<!-- EN: pillar (blueprint) -->
+	<Blueprint_Install_VFE_Pillar.label>pilar (anteproyecto)</Blueprint_Install_VFE_Pillar.label>
+
+	<!-- EN: obelisk (blueprint) -->
+	<Blueprint_Install_VFE_Obelisk.label>obelisco (anteproyecto)</Blueprint_Install_VFE_Obelisk.label>
+
+	<!-- EN: plinth (blueprint) -->
+	<Blueprint_Install_VFE_Plinth.label>pedestal (anteproyecto)</Blueprint_Install_VFE_Plinth.label>
+
+	<!-- EN: decorative plant pot (blueprint) -->
+	<Blueprint_Install_VFE_DecorativePlantPot.label>maceta decorativa (anteproyecto)</Blueprint_Install_VFE_DecorativePlantPot.label>
+
+	<!-- EN: wallpaper (blueprint) -->
+	<Blueprint_VFE_Wallpaper.label>muro tapizado (anteproyecto)</Blueprint_VFE_Wallpaper.label>
+	<!-- EN: wallpaper (building) -->
+	<Frame_VFE_Wallpaper.label>muro tapizado (en construcción)</Frame_VFE_Wallpaper.label>
+	<!-- EN: An impassable wall with a beautiful wallpaper. Capable of holding up a roof. -->
+	<Frame_VFE_Wallpaper.description>Una pared infranqueable con un hermoso papel tapiz. Capaz de sostener un techo.</Frame_VFE_Wallpaper.description>
+
+	<!-- Farming -->
+	<!-- EN: planter boxt (blueprint) -->
+	<Blueprint_VFE_PlanterBox.label>macetero (anteproyecto)</Blueprint_VFE_PlanterBox.label>
+	<!-- EN: planter boxt (building) -->
+	<Frame_VFE_PlanterBox.label>macetero (en construcción)</Frame_VFE_PlanterBox.label>
+	<!-- EN: Grows plants in a box of soil. Does not require power to work. -->
+	<Frame_VFE_PlanterBox.description>Las plantas crecen en una caja de tierra. No requiere energía para funcionar.</Frame_VFE_PlanterBox.description>
+
+	<!-- EN: artificial ecosystem (blueprint) -->
+	<Blueprint_VFE_Ecosystem.label>ecosistema artificial (anteproyecto)</Blueprint_VFE_Ecosystem.label>
+	<!-- EN: artificial ecosystem (building) -->
+	<Frame_VFE_Ecosystem.label>ecosistema artificial (en construcción)</Frame_VFE_Ecosystem.label>
+	<!-- EN: Grows plants quickly in an artificial, sealed ecosystem. Requires a high amount of power to work; plants will die if power is cut.\n\nContains a built-in sun lamp to provide light for the plants. -->
+	<Frame_VFE_Ecosystem.description>Las plantas crecen rápidamente en un ecosistema artificial y sellado. Contiene una lámpara solar incorporada para proporcionar luz a las plantas. Requiere una gran cantidad de energía para funcionar; las plantas morirán si se corta la energía.\n\nContiene una lámpara solar incorporada para proporcionar luz a las plantas.</Frame_VFE_Ecosystem.description>
+
+	<!-- EN: tilable planter box (blueprint) -->
+	<Blueprint_VFE_PlanterBox_Tilable.label>macetero modular (anteproyecto)</Blueprint_VFE_PlanterBox_Tilable.label>
+	<!-- EN: tilable planter box (building) -->
+	<Frame_VFE_PlanterBox_Tilable.label>macetero modular (en construcción)</Frame_VFE_PlanterBox_Tilable.label>
+	<!-- EN: Grows plants in a box of soil. Does not require power to work.\n\nCan be constructed in any desired shape. -->
+	<Frame_VFE_PlanterBox_Tilable.description>Las plantas crecen en una versión modular del macetero. No requiere energía para funcionar.\n\nPuede ser construido en cualquier forma deseada.</Frame_VFE_PlanterBox_Tilable.description>
+
+	<!-- EN: tilable hydroponics basin (blueprint) -->
+	<Blueprint_VFE_Hydroponics_Tilable.label>contenedor hidropónico modular (anteproyecto)</Blueprint_VFE_Hydroponics_Tilable.label>
+	<!-- EN: tilable hydroponics basin (building) -->
+	<Frame_VFE_Hydroponics_Tilable.label>contenedor hidropónico modular (en construcción)</Frame_VFE_Hydroponics_Tilable.label>
+	<!-- EN: An artificial nutrient bath for growing plants. The nutrients pumps must work continuously; the plants will die if power is cut.\n\nThis version is modular and can be assembled in any shape necessary. -->
+	<Frame_VFE_Hydroponics_Tilable.description>Las plantas crecen en una versión modular del contenedor hidropónico. Requiere energía para funcionar; las plantas morirán si se corta la energía.\n\nAl ser una versión modular puede ser ensamblada en cualquier forma que sea necesaria.</Frame_VFE_Hydroponics_Tilable.description>
+
+	<!-- EN: tilable artificial ecosystem (blueprint) -->
+	<Blueprint_VFE_Ecosystem_Tilable.label>ecosistema artificial modular (anteproyecto)</Blueprint_VFE_Ecosystem_Tilable.label>
+	<!-- EN: tilable artificial ecosystem (building) -->
+	<Frame_VFE_Ecosystem_Tilable.label>ecosistema artificial modular (en construcción)</Frame_VFE_Ecosystem_Tilable.label>
+	<!-- EN: Grows plants quickly in an artificial, sealed ecosystem which can be configured to effectively grow even picky plants. Requires a high amount of power to work; plants will die if power is cut. Contains a built-in sun lamp to provide light for the plants.\n\nThis version is modular and can be assembled in any shape necessary. -->
+	<Frame_VFE_Ecosystem_Tilable.description>Las plantas crecen rápidamente en una versión modular del ecosistema artificial. Contiene una lámpara solar incorporada para proporcionar luz a las plantas. Requiere una gran cantidad de energía para funcionar; las plantas morirán si se corta la energía.\n\nAl ser una versión modular puede ser ensamblada en cualquier forma que sea necesaria.</Frame_VFE_Ecosystem_Tilable.description>
+
+	<!-- EN: scarecrow (blueprint) -->
+	<Blueprint_VFE_Scarecrow.label>espantapájaros (anteproyecto)</Blueprint_VFE_Scarecrow.label>
+	<!-- EN: scarecrow (blueprint) -->
+	<Blueprint_Install_VFE_Scarecrow.label>espantapájaros (anteproyecto)</Blueprint_Install_VFE_Scarecrow.label>
+	<!-- EN: scarecrow (building) -->
+	<Frame_VFE_Scarecrow.label>espantapájaros (en construcción)</Frame_VFE_Scarecrow.label>
+	<!-- EN: A humanoid figure made out of hay, dressed in old clothes to deter animals in a large radius. Small animals will be too afraid to approach.  -->
+	<Frame_VFE_Scarecrow.description>Una figura humanoide hecha de heno, vestida con ropas viejas para disuadir a los animales en un gran radio. Los animales pequeños tendrán demasiado miedo de acercarse.</Frame_VFE_Scarecrow.description>
+
+	<!-- EN: animal feeder (blueprint) -->
+	<Blueprint_VFE_AnimalFeeder.label>comedero animal (anteproyecto)</Blueprint_VFE_AnimalFeeder.label>
+	<!-- EN: animal feeder (blueprint) -->
+	<Blueprint_Install_VFE_AnimalFeeder.label>comedero animal (anteproyecto)</Blueprint_Install_VFE_AnimalFeeder.label>
+	<!-- EN: animal feeder (building) -->
+	<Blueprint_VFE_AnimalFeeder.label>comedero animal (en construcción)</Blueprint_VFE_AnimalFeeder.label>
+	<!-- EN: A feeding trough. Food stored in this will not deteriorate, even if outside. -->
+	<Blueprint_VFE_AnimalFeeder.description>Un pequeño comedero. La comida almacenada en él no se deteriorará, aunque esté en el exterior.</Blueprint_VFE_AnimalFeeder.description>
+	<!-- EN: sprinkler (blueprint) -->
+	<Blueprint_VFE_Sprinkler.label>aspersor (anteproyecto)</Blueprint_VFE_Sprinkler.label>
+	<!-- EN: sprinkler (blueprint) -->
+	<Blueprint_Install_VFE_Sprinkler.label>aspersor (anteproyecto)</Blueprint_Install_VFE_Sprinkler.label>
+	<!-- EN: sprinkler (building) -->
+	<Frame_VFE_Sprinkler.label>aspersor (en construcción)</Frame_VFE_Sprinkler.label>
+	<!-- EN: A water sprinkler, providing an area around it with water. Enhances the growth of surrounding plants. -->
+	<Frame_VFE_Sprinkler.description>Un aspersor de agua, que proporciona agua a un área alrededor de ella. Mejora el crecimiento de las plantas cercanas.</Frame_VFE_Sprinkler.description>
+
+	<!-- Medical-->
+	<!-- EN: operating table (blueprint) -->
+	<Blueprint_Bed_OperatingTable.label>mesa de operaciones (anteproyecto)</Blueprint_Bed_OperatingTable.label>
+	<!-- EN: operating table (blueprint) -->
+	<Blueprint_Install_Bed_OperatingTable.label>mesa de operaciones (anteproyecto)</Blueprint_Install_Bed_OperatingTable.label>
+	<!-- EN: operating table (building) -->
+	<Frame_Bed_OperatingTable.label>mesa de operaciones (en construcción)</Frame_Bed_OperatingTable.label>
+	<!-- EN: A crude table cluttered with instruments that supposedly make surgery easier, the cleanliness of the table is questionable though. Slightly improves medical outcomes over normal beds. -->
+	<Frame_Bed_OperatingTable.description>Una mesa tosca llena de instrumentos que facilitan la cirugía, aunque la limpieza de la mesa sea cuestionable. Mejora ligeramente los resultados médicos con respecto a las camas normales.</Frame_Bed_OperatingTable.description>
+
+	<!-- EN: cryptosleep suspender (blueprint)-->
+	<Blueprint_Bed_CryptoBed.label>suspensor de criptosueño (anteproyecto)</Blueprint_Bed_CryptoBed.label>
+	<!-- EN: cryptosleep suspender (blueprint)-->
+	<Blueprint_Install_Bed_CryptoBed.label>suspensor de criptosueño (anteproyecto)</Blueprint_Install_Bed_CryptoBed.label>
+	<!-- EN: cryptosleep suspender (building) -->
+	<Frame_Bed_CryptoBed.label>suspensor de criptosueño (en construcción)</Frame_Bed_CryptoBed.label>
+	<!-- EN: A medical that uses partial cryptosleep to slow down the degredation of wounds and help the body heal, although with the same side effects of cryptosleep, albeit at a lesser severity. -->
+	<Frame_Bed_CryptoBed.description>Un método médico que utiliza el criptosueño parcial para reducir las heridas y ayudar a recomponer el cuerpo. Tiene los mismos efectos secundarios que el criptosueño, aunque con una menor gravedad.</Frame_Bed_CryptoBed.description>
+
+	<!-- EN: vitals centre (blueprint) -->
+	<Blueprint_Facility_VitalsCentre.label>panel de cuidados médico (anteproyecto)</Blueprint_Facility_VitalsCentre.label>
+	<!-- EN: vitals centre (blueprint) -->
+	<Blueprint_Install_Facility_VitalsCentre.label>panel de cuidados médico (anteproyecto)</Blueprint_Install_Facility_VitalsCentre.label>
+	<!-- EN: vitals centre (building) -->
+	<Frame_Facility_VitalsCentre.label>panel de cuidados médico (en construcción)</Frame_Facility_VitalsCentre.label>
+	<!-- EN: A large centre for monitoring the vitals of several patients at once, increasing medical tend quality, surgery success chance and immunity gain speed when placed in the vicinity of a hospital bed or surgical table. Only works for hospital beds or surgical tables - normal beds will not benefit. -->
+	<Frame_Facility_VitalsCentre.description>Un centro para la vigilancia de las constantes vitales de varios pacientes. Aumenta la calidad de la atención médica, las posibilidades de éxito de cirugías y la rapidez de la inmunidad. Sólo funciona cuando se coloca cerca de camas hospitalarias o mesas de operaciones.</Frame_Facility_VitalsCentre.description>
+
+	<!-- EN: intravenous drip stand (blueprint) -->
+	<Blueprint_Facility_IVDrip.label>soporte intravenoso (anteproyecto)</Blueprint_Facility_IVDrip.label>
+	<!-- EN: intravenous drip stand (blueprint) -->
+	<Blueprint_Install_Facility_IVDrip.label>soporte intravenoso (anteproyecto)</Blueprint_Install_Facility_IVDrip.label>
+	<!-- EN: intravenous drip stand (building) -->
+	<Frame_Facility_IVDrip.label>soporte intravenoso (en construcción)</Frame_Facility_IVDrip.label>
+	<!-- EN: An intravenous drip stand for quickly delivering lost fluids to a patient, helping the immune system and blood loss recovery when placed directly adjacent to a hospital bed or surgical table. Only works for hospital beds or surgical tables - normal beds will not benefit. Attaching more than one stand to the same bed will have no effect. -->
+	<Frame_Facility_IVDrip.description>Un soporte para administrar los fluidos a un paciente, ayudando a la recuperación de la pérdida de sangre. Sólo funciona para camas hospitalarias y mesas de operaciones. Colocar más de un soporte en la misma cama no tendrá ningún efecto.</Frame_Facility_IVDrip.description>
+
+	<!-- EN: research counter (blueprint)-->
+	<Blueprint_Facility_ResearchCounter.label>mostrador científico (anteproyecto)</Blueprint_Facility_ResearchCounter.label>
+	<!-- EN: research counter (building)-->
+	<Frame_Facility_ResearchCounter.label>mostrador científico (en construcción)</Frame_Facility_ResearchCounter.label>
+	<!-- EN: A waist high sterilised surface for performing sensitive research on. Gives a small boost to nearby research benches as well as helping to keep the area clean. Stacks up to 20 times. -->
+	<Frame_Facility_ResearchCounter.description>Una superficie esterilizada a la altura de la cintura para realizar investigaciones sensibles. Proporciona un pequeño impulso a los bancos de investigación cercanos, así como ayuda a mantener el área limpia. Se apila hasta 20 veces.</Frame_Facility_ResearchCounter.description>
+
+	<!-- EN: red sterile wall (blueprint) -->
+	<Blueprint_Wall_SterileRed.label>muro estéril rojo (anteproyecto)</Blueprint_Wall_SterileRed.label>
+	<!-- EN: red sterile wall (building) -->
+	<Frame_Wall_SterileRed.label>muro estéril rojo (en construcción)</Frame_Wall_SterileRed.label>
+	<!-- An impassable wall. Capable of holding up a roof. Fitted with special cleanliness-enhancing properties to create a sterile environment. -->
+	<Frame_Wall_SterileRed.description>Un muro infranqueable. Gracias a su gran capacidad para mantener la limpieza, es el idóneo para crear un ambiente estéril.</Frame_Wall_SterileRed.description>
+
+	<!-- EN: green sterile wall (blueprint) -->
+	<Blueprint_Wall_SterileGreen.label>muro estéril verde (anteproyecto)</Blueprint_Wall_SterileGreen.label>
+	<!-- EN: green sterile wall (building) -->
+	<Frame_Wall_SterileGreen.label>muro estéril verde (en construcción)</Frame_Wall_SterileGreen.label>
+	<!-- EN: An impassable wall. Capable of holding up a roof. Fitted with special cleanliness-enhancing properties to create a sterile environment. -->
+	<Frame_Wall_SterileGreen.description>Un muro infranqueable. Gracias a su gran capacidad para mantener la limpieza, es el idóneo para crear un ambiente estéril.</Frame_Wall_SterileGreen.description>
+
+	<!-- EN: blue sterile wall (blueprint) -->
+	<Blueprint_Wall_SterileBlue.label>muro estéril azúl (anteproyecto)</Blueprint_Wall_SterileBlue.label>
+	<!-- EN: blue sterile wall (building) -->
+	<Frame_Wall_SterileBlue.label>muro estéril azúl (en construcción)</Frame_Wall_SterileBlue.label>
+	<!-- EN: An impassable wall. Capable of holding up a roof. Fitted with special cleanliness-enhancing properties to create a sterile environment. -->
+	<Frame_Wall_SterileBlue.description>Un muro infranqueable. Gracias a su gran capacidad para mantener la limpieza, es el idóneo para crear un ambiente estéril.</Frame_Wall_SterileBlue.description>
+
+	<!-- cream sterile wall (blueprint) -->
+	<Blueprint_Wall_SterileCream.label>muro estéril blanco (anteproyecto)</Blueprint_Wall_SterileCream.label>
+	<!-- cream sterile wall (building) -->
+	<Frame_Wall_SterileCream.label>muro estéril blanco (en construcción)</Frame_Wall_SterileCream.label>
+	<!-- An impassable wall. Capable of holding up a roof. Fitted with special cleanliness-enhancing properties to create a sterile environment. -->
+	<Frame_Wall_SterileCream.description>Un muro infranqueable. Gracias a su gran capacidad para mantener la limpieza, es el idóneo para crear un ambiente estéril.</Frame_Wall_SterileCream.description>
+
+	<!-- dark sterile wall (blueprint) -->
+	<Blueprint_Wall_SterileDark.label>muro estéril negro (anteproyecto)</Blueprint_Wall_SterileDark.label>
+	<!-- dark sterile wall (building) -->
+	<Frame_Wall_SterileDark.label>muro estéril negro (en construcción)</Frame_Wall_SterileDark.label>
+	<!-- An impassable wall. Capable of holding up a roof. Fitted with special cleanliness-enhancing properties to create a sterile environment. -->
+	<Frame_Wall_SterileDark.description>Un muro infranqueable. Gracias a su gran capacidad para mantener la limpieza, es el idóneo para crear un ambiente estéril.</Frame_Wall_SterileDark.description>
+
+	<!-- gold sterile wall (blueprint) -->
+	<Blueprint_Wall_SterileGold.label>muro estéril dorado (anteproyecto)</Blueprint_Wall_SterileGold.label>
+	<!-- gold sterile wall (building) -->
+	<Frame_Wall_SterileGold.label>muro estéril dorado (en construcción)</Frame_Wall_SterileGold.label>
+	<!-- An impassable wall. Capable of holding up a roof. Fitted with special cleanliness-enhancing properties to create a sterile environment. -->
+	<Frame_Wall_SterileGold.description>Un muro infranqueable. Gracias a su gran capacidad para mantener la limpieza, es el idóneo para crear un ambiente estéril.</Frame_Wall_SterileGold.description>
+
+	<!-- teal sterile wall (blueprint) -->
+	<Blueprint_Wall_SterileTeal.label>muro estéril turquesa (anteproyecto)</Blueprint_Wall_SterileTeal.label>
+	<!-- teal sterile wall (building) -->
+	<Frame_Wall_SterileTeal.label>muro estéril turquesa (en construcción)</Frame_Wall_SterileTeal.label>
+	<!-- An impassable wall. Capable of holding up a roof. Fitted with special cleanliness-enhancing properties to create a sterile environment. -->
+	<Frame_Wall_SterileTeal.description>Un muro infranqueable. Gracias a su gran capacidad para mantener la limpieza, es el idóneo para crear un ambiente estéril.</Frame_Wall_SterileTeal.description>
+
+	<!-- brown sterile wall (blueprint) -->
+	<Blueprint_Wall_SterileBrown.label>muro estéril marrón (anteproyecto)</Blueprint_Wall_SterileBrown.label>
+	<!-- brown sterile wall (building) -->
+	<Frame_Wall_SterileBrown.label>muro estéril marrón (en construcción)</Frame_Wall_SterileBrown.label>
+	<!-- An impassable wall. Capable of holding up a roof. Fitted with special cleanliness-enhancing properties to create a sterile environment. -->
+	<Frame_Wall_SterileBrown.description>Un muro infranqueable. Gracias a su gran capacidad para mantener la limpieza, es el idóneo para crear un ambiente estéril.</Frame_Wall_SterileBrown.description>
+
+	<!-- Power -->
+	<!-- EN: advanced wind turbine (blueprint) -->
+  	<Blueprint_VFE_AdvancedWindTurbine.label>aeroturbina avanzada (anteproyecto)</Blueprint_VFE_AdvancedWindTurbine.label>
+  	<!-- EN: advanced wind turbine (building) -->
+  	<Frame_VFE_AdvancedWindTurbine.label>aeroturbina avanzada (en construcción)</Frame_VFE_AdvancedWindTurbine.label>
+  	<!-- EN: A spacertech, advanced wind-powered electrical generator. Requires a large clear space in front and behind for optimal air flow. -->
+  	<Frame_VFE_AdvancedWindTurbine.description>Un edificio de tecnología espacial que produce electricidad por el efecto de las corrientes de aire. Requiere un gran espacio despejado delante y detrás para un flujo de aire óptimo.</Frame_VFE_AdvancedWindTurbine.description>
+
+  	<!-- EN: advanced solar generator (blueprint) -->
+  	<Blueprint_VFE_AdvancedSolarGenerator.label>paneles solares avanzados (anteproyecto)</Blueprint_VFE_AdvancedSolarGenerator.label>
+  	<!-- EN: advanced solar generator (building) -->
+  	<Frame_VFE_AdvancedSolarGenerator.label>paneles solares avanzados (en construcción)</Frame_VFE_AdvancedSolarGenerator.label>
+  	<!-- EN: This spacertech solar generator is capable of extracting significantly more energy from sunlight. Does not work in the dark or under artificial light. -->
+  	<Frame_VFE_AdvancedSolarGenerator.description>Este generador solar de tecnología espacial es capaz de extraer mucha más energía de la luz solar. No funciona en la oscuridad o bajo luz artificial.</Frame_VFE_AdvancedSolarGenerator.description>
+
+  	<!-- EN: advanced watermill generator (blueprint) -->
+  	<Blueprint_VFE_AdvancedWatermillGenerator.label>molino de agua avanzado (anteproyecto)</Blueprint_VFE_AdvancedWatermillGenerator.label>
+  	<!-- EN: advanced watermill generator (building) -->
+  	<Frame_VFE_AdvancedWatermillGenerator.label>molino de agua avanzado (en construcción)</Frame_VFE_AdvancedWatermillGenerator.label>
+  	<!-- EN: A spacertech building that produces electricity from a river. Must be placed with its wheel in moving water. If watermills are placed too close together, the turbulence they generate will interfere and reduce power generation. -->
+  	<Frame_VFE_AdvancedWatermillGenerator.description>Un edificio de tecnología espacial que produce electricidad de un río. Debe ser colocado con su rueda en el agua para generar movimiento. Si los molinos de agua se colocan demasiado cerca unos de otros, la turbulencia que generan interferirá y reducirá la generación de energía.</Frame_VFE_AdvancedWatermillGenerator.description>
+
+  	<!-- EN: large battery (blueprint) -->
+  	<Blueprint_VFE_LargeBattery.label>batería grande (anteproyecto)</Blueprint_VFE_LargeBattery.label>
+  	<!-- EN: large battery (blueprint) -->
+  	<Blueprint_Install_VFE_LargeBattery.label>batería grande (anteproyecto)</Blueprint_Install_VFE_LargeBattery.label>
+  	<!-- EN: large battery (building) -->
+  	<Frame_VFE_LargeBattery.label>batería grande (en construcción)</Frame_VFE_LargeBattery.label>
+  	<!-- EN: Stores large amounts of electricity for later use. Charged large batteries explode when exposed to rain or fire. -->
+  	<Frame_VFE_LargeBattery.description>Almacena grandes cantidades de electricidad para su uso posterior. Al estar cargada explota cuando se expone a la lluvia o al fuego.</Frame_VFE_LargeBattery.description>
+
+  	<!-- EN: small battery (blueprint) -->
+  	<Blueprint_VFE_SmallBattery.label>batería pequeña (anteproyecto)</Blueprint_VFE_SmallBattery.label>
+  	<!-- EN: small battery (blueprint) -->
+  	<Blueprint_Install_VFE_SmallBattery.label>batería pequeña (anteproyecto)</Blueprint_Install_VFE_SmallBattery.label>
+  	<!-- EN: small battery (building) -->
+  	<Frame_VFE_SmallBattery.label>batería pequeña (en construcción)<Frame_/VFE_SmallBattery.label>
+  	<!-- EN: Stores small amount of electricity for later use. Charged batteries explode when exposed to rain or fire. -->
+  	<Frame_VFE_SmallBattery.description>Almacena una pequeña cantidad de electricidad para su uso posterior. Al estar cargada explota cuando se expone a la lluvia o al fuego.</Frame_VFE_SmallBattery.description>
+
+  	<!-- EN: advanced battery (blueprint) -->
+  	<Blueprint_VFE_AdvancedBattery.label>batería avanzada (anteproyecto)</Blueprint_VFE_AdvancedBattery.label>
+  	<!-- EN: advanced battery (blueprint) -->
+  	<Blueprint_Install_VFE_AdvancedBattery.label>batería avanzada (anteproyecto)</Blueprint_Install_VFE_AdvancedBattery.label>
+  	<!-- EN: advanced battery (building) -->
+  	<Frame_VFE_AdvancedBattery.label>batería avanzada (en construcción)</Frame_VFE_AdvancedBattery.label>
+  	<!-- EN: Stores electricity for later use. Due to technological advancements, this battery unit is significantly more efficient. Charged advanced batteries are waterproof and don't explode when exposed to rain. -->
+  	<Frame_VFE_AdvancedBattery.description>Almacena electricidad para su uso posterior. Debido a los avances tecnológicos, esta unidad de batería es significativamente más eficiente. Estas baterías son impermeables y no explotan cuando se exponen a la lluvia al estar cargadas.</Frame_VFE_AdvancedBattery.description>
+
+  	<!-- EN: large advanced battery (blueprint) -->
+  	<Blueprint_VFE_LargeAdvancedBattery.label>batería grande avanzada (anteproyecto)</Blueprint_VFE_LargeAdvancedBattery.label>
+  	<!-- EN: large advanced battery (blueprint) -->
+  	<Blueprint_Install_VFE_LargeAdvancedBattery.label>batería grande avanzada (anteproyecto)</Blueprint_Install_VFE_LargeAdvancedBattery.label>
+  	<!-- EN: large advanced battery (building) -->
+  	<Frame_VFE_LargeAdvancedBattery.label>batería grande avanzada (en construcción)</Frame_VFE_LargeAdvancedBattery.label>
+  	<!-- EN: Stores large amounts of electricity for later use. Due to technological advancements, this battery unit is significantly more efficient. Charged large advanced batteries are waterproof and don't explode when exposed to rain. -->
+ 	<Frame_VFE_LargeAdvancedBattery.description>Almacena grandes cantidades de electricidad para su uso posterior. Debido a los avances tecnológicos, esta unidad de batería es significativamente más eficiente. Estas baterías son impermeables y no explotan cuando se exponen a la lluvia al estar cargadas.</Frame_VFE_LargeAdvancedBattery.description>
+
+  	<!-- EN: chemfuel pump (blueprint) -->
+  	<Blueprint_VPE_ChemfuelPump.label>bomba de biocombustible (anteproyecto)</Blueprint_VPE_ChemfuelPump.label>
+  	<!-- EN: chemfuel pump (building) -->
+  	<Frame_VPE_ChemfuelPump.label>bomba de biocombustible (en construcción)</Frame_VPE_ChemfuelPump.label>
+  	<!-- EN: An industrial style pump capable of extracting chemfuel from underground pockets. After the chemfuel is fully extracted, chemfuel pump can be safely deconstructed. -->
+  	<Frame_VPE_ChemfuelPump.description>Una bomba de estilo industrial capaz de extraer biocombustible de los bolsillos subterráneos. Después de que el biocombustible se extrae completamente, la bomba de biocombustible puede ser deconstruida con seguridad.</Frame_VPE_ChemfuelPump.description>
+
+  	<!-- EN: gas pipe (blueprint) -->
+  	<Blueprint_VPE_GasPipe.label>tubería de gas (anteproyecto)</Blueprint_VPE_GasPipe.label>
+  	<!-- EN: gas pipe (building) -->
+  	<Frame_VPE_GasPipe.label>tubería de gas (en construcción)</Frame_VPE_GasPipe.label>
+  	<!-- EN: A pipe that transmits helixien gas. -->
+  	<Frame_VPE_GasPipe.description>Un tubo que transporta gas helioxeno.</Frame_VPE_GasPipe.description>
+
+  	<!-- EN: subterranean gas pipe (blueprint) -->
+  	<Blueprint_VPE_GasPipeSub.label>tubería de gas subterránea (anteproyecto)</Blueprint_VPE_GasPipeSub.label>
+  	<!-- EN: subterranean gas pipe (building) -->
+  	<Frame_VPE_GasPipeSub.label>tubería de gas subterránea (en construcción)</Frame_VPE_GasPipeSub.label>
+  	<!-- EN: A pipe that transmits helixien gas. This pipe is hidden from view and is protected from gas explosions. Much more expensive to build than regular pipes -->
+  	<Frame_VPE_GasPipeSub.description>Un tubo que transporta gas helioxeno. Este tubo está oculto a la vista y está protegido de las explosiones de gas. Mucho más caro de construir que los tubos normales.</Frame_VPE_GasPipeSub.description>
+
+  	<!-- EN: gas pipe valve (blueprint) -->
+  	<Blueprint_VPE_GasPipeValve.label>válvula de tubería de gas (anteproyecto)</Blueprint_VPE_GasPipeValve.label>
+  	<!-- EN: gas pipe valve (building) -->
+  	<Frame_VPE_GasPipeValve.label>válvula de tubería de gas (en construcción)</Frame_VPE_GasPipeValve.label>
+  	<!-- EN: Switches gas flow on/off. -->
+  	<Frame_VPE_GasPipeValve.description>Activa o desactiva el flujo de gas.</Frame_VPE_GasPipeValve.description>
+
+  	<!-- EN: gas tank (blueprint) -->
+  	<Blueprint_VPE_GasTank.label>tanque de gas (anteproyecto)</Blueprint_VPE_GasTank.label>
+  	<!-- EN: gas tank (building) -->
+  	<Frame_VPE_GasTank.label>tanque de gas (en construcción)</Frame_VPE_GasTank.label>
+  	<!-- EN: A large steel tank for gas storage. Will explode if damaged. -->
+  	<Frame_VPE_GasTank.description>Un gran tanque de acero para el almacenamiento de gas. Explotará si se daña.</Frame_VPE_GasTank.description>
+
+  	<!-- EN: helixien pump (blueprint) -->
+  	<Blueprint_VPE_HelixienPump.label>bomba de helioxeno (anteproyecto)</Blueprint_VPE_HelixienPump.label>
+  	<!-- EN: helixien pump (building) -->
+  	<Frame_VPE_HelixienPump.label>bomba de helioxeno (en construcción)</Frame_VPE_HelixienPump.label>
+  	<!-- EN: An extractor machine mounted on helixien gas geyser. Self-powered, this machine pumps out valuable gas and needs to be connected to other gas-based utilities using the pipe network. -->
+  	<Frame_VPE_HelixienPump.description>Una máquina extractora montada en un géiser de gas helioxeno. Autoalimentada, esta máquina bombea gas valioso y necesita ser conectada a otras utilidades basadas en el gas usando para ello una red de tuberías.</Frame_VPE_HelixienPump.description>
+
+  	<!-- EN: helixien gas powered generator (blueprint) -->
+  	<Blueprint_VPE_HelixienGenerator.label>generador a gas (anteproyecto)</Blueprint_VPE_HelixienGenerator.label>
+  	<!-- EN: helixien gas powered generator (building) -->
+  	<Frame_VPE_HelixienGenerator.label>generador a gas (en construcción)</Frame_VPE_HelixienGenerator.label>
+  	<!-- EN: Produces power by consuming helixien gas. Must be connected to a gas pipe network. -->
+  	<Frame_VPE_HelixienGenerator.description>Produce energía consumiendo gas helioxeno. Debe ser conectado a una red de tuberías de gas.</Frame_VPE_HelixienGenerator.description>
+
+  	<!-- EN: industrial helixien gas powered generator (blueprint) -->
+  	<Blueprint_VPE_IndustrialHelixienGenerator.label>generador industrial a gas (anteproyecto)</Blueprint_VPE_IndustrialHelixienGenerator.label>
+  	<!-- EN: industrial helixien gas powered generator (building) -->
+  	<Frame_VPE_IndustrialHelixienGenerator.label>generador industrial a gas (en construcción)</Frame_VPE_IndustrialHelixienGenerator.label>
+  	<!-- EN: Produces a large amount of power by consuming helixien gas. Must be connected to a gas pipe network. -->
+  	<Frame_VPE_IndustrialHelixienGenerator.description>Produce una gran cantidad de energía al consumir gas helioxeno. Debe ser conectado a una red de tuberías de gas.</Frame_VPE_IndustrialHelixienGenerator.description>
+
+  	<!-- EN: helixien gas crematorium (blueprint) -->
+  	<Blueprint_VPE_GasCrematorium.label>crematorio a gas (anteproyecto)</Blueprint_VPE_GasCrematorium.label>
+  	<!-- EN: helixien gas crematorium (building) -->
+  	<Frame_VPE_GasCrematorium.label>crematorio a gas (en construcción)</Frame_VPE_GasCrematorium.label>
+  	<!-- EN: A huge stone crematorium which vaporizes corpses with extremely high temperatures. Operates on helixien gas. -->
+  	<Frame_VPE_GasCrematorium.description>Un enorme crematorio de piedra que vaporiza los cadáveres con temperaturas extremadamente altas. Funciona con gas helioxeno.</Frame_VPE_GasCrematorium.description>
+
+  	<!-- EN: helixien gas smelter (blueprint) -->
+  	<Blueprint_VPE_GasSmelter.label>fundición a gas (anteproyecto)</Blueprint_VPE_GasSmelter.label>
+  	<!-- EN: helixien gas smelter (blueprint) -->
+  	<Blueprint_Install_VPE_GasSmelter.label>fundición a gas (anteproyecto)</Blueprint_Install_VPE_GasSmelter.label>
+  	<!-- EN: helixien gas smelter (building) -->
+  	<Frame_VPE_GasSmelter.label>fundición a gas (en construcción)</Frame_VPE_GasSmelter.label>
+  	<!-- EN: Extracts usable metal from slag chunks and other mixed metal items. Operates on helixien gas. -->
+  	<Frame_VPE_GasSmelter.description>Extrae el metal utilizable de los trozos de escoria y otros elementos metálicos mezclados. Funciona con gas helioxeno.</Frame_VPE_GasSmelter.description>
+
+  	<!-- EN: helixien gas stove (blueprint) -->
+  	<Blueprint_VPE_GasStove.label>estufa a gas (anteproyecto)</Blueprint_VPE_GasStove.label>
+  	<!-- EN: helixien gas stove (blueprint) -->
+  	<Blueprint_Install_VPE_GasStove.label>estufa a gas (anteproyecto)</Blueprint_Install_VPE_GasStove.label>
+  	<!-- EN: helixien gas stove (building) -->
+  	<Frame_VPE_GasStove.label>estufa a gas (en construcción)</Frame_VPE_GasStove.label>
+  	<!-- EN: A gas-powered stove with an attached countertop for preparing meals. -->
+  	<Frame_VPE_GasStove.description>Una estufa de gas con una encimera adjunta para preparar comidas.</Frame_VPE_GasStove.description>
+
+  	<!-- EN: gas powered excavator (blueprint) -->
+  	<Blueprint_VPE_GasDrill.label>excavadora a gas (anteproyecto)</Blueprint_VPE_GasDrill.label>
+  	<!-- EN: gas powered excavator (blueprint) -->
+  	<Blueprint_Install_VPE_GasDrill.label>excavadora a gas (anteproyecto)</Blueprint_Install_VPE_GasDrill.label>
+  	<!-- EN: gas powered excavator (building) -->
+  	<Frame_VPE_GasDrill.label>excavadora a gas (en construcción)</Frame_VPE_GasDrill.label>
+  	<!-- EN: A deep-crust drilling excavator for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources. This drill will yield stone chunks if no resources are present. Can be repositioned freely. -->
+  	<Frame_VPE_GasDrill.description>Una excavadora de perforación de corteza profunda para extraer minerales de las profundidades de la superficie. Utiliza escáner de profundidad en el suelo para encontrar los recursos. Esta excavadora producirá trozos de piedra si no hay recursos presentes. Puede ser reposicionada libremente.</Frame_VPE_GasDrill.description>
+
+  	<!-- EN: gas cooler (blueprint) -->
+  	<Blueprint_VPE_GasCooler.label>refrigerador a gas (anteproyecto)</Blueprint_VPE_GasCooler.label>
+  	<!-- EN: gas cooler (building) -->
+  	<Frame_VPE_GasCooler.label>refrigerador a gas (en construcción)</Frame_VPE_GasCooler.label>
+  	<!-- EN: An air-cooling machine that releases cooled air around itself. Can be used to create a walk-in freezer. Cannot be adjusted and will automatically lower temperature slightly below zero. -->
+  	<Frame_VPE_GasCooler.description>Una máquina de enfriamiento de aire que libera aire frío a su alrededor. Se puede usar para crear un congelador. No se puede ajustar y automáticamente bajará la temperatura ligeramente por debajo de cero.</Frame_VPE_GasCooler.description>
+
+  	<!-- EN: gas heater (blueprint) -->
+  	<Blueprint_VPE_GasHeater.label>calefacción a gas (anteproyecto)</Blueprint_VPE_GasHeater.label>
+  	<!-- EN: gas heater (blueprint) -->
+  	<Blueprint_Install_VPE_GasHeater.label>calefacción a gas (anteproyecto)</Blueprint_Install_VPE_GasHeater.label>
+  	<!-- EN: gas heater (building) -->
+  	<Frame_VPE_GasHeater.label>calefacción a gas (en construcción)</Frame_VPE_GasHeater.label>
+  	<!-- EN: A device that converts helixien gas into radiated heat. It can automatically turn itself on or off to reach a specific target temperature. -->
+  	<Frame_VPE_GasHeater.description>Un dispositivo que convierte el gas helioxeno en calor irradiado. Puede encenderse o apagarse automáticamente para alcanzar una temperatura objetivo específica.</Frame_VPE_GasHeater.description>
+
+  	<!-- EN: gas sun lamp (blueprint) -->
+  	<Blueprint_VPE_GasSunLamp.label>lámpara solar a gas (anteproyecto)</Blueprint_VPE_GasSunLamp.label>
+  	<!-- EN: gas sun lamp (blueprint) -->
+  	<Blueprint_Install_VPE_GasSunLamp.label>lámpara solar a gas (anteproyecto)</Blueprint_Install_VPE_GasSunLamp.label>
+  	<!-- EN: gas sun lamp (building) -->
+  	<Frame_VPE_GasSunLamp.label>lámpara solar a gas (en construcción)</Frame_VPE_GasSunLamp.label>
+  	<!-- EN: An industrial lamp which lights an area brightly enough to grow crops, but consumes a medium amount of helixien gas. Automatically turns itself off at night. -->
+  	<Frame_VPE_GasSunLamp.description>Una lámpara industrial que ilumina un área con suficiente luz para cultivar, pero consume una cantidad media de gas helioxeno. Se apaga automáticamente por la noche.</Frame_VPE_GasSunLamp.description>
+  
+  	<!-- EN: lightning rod (blueprint) -->
+  	<Blueprint_VPE_LightningRod.label>pararrayos (anteproyecto)</Blueprint_VPE_LightningRod.label>
+  	<!-- EN: lightning rod (blueprint) -->
+  	<Blueprint_Install_VPE_LightningRod.label>pararrayos (anteproyecto)</Blueprint_Install_VPE_LightningRod.label>
+  	<!-- EN: lightning rod (building) -->
+  	<Frame_VPE_LightningRod.label>pararrayos (en construcción)</Frame_VPE_LightningRod.label>
+  	<!-- EN: An advanced technology allows this device to harness the power of lightning and place it as a ready-to-use charge in the batteries. -->
+  	<Frame_VPE_LightningRod.description>Una tecnología avanzada permite que este dispositivo aproveche la potencia del rayo y lo coloque como una carga lista para usar en las baterías.</Frame_VPE_LightningRod.description>
+
+  	<!-- EN: helixien gas geyser (blueprint) -->
+  	<Blueprint_VPE_HelixienGeyser.label>géiser de gas helioxeno (anteproyecto)</Blueprint_VPE_HelixienGeyser.label>
+  	<!-- EN: helixien gas geyser (building) -->
+  	<Frame_VPE_HelixienGeyser.label>géiser de gas helioxeno (en construcción)</Frame_VPE_HelixienGeyser.label>
+  	<!-- EN: A natural source of high-pressure gas. Helixien gas pumps can be built on top to extract the gas -->
+  	<Frame_VPE_HelixienGeyser.description>Una fuente natural de gas a alta presión. Se pueden construir bombas de gas Helioxeno en la parte superior para extraer el gas.</Frame_VPE_HelixienGeyser.description>
+
+  	<!-- EN: chemfuel pond (blueprint) -->
+  	<Blueprint_VPE_ChemfuelPond.label>estanque de biocombustible (anteproyecto)</Blueprint_VPE_ChemfuelPond.label>
+  	<!-- EN: chemfuel pond (building) -->
+  	<Frame_VPE_ChemfuelPond.label>estanque de biocombustible (en construcción)</Frame_VPE_ChemfuelPond.label>
+  	<!-- EN: A natural source of chemfuel, more common in arid biomes. A chemfuel pump can be installed here to extract the chemfuel. The pond will run out eventually. -->
+  	<Frame_VPE_ChemfuelPond.description>Una fuente natural de biocombustible, más común en los biomas áridos. Aquí se puede instalar una bomba de biocombustible para extraerlo. El estanque se agotará eventualmente.</Frame_VPE_ChemfuelPond.description>
+
+  	<!-- EN: nuclear reactor (blueprint) -->
+  	<Blueprint_VPE_NuclearGenerator.label>reactor nuclear (anteproyecto)</Blueprint_VPE_NuclearGenerator.label>
+  	<!-- EN: nuclear reactor (building) -->
+  	<Frame_VPE_NuclearGenerator.label>reactor nuclear (en construcción)</Frame_VPE_NuclearGenerator.label>
+  	<!-- EN: A large nuclear reactor repurposed from a ship power core. Consumes uranium to produce large amounts of power. Can be overloaded, resulting in even larger power output at the cost of local radiation.\n\nNuclear reactor will quickly overheat and should be cooled at all times.\n\nCannot be placed outdoors. -->
+  	<Frame_VPE_NuclearGenerator.description>Un gran reactor nuclear reprogramado a partir del núcleo de energía de una nave. Consume uranio para producir grandes cantidades de energía. Puede ser sobrecargado, lo que resulta en una producción de energía aún mayor a costa de la radiación local.\n\nEl reactor nuclear se sobrecalentará rápidamente y debe ser enfriado en todo momento.\n\nNo se puede colocar al aire libre.</Frame_VPE_NuclearGenerator.description>
+
+  	<!-- EN: portable wood-fired generator (blueprint) -->
+  	<Blueprint_VFE_PortableWoodFiredGenerator.label>generador a leña portátil (anteproyecto)</Blueprint_VFE_PortableWoodFiredGenerator.label>
+  	<!-- EN: portable wood-fired generator (blueprint) -->
+  	<Blueprint_Install_VFE_PortableWoodFiredGenerator.label>generador a leña portátil (anteproyecto)</Blueprint_Install_VFE_PortableWoodFiredGenerator.label>
+  	<!-- EN: portable wood-fired generator (building) -->
+  	<Frame_VFE_PortableWoodFiredGenerator.label>generador a leña portátil (en construcción)</Frame_VFE_PortableWoodFiredGenerator.label>
+  	<!-- EN: Produces a small amount of power by consuming wood. Must be periodically loaded with wood fuel by hand. This generator is light enough to be carried around. -->
+  	<Frame_VFE_PortableWoodFiredGenerator.description>Produce una pequeña cantidad de energía consumiendo madera. Debe ser reabastecido periódicamente a mano. Este generador es lo suficientemente ligero como para ser transportado.</Frame_VFE_PortableWoodFiredGenerator.description>
+
+  	<!-- EN: portable chemfuel powered generator (blueprint) -->
+  	<Blueprint_VFE_PortableChemfuelPoweredGenerator.label>generador a biocombustible portátil (anteproyecto)</Blueprint_VFE_PortableChemfuelPoweredGenerator.label>
+  	<!-- EN: portable chemfuel powered generator (blueprint) -->
+  	<Blueprint_Install_VFE_PortableChemfuelPoweredGenerator.label>generador a biocombustible portátil (anteproyecto)</Blueprint_Install_VFE_PortableChemfuelPoweredGenerator.label>
+  	<!-- EN: portable chemfuel powered generator (building) -->
+  	<Frame_VFE_PortableChemfuelPoweredGenerator.label>generador a biocombustible portátil (en construcción)</Frame_VFE_PortableChemfuelPoweredGenerator.label>
+  	<!-- EN: Produces a small amount of power by consuming chemfuel. Must be periodically refueled by hand. This generator is light enough to be carried around. -->
+  	<Frame_VFE_PortableChemfuelPoweredGenerator.description>Produce una pequeña cantidad de energía al consumir biocombustible. Debe ser reabastecido periódicamente a mano. Este generador es lo suficientemente ligero como para ser transportado.</Frame_VFE_PortableChemfuelPoweredGenerator.description>
+
+  	<!-- EN: industrial wood-fired generator (blueprint) -->
+  	<Blueprint_VFE_IndustrialWoodFiredGenerator.label>generador a leña industrial (anteproyecto)</Blueprint_VFE_IndustrialWoodFiredGenerator.label>
+  	<!-- EN: industrial wood-fired generator (building) -->
+  	<Frame_VFE_IndustrialWoodFiredGenerator.label>generador a leña industrial (en construcción)</Frame_VFE_IndustrialWoodFiredGenerator.label>
+  	<!-- EN: Produces a large amount of power by consuming wood. Must be periodically loaded with wood fuel by hand. -->
+  	<Frame_VFE_IndustrialWoodFiredGenerator.description>Produce una gran cantidad de energía consumiendo madera. Debe ser reabastecido periódicamente a mano.</Frame_VFE_IndustrialWoodFiredGenerator.description>
+
+  	<!-- EN: industrial chemfuel powered generator (blueprint) -->
+  	<Blueprint_VFE_IndustrialChemfuelPoweredGenerator.label>generador a biocombustible industrial (anteproyecto)</Blueprint_VFE_IndustrialChemfuelPoweredGenerator.label>
+  	<!-- EN: industrial chemfuel powered generator (building) -->
+  	<Frame_VFE_IndustrialChemfuelPoweredGenerator.label>generador a biocombustible industrial (en construcción)</Frame_VFE_IndustrialChemfuelPoweredGenerator.label>
+  	<!-- EN: Produces a large amount of power by consuming chemfuel. Must be periodically refueled by hand. -->
+  	<Frame_VFE_IndustrialChemfuelPoweredGenerator.description>Produce una gran cantidad de energía consumiendo biocombustible. Debe ser reabastecido periódicamente a mano.</Frame_VFE_IndustrialChemfuelPoweredGenerator.description>
+
+  	<!-- EN: tidal generator (blueprint) -->
+  	<Blueprint_VFE_TidalGenerator.label>generador mareomotriz (anteproyecto)</Blueprint_VFE_TidalGenerator.label>
+  	<!-- EN: tidal generator (building) -->
+  	<Frame_VFE_TidalGenerator.label>generador mareomotriz (en construcción)</Frame_VFE_TidalGenerator.label>
+  	<!-- EN: Produces electricity from moving masses of water, particularly tides. Must be placed on water. -->
+  	<Frame_VFE_TidalGenerator.description>Produce electricidad a partir de masas de agua en movimiento, particularmente de las mareas. Debe ser colocado sobre el agua.</Frame_VFE_TidalGenerator.description>
+
+  	<!-- EN: small vanometric power cell (blueprint) -->
+  	<Blueprint_VFE_SmallVanometricPowerCell.label>pequeña célula de energía vanométrica (anteproyecto)</Blueprint_VFE_SmallVanometricPowerCell.label>
+  	<!-- EN: small vanometric power cell (blueprint) -->
+  	<Blueprint_Install_VFE_SmallVanometricPowerCell.label>pequeña célula de energía vanométrica (anteproyecto)</Blueprint_Install_VFE_SmallVanometricPowerCell.label>
+  	<!-- EN: small vanometric power cell (building) -->
+  	<Frame_VFE_SmallVanometricPowerCell.label>pequeña célula de energía vanométrica (en construcción)</Frame_VFE_SmallVanometricPowerCell.label>
+  	<!-- EN: Generates a very small amount of free energy, forever, without using fuel. This technology is developed by archotechs, and is beyond even most glitterworld societies. While nobody knows exactly how it works, scholars believe it somehow extracts energy directly from fluctuations in the quantum foam. -->
+  	<Frame_VFE_SmallVanometricPowerCell.description>Genera una cantidad muy pequeña de energía gratis, para siempre, sin usar combustible. Esta tecnología es desarrollada por los arqueotécnicos científicos superdesarrollados, y está más allá incluso de la mayoría de las sociedades de mundobrillante. Aunque nadie sabe exactamente cómo funciona, los estudiosos creen que de alguna manera extrae energía directamente de las fluctuaciones de la materia cuántica.</Frame_VFE_SmallVanometricPowerCell.description>
+
+  	<!-- EN: large vanometric power cell (blueprint) -->
+  	<Blueprint_VFE_LargeVanometricPowerCell.label>gran célula de energía vanométrica (anteproyecto)</Blueprint_VFE_LargeVanometricPowerCell.label>
+  	<!-- EN: large vanometric power cell (blueprint) -->
+  	<Blueprint_Install_VFE_LargeVanometricPowerCell.label>gran célula de energía vanométrica (anteproyecto)</Blueprint_Install_VFE_LargeVanometricPowerCell.label>
+  	<!-- EN: large vanometric power cell (building) -->
+  	<Frame_VFE_LargeVanometricPowerCell.label>gran célula de energía vanométrica (en construcción)</Frame_VFE_LargeVanometricPowerCell.label>
+  	<!-- EN: Generates a large amount of free energy, forever, without using fuel. This technology is developed by archotechs, and is beyond even most glitterworld societies. While nobody knows exactly how it works, scholars believe it somehow extracts energy directly from fluctuations in the quantum foam. -->
+  	<Frame_VFE_LargeVanometricPowerCell.description>Genera una gran cantidad de energía gratis, para siempre, sin usar combustible. Esta tecnología es desarrollada por los arqueotécnicos científicos superdesarrollados, y está más allá incluso de la mayoría de las sociedades de mundobrillante. Aunque nadie sabe exactamente cómo funciona, los estudiosos creen que de alguna manera extrae energía directamente de las fluctuaciones de la materia cuántica.</Frame_VFE_LargeVanometricPowerCell.description>
+
+  	<!-- EN: archotech violence generator (blueprint) -->
+  	<Blueprint_VPE_ArchotechViolenceGenerator.label>generador de violencia arqueotecnológico (anteproyecto)</Blueprint_VPE_ArchotechViolenceGenerator.label>
+  	<!-- EN: archotech violence generator (blueprint) -->
+  	<Blueprint_Install_VPE_ArchotechViolenceGenerator.label>generador de violencia arqueotecnológico (anteproyecto)</Blueprint_Install_VPE_ArchotechViolenceGenerator.label>
+  	<!-- EN: archotech violence generator (building) -->
+  	<Frame_VPE_ArchotechViolenceGenerator.label>generador de violencia arqueotecnológico (en construcción)</Frame_VPE_ArchotechViolenceGenerator.label>
+  	<!-- EN: This device taps into psychic energy leaving the bodies of surrounding humanoids, changing it directly into usable energy. This technology is developed by archotechs, and is beyond even most glitterworld societies -->
+  	<Frame_VPE_ArchotechViolenceGenerator.description>Este dispositivo aprovecha la energía psíquica que sale de los cuerpos de los humanoides circundantes, transformándola directamente en energía utilizable. Esta tecnología es desarrollada por los arqueotécnicos científicos superdesarrollados, y está más allá incluso de la mayoría de las sociedades de mundobrillante.</Frame_VPE_ArchotechViolenceGenerator.description>
+
+  	<!-- Production -->
+  	<!-- EN: drug cabinet (blueprint) -->
+	<Blueprint_VFE_DrugCabinet.label>gabinete de medicinas (anteproyecto)</Blueprint_VFE_DrugCabinet.label>
+	<!-- EN: drug cabinet (blueprint) -->
+	<Blueprint_Install_VFE_DrugCabinet.label>gabinete de medicinas (anteproyecto)</Blueprint_Install_VFE_DrugCabinet.label>
+	<!-- EN: drug cabinet (building) -->
+	<Frame_VFE_DrugCabinet.label>gabinete de medicinas (en construcción)</Frame_VFE_DrugCabinet.label>
+	<!-- EN: Increases work speed when placed near a drug lab. One workbench links up to two drug cabinets. -->
+	<Frame_VFE_DrugCabinet.description>Aumenta la velocidad de trabajo cuando se coloca cerca de un laboratorio de drogas. Un banco de trabajo conecta hasta dos gabinete de fármacos.</Frame_VFE_DrugCabinet.description>
+	
+	<!-- EN: machining cabinet (blueprint) -->
+	<Blueprint_VFE_MachiningCabinet.label>gabinete de maquinado (anteproyecto)</Blueprint_VFE_MachiningCabinet.label>
+	<!-- EN: machining cabinet (blueprint) -->
+	<Blueprint_Install_VFE_MachiningCabinet.label>gabinete de maquinado (anteproyecto)</Blueprint_Install_VFE_MachiningCabinet.label>
+	<!-- EN: machining cabinet (building) -->
+	<Frame_VFE_MachiningCabinet.label>gabinete de maquinado (en construcción)</Frame_VFE_MachiningCabinet.label>
+	<!-- EN: Increases work speed when placed near a machining table. One workbench links up to two machining cabinets. -->
+	<Frame_VFE_MachiningCabinet.description>Aumenta la velocidad de trabajo cuando se coloca cerca de una mesa de maquinado. Un banco de trabajo conecta hasta dos gabinetes de maquinado.</Frame_VFE_MachiningCabinet.description>
+	
+	<!-- EN: smithing cabinet (blueprint) -->
+	<Blueprint_VFE_SmithyCabinet.label>gabinete de herrería (anteproyecto)</Blueprint_VFE_SmithyCabinet.label>
+	<!-- EN: smithing cabinet (blueprint) -->
+	<Blueprint_Install_VFE_SmithyCabinet.label>gabinete de herrería (anteproyecto)</Blueprint_Install_VFE_SmithyCabinet.label>
+	<!-- EN: smithing cabinet (building) -->
+	<Frame_VFE_SmithyCabinet.label>gabinete de herrería (en construcción)</Frame_VFE_SmithyCabinet.label>
+	<!-- EN: Increases work speed when placed near a smithy. One workbench links up to two smithy cabinets. -->
+	<Frame_VFE_SmithyCabinet.description>Aumenta la velocidad de trabajo cuando se coloca cerca de una forja. Un banco de trabajo conecta hasta dos gabinetes de herrería.</Frame_VFE_SmithyCabinet.description>
+	
+	<!-- EN: kitchen sink cabinet (blueprint) -->
+	<Blueprint_VFE_KitchenSinkCabinet.label>gabinete de cocina (anteproyecto)</Blueprint_VFE_KitchenSinkCabinet.label>
+	<!-- EN: kitchen sink cabinet (blueprint) -->
+	<Blueprint_Install_VFE_KitchenSinkCabinet.label>gabinete de cocina (anteproyecto)</Blueprint_Install_VFE_KitchenSinkCabinet.label>
+	<!-- EN: kitchen sink cabinet (building) -->
+	<Frame_VFE_KitchenSinkCabinet.label>gabinete de cocina (en construcción)</Frame_VFE_KitchenSinkCabinet.label>
+	<!-- EN: Increases work speed when placed nearby a cooking stove. -->
+	<Frame_VFE_KitchenSinkCabinet.description>Aumenta la velocidad de trabajo cuando se coloca cerca de una estufa.</Frame_VFE_KitchenSinkCabinet.description>
+	
+	<!-- EN: tailor cabinett (blueprint) -->
+	<Blueprint_VFE_TailorCabinet.label>gabinete de sastrería (anteproyecto)</Blueprint_VFE_TailorCabinet.label>
+	<!-- EN: tailor cabinett (blueprint) -->
+	<Blueprint_Install_VFE_TailorCabinet.label>gabinete de sastrería (anteproyecto)</Blueprint_Install_VFE_TailorCabinet.label>
+	<!-- EN: tailor cabinett (building) -->
+	<Frame_VFE_TailorCabinet.label>gabinete de sastrería (en construcción)</Frame_VFE_TailorCabinet.label>
+	<!-- EN: Increases work speed when placed near a tailoring table. One workbench links up to two tailor cabinets. -->
+	<Frame_VFE_TailorCabinet.description>Aumenta la velocidad de trabajo cuando se coloca cerca de una mesa de sastrería. Un banco de trabajo conecta hasta dos gabinetes de sastrería.</Frame_VFE_TailorCabinet.description>
+	
+	<!-- EN: fabrication cabinet (blueprint) -->
+	<Blueprint_VFE_FabricationCabinet.label>gabinete de fabricación (anteproyecto)</Blueprint_VFE_FabricationCabinet.label>
+	<!-- EN: fabrication cabinet (blueprint) -->
+	<Blueprint_Install_VFE_FabricationCabinet.label>gabinete de fabricación (anteproyecto)</Blueprint_Install_VFE_FabricationCabinet.label>
+	<!-- EN: fabrication cabinet (building) -->
+	<Frame_VFE_FabricationCabinet.label>gabinete de fabricación (en construcción)</Frame_VFE_FabricationCabinet.label>
+	<!-- EN: Increases work speed when placed near a fabrication bench. One workbench can link up to two fabrication cabinets. -->
+	<Frame_VFE_FabricationCabinet.description>Aumenta la velocidad de trabajo cuando se coloca cerca de una mesa de fabricación. Un banco de trabajo conecta hasta dos gabinetes de fabricación.</Frame_VFE_FabricationCabinet.description>
+  
+	<!-- EN: large machining table (blueprint) -->
+	<Blueprint_VFE_TableMachiningLarge.label>mesa de maquinado grande (anteproyecto)</Blueprint_VFE_TableMachiningLarge.label>
+	<!-- EN: large machining table (building) -->
+	<Frame_VFE_TableMachiningLarge.label>mesa de maquinado grande (en construcción)</Frame_VFE_TableMachiningLarge.label>
+	<!-- EN: A workbench equipped with advanced tools and enough space to produce technological marvels from simpler materials in shorter amounts of time. Consumes power. -->
+	<Frame_VFE_TableMachiningLarge.description>Una estación de gran tamaño, equipada con herramientas avanzadas y sufiente espacio para la producción de maravillas tecnológicas a partir de materiales más simples en muy poco tiempo. Consume energía.</Frame_VFE_TableMachiningLarge.description>
+	
+	<!-- EN: large electric smithy (blueprint) -->
+	<Blueprint_VFE_TableSmithyLarge.label>forja eléctrica grande (anteproyecto)</Blueprint_VFE_TableSmithyLarge.label>
+	<!-- EN: large electric smithy (building) -->
+	<Frame_VFE_TableSmithyLarge.label>forja eléctrica grande (en construcción)</Frame_VFE_TableSmithyLarge.label>
+	<!-- EN: An electric-powered work center for smithing non-mechanical weapons and tools. Consumes a lot of power. -->
+	<Frame_VFE_TableSmithyLarge.description>Una estación de trabajo con una conexión a una toma de energía eléctrica para la forja de armas y herramientas no mecánicas. Consume mucha energía.</Frame_VFE_TableSmithyLarge.description>
+	
+	<!-- EN: large stove table (blueprint) -->
+	<Blueprint_VFE_TableStoveLarge.label>cocina grande (anteproyecto)</Blueprint_VFE_TableStoveLarge.label>
+	<!-- EN: large stove table (building) -->
+	<Frame_VFE_TableStoveLarge.label>cocina grande (en construcción)</Frame_VFE_TableStoveLarge.label>
+	<!-- EN: A large size manufacturing stove as well as multiple ovens to prepare meals and cook significantly faster and in higher quantities./n/nThis workbench allows for bulk production of meals. -->
+	<Frame_VFE_TableStoveLarge.description>Una cocina de gran tamaño, con múltiples hornos para preparar comidas significativamente más rápido y en mayores cantidades./n/nEsta estación de trabajo permite la producción de comida a gran escala.</Frame_VFE_TableStoveLarge.description>
+	
+	<!-- EN: large tailoring table (blueprint) -->
+	<Blueprint_VFE_TableTailorLarge.label>gran mesa de satrería(anteproyecto)</Blueprint_VFE_TableTailorLarge.label>
+	<!-- EN: large tailoring table (building) -->
+	<Frame_VFE_TableTailorLarge.label>gran mesa de satrería(en construcción)</Frame_VFE_TableTailorLarge.label>
+	<!-- EN: A large size manufacturing workbench with several tools for designers and a sewing machine for rapid tailoring of clothes. Can work without electricity at 33% of normal speed. -->
+	<Frame_VFE_TableTailorLarge.description>Una estación de trabajo de gran tamaño, con una máquina de coser para la confección rápida de ropa y varias herramientas para los diseñadores. Puede trabajar sin electricidad a un 33% de la velocidad normal.</Frame_VFE_TableTailorLarge.description>
+
+	<!-- EN: assembly bench (blueprint) -->
+	<Blueprint_VFE_ComponentFabricationBench.label>mesa de ensamblaje (anteproyecto)</Blueprint_VFE_ComponentFabricationBench.label>
+	<!-- EN: assembly bench (building) -->
+	<Frame_VFE_ComponentFabricationBench.label>mesa de ensamblaje (en construcción)</Frame_VFE_ComponentFabricationBench.label>
+	<!-- EN: A workbench equipped with advanced tools to produce components. -->
+	<Frame_VFE_ComponentFabricationBench.description>Una mesa equipada con herramientas avanzadas para la producción de componentes.</Frame_VFE_ComponentFabricationBench.description>
+	
+	<!-- EN: electric butcher (blueprint) -->
+	<Blueprint_VFE_TableButcherElectric.label>mesa de carnicero eléctrica (anteproyecto)</Blueprint_VFE_TableButcherElectric.label>
+	<!-- EN: electric butcher (blueprint) -->
+	<Blueprint_Install_VFE_TableButcherElectric.label>mesa de carnicero eléctrica (anteproyecto)</Blueprint_Install_VFE_TableButcherElectric.label>
+	<!-- EN: electric butcher (building) -->
+	<Frame_VFE_TableButcherElectric.label>mesa de carnicero eléctrica (en construcción)</Frame_VFE_TableButcherElectric.label>
+	<!-- EN: A motorized table with a rotating saw blade for butchering dead creatures quicker into precise slices of raw meat. Consumes a lot of power. -->
+	<Frame_VFE_TableButcherElectric.description>Una mesa motorizada con una hoja de sierra giratoria para rebanar con más precisión la carne cruda de las criaturas muertas. Consume mucha energía.</Frame_VFE_TableButcherElectric.description>
+	
+	<!-- EN: electric drug lab (blueprint) -->
+	<Blueprint_VFE_TableDrugLabElectric.label>laboratorio de drogas eléctrico (anteproyecto)</Blueprint_VFE_TableDrugLabElectric.label>
+	<!-- EN: electric drug lab (blueprint) -->
+	<Blueprint_Install_VFE_TableDrugLabElectric.label>laboratorio de drogas eléctrico (anteproyecto)</Blueprint_Install_VFE_TableDrugLabElectric.label>
+	<!-- EN: electric drug lab (building) -->
+	<Frame_VFE_TableDrugLabElectric.label>laboratorio de drogas eléctrico (en construcción)</Frame_VFE_TableDrugLabElectric.label>
+	<!-- EN: An advanced work bench equipped with containers, heaters, and measurement devices for producing various drugs with more efficiency. Consumes a lot of power. -->
+	<Frame_VFE_TableDrugLabElectric.description>Un laboratorio avanzado equipado con contenedores, calentadores y dispositivos de medición para producir diversas drogas con mayor eficiencia. Consume mucha energía.</Frame_VFE_TableDrugLabElectric.description>
+	
+	<!-- EN: fueled smelter (blueprint) -->
+	<Blueprint_VFE_FueledSmelter.label>fundición de combustible (anteproyecto)</Blueprint_VFE_FueledSmelter.label>
+	<!-- EN: fueled smelter (blueprint) -->
+	<Blueprint_Install_VFE_FueledSmelter.label>fundición de combustible (anteproyecto)</Blueprint_Install_VFE_FueledSmelter.label>
+	<!-- EN: fueled smelter (building) -->
+	<Frame_VFE_FueledSmelter.label>fundición de combustible (en construcción)</Frame_VFE_FueledSmelter.label>
+	<!-- EN: A wood-fueled station for smelting. Extracts usable metal from slag chunks and other mixed metal items. -->
+	<Frame_VFE_FueledSmelter.description>Una mesa para fundir alimentada con madera. Extrae el metal utilizable de los escombros metálicos.</Frame_VFE_FueledSmelter.description>
+	
+	<!-- EN: electric stonecutter's table (blueprint) -->
+	<Blueprint_VFE_TableStonecutterElectric.label>mesa de cantería eléctrica (anteproyecto)</Blueprint_VFE_TableStonecutterElectric.label>
+	<!-- EN: electric stonecutter's table (blueprint) -->
+	<Blueprint_Install_VFE_TableStonecutterElectric.label>mesa de cantería eléctrica (anteproyecto)</Blueprint_Install_VFE_TableStonecutterElectric.label>
+	<!-- EN: electric stonecutter's table (blueprint) -->
+	<Frame_VFE_TableStonecutterElectric.label>mesa de cantería eléctrica (en construcción)</Frame_VFE_TableStonecutterElectric.label>
+	<!-- EN: An advanced work table with electrical saws and holders for cutting stone chunks into usable blocks in shorter duration of time on an assembly line. Consumes a lot of power. -->
+	<Frame_VFE_TableStonecutterElectric.description>Una mesa avanzada de trabajo con sierras eléctricas y soportes para cortar trozos de piedra en bloques. Consume mucha energía.</Frame_VFE_TableStonecutterElectric.description>
+
+	<!-- Security-->
+	<!-- EN: deployable barrier (blueprint) -->
+	<Blueprint_VFES_DeployableBarrier.label>barrera desplegable (anteproyecto)</Blueprint_VFES_DeployableBarrier.label>
+	<!-- EN: deployable barrier (building) -->
+	<Frame_VFES_DeployableBarrier.label>barrera desplegable (en construcción)</Frame_VFES_DeployableBarrier.label>
+	<!-- EN: A submersible barrier which acts as a normal floor tile when unpowered. Provides excellent cover from ranged attacks. It only takes half as much damage when submerged. -->
+	<Frame_VFES_DeployableBarrier.description>Una barrera sumergible que actúa como una baldosa normal cuando está sin energía. Proporciona una excelente cobertura de los ataques a distancia.</Frame_VFES_DeployableBarrier.description>
+
+	<!-- EN: deployable turret (blueprint) -->
+	<Blueprint_VFES_Turret_FloorTurret.label>torreta desplegable (anteproyecto)</Blueprint_VFES_Turret_FloorTurret.label>
+	<!-- EN: deployable turret (building) -->
+	<Frame_VFES_Turret_FloorTurret.label>torreta desplegable (en construcción)</Frame_VFES_Turret_FloorTurret.label>
+	<!-- EN: A submersible military-grade double barreled automatic turret which acts as a normal floor tile when unpowered. It only takes half as much damage when submerged. Requires steel to refurbish its barrels after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+	<Frame_VFES_Turret_FloorTurret.description>Una torreta automática sumergible de doble cañón que actúa como una baldosa normal cuando está sin energía. Solo recibe la mitad del daño cuando está sumergida. Requiere acero para renovar sus cañones después de un uso intenso. Puede explotar cuando se daña. Su tonta IA no puede ser controlada directamente, así que ten cuidado con el fuego amigo.</Frame_VFES_Turret_FloorTurret.description>
+
+	<!-- EN: HMG complex (blueprint) -->
+	<Blueprint_VFES_Turret_HMGComplex.label>complejo de ametralladora pesada (anteproyecto)</Blueprint_VFES_Turret_HMGComplex.label>
+	<!-- EN: HMG complex (building) -->
+	<Frame_VFES_Turret_HMGComplex.label>complejo de ametralladora pesada (en construcción)</Frame_VFES_Turret_HMGComplex.label>
+	<!-- EN: A stationary heavy machine gun supported by some sandbags to grant cover. -->
+	<Frame_VFES_Turret_HMGComplex.description>Una ametralladora pesada estacionaria apoyada en unos sacos de arena para proporcionar cobertura.</Frame_VFES_Turret_HMGComplex.description>
+
+	<!-- EN: chemfuel barrel (blueprint) -->
+	<Blueprint_VFES_ChemfuelBarrel.label>barril de biocombustible (anteproyecto)</Blueprint_VFES_ChemfuelBarrel.label>
+	<!-- EN: chemfuel barrel (blueprint) -->
+	<Blueprint_Install_VFES_ChemfuelBarrel.label>barril de biocombustible (anteproyecto)</Blueprint_Install_VFES_ChemfuelBarrel.label>
+	<!-- EN: chemfuel barrel (building) -->
+	<Frame_VFES_ChemfuelBarrel.label>barril de biocombustible (en construcción)</Frame_VFES_ChemfuelBarrel.label>
+	<!-- EN: A barrel full of chemfuel. Ignites upon getting shot, which results in a massive explosion. -->
+	<Frame_VFES_ChemfuelBarrel.description>Un barril lleno de biocombustible. Se enciende al recibir un disparo, lo que resulta en una enorme explosión.</Frame_VFES_ChemfuelBarrel.description>
+
+	<!-- EN: land mine (blueprint) -->
+	<Blueprint_VFES_Landmine.label>mina terrestre (anteproyecto)</Blueprint_VFES_Landmine.label>
+	<!-- EN: land mine (blueprint) -->
+	<Blueprint_Install_VFES_Landmine.label>mina terrestre (anteproyecto)</Blueprint_Install_VFES_Landmine.label>
+	<!-- EN: land mine (building) -->
+	<Frame_VFES_Landmine.label>mina terrestre (en construcción)</Frame_VFES_Landmine.label>
+	<!-- EN: An anti-tank container of explosive material, designed to incapacitate armored vehicles and enemy personnel. Explodes immediately. -->
+	<Frame_VFES_Landmine.description>Un dispositivo antitanque de material explosivo, diseñado para incapacitar a los vehículos blindados y al personal enemigo. Explota inmediatamente.</Frame_VFES_Landmine.description>
+
+	<!-- EN: decoy (blueprint) -->
+	<Blueprint_VFES_Turret_Decoy.label>señuelo (anteproyecto)</Blueprint_VFES_Turret_Decoy.label>
+	<!-- EN: decoy (blueprint) -->
+	<Blueprint_Install_VFES_Turret_Decoy.label>señuelo (anteproyecto)</Blueprint_Install_VFES_Turret_Decoy.label>
+	<!-- EN: decoy (building) -->
+	<Frame_VFES_Turret_Decoy.label>señuelo (en construcción)</Frame_VFES_Turret_Decoy.label>
+	<!-- EN: A cloth dummy holding a wooden rifle. Attracts enemy attention. -->
+	<Frame_VFES_Turret_Decoy.description>Un maniquí de tela que sostiene un rifle de madera. Atrae la atención del enemigo.</Frame_VFES_Turret_Decoy.description>
+
+	<!-- EN: double autocannon (blueprint) -->
+	<Blueprint_VFES_Turret_AutocannonDouble.label>torreta de doble cañón automático (anteproyecto)</Blueprint_VFES_Turret_AutocannonDouble.label>
+	<!-- EN: double autocannon (building) -->
+	<Frame_VFES_Turret_AutocannonDouble.label>torreta de doble cañón automático (en construcción)</Frame_VFES_Turret_AutocannonDouble.label>
+	<!--EN:  A heavy automatic turret enhanced with 2 barrels. Its large-caliber shells do heavy damage over significant ranges, but its barrels must be refurbished after use. It cannot fire at close-up targets, and may explode when damaged. -->
+	<Frame_VFES_Turret_AutocannonDouble.description>Una pesada torreta automática mejorada con 2 cañones. Sus proyectiles de gran calibre hacen un gran daño a grandes distancias, pero sus cañones deben ser reacondicionados después de su uso. No puede disparar a objetivos cercanos, y puede explotar al recibir daño.</Frame_VFES_Turret_AutocannonDouble.description>
+
+	<!-- EN: rocket turret (blueprint) -->
+	<Blueprint_VFES_Turret_TriRocket.label>torreta de misiles (anteproyecto)</Blueprint_VFES_Turret_TriRocket.label>
+	<!-- EN: rocket turret (building) -->
+	<Frame_VFES_Turret_TriRocket.label>torreta de misiles (en construcción)</Frame_VFES_Turret_TriRocket.label>
+	<!-- EN: A heavy turret capable of launching a barrage of self-propelled surface to surface rockets. It cannot fire at close-up targets, and may explode when damaged. -->
+	<Frame_VFES_Turret_TriRocket.description>Una torreta pesada capaz de disparar una lluvia de misiles autopropulsados. No puede disparar a objetivos cercanos, y puede explotar cuando se daña.</Frame_VFES_Turret_TriRocket.description>
+
+	<!-- EN: artillery (blueprint) -->
+	<Blueprint_VFES_Turret_Artillery.label>artillería (anteproyecto)</Blueprint_VFES_Turret_Artillery.label>
+	<!-- EN: artillery (building) -->
+	<Frame_VFES_Turret_Artillery.label>artillería (en construcción)</Frame_VFES_Turret_Artillery.label>
+	<!-- EN: A manned artillery that launches all kinds of shells. Capable of inflicting devastating damage to both enemy forces and structures, this military machinery excels at laying down fire support for soldiers in the field.\n\nCapable of targeting other areas of the world within a medium radius. -->
+	<Frame_VFES_Turret_Artillery.description>Una artillería tripulada que lanza todo tipo de proyectiles. Capaz de infligir daños devastadores a las fuerzas y estructuras enemigas, esta maquinaria militar sobresale en el apoyo de fuego para los soldados en el campo.\n\nCapaz de apuntar a otras áreas del mundo en un radio medio.</Frame_VFES_Turret_Artillery.description>
+
+	<!-- EN: barbed wire (blueprint) -->
+	<Blueprint_VFES_BarbedWire.label>alambre de púas (anteproyecto)</Blueprint_VFES_BarbedWire.label>
+	<!-- EN: barbed wire (building) -->
+	<Frame_VFES_BarbedWire.label>alambre de púas (en construcción)</Frame_VFES_BarbedWire.label>
+	<!-- EN: A type of steel fencing wire consisting of sharp edges and points arranged at intervals. Not only does it slow movement of enemies, but it inflicts cuts and puncture wounds. -->
+	<Frame_VFES_BarbedWire.description>Un tipo de alambre de acero para cercas que consiste en bordes afilados y puntas organizadas a intervalos. No sólo ralentiza el movimiento de los enemigos, sino que inflige cortes y heridas punzantes.</Frame_VFES_BarbedWire.description>
+
+	<!-- EN: trench (blueprint) -->
+	<Blueprint_VFES_Trench.label>trinchera (anteproyecto)</Blueprint_VFES_Trench.label>
+	<!--EN: trench (building) -->
+	<Frame_VFES_Trench.label>trinchera (en construcción)</Frame_VFES_Trench.label>
+	<!-- EN: A long, narrow ditch dug into the ground. Crossing it requires climbing up and down, therefore it significantly slows down movement speed. Soldiers inside the trench suffer weapon range penalty, but gain significant cover. -->
+	<Frame_VFES_Trench.description>Una larga y estrecha zanja excavada en el suelo. Cruzarla requiere subir y bajar, por lo que reduce significativamente la velocidad de movimiento. Los soldados dentro de la trinchera sufren una penalización en el alcance de las armas, pero ganan una cobertura significativa.</Frame_VFES_Trench.description>
+
+	<!-- EN: ammo crate (blueprint) -->
+	<Blueprint_VFES_AmmoCrate.label>caja de munición (anteproyecto)</Blueprint_VFES_AmmoCrate.label>
+	<!-- EN: ammo crate (blueprint) -->
+	<Blueprint_Install_VFES_AmmoCrate.label>caja de munición (anteproyecto)</Blueprint_Install_VFES_AmmoCrate.label>
+	<!-- EN: ammo crate (building) -->
+	<Frame_VFES_AmmoCrate.label>caja de munición (en construcción)</Frame_VFES_AmmoCrate.label>
+	<!-- EN: An ammo crate useful for storing shells. Improves firing rate of surrounding soldiers. -->
+	<Frame_VFES_AmmoCrate.description>Un cajón de munición útil para almacenar proyectiles. Mejora la velocidad de disparo de los soldados cercanos.</Frame_VFES_AmmoCrate.description>
+	<!-- EN: military turret doublegun (blueprint) -->
+	<Blueprint_VFES_Turret_MilitaryTurret.label>torreta militar de doble cañón (anteproyecto)</Blueprint_VFES_Turret_MilitaryTurret.label>
+	<!-- EN: military turret doublegun (blueprint) -->
+	<Blueprint_Install_VFES_Turret_MilitaryTurret.label>torreta militar de doble cañón (anteproyecto)</Blueprint_Install_VFES_Turret_MilitaryTurret.label>
+	<!-- EN: military turret doublegun (building) -->
+	<Frame_VFES_Turret_MilitaryTurret.label>torreta militar de doble cañón (en construcción)</Frame_VFES_Turret_MilitaryTurret.label>
+	<!-- EN: A military-grade double barreled automatic turret. Requires steel to refurbish its barrels after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+	<Frame_VFES_Turret_MilitaryTurret.description>Una torreta automática de doble cañón de grado militar. Requiere acero para renovar sus cañones después de un uso intenso. Puede explotar cuando se daña.</Frame_VFES_Turret_MilitaryTurret.description>
+
+	<!-- EN: searchlight (blueprint) -->
+	<Blueprint_VFES_Turret_Searchlight.label>torreta reflectora (anteproyecto)</Blueprint_VFES_Turret_Searchlight.label>
+	<!-- EN: searchlight (blueprint) -->
+	<Blueprint_Install_VFES_Turret_Searchlight.label>torreta reflectora (anteproyecto)</Blueprint_Install_VFES_Turret_Searchlight.label>
+	<!-- EN: searchlight (building) -->
+	<Frame_VFES_Turret_Searchlight.label>torreta reflectora (en construcción)</Frame_VFES_Turret_Searchlight.label>
+	<!-- EN: An apparatus combining an extremely luminous lamp and a mirrored parabolic reflector, useful for lighting up and dazzling targets. -->
+	<Frame_VFES_Turret_Searchlight.description>Un aparato que combina una lámpara extremadamente luminosa y un reflector parabólico de espejo, útil para iluminar y deslumbrar a los objetivos.</Frame_VFES_Turret_Searchlight.description>
+
+	<!-- EN: flame turret gun (blueprint) -->
+	<Blueprint_VFES_Turret_Flame.label>torreta lanzallamas (anteproyecto)</Blueprint_VFES_Turret_Flame.label>
+	<!-- EN: flame turret gun (blueprint) -->
+	<Blueprint_Install_VFES_Turret_Flame.label>torreta lanzallamas (anteproyecto)</Blueprint_Install_VFES_Turret_Flame.label>
+	<!-- EN: flame turret gun (building) -->
+	<Frame_VFES_Turret_Flame.label>torreta lanzallamas (en construcción)</Frame_VFES_Turret_Flame.label>
+	<!-- EN: A portable flamethrower turret. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+	<Frame_VFES_Turret_Flame.description>Una torreta lanzallamas portátil. Puede explotar cuando se daña.</Frame_VFES_Turret_Flame.description>
+
+	<!-- EN: sentry gun (blueprint) -->
+	<Blueprint_VFES_Turret_SentryGun.label>torreta centinela (anteproyecto)</Blueprint_VFES_Turret_SentryGun.label>
+	<!-- EN: sentry gun (blueprint) -->
+	<Blueprint_Install_VFES_Turret_SentryGun.label>torreta centinela (anteproyecto)</Blueprint_Install_VFES_Turret_SentryGun.label>
+	<!-- EN: sentry gun (building) -->
+	<Frame_VFES_Turret_SentryGun.label>torreta centinela (en construcción)</Frame_VFES_Turret_SentryGun.label>
+	<!-- EN: A self-powered turret with a small gatling gun mounted on top. Light enough to be carried and deployed wherever. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+	<Frame_VFES_Turret_SentryGun.description>Una torreta autopropulsada con un pequeño cañón de combate montado en la parte superior. Lo suficientemente ligera como para ser llevada y desplegada donde sea. Puede explotar cuando se daña.</Frame_VFES_Turret_SentryGun.description>
+
+	<!-- EN: bear trap (blueprint) -->
+	<Blueprint_VVFES_BearTrap.label>trampa para osos (anteproyecto)</Blueprint_VVFES_BearTrap.label>
+	<!-- EN: bear trap (blueprint) -->
+	<Blueprint_Install_VFES_BearTrap.label>trampa para osos (anteproyecto)</Blueprint_Install_VFES_BearTrap.label>
+	<!-- EN: bear trap (building) -->
+	<Frame_VFES_BearTrap.label>trampa para osos (en construcción)</Frame_VFES_BearTrap.label>
+	<!-- EN: A set of spikes under tension, connected to a touch-activated trigger. When the victim disturbs the trigger, the spikes spring forth and typically strike their legs or feet. The spikes will harmlessly go over vitims that are too small, while victims that are too large will simply crush this trap. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. -->
+	<Frame_VFES_BearTrap.description>Un conjunto de púas en tensión, conectadas a un gatillo activado por tacto. Cuando la víctima perturba el gatillo, los picos saltan y suelen golpear sus piernas o pies. Los picos pasarán inofensivamente por encima de las victimas que sean demasiado pequeñas, mientras que las víctimas que son demasiado grandes simplemente serán aplastadas por esta trampa. Como está escondida en el terreno circundante, no puede ser colocada adyacente a otras trampas.</Frame_VFES_BearTrap.description>
+
+	<!-- EN: ballista (blueprint) -->
+	<Blueprint_VFES_Turret_Ballista.label>balista (anteproyecto)</Blueprint_VFES_Turret_Ballista.label>
+	<!-- EN: ballista (building) -->
+	<Frame_VFES_Turret_Ballista.label>balista (en construcción)</Frame_VFES_Turret_Ballista.label>
+	<!-- EN: An ancient military siege engine in the form of a crossbow mounted on a wooden construct. Bolts fired from this machine explode into splinters on impact. -->
+	<Frame_VFES_Turret_Ballista.description>Un antiguo motor de asedio militar en forma de ballesta montado en una construcción de madera. Los pernos disparados por esta máquina explotan en astillas en el momento del impacto.</Frame_VFES_Turret_Ballista.description>
+
+	<!-- EN: catapult (blueprint) -->
+	<Blueprint_VFES_Turret_Catapult.label>catapulta (anteproyecto)</Blueprint_VFES_Turret_Catapult.label>
+	<!-- EN: catapult (building) -->
+	<Frame_VFES_Turret_Catapult.label>catapulta (en construcción)</Frame_VFES_Turret_Catapult.label>
+	<!-- EN: A catapult is a ballistic device used to launch a projectile a great distance without the aid of gunpowder or other propellants. In use since ancient times, the catapult has proven to be one of the most persistently effective mechanisms in warfare. -->
+	<Frame_VFES_Turret_Catapult.description>Un dispositivo balístico utilizado para lanzar un proyectil a gran distancia sin la ayuda de pólvora u otros propulsores. Utilizada desde la antigüedad, la catapulta ha demostrado ser uno de los mecanismos más persistentemente efectivos en la guerra.</Frame_VFES_Turret_Catapult.description>
+
+	<!-- EN: cavalry spikes (blueprint) -->
+	<Blueprint_VFES_CavalrySpikes.label>barricada de pinchos (anteproyecto)</Blueprint_VFES_CavalrySpikes.label>
+	<!-- EN: cavalry spikes (building) -->
+	<Frame_VFES_CavalrySpikes.label>barricada de pinchos (en construcción)</Frame_VFES_CavalrySpikes.label>
+	<!-- EN: Wooden stakes placed in a row to build defensive fortifications. Very cheap and quick to build, provides basic cover and deals damage to people trying to traverse them. Breaks after some time. -->
+	<Frame_VFES_CavalrySpikes.description>Estacas de madera colocadas en fila para formar fortificaciones defensivas. Muy baratas y rápidas de construir, proporcionan una cobertura básica y causan daños a las personas que intentan atravesarlas. Se rompe después de un tiempo.</Frame_VFES_CavalrySpikes.description>
+
+	<!-- EN: small shield generator (blueprint) -->
+	<Blueprint_VFES_ShieldGenerator_Small.label>generador de escudo pequeño (anteproyecto)</Blueprint_VFES_ShieldGenerator_Small.label>
+	<!-- EN: small shield generator (blueprint) -->
+	<Blueprint_Install_VFES_ShieldGenerator_Small.label>generador de escudo pequeño (anteproyecto)</Blueprint_Install_VFES_ShieldGenerator_Small.label>
+	<!-- EN: small shield generator (building) -->
+	<Frame_VFES_ShieldGenerator_Small.label>generador de escudo pequeño (en construcción)</Frame_VFES_ShieldGenerator_Small.label>
+	<!-- An ultratech device that projects a potent energy field around itself to protect everything inside, but consumes a huge amount of power when active. Works through walls.\n\nShield generators only activate when there's an active threat present such as a raid or an artillery bombardment. Otherwise, they stay in an inactive state and consume much less power.\n\nCan set surrounding area on fire if enough damage is absorbed in a short period of time. -->
+	<Frame_VFES_ShieldGenerator_Small.description>Un dispositivo ultratecnológico que proyecta un potente campo de energía a su alrededor para proteger todo lo que hay dentro. Funciona a través de las paredes. Consume una enorme cantidad de energía cuando está activo, pero solo se activa cuando hay una amenaza como un ataque o un bombardeo de artillería. De lo contrario, permanece en estado inactivo y consumen mucha menos energía.\n\nPuede incendiar el área circundante si se absorbe suficiente daño en un corto período de tiempo.</Frame_VFES_ShieldGenerator_Small.description>
+
+	<!-- EN: large shield generator (blueprint) -->
+	<Blueprint_VFES_ShieldGenerator_Large.label>generador de escudo grande (anteproyecto)</Blueprint_VFES_ShieldGenerator_Large.label>
+	<!-- EN: large shield generator (blueprint) -->
+	<Blueprint_Install_VFES_ShieldGenerator_Large.label>generador de escudo grande (anteproyecto)</Blueprint_Install_VFES_ShieldGenerator_Large.label>
+	<!-- EN: large shield generator (building) -->
+	<Frame_VFES_ShieldGenerator_Large.label>generador de escudo grande (en construcción)</Frame_VFES_ShieldGenerator_Large.label>
+	<!-- An ultratech device that projects a large energy field around itself to protect everything inside, but consumes a huge amount of power when active. Works through walls.\n\nShield generators only activate when there's an active threat present such as a raid or an artillery bombardment. Otherwise, they stay in an inactive state and consume much less power. -->
+	<Frame_VFES_ShieldGenerator_Large.description>Un dispositivo ultratecnológico que proyecta un gran campo de energía a su alrededor para proteger todo lo que hay dentro. Funciona a través de las paredes.\n\nConsume una enorme cantidad de energía cuando está activo, pero solo se activa cuando hay una amenaza como un ataque o un bombardeo de artillería. De lo contrario, permanece en estado inactivo y consumen mucha menos energía.</Frame_VFES_ShieldGenerator_Large.description>
+
+	<!-- EN: archotech shield generator (blueprint) -->
+	<Blueprint_VFES_ShieldGenerator_Archotech.label>generador de escudo arqueotecnológico (anteproyecto)</Blueprint_VFES_ShieldGenerator_Archotech.label>
+	<!-- EN: archotech shield generator (blueprint) -->
+	<Blueprint_Install_VFES_ShieldGenerator_Archotech.label>generador de escudo arqueotecnológico (anteproyecto)</Blueprint_Install_VFES_ShieldGenerator_Archotech.label>
+	<!-- EN: archotech shield generator (building) -->
+	<Frame_VFES_ShieldGenerator_Archotech.label>generador de escudo arqueotecnológico (en construcción)</Frame_VFES_ShieldGenerator_Archotech.label>
+	<!-- EN: A self-powered archotech device that projects a very potent energy field around itself to protect everything inside. Works through walls.\n\nShield generators only activate when there's an active threat present such as a raid or an artillery bombardment. Otherwise, they stay in an inactive state and consume much less power.\n\nCan set surrounding area on fire if enough damage is absorbed in a short period of time. -->
+	<Frame_VFES_ShieldGenerator_Archotech.description>Un dispositivo ultratecnológico autoalimentado que proyecta un potente campo de energía a su alrededor para proteger todo lo que hay dentro. Funciona a través de las paredes.\n\nConsume una enorme cantidad de energía cuando está activo, pero solo se activa cuando hay una amenaza como un ataque o un bombardeo de artillería. De lo contrario, permanece en un estado inactivo y consume mucha menos energía.\n\nPuede incendiar el área circundante si se absorbe suficiente daño en un corto período de tiempo.</Frame_VFES_ShieldGenerator_Archotech.description>
+
+	<!-- EN: barrier (blueprint) -->
+	<Blueprint_VFES_Barrier.label>barrera (anteproyecto)</Blueprint_VFES_Barrier.label>
+	<!-- EN: barrier (building) -->
+	<Frame_VFES_Barrier.label>barrera (en construcción)</Frame_VFES_Barrier.label>
+	<!-- EN: A reinforced metal barricade held in place by a concrete frame. Provides an excellent amount of cover from ranged attacks. -->
+	<Frame_VFES_Barrier.description>Una barricada de metal reforzado sostenida por un marco de hormigón. Proporciona una excelente cobertura para los ataques a distancia.</Frame_VFES_Barrier.description>
+
+	<!-- EN: charge complex (blueprint) -->
+	<Blueprint_VFES_Turret_ChargeComplex.label>complejo de cargas (anteproyecto)</Blueprint_VFES_Turret_ChargeComplex.label>
+	<!-- EN: charge complex (blueprint) -->
+	<Blueprint_Install_VFES_Turret_ChargeComplex.label>complejo de cargas (anteproyecto)</Blueprint_Install_Frame_VFES_Turret_ChargeComplex.label>
+	<!-- EN: charge complex (building) -->
+	<Frame_VFES_Turret_ChargeComplex.label>complejo de cargas (en construcción)</Frame_VFES_Turret_ChargeComplex.label>
+	<!-- EN: A stationary charge cannon mounted on a metal barrier. Capable of sustaining fire until the barrel needs changing. -->
+	<Frame_VFES_Turret_ChargeComplex.description>Un cañón de cargas estacionario montado en una barrera de metal. Capaz de sostener el fuego hasta que el cañón necesite ser cambiado.</VFES_Turret_ChargeComplex.description>
+
+	<!-- EN: charge turret (blueprint) -->
+	<Blueprint_VFES_Turret_ChargeTurret.label>torreta de cargas (anteproyecto)</Blueprint_VFES_Turret_ChargeTurret.label>
+	<!-- EN: charge turret (blueprint) -->
+	<Blueprint_Install_VFES_Turret_ChargeTurret.label>torreta de cargas (anteproyecto)</Blueprint_Install_VFES_Turret_ChargeTurret.label>
+	<!-- EN: charge turret (building) -->
+	<Frame_VFES_Turret_ChargeTurret.label>torreta de cargas (en construcción)</Frame_VFES_Turret_ChargeTurret.label>
+	<!-- EN: An automatic turret with a charge pulser gun on top, utilising advanced sensors which offer improved accuracy. Requires plasteel to refurbish its barrel after heavy use. May explode when damaged. -->
+	<Frame_VFES_Turret_ChargeTurret.description>Una torreta automática con un rifle de cargas en la parte superior, que utiliza sensores avanzados que ofrecen una mayor precisión. Requiere plastiacero para renovar su cañón después de un uso intenso. Puede explotar cuando se daña.</Frame_VFES_Turret_ChargeTurret.description>
+
+	<!-- EN: charge railgun (blueprint) -->
+	<Blueprint_VFES_Turret_ChargeRailgunTurret.label>torreta de cañón de riel (anteproyecto)</Blueprint_VFES_Turret_ChargeRailgunTurret.label>
+	<!-- EN: charge railgun (blueprint) -->
+	<Blueprint_Install_VFES_Turret_ChargeRailgunTurret.label>torreta de cañón de riel (anteproyecto)</Blueprint_Install_VFES_Turret_ChargeRailgunTurret.label>
+	<!-- EN: charge railgun (building) -->
+	<Frame_VFES_Turret_ChargeRailgunTurret.label>torreta de cañón de riel (en construcción)</Frame_VFES_Turret_ChargeRailgunTurret.label>
+	<!-- EN: A heavy railgun cannon usually mounted on spacecraft, utilising an array of advanced sensors which offer top-class accuracy. Requires components to be replaced in order to operate. May explode when damaged. -->
+	<Frame_VFES_Turret_ChargeRailgunTurret.description>Un pesado cañón de rieles, normalmente montado en una nave espacial, que utiliza una serie de sensores avanzados que ofrecen una precisión de primera clase. Requiere el reemplazo de componentes para poder funcionar. Puede explotar cuando se daña.</Frame_VFES_Turret_ChargeRailgunTurret.description>
+
+	<!-- EN: EMP cannon (blueprint) -->
+	<Blueprint_VFES_Turret_EMPTurret.label>cañón PEM (anteproyecto)</Blueprint_VFES_Turret_EMPTurret.label>
+	<!-- EN: EMP cannon (blueprint) -->
+	<Blueprint_Install_VFES_Turret_EMPTurret.label>cañón PEM (anteproyecto)</Blueprint_Install_VFES_Turret_EMPTurret.label>
+	<!-- EN: EMP cannon (building) -->
+	<Frame_VFES_Turret_EMPTurret.label>cañón PEM (en construcción)</Frame_VFES_Turret_EMPTurret.label>
+	<!-- An electro-magnetic pulse cannon usually mounted on a spacecraft. Requires uranium rods to be replaced in order to operate. Can only target mechanoids and may explode if damaged. -->
+	<Frame_VFES_Turret_EMPTurret.description>Un cañón de pulso electromagnético normalmente montado en una nave espacial. Requiere que las barras de uranio sean reemplazadas para poder funcionar. Sólo puede apuntar a los mecanóides y puede explotar si se daña.</Frame_VFES_Turret_EMPTurret.description>
+
+	<!-- EN: psychic pylon (blueprint) -->
+	<Blueprint_VFES_PsychicPylon.label>pilón psíquico (anteproyecto)</Blueprint_VFES_PsychicPylon.label>
+	<!-- EN: psychic pylon (blueprint) -->
+	<Blueprint_Install_VFES_PsychicPylon.label>pilón psíquico (anteproyecto)</Blueprint_Install_VFES_PsychicPylon.label>
+	<!-- EN: psychic pylon (building) -->
+	<Frame_VFES_PsychicPylon.label>pilón psíquico (en construcción)</Frame_VFES_PsychicPylon.label>
+	<!-- EN: An ancient device that projects a strong psychic drone around itself. Only seems to target those who mean you harm. Works through walls. -->
+	<Frame_VFES_PsychicPylon.description>Un antiguo dispositivo que proyecta un fuerte zumbido psíquico a su alrededor. Sólo parece apuntar a aquellos que quieren hacerte daño. Funciona a través de las paredes.</Frame_VFES_PsychicPylon.description>
+
+	<!-- short wall (blueprint) -->
+	<Blueprint_VFES_ShortWall.label>muro corto (anteproyecto)</Blueprint_VFES_ShortWall.label>
+	<!-- short wall (building) -->
+	<Frame_VFES_ShortWall.label>muro corto (en construcción)</Frame_VFES_ShortWall.label>
+	<!-- A passable chest-height wall. Cannot support roofs. -->
+	<Frame_VFES_ShortWall.description>Un muro a la altura del pecho que se puede traspasar. No puede soportar los techos.</Frame_VFES_ShortWall.description>
+
+	<!-- Spacer -->
+	<!-- EN: advanced bed (blueprint) -->
+	<Blueprint_Bed_AdvBed.label>cama avanzada (anteproyecto)</Blueprint_Bed_AdvBed.label>
+	<!-- EN: advanced bed (blueprint) -->
+	<Blueprint_Install_Bed_AdvBed.label>cama avanzada (anteproyecto)</Blueprint_Install_Bed_AdvBed.label>
+	<!-- EN: advanced bed (building) -->
+	<Frame_Bed_AdvBed.label>cama avanzada (en construcción)</Frame_Bed_AdvBed.label>
+	<!-- EN: A powered high-tech bed that automatically readjusts itself to perfectly fit the contours of the sleeper, with built in white noise generation. Sleepers often report feeling refreshed and more alert the morning after. -->
+	<Frame_Bed_AdvBed.description>Una cama de alta tecnología que se reajusta automáticamente para adaptarse perfectamente a los contornos del usuario, con generación de ruido blanco incorporada. Los durmientes a menudo reportan sentirse refrescados y más alertados a la mañana siguiente.</Frame_Bed_AdvBed.description>
+
+	<!-- EN: advanced double bed (blueprint) -->
+	<Blueprint_Bed_AdvDoubleBed.label>cama doble avanzada (anteproyecto)</Blueprint_Bed_AdvDoubleBed.label>
+	<!-- EN: advanced double bed (blueprint) -->
+	<Blueprint_Install_Bed_AdvDoubleBed.label>cama doble avanzada (anteproyecto)</Blueprint_Install_Bed_AdvDoubleBed.label>
+	<!-- EN: advanced double bed (building) -->
+	<Frame_Bed_AdvDoubleBed.label>cama doble avanzada (en construcción)</Frame_Bed_AdvDoubleBed.label>
+	<!-- EN: A powered high-tech double bed that automatically readjusts itself to perfectly fit the contours of both sleepers, with built in white noise generation. Sleepers often report feeling refreshed and more alert the morning after. -->
+	<Frame_Bed_AdvDoubleBed.description>Una cama doble de alta tecnología que se reajusta automáticamente para adaptarse perfectamente a los contornos de ambos usuarios, con generación de ruido blanco incorporada. Los durmientes a menudo reportan sentirse refrescados y más alertados a la mañana siguiente.</Frame_Bed_AdvDoubleBed.description>
+
+	<!-- EN: illuminated end table (blueprint) -->
+	<Blueprint_Table_IlluminatedEndTable.label>mesa auxiliar iluminada (anteproyecto)</Blueprint_Table_IlluminatedEndTable.label>
+	<!-- EN: illuminated end table (blueprint) -->
+	<Blueprint_Install_Table_IlluminatedEndTable.label>mesa auxiliar iluminada (anteproyecto)</Blueprint_Install_Table_IlluminatedEndTable.label>
+	<!-- EN: illuminated end table (building) -->
+	<Frame_Table_IlluminatedEndTable.label>mesa auxiliar iluminada (en construcción)</Frame_Table_IlluminatedEndTable.label>
+	<!-- EN: A small illuminated bedside table adorned with light strips which makes nearby beds a little bit more comfortable, whilst lighting the room. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect. -->
+	<Frame_Table_IlluminatedEndTable.description>Una pequeña mesita auxiliar adornada con tiras de luz. Hace que las camas cercanas sean un poco más cómodas. Deben ser colocados directamente adyacentes a su cabeza. Colocar más de una mesa auxiliar cerca de la misma cama no tendrá ningún efecto.</Frame_Table_IlluminatedEndTable.description>
+
+	<!-- EN: illuminated dresser (blueprint) -->
+	<Blueprint_Table_IlluminatedDresser.label>cómoda iluminada (anteproyecto)</Blueprint_Table_IlluminatedDresser.label>
+	<!-- EN: illuminated dresser (blueprint) -->
+	<Blueprint_Install_Table_IlluminatedDresser.label>cómoda iluminada (anteproyecto)</Blueprint_Install_Table_IlluminatedDresser.label>
+	<!-- EN: illuminated dresser (building) -->
+	<Frame_Table_IlluminatedDresser.label>cómoda iluminada (en construcción)</Frame_Table_IlluminatedDresser.label>
+	<!-- EN: An illuminated dresser, adorned with light strips. Gives a small comfort bonus to all nearby beds, whilst lighting up the room. Placing more than one dresser near the same bed has no effect. -->
+	<Frame_Table_IlluminatedDresser.description>Una cómoda iluminada, adornada con tiras de luz. Proporciona un pequeño bono de efectividad en el sueño a todas las camas cercanas. Colocar más de un armario cerca de la misma cama no tiene ningún efecto.</Frame_Table_IlluminatedDresser.description>
+
+  	<!-- EN: ultrascreen television (blueprint) -->
+	<Blueprint_UltrascreenTV.label>televisión de pantalla gigante (anteproyecto)</Blueprint_UltrascreenTV.label>
+	<!-- EN: ultrascreen television (blueprint) -->
+	<Blueprint_Install_UltrascreenTV.label>televisión de pantalla gigante (anteproyecto)</Blueprint_Install_UltrascreenTV.label>
+	<!-- EN: ultrascreen television (building) -->
+	<Frame_UltrascreenTV.label>televisión de pantalla gigante (en construcción)</Frame_UltrascreenTV.label>
+	<!-- A huge, curved, ultra-tech television. Viewers feel as if they are part of the action themselves. Very entertaining. Capable of picking up signal from the core worlds. -->
+	<Frame_UltrascreenTV.description>Una enorme televisión curvada. Los espectadores se sienten como si ellos mismos fueran parte de la acción. Muy entretenido.</Frame_UltrascreenTV.description>
+
+	<!-- EN: biolab sun lamp (blueprint) -->
+	<Blueprint_Spacer_SunLamp.label>biolámpara solar (anteproyecto)</Blueprint_Spacer_SunLamp.label>
+	<!-- EN: biolab sun lamp (blueprint) -->
+	<Blueprint_Install_Spacer_SunLamp.label>biolámpara solar (anteproyecto)</Blueprint_Install_Spacer_SunLamp.label>
+	<!-- EN: biolab sun lamp (building) -->
+	<Frame_Spacer_SunLamp.label>biolámpara solar (en construcción)</Frame_Spacer_SunLamp.label>
+	<!-- EN: A large sun lamp which lights a large area brightly enough to grow crops as well as providing heat for the area, whilst consuming only a moderate amount of power. Never turns off at night and will not short circuit in rain. -->
+	<Frame_Spacer_SunLamp.description>Una gran lámpara solar que ilumina una gran área con suficiente brillo para cultivar y proporcionar calor a la zona, mientras que sólo consume una cantidad moderada de energía. Nunca se apaga por la noche. No hace corto circuito con la lluvia.</Frame_Spacer_SunLamp.description>
+
+	<!-- EN: spacer lamp (blueprint) -->
+	<Blueprint_Light_SpacerLamp.label>lámpara espacial (anteproyecto)</Blueprint_Light_SpacerLamp.label>
+	<!-- EN: spacer lamp (blueprint) -->
+	<Blueprint_Install_Light_SpacerLamp.label>lámpara espacial (anteproyecto)</Blueprint_Install_Light_SpacerLamp.label>
+	<!-- EN: spacer lamp (building) -->
+	<Frame_Light_SpacerLamp.label>lámpara espacial (en construcción)</Frame_Light_SpacerLamp.label>
+	<!-- EN: A powerful advanced lamp for lighting up rooms effectively whilst utilising an integrated temperature regulation module to keep rooms warmer to a maximum temperature of 15C. Will not short circuit in rain. -->
+	<Frame_Light_SpacerLamp.description>Una potente y avanzada lámpara para iluminar las habitaciones de forma efectiva, mientras que utiliza un módulo de regulación de temperatura integrado para mantener las habitaciones más calientes hasta una temperatura máxima de 15C. No hace corto circuito con la lluvia.</Frame_Light_SpacerLamp.description>
+
+	<!-- EN: repair shelf (blueprint) -->
+	<Blueprint_Shelf_RepairRack.label>estante de reparación (anteproyecto)</Blueprint_Shelf_RepairRack.label>
+	<!-- EN: repair shelf (blueprint) -->
+	<Blueprint_Install_Shelf_RepairRack.label>estante de reparación (anteproyecto)</Blueprint_Install_Shelf_RepairRack.label>
+	<!-- EN: repair shelf (building) -->
+	<Frame_Shelf_RepairRack.label>estante de reparación (en construcción)</Frame_Shelf_RepairRack.label>
+	<!-- EN: A powered high-tech shelf that utilises mechanites to slowly heal any damage on any clothing, armour or weapons placed on it. -->
+	<Frame_Shelf_RepairRack.description>Una plataforma de alta tecnología que utiliza mecanismos para reparar lentamente cualquier daño en ropa, armaduras o armas colocadas en ella.</Frame_Shelf_RepairRack.description>
+
+	<!-- EN: outdoor solar lamp (blueprint) -->
+	<Blueprint_Spacer_OutdoorLamp.label>lámpara solar de exteriores (anteproyecto)</Blueprint_Spacer_OutdoorLamp.label>
+	<!-- EN: outdoor solar lamp (blueprint) -->
+	<Blueprint_Install_Spacer_OutdoorLamp.label>lámpara solar de exteriores (anteproyecto)</Blueprint_Install_Spacer_OutdoorLamp.label>
+	<!-- EN: outdoor solar lamp (building) -->
+	<Frame_Spacer_OutdoorLamp.label>lámpara solar de exteriores (en construcción)</Frame_Spacer_OutdoorLamp.label>
+	<!-- EN: A self sustained lamp for outdoor use, weaker than a normal industrial lamp but does not require any power, storing energy during the day to power itself 24/7. Will not short circuit in rain. -->
+	<Frame_Spacer_OutdoorLamp.description>Una lámpara autosuficiente para uso exterior, más débil que una lámpara industrial pero no requiere de ninguna energía. No hace corto circuito con la lluvia.</Frame_Spacer_OutdoorLamp.description>
+
+	<!-- EN: reinforced wall (blueprint) -->
+	<Blueprint_Reinforced_WallAT.label>muro reforzado (anteproyecto)</Blueprint_Reinforced_WallAT.label>
+	<!-- EN: reinforced wall (building) -->
+	<Frame_Reinforced_WallAT.label>muro reforzado (en construcción)</Frame_Reinforced_WallAT.label>
+	<!-- EN: A reinforced impassable wall, created by layering materials over eachother. Capable of holding up a roof. -->
+	<Frame_Reinforced_WallAT.description>Un muro infranqueable reforzado, creado por la superposición de materiales. Capaz de sostener un techo.</Frame_Reinforced_WallAT.description>
+
+	<!-- EN: advanced chair (blueprint) -->
+	<Blueprint_Seat_AdvChair.label>silla avanzada (anteproyecto)</Blueprint_Seat_AdvChair.label>
+	<!-- EN: advanced chair (blueprint) -->
+	<Blueprint_Install_Seat_AdvChair.label>silla avanzada (anteproyecto)</Blueprint_Install_Seat_AdvChair.label>
+	<!-- EN: advanced chair (building) -->
+	<Frame_Seat_AdvChair.label>silla avanzada (en construcción)</Frame_Seat_AdvChair.label>
+	<!-- EN: An advanced chair that automatically changes in response to the contours of the sitter, giving optimal back support at all times and vastly improving comfort. The ultimate luxury. -->
+	<Frame_Seat_AdvChair.description>Una silla avanzada que se reajusta automáticamente para adaptarse perfectamente a los contornos del cuerpo del colono, dando un soporte óptimo a la espalda en todo momento y mejorando enormemente la comodidad. Lo último en lujo.</Frame_Seat_AdvChair.description>
+
+	<!-- EN: interactive table (1x1) (blueprint) -->
+	<Blueprint_Table_interactive_1x1c.label>mesa interactiva (1x1) (anteproyecto)</Blueprint_Table_interactive_1x1c.label>
+	<!-- EN: interactive table (1x1) (blueprint) -->
+	<Blueprint_Install_Table_interactive_1x1c.label>mesa interactiva (1x1) (anteproyecto)</Blueprint_Install_Table_interactive_1x1c.label>
+	<!-- EN: interactive table (1x1) (building) -->
+	<Frame_Table_interactive_1x1c.label>mesa interactiva (1x1) (en construcción)</Frame_Table_interactive_1x1c.label>
+	<!--EN: A table for eating off of with interactive display for watching shows, playing games or taking notes on whilst eating. Fulfills recreation need when a pawn eats at this table and the table is powered. -->
+	<Frame_Table_interactive_1x1c.description>Una mesa para comer con una pantalla digital para ver programas, jugar o tomar notas mientras se come. Satisface la necesidad de recreación cuando un colono come en esta mesa.</Frame_Table_interactive_1x1c.description>
+
+	<!-- EN: interactive table (2x2) (blueprint) -->
+	<Blueprint_Table_interactive_2x2c.label>mesa interactiva (2x2) (anteproyecto)</Blueprint_Table_interactive_2x2c.label>
+	<!-- EN: interactive table (2x2) (blueprint) -->
+	<Blueprint_Install_Table_interactive_2x2c.label>mesa interactiva (2x2) (anteproyecto)</Blueprint_Install_Table_interactive_2x2c.label>
+	<!-- EN: interactive table (2x2) (building) -->
+	<Frame_Table_interactive_2x2c.label>mesa interactiva (2x2) (en construcción)</Frame_Table_interactive_2x2c.label>
+	<!-- EN: A table for eating off of with interactive display for watching shows, playing games or taking notes on whilst eating. Fulfills recreation need when a pawn eats at this table and the table is powered. -->
+	<Frame_Table_interactive_2x2c.description>Una mesa para comer con una pantalla digital para ver programas, jugar o tomar notas mientras se come. Satisface la necesidad de recreación cuando un colono come en esta mesa.</Frame_Table_interactive_2x2c.description>
+	
+</LanguageData>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR vanilla social interactions expanded.-->
+  <VSIE_Discord.label>Discorde</VSIE_Discord.label>
+  <VSIE_Discord.logRulesInitiator.rulesStrings.0>r_logentry(p=3)->[INITIATOR_nameDef] a [insulted] [PersonalCharacteristic] de [target].</VSIE_Discord.logRulesInitiator.rulesStrings.0>
+  <VSIE_Discord.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] compare [target] à [insultcomparison].</VSIE_Discord.logRulesInitiator.rulesStrings.1>
+  <VSIE_Discord.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] nomme [target] et le traite de [insultcomparison].</VSIE_Discord.logRulesInitiator.rulesStrings.2>
+  <VSIE_Discord.logRulesInitiator.rulesStrings.3>target(p=4)->[RECIPIENT_nameDef]</VSIE_Discord.logRulesInitiator.rulesStrings.3>
+  <VSIE_Discord.logRulesInitiator.rulesStrings.4>target->[PersonFamily] de [RECIPIENT_nameDef]</VSIE_Discord.logRulesInitiator.rulesStrings.4>
+  <VSIE_Discord.logRulesInitiator.rulesStrings.5>insulted(p=3)->offensé</VSIE_Discord.logRulesInitiator.rulesStrings.5>
+  <VSIE_Discord.logRulesInitiator.rulesStrings.6>insulted->insulté publiquement</VSIE_Discord.logRulesInitiator.rulesStrings.6>
+  <VSIE_Discord.logRulesInitiator.rulesStrings.7>insulted->insulté bruyamment</VSIE_Discord.logRulesInitiator.rulesStrings.7>
+  <VSIE_Discord.logRulesInitiator.rulesStrings.8>insulted->insulté sans vergogne</VSIE_Discord.logRulesInitiator.rulesStrings.8>
+  <VSIE_Discord.logRulesInitiator.rulesStrings.9>insulted->offensé</VSIE_Discord.logRulesInitiator.rulesStrings.9>
+  <VSIE_Discord.logRulesInitiator.rulesStrings.10>insulted->insulté vicieusement</VSIE_Discord.logRulesInitiator.rulesStrings.10>
+  <VSIE_Discord.logRulesInitiator.rulesStrings.11>insulted->insulté sans cœur</VSIE_Discord.logRulesInitiator.rulesStrings.11>
+  <VSIE_Discord.logRulesInitiator.rulesStrings.12>insulted->calomnié</VSIE_Discord.logRulesInitiator.rulesStrings.12>
+  <VSIE_Discord.logRulesInitiator.rulesStrings.13>insulted->insulté</VSIE_Discord.logRulesInitiator.rulesStrings.13>
+  <VSIE_Discord.logRulesInitiator.rulesStrings.14>insulted->ridiculisé</VSIE_Discord.logRulesInitiator.rulesStrings.14>
+  <VSIE_Discord.logRulesInitiator.rulesStrings.15>insultcomparison(p=2)->[Animal]</VSIE_Discord.logRulesInitiator.rulesStrings.15>
+  <VSIE_Discord.logRulesInitiator.rulesStrings.16>insultcomparison->[Enemy]</VSIE_Discord.logRulesInitiator.rulesStrings.16>
+
+
+</LanguageData>

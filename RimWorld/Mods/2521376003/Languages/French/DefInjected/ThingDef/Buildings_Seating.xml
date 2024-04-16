@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+	<!-- advanced chair -->
+	<Seat_AdvChair.label>chaise avancée</Seat_AdvChair.label>
+	<!-- An advanced chair that automatically changes in response to the contours of the sitter, giving optimal back support at all times and vastly improving comfort. The ultimate luxury. -->
+	<Seat_AdvChair.description>Une chaise avancée qui s'ajuste automatiquement pour épouser parfaitement les contours du corps du colon, offrant un soutien optimal du dos à tout moment et améliorant considérablement le confort. Le summum du luxe.</Seat_AdvChair.description>
+
+
+</LanguageData>

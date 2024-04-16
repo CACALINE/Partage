@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--Traduction FR [JDS] Simple Storage-->
+  <JDS_Basket.label>Panier</JDS_Basket.label>
+  <JDS_Basket.description>...</JDS_Basket.description>
+  
+  <JDS_Bulk_Water.label>Réservoir d'eau</JDS_Bulk_Water.label>
+  <JDS_Bulk_Water.description>...</JDS_Bulk_Water.description>
+  
+  <JDS_Bundles_Wrap.label>Sac de chantier</JDS_Bundles_Wrap.label>
+  <JDS_Bundles_Wrap.description>...</JDS_Bundles_Wrap.description>
+  
+  <JDS_Bundles_Wrap_Big.label>Grand sac de chantier</JDS_Bundles_Wrap_Big.label>
+  <JDS_Bundles_Wrap_Big.description>...</JDS_Bundles_Wrap_Big.description>
+  
+  <JDS_Bundles_Wrap_Pile.label>Pile de sacs de chantier</JDS_Bundles_Wrap_Pile.label>
+  <JDS_Bundles_Wrap_Pile.description>...</JDS_Bundles_Wrap_Pile.description>
+  
+  <JDS_ChemfuelPump.label>Pompe à carburant</JDS_ChemfuelPump.label>
+  <JDS_ChemfuelPump.description>...</JDS_ChemfuelPump.description>
+  
+  <JDS_Chemfuel_Storage.label>Stockage du carburant</JDS_Chemfuel_Storage.label>
+  <JDS_Chemfuel_Storage.description>...</JDS_Chemfuel_Storage.description>
+  
+  <JDS_Large_Chemfuel_Storage.label>Grand stockage du carburant</JDS_Large_Chemfuel_Storage.label>
+  <JDS_Large_Chemfuel_Storage.description>...</JDS_Large_Chemfuel_Storage.description>
+  
+  <JDS_File_Box.label>Boîte à dossiers</JDS_File_Box.label>
+  <JDS_File_Box.description>...</JDS_File_Box.description>
+  
+  <JDS_File_Shelf.label>Étagère à dossiers</JDS_File_Shelf.label>
+  <JDS_File_Shelf.description>...</JDS_File_Shelf.description>
+  
+  <JDS_Large_Pallet.label>Grande palette</JDS_Large_Pallet.label>
+  <JDS_Large_Pallet.description>...</JDS_Large_Pallet.description>
+  
+  <JDS_Large_Can_Pallet.label>Grande palette de bidon</JDS_Large_Can_Pallet.label>
+  <JDS_Large_Can_Pallet.description>...</JDS_Large_Can_Pallet.description>
+  
+  <JDS_Large_A_Pallet.label>Grande palette A</JDS_Large_A_Pallet.label>
+  <JDS_Large_A_Pallet.description>...</JDS_Large_A_Pallet.description>
+  
+  <JDS_Large_B_Pallet.label>Grande palette B</JDS_Large_B_Pallet.label>
+  <JDS_Large_B_Pallet.description>...</JDS_Large_B_Pallet.description>
+  
+  <JDS_Large_C_Pallet.label>Grande palette C</JDS_Large_C_Pallet.label>
+  <JDS_Large_C_Pallet.description>...</JDS_Large_C_Pallet.description>
+  
+  <JDS_Large_D_Pallet.label>Grande palette D</JDS_Large_D_Pallet.label>
+  <JDS_Large_D_Pallet.description>...</JDS_Large_D_Pallet.description>
+  
+  <JDS_Large_E_Pallet.label>Grande palette E</JDS_Large_E_Pallet.label>
+  <JDS_Large_E_Pallet.description>...</JDS_Large_E_Pallet.description>
+  
+  <JDS_Large_Post_Box.label>Grande boîte postale</JDS_Large_Post_Box.label>
+  <JDS_Large_Post_Box.description>...</JDS_Large_Post_Box.description>
+  
+  <JDS_Med_Storage.label>Stockage des médicaments</JDS_Med_Storage.label>
+  <JDS_Med_Storage.description>...</JDS_Med_Storage.description>
+  
+  <JDSMetal_Shelf_A_Full.label>Étagère métallique A (pleine)</JDSMetal_Shelf_A_Full.label>
+  <JDSMetal_Shelf_A_Full.description>...</JDSMetal_Shelf_A_Full.description>
+  
+  <JDSMetal_Shelf_B_Full.label>Étagère métallique B (pleine)</JDSMetal_Shelf_B_Full.label>
+  <JDSMetal_Shelf_B_Full.description>...</JDSMetal_Shelf_B_Full.description>
+  
+  <JDSPallet.label>Palette</JDSPallet.label>
+  <JDSPallet.description>...</JDSPallet.description>
+  
+  <JDSPallet_Can.label>Palette de bidon</JDSPallet_Can.label>
+  <JDSPallet_Can.description>...</JDSPallet_Can.description>
+  
+  <JDSPallet_Crate.label>Caisse sur palette</JDSPallet_Crate.label>
+  <JDSPallet_Crate.description>...</JDSPallet_Crate.description>
+  
+  <JDSSafe.label>Armoire de sécurité</JDSSafe.label>
+  <JDSSafe.description>...</JDSSafe.description>
+  
+  <JDSShelf_A_Empty.label>Étagère A (vide)</JDSShelf_A_Empty.label>
+  <JDSShelf_A_Empty.description>...</JDSShelf_A_Empty.description>
+  
+  <JDSShelf_A_Full.label>Étagère A (pleine)</JDSShelf_A_Full.label>
+  <JDSShelf_A_Full.description>...</JDSShelf_A_Full.description>
+  
+  <JDSSilo.label>Silo</JDSSilo.label>
+  <JDSSilo.description>...</JDSSilo.description>
+  
+  <JDSmaller_locker.label>Petit casier</JDSmaller_locker.label>
+  <JDSmaller_locker.description>...</JDSmaller_locker.description>
+  
+  <JDSLarge_locker.label>Grand casier</JDSLarge_locker.label>
+  <JDSLarge_locker.description>...</JDSLarge_locker.description>
+  
+  <JDSVending_Machine.label>Distributeur automatique A</JDSVending_Machine.label>
+  <JDSVending_Machine.description>...</JDSVending_Machine.description>
+  
+  <JDSVending_Machine_two.label>Distributeur automatique B</JDSVending_Machine_two.label>
+  <JDSVending_Machine_two.description>...</JDSVending_Machine_two.description>
+  
+  <JDSwheelbarrow.label>Brouette</JDSwheelbarrow.label>
+  <JDSwheelbarrow.description>...</JDSwheelbarrow.description>
+  
+  <JDS_1ResourcesCrate.label>Stockage du bois</JDS_1ResourcesCrate.label>
+  <JDS_1ResourcesCrate.description>Peut stocker jusqu'à 10 piles de bois.</JDS_1ResourcesCrate.description>
+  
+  <JDS_2ResourcesCrate.label>Stockage de l'acier</JDS_2ResourcesCrate.label>
+  <JDS_2ResourcesCrate.description>Peut stocker jusqu'à 10 piles d'acier</JDS_2ResourcesCrate.description>
+  
+  <JDS_3ResourcesCrate.label>Stockage du textiles</JDS_3ResourcesCrate.label>
+  <JDS_3ResourcesCrate.description>Peut stocker jusqu'à 10 piles de textiles</JDS_3ResourcesCrate.description>
+  
+  <JDS_4ResourcesCrate.label>Stockage du cuir</JDS_4ResourcesCrate.label>
+  <JDS_4ResourcesCrate.description>Peut stocker jusqu'à 10 piles de cuir</JDS_4ResourcesCrate.description>
+  
+  <JDS_5ResourcesCrate.label>Stockage des composants</JDS_5ResourcesCrate.label>
+  <JDS_5ResourcesCrate.description>Peut stocker jusqu'à 10 piles de composants</JDS_5ResourcesCrate.description>
+  
+  <JDS_6ResourcesCrate.label>Stockage des composants avancés</JDS_6ResourcesCrate.label>
+  <JDS_6ResourcesCrate.description>Peut stocker jusqu'à 10 piles de composants avancés.</JDS_6ResourcesCrate.description>
+  
+  <JDS_7ResourcesCrate.label>Stockage de l'uranium</JDS_7ResourcesCrate.label>
+  <JDS_7ResourcesCrate.description>Peut stocker jusqu'à 10 piles d'uranium.</JDS_7ResourcesCrate.description>
+  
+  <JDS_8ResourcesCrate.label>Stockage de l'or</JDS_8ResourcesCrate.label>
+  <JDS_8ResourcesCrate.description>Peut stocker jusqu'à 10 piles d'or.</JDS_8ResourcesCrate.description>
+  
+  <JDS_9ResourcesCrate.label>Stockage de la jade</JDS_9ResourcesCrate.label>
+  <JDS_9ResourcesCrate.description>Peut stocker jusqu'à 10 piles de jade.</JDS_9ResourcesCrate.description>
+  
+  <JDS_10ResourcesCrate.label>Stockage du plastacier</JDS_10ResourcesCrate.label>
+  <JDS_10ResourcesCrate.description>Peut stocker jusqu'à 10 piles de plastacier.</JDS_10ResourcesCrate.description>
+  
+  <JDS_Industrial_Dumpster_Chunk.label>Benne industrielle (Gravats)</JDS_Industrial_Dumpster_Chunk.label>
+  <JDS_Industrial_Dumpster_Chunk.description>...</JDS_Industrial_Dumpster_Chunk.description>
+  
+  <JDS_Industrial_Dumpster_Slag.label>Benne industrielle (Débris)</JDS_Industrial_Dumpster_Slag.label>
+  <JDS_Industrial_Dumpster_Slag.description>...</JDS_Industrial_Dumpster_Slag.description>
+  
+  <JDSIndustrial_Dumpster.label>Benne industrielle</JDSIndustrial_Dumpster.label>
+  <JDSIndustrial_Dumpster.description>...</JDSIndustrial_Dumpster.description>
+
+</LanguageData>

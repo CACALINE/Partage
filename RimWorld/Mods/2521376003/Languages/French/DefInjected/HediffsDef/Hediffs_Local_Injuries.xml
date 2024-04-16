@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+<!-- splinter -->
+<VFES_Stab.label>plaie</VFES_Stab.label>
+<!-- A stab wound. -->
+<VFES_Stab.description>Une blessure par arme blanche.</VFES_Stab.description>
+<!-- set -->
+<VFES_Stab.comps.0.labelSolidTendedWell>jeter</VFES_Stab.comps.0.labelSolidTendedWell>
+<!-- bandaged -->
+<VFES_Stab.comps.0.labelTendedWell>bandé</VFES_Stab.comps.0.labelTendedWell>
+<!-- sutured -->
+<VFES_Stab.comps.0.labelTendedWellInner>suturé</VFES_Stab.comps.0.labelTendedWellInner>
+<!-- EN: splinter scar -->
+<VFES_Stab.comps.HediffComp_GetsPermanent.permanentLabel>cicatrice de plaie</VFES_Stab.comps.HediffComp_GetsPermanent.permanentLabel>
+<!-- Cut off -->
+<VFES_Stab.injuryProps.destroyedLabel>coupé</VFES_Stab.injuryProps.destroyedLabel>
+<!-- Cut out -->
+<VFES_Stab.injuryProps.destroyedOutLabel>découpé/VFES_Stab.injuryProps.destroyedOutLabel>
+<!-- a stab wound -->
+<VFES_Stab.labelNoun>une blessure par arme blanche</VFES_Stab.labelNoun>
+<!-- EN: {0} in the {1} -->
+<VFES_Stab.labelNounPretty>{0} à {1}</VFES_Stab.labelNounPretty>
+
+
+</LanguageData>

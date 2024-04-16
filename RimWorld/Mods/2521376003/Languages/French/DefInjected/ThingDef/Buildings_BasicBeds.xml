@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+	<!-- slab bed -->
+	<Bed_StoneSlab.label>lit en pierre</Bed_StoneSlab.label>
+	<!-- A large slab of smoothed stone, very uncomfortable and only marginally better than sleeping on the floor. -->
+	<Bed_StoneSlab.description>Une grande dalle de pierre utilisée pour se prélasser, c'est assez inconfortable mais bien mieux que de dormir sur le sol.</Bed_StoneSlab.description>
+	<!-- simple bed -->
+	<Bed_Simple.label>lit simple</Bed_Simple.label>
+	<!-- A somewhat comfy net and pillow rested on a sturdy frame. -->
+	<Bed_Simple.description>Un lit composé d'un drap et d'un oreiller reposant sur un cadre solide.</Bed_Simple.description>
+</LanguageData>

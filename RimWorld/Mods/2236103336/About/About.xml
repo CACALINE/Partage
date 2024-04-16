@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>Kure's Rimworld of Magic Class Expansion Pack</name>
+	<author>Kure</author>
+	<supportedVersions>
+		<li>1.2</li>
+		<li>1.3</li>
+		<li>1.4</li>
+	</supportedVersions>
+	<packageId>Kure.AROM</packageId>
+	<modDependenciesByVersion>
+		<v1.1>
+		  <li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077</steamWorkshopUrl>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+		  </li>
+		  <li>
+			<packageId>UnlimitedHugs.HugsLib</packageId>
+			<displayName>HugsLib</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=818773962</steamWorkshopUrl>
+			<downloadUrl>https://ludeon.com/forums/index.php?topic=28066.0</downloadUrl>
+		  </li>
+		  <li>
+			<packageId>jecrell.jecstools</packageId>
+			<displayName>JecsTools</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=932008009</steamWorkshopUrl>
+			<downloadUrl>https://discord.gg/AaVFA7V</downloadUrl>
+		  </li>
+    	  <li>
+			<packageId>Torann.ARimworldOfMagic</packageId>
+			<displayName>A Rimworld Of Magic</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=1201382956</steamWorkshopUrl>
+			<downloadUrl>https://ludeon.com/forums/index.php?topic=37161.0</downloadUrl>
+		  </li>
+		  
+		</v1.1>
+    </modDependenciesByVersion>
+	<loadAfter>
+		<li>brrainz.harmony</li>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+		<li>UnlimitedHugs.HugsLib</li>
+		<li>jecrell.jecstools</li>
+		<li>Torann.ARimworldOfMagic</li>
+	</loadAfter>
+	<description>Version 1.6
+
+A class expansion pack for Rimworld of Magic!
+	</description>
+</ModMetaData>

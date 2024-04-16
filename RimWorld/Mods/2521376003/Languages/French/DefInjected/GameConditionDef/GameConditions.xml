@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Mods Seasonal Weathers (Continued) de Mlie.-->
+  <DoubleRainbow.label>Double arc-en-ciel</DoubleRainbow.label>
+  <DoubleRainbow.description>Un double arc-en-ciel vient d'apparaître ! Ceci est un phénomène rare.</DoubleRainbow.description>
+  <DoubleRainbow.endMessage>Le double arc-en-ciel a disparu.</DoubleRainbow.endMessage>
+  <Earthquake.label>Tremblement de terre</Earthquake.label>
+  <Earthquake.description>Un terrible tremblement de terre vient d'apparaître !</Earthquake.description>
+  <Earthquake.endMessage>Le tremblement de terre s'est calmé.</Earthquake.endMessage>
+  <Wildfire.label>Feu de forêt</Wildfire.label>
+  <Wildfire.description>Un feu de forêt vient de se déclencher !
+  
+  La durée minimale si le feu est maîtrisé est d'environ une demi-journée.
+  La durée minimale sans intervention est de 5 jours.
+  Durée maximale est d'un quadrum.</Wildfire.description>
+  <Wildfire.endMessage>Le feu de forêt a été maitriser.</Wildfire.endMessage>
+</LanguageData>

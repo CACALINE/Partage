@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+
+  <DamageDef ParentName="TM_LocalInjuryBase">
+	<defName>TM_WindMagicR</defName>
+	<label>Buffeting Winds</label>
+	<externalViolence>true</externalViolence>
+	<deathMessage>{0} was torn to pieces by a razor wind.</deathMessage>
+	<hediff>TM_WindDamageDef</hediff>
+		<harmAllLayersUntilOutside>true</harmAllLayersUntilOutside>
+		<impactSoundType>Slice</impactSoundType>
+		<armorCategory>Sharp</armorCategory>
+		<defaultDamage>6</defaultDamage>
+	</DamageDef>
+
+  <HediffDef ParentName="TM_InjuryBase">
+    <defName>TM_WindDamageDef</defName>
+    <label>Wind</label>
+	<description>Destructive winds created by magical energy.</description>
+    <displayWound>true</displayWound>
+    <comps>
+      <li Class="HediffCompProperties_TendDuration">
+        <labelTendedWell>bandaged</labelTendedWell>
+        <labelTendedWellInner>sutured</labelTendedWellInner>
+        <labelSolidTendedWell>set</labelSolidTendedWell>
+      </li>
+      <li Class="HediffCompProperties_GetsPermanent">
+        <permanentLabel>shredded by wind</permanentLabel>
+      </li>
+    </comps>
+	<injuryProps>
+		<painPerSeverity>0.02</painPerSeverity>
+		<averagePainPerSeverityPermanent>0.01</averagePainPerSeverityPermanent>
+		<bleedRate>0.3</bleedRate>
+		<canMerge>true</canMerge>
+			<destroyedLabel>Shredded</destroyedLabel>
+			<destroyedOutLabel>Torn to shreds</destroyedOutLabel>
+	</injuryProps>
+	<stages>
+		<li>
+		<capMods>
+			<li>
+				<capacity>Moving</capacity>
+				<offset>-0.02</offset>
+			</li>
+			<li>
+				<capacity>Manipulation</capacity>
+				<offset>-0.05</offset>
+			</li>
+		</capMods>
+		</li>
+	</stages>
+  </HediffDef>
+
+  <DamageDef ParentName="TM_LocalInjuryBase">
+	<defName>TM_CardDamage</defName>
+	<label>Lord of Crowns</label>
+	<externalViolence>true</externalViolence>
+	<deathMessage>{0} was shredded by the Lord of Crowns.</deathMessage>
+	<hediff>TM_CardDamageDef</hediff>
+		<harmAllLayersUntilOutside>true</harmAllLayersUntilOutside>
+		<impactSoundType>Slice</impactSoundType>
+		<armorCategory>Sharp</armorCategory>
+		<defaultDamage>10</defaultDamage>
+   		 <defaultArmorPenetration>4.0</defaultArmorPenetration>
+		<defaultStoppingPower>10.0</defaultStoppingPower>
+		<explosionSnowMeltAmount>0</explosionSnowMeltAmount>
+    <explosionCellFleck>BlastFlame</explosionCellFleck>
+    <explosionColorCenter>(1, 0.7, 0.7)</explosionColorCenter>
+    <explosionColorEdge>(1, 1, 0.7)</explosionColorEdge>
+		<soundExplosion>KS_RedCardHit</soundExplosion>
+	</DamageDef>
+
+  <HediffDef ParentName="TM_InjuryBase">
+    <defName>TM_CardDamageDef</defName>
+    <label>Cut</label>
+	<description>A cut from a sharp playing card.</description>
+    <displayWound>true</displayWound>
+    <comps>
+      <li Class="HediffCompProperties_TendDuration">
+        <labelTendedWell>bandaged</labelTendedWell>
+        <labelTendedWellInner>sutured</labelTendedWellInner>
+        <labelSolidTendedWell>set</labelSolidTendedWell>
+      </li>
+      <li Class="HediffCompProperties_GetsPermanent">
+        <permanentLabel>shredded</permanentLabel>
+      </li>
+    </comps>
+	<injuryProps>
+		<painPerSeverity>0.02</painPerSeverity>
+		<averagePainPerSeverityPermanent>0.01</averagePainPerSeverityPermanent>
+		<bleedRate>0.35</bleedRate>
+		<canMerge>true</canMerge>
+			<destroyedLabel>Shredded</destroyedLabel>
+			<destroyedOutLabel>Torn to shreds</destroyedOutLabel>
+	</injuryProps>
+	<stages>
+		<li>
+		</li>
+	</stages>
+  </HediffDef>
+
+  <DamageDef ParentName="TM_LocalInjuryBase">
+    <defName>TM_ShapedCharge</defName>
+    <label>shaped charge</label>
+    <workerClass>DamageWorker_AddInjury</workerClass>
+    <externalViolence>true</externalViolence>
+    <isExplosive>true</isExplosive>
+    <deathMessage>{0} has died in an explosion.</deathMessage>
+    <hediff>Shredded</hediff>
+    <hediffSolid>Crack</hediffSolid>
+    <harmAllLayersUntilOutside>true</harmAllLayersUntilOutside>
+    <impactSoundType>Blunt</impactSoundType>
+    <armorCategory>Sharp</armorCategory>
+    <minDamageToFragment>15</minDamageToFragment>
+    <defaultDamage>10</defaultDamage>
+    <defaultStoppingPower>0.5</defaultStoppingPower>
+    <defaultArmorPenetration>2</defaultArmorPenetration>
+    <buildingDamageFactor>120</buildingDamageFactor>
+    <plantDamageFactor>5</plantDamageFactor>
+    <explosionAffectOutsidePartsOnly>false</explosionAffectOutsidePartsOnly>
+    <explosionHeatEnergyPerCell>20</explosionHeatEnergyPerCell>
+    <explosionCellFleck>BlastDry</explosionCellFleck>
+    <explosionColorCenter>(1, 0.5, 0.3)</explosionColorCenter>
+    <explosionColorEdge>(0.6, 0.5, 0.4)</explosionColorEdge>
+    <soundExplosion>Explosion_Bomb</soundExplosion>
+    <combatLogRules>Damage_Bomb</combatLogRules>
+  </DamageDef>
+
+  <DamageDef ParentName="TM_LocalInjuryBase">
+    <defName>TM_PileDriver</defName>
+    <label>pile driver</label>
+    <workerClass>DamageWorker_AddInjury</workerClass>
+    <externalViolence>true</externalViolence>
+    <isExplosive>true</isExplosive>
+    <deathMessage>{0} has died in an explosion.</deathMessage>
+    <hediff>Shredded</hediff>
+    <hediffSolid>Crack</hediffSolid>
+    <harmAllLayersUntilOutside>true</harmAllLayersUntilOutside>
+    <impactSoundType>Blunt</impactSoundType>
+    <armorCategory>Sharp</armorCategory>
+    <minDamageToFragment>15</minDamageToFragment>
+    <defaultDamage>10</defaultDamage>
+    <defaultStoppingPower>0.5</defaultStoppingPower>
+    <defaultArmorPenetration>100</defaultArmorPenetration>
+    <buildingDamageFactor>1000</buildingDamageFactor>
+    <plantDamageFactor>1000</plantDamageFactor>
+    <explosionAffectOutsidePartsOnly>false</explosionAffectOutsidePartsOnly>
+    <explosionHeatEnergyPerCell>20</explosionHeatEnergyPerCell>
+    <explosionCellFleck>BlastDry</explosionCellFleck>
+    <explosionColorCenter>(1, 0.5, 0.3)</explosionColorCenter>
+    <explosionColorEdge>(0.6, 0.5, 0.4)</explosionColorEdge>
+    <soundExplosion>Explosion_Bomb</soundExplosion>
+    <combatLogRules>Damage_Bomb</combatLogRules>
+  </DamageDef>
+
+  <DamageDef ParentName="TM_LocalInjuryBase">
+    <defName>TM_MiningExplosiveDD</defName>
+    <label>shaped charge</label>
+    <workerClass>DamageWorker_AddInjury</workerClass>
+    <externalViolence>true</externalViolence>
+    <isExplosive>true</isExplosive>
+    <deathMessage>{0} has died in an explosion.</deathMessage>
+    <hediff>Shredded</hediff>
+    <hediffSolid>Crack</hediffSolid>
+    <harmAllLayersUntilOutside>true</harmAllLayersUntilOutside>
+    <impactSoundType>Blunt</impactSoundType>
+    <armorCategory>Sharp</armorCategory>
+    <minDamageToFragment>15</minDamageToFragment>
+    <defaultDamage>12</defaultDamage>
+    <defaultStoppingPower>0.5</defaultStoppingPower>
+    <defaultArmorPenetration>2</defaultArmorPenetration>
+    <buildingDamageFactor>50</buildingDamageFactor>
+    <plantDamageFactor>5</plantDamageFactor>
+    <explosionAffectOutsidePartsOnly>false</explosionAffectOutsidePartsOnly>
+    <explosionHeatEnergyPerCell>20</explosionHeatEnergyPerCell>
+    <explosionCellFleck>BlastDry</explosionCellFleck>
+    <explosionColorCenter>(1, 0.5, 0.3)</explosionColorCenter>
+    <explosionColorEdge>(0.6, 0.5, 0.4)</explosionColorEdge>
+    <soundExplosion>Explosion_Bomb</soundExplosion>
+    <combatLogRules>Damage_Bomb</combatLogRules>
+  </DamageDef>
+
+   <DamageDef ParentName="Bomb">
+    <defName>TM_ExplosiveTrapDD</defName>
+	<defaultDamage>20</defaultDamage>
+    <minDamageToFragment>10</minDamageToFragment>
+    <defaultStoppingPower>1.0</defaultStoppingPower>
+    <defaultArmorPenetration>0.5</defaultArmorPenetration>
+    <buildingDamageFactor>1</buildingDamageFactor>
+    <plantDamageFactor>1</plantDamageFactor>
+    <explosionAffectOutsidePartsOnly>false</explosionAffectOutsidePartsOnly>
+    <explosionHeatEnergyPerCell>25</explosionHeatEnergyPerCell>
+    <explosionCellFleck>BlastDry</explosionCellFleck>
+    <explosionColorCenter>(1, 0.5, 0.3)</explosionColorCenter>
+    <explosionColorEdge>(0.6, 0.5, 0.4)</explosionColorEdge>
+    <soundExplosion>Explosion_Bomb</soundExplosion>
+    <combatLogRules>Damage_Bomb</combatLogRules>
+  </DamageDef>
+
+   <DamageDef ParentName="Bomb">
+    <defName>TM_BarrelBombDD</defName>
+	<defaultDamage>40</defaultDamage>
+    <minDamageToFragment>10</minDamageToFragment>
+    <defaultStoppingPower>10.0</defaultStoppingPower>
+    <defaultArmorPenetration>2.0</defaultArmorPenetration>
+    <buildingDamageFactor>15</buildingDamageFactor>
+    <plantDamageFactor>15</plantDamageFactor>
+    <explosionAffectOutsidePartsOnly>false</explosionAffectOutsidePartsOnly>
+    <explosionHeatEnergyPerCell>25</explosionHeatEnergyPerCell>
+    <explosionCellFleck>BlastDry</explosionCellFleck>
+    <explosionColorCenter>(1, 0.5, 0.3)</explosionColorCenter>
+    <explosionColorEdge>(0.6, 0.5, 0.4)</explosionColorEdge>
+    <soundExplosion>Explosion_Bomb</soundExplosion>
+    <combatLogRules>Damage_Bomb</combatLogRules>
+  </DamageDef>
+
+  <DamageDef ParentName="StunBase">
+    <defName>RFS_Chomp</defName>
+    <label>stun</label>
+    <workerClass>DamageWorker_Stun</workerClass>
+    <externalViolence>true</externalViolence>
+    <deathMessage>{0} has been stunned to death.</deathMessage>
+    <defaultDamage>0</defaultDamage>
+    <explosionCellFleck>BlastDry</explosionCellFleck>
+    <soundExplosion>Explosion_EMP</soundExplosion>
+    <combatLogRules>Damage_Stun</combatLogRules>
+  </DamageDef>
+
+  <DamageDef ParentName="TM_LocalInjuryBase">
+    <defName>TM_DemolishDD</defName>
+    <label>demolish</label>
+    <workerClass>DamageWorker_AddInjury</workerClass>
+    <externalViolence>true</externalViolence>
+    <isExplosive>true</isExplosive>
+    <deathMessage>{0} has died in an explosion.</deathMessage>
+    <hediff>Shredded</hediff>
+    <hediffSolid>Crack</hediffSolid>
+    <harmAllLayersUntilOutside>true</harmAllLayersUntilOutside>
+    <impactSoundType>Blunt</impactSoundType>
+    <armorCategory>Sharp</armorCategory>
+    <minDamageToFragment>15</minDamageToFragment>
+    <defaultDamage>1</defaultDamage>
+    <defaultStoppingPower>0.5</defaultStoppingPower>
+    <defaultArmorPenetration>2</defaultArmorPenetration>
+    <buildingDamageFactor>100000000</buildingDamageFactor>
+    <plantDamageFactor>100000000</plantDamageFactor>
+    <explosionAffectOutsidePartsOnly>false</explosionAffectOutsidePartsOnly>
+    <explosionHeatEnergyPerCell>20</explosionHeatEnergyPerCell>
+    <explosionCellFleck>BlastDry</explosionCellFleck>
+    <explosionColorCenter>(1, 0.5, 0.3)</explosionColorCenter>
+    <explosionColorEdge>(0.6, 0.5, 0.4)</explosionColorEdge>
+    <soundExplosion>Explosion_Bomb</soundExplosion>
+    <combatLogRules>Damage_Bomb</combatLogRules>
+  </DamageDef>
+
+</Defs>

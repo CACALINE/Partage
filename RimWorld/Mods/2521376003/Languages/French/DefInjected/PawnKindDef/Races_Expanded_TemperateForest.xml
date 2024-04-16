@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Tous les vanilla animals expanded.-->
+  <!-- Red Panda -->
+
+  <!-- red panda -->
+  <AEXP_RedPanda.label>panda roux</AEXP_RedPanda.label>
+  <!-- red pandas -->
+  <AEXP_RedPanda.labelPlural>pandas roux</AEXP_RedPanda.labelPlural>
+  <!-- red panda -->
+  <AEXP_RedPanda.lifeStages.0.label>bébé panda roux</AEXP_RedPanda.lifeStages.0.label>
+  <!-- red panda -->
+  <AEXP_RedPanda.lifeStages.0.labelPlural>bébés panda roux</AEXP_RedPanda.lifeStages.0.labelPlural>
+  <!-- male red panda -->
+  <AEXP_RedPanda.lifeStages.0.labelMale>bébé panda roux</AEXP_RedPanda.lifeStages.0.labelMale>
+  <!-- male red pandas -->
+  <AEXP_RedPanda.lifeStages.0.labelMalePlural>bébés panda roux</AEXP_RedPanda.lifeStages.0.labelMalePlural>
+  <!-- female red panda -->
+  <AEXP_RedPanda.lifeStages.0.labelFemale>bébé panda roux</AEXP_RedPanda.lifeStages.0.labelFemale>
+  <!-- female red pandas -->
+  <AEXP_RedPanda.lifeStages.0.labelFemalePlural>bébés panda roux</AEXP_RedPanda.lifeStages.0.labelFemalePlural>
+  <!-- red panda -->
+  <AEXP_RedPanda.lifeStages.1.label>panda roux</AEXP_RedPanda.lifeStages.1.label>
+  <!-- red panda -->
+  <AEXP_RedPanda.lifeStages.1.labelPlural>pandas roux</AEXP_RedPanda.lifeStages.1.labelPlural>
+  <!-- male red panda -->
+  <AEXP_RedPanda.lifeStages.1.labelMale>panda roux</AEXP_RedPanda.lifeStages.1.labelMale>
+  <!-- male red pandas -->
+  <AEXP_RedPanda.lifeStages.1.labelMalePlural>pandas roux</AEXP_RedPanda.lifeStages.1.labelMalePlural>
+  <!-- female red panda -->
+  <AEXP_RedPanda.lifeStages.1.labelFemale>panda roux</AEXP_RedPanda.lifeStages.1.labelFemale>
+  <!-- female red pandas -->
+  <AEXP_RedPanda.lifeStages.1.labelFemalePlural>pandas roux</AEXP_RedPanda.lifeStages.1.labelFemalePlural>
+  <!-- red panda -->
+  <AEXP_RedPanda.lifeStages.2.label>panda roux</AEXP_RedPanda.lifeStages.2.label>
+  <!-- red panda -->
+  <AEXP_RedPanda.lifeStages.2.labelPlural>pandas roux</AEXP_RedPanda.lifeStages.2.labelPlural>
+  <!-- male red panda -->
+  <AEXP_RedPanda.lifeStages.2.labelMale>panda roux</AEXP_RedPanda.lifeStages.2.labelMale>
+  <!-- male red pandas -->
+  <AEXP_RedPanda.lifeStages.2.labelMalePlural>pandas roux</AEXP_RedPanda.lifeStages.2.labelMalePlural>
+  <!-- female red panda -->
+  <AEXP_RedPanda.lifeStages.2.labelFemale>panda roux</AEXP_RedPanda.lifeStages.2.labelFemale>
+  <!-- female red pandas -->
+  <AEXP_RedPanda.lifeStages.2.labelFemalePlural>pandas roux</AEXP_RedPanda.lifeStages.2.labelFemalePlural>
+  <!-- male red panda -->
+  <AEXP_RedPanda.labelMale>panda roux</AEXP_RedPanda.labelMale>
+  <!-- male red pandas -->
+  <AEXP_RedPanda.labelMalePlural>pandas roux</AEXP_RedPanda.labelMalePlural>
+  <!-- female red panda -->
+  <AEXP_RedPanda.labelFemale>panda roux</AEXP_RedPanda.labelFemale>
+  <!-- female red pandas -->
+  <AEXP_RedPanda.labelFemalePlural>pandas roux</AEXP_RedPanda.labelFemalePlural>
+
+
+  <!-- Badger -->
+
+  <!-- badger -->
+  <AEXP_Badger.label>blaireau</AEXP_Badger.label>
+  <!-- badgers -->
+  <AEXP_Badger.labelPlural>blaireaux</AEXP_Badger.labelPlural>
+  <!-- badger -->
+  <AEXP_Badger.lifeStages.0.label>bébé blaireau</AEXP_Badger.lifeStages.0.label>
+  <!-- badger -->
+  <AEXP_Badger.lifeStages.0.labelPlural>bébés blaireaux</AEXP_Badger.lifeStages.0.labelPlural>
+  <!-- male badger -->
+  <AEXP_Badger.lifeStages.0.labelMale>bébé blaireau</AEXP_Badger.lifeStages.0.labelMale>
+  <!-- male badgers -->
+  <AEXP_Badger.lifeStages.0.labelMalePlural>bébés blaireaux</AEXP_Badger.lifeStages.0.labelMalePlural>
+  <!-- female badger -->
+  <AEXP_Badger.lifeStages.0.labelFemale>bébé blaireau</AEXP_Badger.lifeStages.0.labelFemale>
+  <!-- female badgers -->
+  <AEXP_Badger.lifeStages.0.labelFemalePlural>bébés blaireaux</AEXP_Badger.lifeStages.0.labelFemalePlural>
+  <!-- badger -->
+  <AEXP_Badger.lifeStages.1.label>blaireau</AEXP_Badger.lifeStages.1.label>
+  <!-- badger -->
+  <AEXP_Badger.lifeStages.1.labelPlural>blaireaux</AEXP_Badger.lifeStages.1.labelPlural>
+  <!-- male badger -->
+  <AEXP_Badger.lifeStages.1.labelMale>blaireau</AEXP_Badger.lifeStages.1.labelMale>
+  <!-- male badgers -->
+  <AEXP_Badger.lifeStages.1.labelMalePlural>blaireaux</AEXP_Badger.lifeStages.1.labelMalePlural>
+  <!-- female badger -->
+  <AEXP_Badger.lifeStages.1.labelFemale>blaireau</AEXP_Badger.lifeStages.1.labelFemale>
+  <!-- female badgers -->
+  <AEXP_Badger.lifeStages.1.labelFemalePlural>blaireaux</AEXP_Badger.lifeStages.1.labelFemalePlural>
+  <!-- badger -->
+  <AEXP_Badger.lifeStages.2.label>blaireau</AEXP_Badger.lifeStages.2.label>
+  <!-- badger -->
+  <AEXP_Badger.lifeStages.2.labelPlural>blaireaux</AEXP_Badger.lifeStages.2.labelPlural>
+  <!-- male badger -->
+  <AEXP_Badger.lifeStages.2.labelMale>blaireau</AEXP_Badger.lifeStages.2.labelMale>
+  <!-- male badgers -->
+  <AEXP_Badger.lifeStages.2.labelMalePlural>blaireaux</AEXP_Badger.lifeStages.2.labelMalePlural>
+  <!-- female badger -->
+  <AEXP_Badger.lifeStages.2.labelFemale>blaireau</AEXP_Badger.lifeStages.2.labelFemale>
+  <!-- female badgers -->
+  <AEXP_Badger.lifeStages.2.labelFemalePlural>blaireaux</AEXP_Badger.lifeStages.2.labelFemalePlural>
+  <!-- male badger -->
+  <AEXP_Badger.labelMale>blaireau</AEXP_Badger.labelMale>
+  <!-- male badgers -->
+  <AEXP_Badger.labelMalePlural>blaireaux</AEXP_Badger.labelMalePlural>
+  <!-- female badger -->
+  <AEXP_Badger.labelFemale>blaireau</AEXP_Badger.labelFemale>
+  <!-- female badgers -->
+  <AEXP_Badger.labelFemalePlural>blaireaux</AEXP_Badger.labelFemalePlural>
+
+
+
+  <!-- Wild Goose -->
+
+<!-- wild goose -->
+  <AEXP_WildGoose.label>oie sauvage</AEXP_WildGoose.label>
+<!-- wild geese -->
+  <AEXP_WildGoose.labelPlural>oies sauvages</AEXP_WildGoose.labelPlural>
+<!-- gosling -->
+  <AEXP_WildGoose.lifeStages.0.label>bébé oie sauvage</AEXP_WildGoose.lifeStages.0.label>
+<!-- goslings -->
+  <AEXP_WildGoose.lifeStages.0.labelPlural>bébés oie sauvage</AEXP_WildGoose.lifeStages.0.labelPlural>
+<!-- male gosling -->
+  <AEXP_WildGoose.lifeStages.0.labelMale>bébé oie sauvage</AEXP_WildGoose.lifeStages.0.labelMale>
+<!-- male goslings -->
+  <AEXP_WildGoose.lifeStages.0.labelMalePlural>bébés oie sauvage</AEXP_WildGoose.lifeStages.0.labelMalePlural>
+<!-- female gosling -->
+  <AEXP_WildGoose.lifeStages.0.labelFemale>bébé oie sauvage</AEXP_WildGoose.lifeStages.0.labelFemale>
+<!-- female goslings -->
+  <AEXP_WildGoose.lifeStages.0.labelFemalePlural>bébés oie sauvage</AEXP_WildGoose.lifeStages.0.labelFemalePlural>
+<!-- wild goose -->
+  <AEXP_WildGoose.lifeStages.1.label>oie sauvage</AEXP_WildGoose.lifeStages.1.label>
+<!-- wild geese -->
+  <AEXP_WildGoose.lifeStages.1.labelPlural>oies sauvages</AEXP_WildGoose.lifeStages.1.labelPlural>
+<!-- wild gander -->
+  <AEXP_WildGoose.lifeStages.1.labelMale>oie sauvage</AEXP_WildGoose.lifeStages.1.labelMale>
+<!-- male wild gooses -->
+  <AEXP_WildGoose.lifeStages.1.labelMalePlural>oies sauvages</AEXP_WildGoose.lifeStages.1.labelMalePlural>
+<!-- female wild goose -->
+  <AEXP_WildGoose.lifeStages.1.labelFemale>oie sauvage</AEXP_WildGoose.lifeStages.1.labelFemale>
+<!-- female wild gooses -->
+  <AEXP_WildGoose.lifeStages.1.labelFemalePlural>oies sauvages</AEXP_WildGoose.lifeStages.1.labelFemalePlural>
+<!-- wild goose -->
+  <AEXP_WildGoose.lifeStages.2.label>oie sauvage</AEXP_WildGoose.lifeStages.2.label>
+<!-- wild geese -->
+  <AEXP_WildGoose.lifeStages.2.labelPlural>oies sauvages</AEXP_WildGoose.lifeStages.2.labelPlural>
+<!-- wild gander -->
+  <AEXP_WildGoose.lifeStages.2.labelMale>oie sauvage</AEXP_WildGoose.lifeStages.2.labelMale>
+<!-- male wild gooses -->
+  <AEXP_WildGoose.lifeStages.2.labelMalePlural>oies sauvages</AEXP_WildGoose.lifeStages.2.labelMalePlural>
+<!-- female wild goose -->
+  <AEXP_WildGoose.lifeStages.2.labelFemale>oie sauvage</AEXP_WildGoose.lifeStages.2.labelFemale>
+<!-- female wild gooses -->
+  <AEXP_WildGoose.lifeStages.2.labelFemalePlural>oies sauvages</AEXP_WildGoose.lifeStages.2.labelFemalePlural>
+<!-- wild gander -->
+  <AEXP_WildGoose.labelMale>oie sauvage</AEXP_WildGoose.labelMale>
+<!-- male wild geese -->
+  <AEXP_WildGoose.labelMalePlural>oies sauvages</AEXP_WildGoose.labelMalePlural>
+<!-- female wild goose -->
+  <AEXP_WildGoose.labelFemale>oie sauvage</AEXP_WildGoose.labelFemale>
+<!-- female wild geese -->
+  <AEXP_WildGoose.labelFemalePlural>oies sauvages</AEXP_WildGoose.labelFemalePlural>
+
+
+
+  <!-- Beaver -->
+
+  <!-- beaver -->
+  <AEXP_Beaver.label>castor</AEXP_Beaver.label>
+  <!-- beavers -->
+  <AEXP_Beaver.labelPlural>castors</AEXP_Beaver.labelPlural>
+  <!-- beaver -->
+  <AEXP_Beaver.lifeStages.0.label>bébé castor</AEXP_Beaver.lifeStages.0.label>
+  <!-- beaver -->
+  <AEXP_Beaver.lifeStages.0.labelPlural>bébés castor</AEXP_Beaver.lifeStages.0.labelPlural>
+  <!-- male beaver -->
+  <AEXP_Beaver.lifeStages.0.labelMale>bébé castor</AEXP_Beaver.lifeStages.0.labelMale>
+  <!-- male beavers -->
+  <AEXP_Beaver.lifeStages.0.labelMalePlural>bébés castor</AEXP_Beaver.lifeStages.0.labelMalePlural>
+  <!-- female beaver -->
+  <AEXP_Beaver.lifeStages.0.labelFemale>bébé castor</AEXP_Beaver.lifeStages.0.labelFemale>
+  <!-- female beavers -->
+  <AEXP_Beaver.lifeStages.0.labelFemalePlural>bébés castor</AEXP_Beaver.lifeStages.0.labelFemalePlural>
+  <!-- beaver -->
+  <AEXP_Beaver.lifeStages.1.label>castor</AEXP_Beaver.lifeStages.1.label>
+  <!-- beaver -->
+  <AEXP_Beaver.lifeStages.1.labelPlural>castors</AEXP_Beaver.lifeStages.1.labelPlural>
+  <!-- male beaver -->
+  <AEXP_Beaver.lifeStages.1.labelMale>castor</AEXP_Beaver.lifeStages.1.labelMale>
+  <!-- male beavers -->
+  <AEXP_Beaver.lifeStages.1.labelMalePlural>castors</AEXP_Beaver.lifeStages.1.labelMalePlural>
+  <!-- female beaver -->
+  <AEXP_Beaver.lifeStages.1.labelFemale>castor</AEXP_Beaver.lifeStages.1.labelFemale>
+  <!-- female beavers -->
+  <AEXP_Beaver.lifeStages.1.labelFemalePlural>castors</AEXP_Beaver.lifeStages.1.labelFemalePlural>
+  <!-- beaver -->
+  <AEXP_Beaver.lifeStages.2.label>castor</AEXP_Beaver.lifeStages.2.label>
+  <!-- beaver -->
+  <AEXP_Beaver.lifeStages.2.labelPlural>castors</AEXP_Beaver.lifeStages.2.labelPlural>
+  <!-- male beaver -->
+  <AEXP_Beaver.lifeStages.2.labelMale>castor</AEXP_Beaver.lifeStages.2.labelMale>
+  <!-- male beavers -->
+  <AEXP_Beaver.lifeStages.2.labelMalePlural>castors</AEXP_Beaver.lifeStages.2.labelMalePlural>
+  <!-- female beaver -->
+  <AEXP_Beaver.lifeStages.2.labelFemale>castor</AEXP_Beaver.lifeStages.2.labelFemale>
+  <!-- female beavers -->
+  <AEXP_Beaver.lifeStages.2.labelFemalePlural>castors</AEXP_Beaver.lifeStages.2.labelFemalePlural>
+  <!-- male beaver -->
+  <AEXP_Beaver.labelMale>castor</AEXP_Beaver.labelMale>
+  <!-- male beavers -->
+  <AEXP_Beaver.labelMalePlural>castors</AEXP_Beaver.labelMalePlural>
+  <!-- female beaver -->
+  <AEXP_Beaver.labelFemale>castor</AEXP_Beaver.labelFemale>
+  <!-- female beavers -->
+  <AEXP_Beaver.labelFemalePlural>castors</AEXP_Beaver.labelFemalePlural>
+
+
+
+  <!-- Hedgehog -->
+
+<!-- hedgehog -->
+  <AEXP_Hedgehog.label>hérisson</AEXP_Hedgehog.label>
+<!-- hedgehogs -->
+  <AEXP_Hedgehog.labelPlural>hérissons</AEXP_Hedgehog.labelPlural>
+<!-- hedgehog -->
+  <AEXP_Hedgehog.lifeStages.0.label>bébé hérisson</AEXP_Hedgehog.lifeStages.0.label>
+<!-- hedgehog -->
+  <AEXP_Hedgehog.lifeStages.0.labelPlural>bébés hérisson</AEXP_Hedgehog.lifeStages.0.labelPlural>
+<!-- male hedgehog -->
+  <AEXP_Hedgehog.lifeStages.0.labelMale>bébé hérisson</AEXP_Hedgehog.lifeStages.0.labelMale>
+<!-- male hedgehogs -->
+  <AEXP_Hedgehog.lifeStages.0.labelMalePlural>bébés hérisson</AEXP_Hedgehog.lifeStages.0.labelMalePlural>
+<!-- female hedgehog -->
+  <AEXP_Hedgehog.lifeStages.0.labelFemale>bébé hérisson</AEXP_Hedgehog.lifeStages.0.labelFemale>
+<!-- female hedgehogs -->
+  <AEXP_Hedgehog.lifeStages.0.labelFemalePlural>bébés hérisson</AEXP_Hedgehog.lifeStages.0.labelFemalePlural>
+<!-- hedgehog -->
+  <AEXP_Hedgehog.lifeStages.1.label>hérisson</AEXP_Hedgehog.lifeStages.1.label>
+<!-- hedgehog -->
+  <AEXP_Hedgehog.lifeStages.1.labelPlural>hérissons</AEXP_Hedgehog.lifeStages.1.labelPlural>
+<!-- male hedgehog -->
+  <AEXP_Hedgehog.lifeStages.1.labelMale>hérisson</AEXP_Hedgehog.lifeStages.1.labelMale>
+<!-- male hedgehogs -->
+  <AEXP_Hedgehog.lifeStages.1.labelMalePlural>hérissons</AEXP_Hedgehog.lifeStages.1.labelMalePlural>
+<!-- female hedgehog -->
+  <AEXP_Hedgehog.lifeStages.1.labelFemale>hérisson</AEXP_Hedgehog.lifeStages.1.labelFemale>
+<!-- female hedgehogs -->
+  <AEXP_Hedgehog.lifeStages.1.labelFemalePlural>hérissons</AEXP_Hedgehog.lifeStages.1.labelFemalePlural>
+<!-- hedgehog -->
+  <AEXP_Hedgehog.lifeStages.2.label>hérisson</AEXP_Hedgehog.lifeStages.2.label>
+<!-- hedgehog -->
+  <AEXP_Hedgehog.lifeStages.2.labelPlural>hérissons</AEXP_Hedgehog.lifeStages.2.labelPlural>
+<!-- male hedgehog -->
+  <AEXP_Hedgehog.lifeStages.2.labelMale>hérisson</AEXP_Hedgehog.lifeStages.2.labelMale>
+<!-- male hedgehogs -->
+  <AEXP_Hedgehog.lifeStages.2.labelMalePlural>hérissons</AEXP_Hedgehog.lifeStages.2.labelMalePlural>
+<!-- female hedgehog -->
+  <AEXP_Hedgehog.lifeStages.2.labelFemale>hérisson</AEXP_Hedgehog.lifeStages.2.labelFemale>
+<!-- female hedgehogs -->
+  <AEXP_Hedgehog.lifeStages.2.labelFemalePlural>hérissons</AEXP_Hedgehog.lifeStages.2.labelFemalePlural>
+<!-- male hedgehog -->
+  <AEXP_Hedgehog.labelMale>hérisson</AEXP_Hedgehog.labelMale>
+<!-- male hedgehogs -->
+  <AEXP_Hedgehog.labelMalePlural>hérissons</AEXP_Hedgehog.labelMalePlural>
+<!-- female hedgehog -->
+  <AEXP_Hedgehog.labelFemale>hérisson</AEXP_Hedgehog.labelFemale>
+<!-- female hedgehogs -->
+  <AEXP_Hedgehog.labelFemalePlural>hérissons</AEXP_Hedgehog.labelFemalePlural>
+
+
+
+</LanguageData>

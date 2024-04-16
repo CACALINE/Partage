@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+<!-- dazzled -->
+<VFES_Dazzled.label>ébloui</VFES_Dazzled.label>
+<!-- Significant impairment of vision as a result of over-exposure to light. -->
+<VFES_Dazzled.description>Déficience visuelle importante due à une surexposition à la lumière.</VFES_Dazzled.description>
+<!-- a dazzled eye -->
+<VFES_Dazzled.labelNoun>un oeil ébloui</VFES_Dazzled.labelNoun>
+
+
+</LanguageData>

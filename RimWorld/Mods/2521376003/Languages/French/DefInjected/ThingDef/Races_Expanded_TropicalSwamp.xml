@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+<!--<Traduction FR Tous les vanilla animals expanded.-->
+  <!-- alligator -->
+  <AEXP_Alligator.label>alligator</AEXP_Alligator.label>
+  <!-- The alligator is a large reptile that inhabits freshwater wetlands. They are apex predators and consume fish, amphibians, reptiles, birds, and mammals.  Like other crocodilians, healthy alligators may continue to grow throughout their lives. -->
+  <AEXP_Alligator.description>L'alligator est un long reptile qui habite les zones humides d'eau douce. Ce sont des super prédateurs qui consomment des poissons, des amphibiens, des reptiles, des oiseaux et des mammifères. Comme les autres alligators, les alligators en bonne santé peuvent continuer à grandir tout au long de leur vie.</AEXP_Alligator.description>
+
+  <Corpse_AEXP_Alligator.label>cadavre d'alligator</Corpse_AEXP_Alligator.label>
+  <Corpse_AEXP_Alligator.description>Le corps sans vie d'un alligator.</Corpse_AEXP_Alligator.description>
+  <Meat_AEXP_Alligator.label>viande d'alligator</Meat_AEXP_Alligator.label>
+  <Meat_AEXP_Alligator.description>viande cru coupé en quartiers. Peut être cuit ou consommé cru.</Meat_AEXP_Alligator.description>
+
+  <!-- anaconda -->
+  <AEXP_Anaconda.label>anaconda</AEXP_Anaconda.label>
+  <!-- The anaconda is the heaviest and one of the longest known snake species, reaching lengths of 5 meters. They are a primarily nocturnal species that tends to spend most of its life in or around water. -->
+  <AEXP_Anaconda.description>L'anaconda est la plus lourde et l'une des plus grandes espèces de serpents connues, atteignant jusqu'à 5 mètres. Ce sont principalement des animaux nocturnes et ont tendance à passer la majeure partie de leur vie dans ou autour de l'eau.</AEXP_Anaconda.description>
+  <!-- head -->
+  <AEXP_Anaconda.tools.head.label>tête</AEXP_Anaconda.tools.head.label>
+
+  <Corpse_AEXP_Anaconda.label>cadavre d'anaconda</Corpse_AEXP_Anaconda.label>
+  <Corpse_AEXP_Anaconda.description>Le corps sans vie d'un anaconda.</Corpse_AEXP_Anaconda.description>
+  
+  <!-- indian elephant -->
+  <AEXP_IndianElephant.label>éléphant indien</AEXP_IndianElephant.label>
+  <!-- The Indian elephant is one of the largest unmodified land animals. In general, Indian elephants are smaller, have smaller ears, but relatively broader skulls and larger trunks than African elephants, and have the highest body point on the head. -->
+  <AEXP_IndianElephant.description>L'éléphant indien est l'un des plus gros animaux terrestres non modifiés. En général, comparés aux éléphants d'Afrique, les éléphants indiens ont tendance à être plus petits, avec des oreilles plus petites et des crânes plus larges, avec des troncs plus longs, et ont le point le plus élevé sur leur tête.</AEXP_IndianElephant.description>
+  <!-- left foot -->
+  <AEXP_IndianElephant.tools.left_foot.label>patte gauche</AEXP_IndianElephant.tools.left_foot.label>
+  <!-- right foot -->
+  <AEXP_IndianElephant.tools.right_foot.label>patte droite</AEXP_IndianElephant.tools.right_foot.label>
+  <!-- head -->
+  <AEXP_IndianElephant.tools.head.label>tête</AEXP_IndianElephant.tools.head.label>
+
+  <Corpse_AEXP_IndianElephant.label>cadavre d'éléphant indien</Corpse_AEXP_IndianElephant.label>
+  <Corpse_AEXP_IndianElephant.description>Le corps sans vie d'un éléphant indien.</Corpse_AEXP_IndianElephant.description>
+  <Meat_AEXP_IndianElephant.label>viande d'éléphant indien</Meat_AEXP_IndianElephant.label>
+  <Meat_AEXP_IndianElephant.description>viande cru coupé en quartiers. Peut être cuit ou consommé cru.</Meat_AEXP_IndianElephant.description>
+
+
+</LanguageData>

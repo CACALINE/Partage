@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Tous les vanilla animals expanded.-->
+  <!-- simple pinniped -->
+  <AEXP_SimplePinniped.label>pinnipède simple</AEXP_SimplePinniped.label>
+  <!-- left lung -->
+  <AEXP_SimplePinniped.corePart.parts.left_lung.customLabel>poumon gauche</AEXP_SimplePinniped.corePart.parts.left_lung.customLabel>
+  <!-- right lung -->
+  <AEXP_SimplePinniped.corePart.parts.right_lung.customLabel>poumon droit</AEXP_SimplePinniped.corePart.parts.right_lung.customLabel>
+  <!-- left kidney -->
+  <AEXP_SimplePinniped.corePart.parts.left_kidney.customLabel>rein gauche</AEXP_SimplePinniped.corePart.parts.left_kidney.customLabel>
+  <!-- right kidney -->
+  <AEXP_SimplePinniped.corePart.parts.right_kidney.customLabel>rein droit</AEXP_SimplePinniped.corePart.parts.right_kidney.customLabel>
+  <!-- left eye -->
+  <AEXP_SimplePinniped.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>oeil gauche</AEXP_SimplePinniped.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- right eye -->
+  <AEXP_SimplePinniped.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>oeil droit</AEXP_SimplePinniped.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- left ear -->
+  <AEXP_SimplePinniped.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>oreille gauche</AEXP_SimplePinniped.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- right ear -->
+  <AEXP_SimplePinniped.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>oreille droite</AEXP_SimplePinniped.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- left fore-flipper -->
+  <AEXP_SimplePinniped.corePart.parts.left_foreflipper.customLabel>aileron avant gauche</AEXP_SimplePinniped.corePart.parts.left_foreflipper.customLabel>
+  <!-- right fore-flipper -->
+  <AEXP_SimplePinniped.corePart.parts.right_foreflipper.customLabel>aileron avant droite</AEXP_SimplePinniped.corePart.parts.right_foreflipper.customLabel>
+
+  <!-- tusked pinniped -->
+  <AEXP_TuskedPinniped.label>pinnipède à crocs</AEXP_TuskedPinniped.label>
+  <!-- left lung -->
+  <AEXP_TuskedPinniped.corePart.parts.left_lung.customLabel>poumon gauche</AEXP_TuskedPinniped.corePart.parts.left_lung.customLabel>
+  <!-- right lung -->
+  <AEXP_TuskedPinniped.corePart.parts.right_lung.customLabel>poumon droit</AEXP_TuskedPinniped.corePart.parts.right_lung.customLabel>
+  <!-- left kidney -->
+  <AEXP_TuskedPinniped.corePart.parts.left_kidney.customLabel>rein gauche</AEXP_TuskedPinniped.corePart.parts.left_kidney.customLabel>
+  <!-- right kidney -->
+  <AEXP_TuskedPinniped.corePart.parts.right_kidney.customLabel>rein droit</AEXP_TuskedPinniped.corePart.parts.right_kidney.customLabel>
+  <!-- left eye -->
+  <AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>oeil gauche</AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- right eye -->
+  <AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>oeil droit</AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- left ear -->
+  <AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>oreille gauche</AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- right ear -->
+  <AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>oreille droite</AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- left tusk -->
+  <AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.left_tusk.customLabel>défense gauche</AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.left_tusk.customLabel>
+  <!-- right tusk -->
+  <AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.right_tusk.customLabel>défense droite</AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.right_tusk.customLabel>
+  <!-- left fore-flipper -->
+  <AEXP_TuskedPinniped.corePart.parts.left_foreflipper.customLabel>aileron avant gauche</AEXP_TuskedPinniped.corePart.parts.left_foreflipper.customLabel>
+  <!-- right fore-flipper -->
+  <AEXP_TuskedPinniped.corePart.parts.right_foreflipper.customLabel>aileron avant droite</AEXP_TuskedPinniped.corePart.parts.right_foreflipper.customLabel>
+
+</LanguageData>

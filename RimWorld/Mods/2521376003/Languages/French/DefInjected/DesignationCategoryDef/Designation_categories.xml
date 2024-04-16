@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+	<!-- Ext. Furniture -->
+	<AOMorefurniture.label>Meubles +.</AOMorefurniture.label>
+	<!-- The new pieces of furniture added by the extended furniture mod. -->
+	<AOMorefurniture.description>Le mobilier étendu est le nouveau mobilier ajouté par le mod étendu Vanilla Furniture.</AOMorefurniture.description>
+
+  	<!-- EN: Props -->
+  	<PropsandDecor.label>Accessoires</PropsandDecor.label>
+  	<!-- EN: Props and decorations. -->
+  	<PropsandDecor.description>Accessoires et décorations.</PropsandDecor.description>
+
+</LanguageData>

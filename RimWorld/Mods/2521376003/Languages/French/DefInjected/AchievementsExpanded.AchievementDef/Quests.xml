@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Vanilla Achivements Expanded.-->
+  <mercenary.label>Mercenaire</mercenary.label>
+  <mercenary.description>Compléter 5 quêtes</mercenary.description>
+  
+  <ambassadorOfPeace.label>Ambassadeur/Ambassadrice de la paix</ambassadorOfPeace.label>
+  <ambassadorOfPeace.description>Compléter 3 quêtes de pourparlers de paix</ambassadorOfPeace.description>
+  
+</LanguageData>

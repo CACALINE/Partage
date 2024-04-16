@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+	<!-- planter box -->
+	<VFE_PlanterBox.label>jardinière</VFE_PlanterBox.label>
+	<!-- Grows plants in a box of soil. Does not require power to work. -->
+	<VFE_PlanterBox.description>Les plantes poussent dans une boîte de terre. Ne nécessite pas d'énergie pour fonctionner.</VFE_PlanterBox.description>
+	<!-- artificial ecosystem -->
+	<VFE_Ecosystem.label>écosystème artificiel</VFE_Ecosystem.label>
+	<!-- Grows plants quickly in an artificial, sealed ecosystem. Requires a high amount of power to work; plants will die if power is cut.\n\nContains a built-in sun lamp to provide light for the plants. -->
+	<VFE_Ecosystem.description>Les plantes poussent rapidement dans un écosystème artificiel scellé. Il contient une lampe solaire intégrée pour fournir de la lumière aux plantes. Il nécessite une grande quantité d'énergie pour fonctionner; les plantes mourront en cas de panne de courant. \n\nIl contient une lampe solaire intégrée pour éclairer les plantes.</VFE_Ecosystem.description>
+</LanguageData>

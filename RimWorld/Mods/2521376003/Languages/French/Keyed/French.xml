@@ -1,0 +1,508 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+<!--<Traduction FR children, school and learning.-->
+	<Children_DividerChildSettings_Title>Enfants</Children_DividerChildSettings_Title>
+	<Children_DividerChildSettings_Desc></Children_DividerChildSettings_Desc>
+	<Children_DividerSchoolSettings_Title>École</Children_DividerSchoolSettings_Title>
+	<Children_DividerSchoolSettings_Desc></Children_DividerSchoolSettings_Desc>
+	<Children_DividerPregnancy_Title>Grossesse</Children_DividerPregnancy_Title>
+	<Children_DividerPregnancy_Desc></Children_DividerPregnancy_Desc>
+	<Children_DividerBirth_Title>Naissance</Children_DividerBirth_Title>
+	<Children_DividerBirth_Desc></Children_DividerBirth_Desc>
+	<Children_DividerBackstory_Title>Histoire</Children_DividerBackstory_Title>
+	<Children_DividerBackstory_Desc></Children_DividerBackstory_Desc>
+	<Children_DividerHealthTab_Title>Onglet Santé</Children_DividerHealthTab_Title>
+	<Children_DividerHealthTab_Desc></Children_DividerHealthTab_Desc>
+	<Children_DividerFertilitySettings_Title>Fertilité</Children_DividerFertilitySettings_Title>
+	<Children_DividerFertilitySettings_Desc></Children_DividerFertilitySettings_Desc>
+	<Children_DividerModdedSpecies_Title>Espèces modifiées</Children_DividerModdedSpecies_Title>
+	<Children_DividerModdedSpecies_Desc></Children_DividerModdedSpecies_Desc>
+	<Children_DividerSizing_Title>Taille</Children_DividerSizing_Title>
+	<Children_DividerSizing_Desc></Children_DividerSizing_Desc>
+	<Children_DividerOtherSettings_Title>Autres</Children_DividerOtherSettings_Title>
+	<Children_DividerOtherSettings_Desc></Children_DividerOtherSettings_Desc>
+	<Children_DividerSpecialSettings_Title>Spécial</Children_DividerSpecialSettings_Title>
+	<Children_DividerSpecialSettings_Desc></Children_DividerSpecialSettings_Desc>
+	
+	<Children_DividerPerSpeciesSettings_Title>Réglages par espèce</Children_DividerPerSpeciesSettings_Title>
+	<Children_DividerPerSpeciesSettings_Desc></Children_DividerPerSpeciesSettings_Desc>
+	<Children_DividerSpeciesHybridSettings_Title>Réglages hybrides</Children_DividerSpeciesHybridSettings_Title>
+	<Children_DividerSpeciesHybridSettings_Desc></Children_DividerSpeciesHybridSettings_Desc>
+	<Children_DividerHediffInheritSettings_Title>Conditions héritées</Children_DividerHediffInheritSettings_Title>
+	<Children_DividerHediffInheritSettings_Desc></Children_DividerHediffInheritSettings_Desc>
+
+	<Children_TabSchedule>Horaire</Children_TabSchedule>
+	<Children_TabSchedule_DayColumn>Horaire pour</Children_TabSchedule_DayColumn>
+	<Children_TabSchedule_Header>Horaire, jour de l'année en cours : </Children_TabSchedule_Header>
+	<Children_TabSchedule_Header_Odd>jour impair</Children_TabSchedule_Header_Odd>
+	<Children_TabSchedule_Header_Even>même jour</Children_TabSchedule_Header_Even>
+	<Children_TabSchedule_Header_Third>troisième jour</Children_TabSchedule_Header_Third>
+	<Children_TabSchedule_Header_Fourth>quatrième jour</Children_TabSchedule_Header_Fourth>
+	<Children_TabSchedule_Info>[Info]</Children_TabSchedule_Info>
+	<Children_TabSchedule_InfoDescription>Si le créneau horaire de ce tableau est actif, le tableau gère automatiquement ses tâches, afin que la leçon en cours soit enseignée. ( ! la tâche en cours sera supprimée automatiquement sur ce tableau lorsqu'il est en mode planning).</Children_TabSchedule_InfoDescription>
+	<Children_TabSchedule_ResetDDLText>réinitialiser</Children_TabSchedule_ResetDDLText>
+	<Children_TabSchedule_ResetDDLConfirm>Réinitialiser paramètres par défaut</Children_TabSchedule_ResetDDLConfirm>
+	<Children_TabSchedule_RowEven>Horaire normal</Children_TabSchedule_RowEven>
+	<Children_TabSchedule_RowOdd>Les jours impairs</Children_TabSchedule_RowOdd>
+	<Children_TabSchedule_RowThird>Troisième jour</Children_TabSchedule_RowThird>
+	<Children_TabSchedule_RowFourth>Quatrième jour</Children_TabSchedule_RowFourth>
+	<Children_TabSchedule_ManualMode>mode manuel, pas d'horaire</Children_TabSchedule_ManualMode>
+
+	<Children_DisableChildren_Title>Désactiver les enfants</Children_DisableChildren_Title>
+	<Children_DisableChildren_Desc>Les colons ne devraient plus pouvoir avoir d'enfants à partir de ce mod. (Ne supprime pas les enfants ou les grossesses existants qui peuvent également être cachés. Il faut redémarrer le jeu pour que certaines parties soient désactivées).</Children_DisableChildren_Desc>
+
+	<Children_DisableHandlingPregnancies_Title>Désactiver le traitement des grossesses</Children_DisableHandlingPregnancies_Title>
+	<Children_DisableHandlingPregnancies_Desc>Utilisez cette option en même temps que "Désactiver les enfants" (ci-dessus) si vous avez un autre mod qui devrait s'occuper des grossesses et des naissances (ne supprime pas les enfants ou les grossesses existants, mais désactive la plupart des options et des fonctions liées aux grossesses).</Children_DisableHandlingPregnancies_Desc>
+
+	<Children_DisableChildrenItems_Title>Désactiver les éléments liés aux enfants</Children_DisableChildrenItems_Title>
+	<Children_DisableChildrenItems_Desc>Expérimental ! (Peut nécessiter un redémarrage du jeu pour que certaines parties soient désactivées. Peut causer des problèmes si on les supprime d'une sauvegarde active)</Children_DisableChildrenItems_Desc>
+
+	<Children_DisableSchoolItems_Title>Désactiver les éléments liés à l'école</Children_DisableSchoolItems_Title>
+	<Children_DisableSchoolItems_Desc>Expérimental ! (Peut nécessiter un redémarrage du jeu pour que certaines parties soient désactivées. Peut causer des problèmes si on les supprime d'une sauvegarde active)</Children_DisableSchoolItems_Desc>
+
+	<Children_GeneratedChildrenAge_Title>Âge de l'enfant (humain)</Children_GeneratedChildrenAge_Title>
+	<Children_GeneratedChildrenAge_Desc>Âge des enfants générés</Children_GeneratedChildrenAge_Desc>
+	
+	<GeneratedChildrenLifeStage_Title>Stade de vie de l'enfant (Alien)</GeneratedChildrenLifeStage_Title>
+	<GeneratedChildrenLifeStage_Desc>Définit l'âge de vie auquel les enfants aliens naissent (au lieu de l'âge normal, parce qu'il peut varier considérablement entre les races - utilise l'âge humain (ci-dessus) si aucun âge valide ne peut être trouvé).</GeneratedChildrenLifeStage_Desc>
+
+	<GeneratedChildrenLifeStage_Desc_Baby>Bébé</GeneratedChildrenLifeStage_Desc_Baby>
+	<GeneratedChildrenLifeStage_Desc_Toddler>Bambin</GeneratedChildrenLifeStage_Desc_Toddler>
+	<GeneratedChildrenLifeStage_Desc_Child>Enfant</GeneratedChildrenLifeStage_Desc_Child>
+	<GeneratedChildrenLifeStage_Desc_Teenager>Adolescent</GeneratedChildrenLifeStage_Desc_Teenager>
+	<GeneratedChildrenLifeStage_Desc_Adult>Adulte</GeneratedChildrenLifeStage_Desc_Adult>
+	<GeneratedChildrenLifeStage_Desc_HumanAge>Identique à l'humain (ci-dessus)</GeneratedChildrenLifeStage_Desc_HumanAge>
+
+	<Children_GeneratedChildrenLearnMinAge_Title>Âge minimal pour apprendre</Children_GeneratedChildrenLearnMinAge_Title>
+	<Children_GeneratedChildrenLearnMinAge_Desc>Âge minimum pour apprendre à l'école</Children_GeneratedChildrenLearnMinAge_Desc>
+
+	<Children_GeneratedChildrenLearnMinAgeAndroid_Title>Âge minimal pour apprendre (Androïdes/Droïdes)</Children_GeneratedChildrenLearnMinAgeAndroid_Title>
+	<Children_GeneratedChildrenLearnMinAgeAndroid_Desc>Âge minimum pour apprendre à l'école pour les androïdes et les droïdes</Children_GeneratedChildrenLearnMinAgeAndroid_Desc>
+
+	<Children_GeneratedChildrenLearnMaxAge_Title>Âge maximal pour apprendre</Children_GeneratedChildrenLearnMaxAge_Title>
+	<Children_GeneratedChildrenLearnMaxAge_Desc>Âge maximum pour apprendre à l'école</Children_GeneratedChildrenLearnMaxAge_Desc>
+
+	<Children_GeneratedChildrenTeachMinAge_Title>Âge minimal pour enseigner</Children_GeneratedChildrenTeachMinAge_Title>
+	<Children_GeneratedChildrenTeachMinAge_Desc>Âge minimum pour enseigner</Children_GeneratedChildrenTeachMinAge_Desc>
+	
+	<Children_GeneratedChildrenChance_Title>Chance de grossesse de base</Children_GeneratedChildrenChance_Title>
+	<Children_GeneratedChildrenChance_Desc>0 - 100 est influencé par la valeur de fertilité</Children_GeneratedChildrenChance_Desc>
+
+	<Children_PregnancyDuration_Title>Modificateur : Durée de la grossesse</Children_PregnancyDuration_Title>
+	<Children_PregnancyDuration_Desc>0 - 1000% (Pion humain standard : 100% = 45 jours) [Rimworld doit redémarrer pour que cela affecte le jeu].</Children_PregnancyDuration_Desc>
+
+	<Children_ReverseFertilityEnabled_Title>Fertilité inversée</Children_ReverseFertilityEnabled_Title>
+	<Children_ReverseFertilityEnabled_Desc>[Désactive la fertilité pour tous les colons par défaut - le médicament "stimulant de fertilité" ou l'opération médicale est nécessaire pour pouvoir tomber enceinte (pas pour les animaux).</Children_ReverseFertilityEnabled_Desc>
+		
+	<Children_AlwaysShowPregnancyEnabled_Title>Toujours montrer la grossesse</Children_AlwaysShowPregnancyEnabled_Title>
+	<Children_AlwaysShowPregnancyEnabled_Desc>Normalement, le jeu de base a le premier tiers de la durée de la grossesse caché, ceci le désactive pour les colons (pas pour les animaux).</Children_AlwaysShowPregnancyEnabled_Desc>
+		
+	<Children_GetReproductionFromLifeStageEnabled_Title>La fertilité à partir de l'étape de la vie</Children_GetReproductionFromLifeStageEnabled_Title>
+	<Children_GetReproductionFromLifeStageEnabled_Desc>Met la fertilité à 0 si le pion n'est pas reproductif au stade de vie actuel.</Children_GetReproductionFromLifeStageEnabled_Desc>
+		
+	<Children_GetReproductionFromOldAgeEnabled_Title>Fertilité à partir de la vieillesse</Children_GetReproductionFromOldAgeEnabled_Title>
+	<Children_GetReproductionFromOldAgeEnabled_Desc>Fixe la fécondité à 0 en 3 étapes si le pion est d'un âge avancé. (Désactivé avec BirdsAndBees) (('espérance de vie' - 'âge du dernier stade de vie') / 5, 2/5=100%, 3/5=80%, 4/5=50%, 5/5=0%)</Children_GetReproductionFromOldAgeEnabled_Desc>
+		
+	<Children_AlwaysHaveChildren_Title>Toujours tomber enceinte(TEST)</Children_AlwaysHaveChildren_Title>
+	<Children_AlwaysHaveChildren_Desc>Tous les facteurs sont ignorés et l'amour aboutit toujours à une grossesse (surtout pour les tests et la vérification de la compatibilité des modes).</Children_AlwaysHaveChildren_Desc>
+
+	<Children_IgnoreGender_Title>Ignorer le sexe (tous les cas)</Children_IgnoreGender_Title>
+	<Children_IgnoreGender_Desc>Désactive la vérification du sexe féminin pour qu'une grossesse puisse avoir lieu. (y compris l'opération médicale)</Children_IgnoreGender_Desc>
+	
+	<Children_IgnoreGenderInOperation_Title>Ignorer le sexe (opération uniquement)</Children_IgnoreGenderInOperation_Title>
+	<Children_IgnoreGenderInOperation_Desc>Désactive la vérification du sexe féminin pour qu'une grossesse se produise dans l'opération médicale.</Children_IgnoreGenderInOperation_Desc>
+	
+	<Children_MixedSpeciesChildrenAllowed_Title>Espèces mixtes autorisées</Children_MixedSpeciesChildrenAllowed_Title>
+	<Children_MixedSpeciesChildrenAllowed_Desc>Les couples d'espèces mixtes peuvent-ils avoir des enfants ? Si oui, il y a une chance sur deux pour que l'enfant soit de quelle espèce.</Children_MixedSpeciesChildrenAllowed_Desc>
+
+	<Children_ShowPartnerDialogWithOperationEnabled_Title>Afficher le dialogue avec le partenaire lors de l'opération</Children_ShowPartnerDialogWithOperationEnabled_Title>
+	<Children_ShowPartnerDialogWithOperationEnabled_Desc>Le partenaire pour l'opération de "fécondation artificielle" peut être choisi lorsque l'opération est réussie et que la médecine avancée est utilisée.</Children_ShowPartnerDialogWithOperationEnabled_Desc>
+
+	<Children_FilterBloodRelatedInPartnerDialogEnabled_Title>Dialogue du partenaire de filtrage</Children_FilterBloodRelatedInPartnerDialogEnabled_Title>
+	<Children_FilterBloodRelatedInPartnerDialogEnabled_Desc>Filtrez les colons liés par le sang.</Children_FilterBloodRelatedInPartnerDialogEnabled_Desc>
+
+	<Children_ShowChildSpeciesDialogIfUnclearEnabled_Title>Afficher le dialogue des espèces enfantines si ce n'est pas clair</Children_ShowChildSpeciesDialogIfUnclearEnabled_Title>
+	<Children_ShowChildSpeciesDialogIfUnclearEnabled_Desc>Parfois l'espèce des parents ne peut pas être déterminée à 100%, montrez un dialogue pour la choisir quand cela arrive.</Children_ShowChildSpeciesDialogIfUnclearEnabled_Desc>
+
+	<Children_AlwaysShowChildSpeciesDialogEnabled_Title>Toujours afficher le dialogue des espèces enfant</Children_AlwaysShowChildSpeciesDialogEnabled_Title>
+	<Children_AlwaysShowChildSpeciesDialogEnabled_Desc>Toujours afficher un dialogue pour choisir l'espèce de l'enfant à la naissance.</Children_AlwaysShowChildSpeciesDialogEnabled_Desc>
+
+	<Children_AndroidChildrenAllowed_Title>Androïde autorisé</Children_AndroidChildrenAllowed_Title>
+	<Children_AndroidChildrenAllowed_Desc>[Les androïdes peuvent-ils avoir des enfants ? (Doit être rechargé pour avoir un effet complet !)</Children_AndroidChildrenAllowed_Desc>
+
+	<Children_DroidChildrenAllowed_Title>Droïde autorisé</Children_DroidChildrenAllowed_Title>
+	<Children_DroidChildrenAllowed_Desc>[Les droïdes/robots peuvent-ils avoir des enfants ? (Doit être rechargé pour avoir un effet complet !)</Children_DroidChildrenAllowed_Desc>
+
+	<Children_AvaliChildrenAllowed_Title>Avali autorisé</Children_AvaliChildrenAllowed_Title>
+	<Children_AvaliChildrenAllowed_Desc>Peut être utilisé pour désactiver la routine de modération pour Avali.</Children_AvaliChildrenAllowed_Desc>
+
+	<Children_VampireChildrenAllowed_Title>Vampires autorisé</Children_VampireChildrenAllowed_Title>
+	<Children_VampireChildrenAllowed_Desc>Les vampires peuvent-ils avoir des enfants ?</Children_VampireChildrenAllowed_Desc>
+	
+	<Children_VampireChildrenAreVampires_Title>Vampire hérité</Children_VampireChildrenAreVampires_Title>
+	<Children_VampireChildrenAreVampires_Desc>Les enfants de vampires sont aussi des vampires ?</Children_VampireChildrenAreVampires_Desc>
+	
+	<Children_WerewolfChildrenAreWerewolfs_Title>Loup-garou hérité</Children_WerewolfChildrenAreWerewolfs_Title>
+	<Children_WerewolfChildrenAreWerewolfs_Desc>Les enfants de loups-garous sont aussi des loups-garous ?</Children_WerewolfChildrenAreWerewolfs_Desc>
+	
+	<Children_WerewolfChildrenMinAgeFirstTransformation_Title>Âge minimal du loup-garou</Children_WerewolfChildrenMinAgeFirstTransformation_Title>
+	<Children_WerewolfChildrenMinAgeFirstTransformation_Desc>A quel âge les enfants loups-garous se transforment-ils pour la première fois ?</Children_WerewolfChildrenMinAgeFirstTransformation_Desc>
+	
+	<Children_WerewolfChildrenPregnancyDuration_Title>Loup-garou : Durée de la grossesse</Children_WerewolfChildrenPregnancyDuration_Title>
+	<Children_WerewolfChildrenPregnancyDuration_Desc>0 - 100% de la durée normale (100% = aucune différence avec la normale)</Children_WerewolfChildrenPregnancyDuration_Desc>
+
+	<Children_PostpartumEnabled_Title>Ajouter le post-partum</Children_PostpartumEnabled_Title>
+	<Children_PostpartumEnabled_Desc>Ajoute un affaiblissement de la fertilité sur une période de 50 jours en 3 étapes (-100%, -80%, -50%).</Children_PostpartumEnabled_Desc>
+
+	<Children_NoMiscarriageEnabled_Title>Désactiver la fausse couche</Children_NoMiscarriageEnabled_Title>
+	<Children_NoMiscarriageEnabled_Desc>Désactive la possibilité d'une fausse couche (dans le jeu de base) pour les colons humains ou de type humain.</Children_NoMiscarriageEnabled_Desc>
+
+	<Children_AlwaysShowMiscarriageEnabled_Title>Toujours montrer une fausse couche</Children_AlwaysShowMiscarriageEnabled_Title>
+	<Children_AlwaysShowMiscarriageEnabled_Desc>Affiche le message de fausse couche (du jeu de base) même si la grossesse n'était pas encore visible.</Children_AlwaysShowMiscarriageEnabled_Desc>
+	<Children_AlwaysShowMiscarriageEnabled_MessageHidden>(Caché, sans conséquences)</Children_AlwaysShowMiscarriageEnabled_MessageHidden>
+	
+	<Children_RetryOnBirthIssueEnabled_Title>Reprise de la naissance en cas de problème</Children_RetryOnBirthIssueEnabled_Title>
+	<Children_RetryOnBirthIssueEnabled_Desc>Essayez de rétablir la grossesse si le mod a pu détecter qu'une naissance n'a pas eu lieu alors qu'elle aurait dû avoir lieu.</Children_RetryOnBirthIssueEnabled_Desc>
+	<Children_RetryOnBirthIssueEnabled_MessageRetry>Faut-il rétablir la grossesse de {0} ? (Aucun enfant né n'a pu être trouvé !) (Ce dialogue peut être désactivé dans les options).</Children_RetryOnBirthIssueEnabled_MessageRetry>
+
+	<Children_TryFixHumanKindEnabled_Title>Régler les humains sur le type de base</Children_TryFixHumanKindEnabled_Title>
+	<Children_TryFixHumanKindEnabled_Desc>Essayer de résoudre les problèmes avec les variantes de human(kindDefs) qui peuvent causer des problèmes à la naissance. (Cela ne change pas les autres espèces en humains, cela permet simplement de s'assurer que les humains ont tous le même type de base)</Children_TryFixHumanKindEnabled_Desc>
+	
+	<Children_TryFixSpecialKindEnabled_Title>Définir les humains spéciaux au type de base</Children_TryFixSpecialKindEnabled_Title>
+	<Children_TryFixSpecialKindEnabled_Desc>Essayer de résoudre les problèmes avec les variantes AncientSoldier et StrangerInBlack de human(kindDefs) qui peuvent causer des problèmes à la naissance. (Ce problème devrait déjà être résolu avec l'option ci-dessus).</Children_TryFixSpecialKindEnabled_Desc>
+
+	<Children_OneChildEnabled_Title>Option "une seule grossesse".</Children_OneChildEnabled_Title>
+	<Children_OneChildEnabled_Desc>Désactive la fertilité après la naissance, de sorte que tout le monde n'a qu'une seule grossesse. (Cela peut être supprimé par une opération, mais il faut recommencer le jeu).</Children_OneChildEnabled_Desc>
+
+	<Children_ShowFatherEnabled_Title>Afficher le père</Children_ShowFatherEnabled_Title>
+	<Children_ShowFatherEnabled_Desc>Afficher le père dans l'onglet "Santé".</Children_ShowFatherEnabled_Desc>
+	
+	<Children_ShowSpeciesEnabled_Title>Afficher les espèces</Children_ShowSpeciesEnabled_Title>
+	<Children_ShowSpeciesEnabled_Desc>Afficher l'espèce attendue de l'enfant dans l'onglet santé</Children_ShowSpeciesEnabled_Desc>
+	
+	<Children_ShowDurationEnabled_Title>Afficher la durée</Children_ShowDurationEnabled_Title>
+	<Children_ShowDurationEnabled_Desc>Afficher la durée jusqu'à la naissance dans l'onglet santé</Children_ShowDurationEnabled_Desc>
+	
+	<Children_DebugTickDisabled_Title>Désactiver l'augmentation de la chance d'aimer</Children_DebugTickDisabled_Title>
+	<Children_DebugTickDisabled_Desc>Il peut y avoir un problème avec les chances de base dans le jeu, c'est pourquoi ce mods les augmente.</Children_DebugTickDisabled_Desc>
+		
+	<Children_RandomBackstoryEnabled_Title>Permettre des histoires aléatoires</Children_RandomBackstoryEnabled_Title>
+	<Children_RandomBackstoryEnabled_Desc>Choisit l'une des histoires du jeu de base qui sont généralement correctes, au lieu de "enfant de la colonie".</Children_RandomBackstoryEnabled_Desc>
+		
+	<Children_ColonyChildNaturalFocusEnabled_Title>Permettre une concentration naturelle pour les enfants de la colonie</Children_ColonyChildNaturalFocusEnabled_Title>
+	<Children_ColonyChildNaturalFocusEnabled_Desc>[Les colons nés avec l'histoire d'un 'enfant de la colonie' obtiennent également une concentration naturelle de méditation (comme les colons tribaux) (Peut être changé à volonté et affecte les colons existants, mais doit être rechargé, sauvegarder et rechargé à nouveau après avoir changé l'option pour prendre pleinement effet !)</Children_ColonyChildNaturalFocusEnabled_Desc>
+		
+	<GeneratedChildrenInheritPercentage_Title>Héritage de la compétence (%)</GeneratedChildrenInheritPercentage_Title>
+	<GeneratedChildrenInheritPercentage_Desc>Pourcentage des compétences des parents héritées (0=Toutes les compétences niveau 1) ((Parent1 + Parent2 niveau de compétence / 2) * Pourcentage) (Aléatoire=Génération normale de compétences)</GeneratedChildrenInheritPercentage_Desc>
+
+	<GeneratedChildrenInheritPercentage_Desc_0>0%</GeneratedChildrenInheritPercentage_Desc_0>
+	<GeneratedChildrenInheritPercentage_Desc_25>25%</GeneratedChildrenInheritPercentage_Desc_25>
+	<GeneratedChildrenInheritPercentage_Desc_50>50%</GeneratedChildrenInheritPercentage_Desc_50>
+	<GeneratedChildrenInheritPercentage_Desc_75>75%</GeneratedChildrenInheritPercentage_Desc_75>
+	<GeneratedChildrenInheritPercentage_Desc_100>100%</GeneratedChildrenInheritPercentage_Desc_100>
+	<GeneratedChildrenInheritPercentage_Desc_RandomSkills>Compétences aléatoires</GeneratedChildrenInheritPercentage_Desc_RandomSkills>
+	<GeneratedChildrenInheritPercentage_Desc_StrongestAndRandom>Hériter des 3 meilleurs +Aléatoire</GeneratedChildrenInheritPercentage_Desc_StrongestAndRandom>
+	
+	<GeneratedChildrenInheritTraits_Title>Trait hérité</GeneratedChildrenInheritTraits_Title>
+	<GeneratedChildrenInheritTraits_Desc>Définit quels traits sont générés pour les enfants et comment ils le sont.</GeneratedChildrenInheritTraits_Desc>
+
+	<GeneratedChildrenInheritTraits_Desc_NoTraits>Aucun trait</GeneratedChildrenInheritTraits_Desc_NoTraits>
+	<GeneratedChildrenInheritTraits_Desc_InheritedTraits>Traits hérités</GeneratedChildrenInheritTraits_Desc_InheritedTraits>
+	<GeneratedChildrenInheritTraits_Desc_InheritedAndRandomTraits>Hérités et aléatoires</GeneratedChildrenInheritTraits_Desc_InheritedAndRandomTraits>
+	<GeneratedChildrenInheritTraits_Desc_RandomTraits>Traits aléatoires</GeneratedChildrenInheritTraits_Desc_RandomTraits>
+
+	<GeneratedChildrenInheritTraitCount_Title>Nombre de traits hérités</GeneratedChildrenInheritTraitCount_Title>
+	<GeneratedChildrenInheritTraitCount_Desc>Combien de traits sont hérités des parents, quand 'traits hérités' est actif ('traits max' enlèvera certains de ces traits quand ils dépassent la limite).</GeneratedChildrenInheritTraitCount_Desc>
+
+	<GeneratedChildrenInheritTraitCount_Desc_1each>1 de chaque</GeneratedChildrenInheritTraitCount_Desc_1each>
+	<GeneratedChildrenInheritTraitCount_Desc_2each>2 de chaque</GeneratedChildrenInheritTraitCount_Desc_2each>
+	<GeneratedChildrenInheritTraitCount_Desc_3each>3 de chaque</GeneratedChildrenInheritTraitCount_Desc_3each>
+	<GeneratedChildrenInheritTraitCount_Desc_1father>1 du père</GeneratedChildrenInheritTraitCount_Desc_1father>
+	<GeneratedChildrenInheritTraitCount_Desc_2father>2 du père</GeneratedChildrenInheritTraitCount_Desc_2father>
+	<GeneratedChildrenInheritTraitCount_Desc_3father>3 du père</GeneratedChildrenInheritTraitCount_Desc_3father>
+	<GeneratedChildrenInheritTraitCount_Desc_1mother>1 de la mère</GeneratedChildrenInheritTraitCount_Desc_1mother>
+	<GeneratedChildrenInheritTraitCount_Desc_2mother>2 de la mère</GeneratedChildrenInheritTraitCount_Desc_2mother>
+	<GeneratedChildrenInheritTraitCount_Desc_3mother>3 de la mère</GeneratedChildrenInheritTraitCount_Desc_3mother>
+	<GeneratedChildrenInheritTraitCount_Desc_all>hériter de tout</GeneratedChildrenInheritTraitCount_Desc_all>
+
+	<GeneratedChildrenTraitMax_Title>Traits maximaux</GeneratedChildrenTraitMax_Title>
+	<GeneratedChildrenTraitMax_Desc>Définit le nombre de traits que les enfants peuvent avoir au maximum (supprime les traits au hasard après la génération jusqu'à ce que le maximum fixé soit atteint).</GeneratedChildrenTraitMax_Desc>
+	
+	<GeneratedChildrenTraitMax_Desc_One>1</GeneratedChildrenTraitMax_Desc_One>
+	<GeneratedChildrenTraitMax_Desc_Two>2</GeneratedChildrenTraitMax_Desc_Two>
+	<GeneratedChildrenTraitMax_Desc_Three>3 (Default)</GeneratedChildrenTraitMax_Desc_Three>
+	<GeneratedChildrenTraitMax_Desc_Four>4</GeneratedChildrenTraitMax_Desc_Four>
+	<GeneratedChildrenTraitMax_Desc_Five>5</GeneratedChildrenTraitMax_Desc_Five>
+	<GeneratedChildrenTraitMax_Desc_NoLimit>Aucune limite</GeneratedChildrenTraitMax_Desc_NoLimit>
+
+	<GeneratedChildrenTraitScenario_Title>Traits du scénario</GeneratedChildrenTraitScenario_Title>
+	<GeneratedChildrenTraitScenario_Desc>Les autres réglages de traits peuvent empêcher/supprimer les traits du scénario + Les nouveaux pions ne prennent normalement pas en compte les traits de départ d'un scénario que ce réglage peut réactiver.</GeneratedChildrenTraitScenario_Desc>
+	
+	<GeneratedChildrenTraitScenario_Desc_Off>Non considéré (Off)</GeneratedChildrenTraitScenario_Desc_Off>
+	<GeneratedChildrenTraitScenario_Desc_OnTop>Après le trait max</GeneratedChildrenTraitScenario_Desc_OnTop>
+	<GeneratedChildrenTraitScenario_Desc_Inherit>Hérité avant le trait-max</GeneratedChildrenTraitScenario_Desc_Inherit>
+	<GeneratedChildrenTraitScenario_Desc_InheritOnTop>Hérité après le trait-max (Défaut)</GeneratedChildrenTraitScenario_Desc_InheritOnTop>
+
+	<GeneratedChildrenLastName_Title>Nom de famille</GeneratedChildrenLastName_Title>
+	<GeneratedChildrenLastName_Desc>Définit le nom de famille des enfants</GeneratedChildrenLastName_Desc>
+
+	<GeneratedChildrenLastName_Desc_NameMother>Mère</GeneratedChildrenLastName_Desc_NameMother>
+	<GeneratedChildrenLastName_Desc_NameFather>Père</GeneratedChildrenLastName_Desc_NameFather>
+	
+	<GeneratedChildrenGender_Title>Sexe</GeneratedChildrenGender_Title>
+	<GeneratedChildrenGender_Desc>Donne l'option de remplacer le sexe à la naissance pour résoudre des problèmes rares. (Ceci peut à son tour être remplacé par d'autres mods ou espèces ou causer des problèmes avec eux [utilisez les paramètres par espèce en bas pour essayer de corriger AlienRaces etc.)</GeneratedChildrenGender_Desc>
+
+	<GeneratedChildrenGender_Desc_UseMainSetting>Utiliser le paramètre principal ci-dessus</GeneratedChildrenGender_Desc_UseMainSetting>
+	<GeneratedChildrenGender_Desc_BaseGame>Vanilla (jeu de base ou autre mod)</GeneratedChildrenGender_Desc_BaseGame>
+	<GeneratedChildrenGender_Desc_Random>Aléatoire(CSL)</GeneratedChildrenGender_Desc_Random>
+	<GeneratedChildrenGender_Desc_OnlyFemale>Uniquement féminin(CSL)</GeneratedChildrenGender_Desc_OnlyFemale>
+	<GeneratedChildrenGender_Desc_OnlyMale>Homme seul(CSL)</GeneratedChildrenGender_Desc_OnlyMale>
+	<GeneratedChildrenGender_Desc_MostlyFemale>Principalement des femmes (CSL)</GeneratedChildrenGender_Desc_MostlyFemale>
+	<GeneratedChildrenGender_Desc_MostlyMale>Principalement des hommes (CSL)</GeneratedChildrenGender_Desc_MostlyMale>
+
+	<GeneratedChildrenColorMixing_Title>Mélange de couleurs</GeneratedChildrenColorMixing_Title>
+	<GeneratedChildrenColorMixing_Desc>Cela définit la façon dont les cheveux, les couleurs du corps (et d'autres, pour certaines "Races Alien") sont calculés à la naissance.</GeneratedChildrenColorMixing_Desc>
+	
+	<GeneratedChildrenColorMixing_Desc_UseMainSetting>Utiliser le paramètre principal ci-dessus</GeneratedChildrenColorMixing_Desc_UseMainSetting>
+	<GeneratedChildrenColorMixing_Desc_OffOnlyRandom>Aléatoire (pas de mélange, etc.)</GeneratedChildrenColorMixing_Desc_OffOnlyRandom>
+	<GeneratedChildrenColorMixing_Desc_MixingHalfDefault>Couleur des parents sont exactement 50/50</GeneratedChildrenColorMixing_Desc_MixingHalfDefault>
+	<GeneratedChildrenColorMixing_Desc_MixingHalfMoreVariation>Parents 50/50 + légère variation</GeneratedChildrenColorMixing_Desc_MixingHalfMoreVariation>
+	<GeneratedChildrenColorMixing_Desc_MotherOnly>Couleurs des mères uniquement</GeneratedChildrenColorMixing_Desc_MotherOnly>
+	<GeneratedChildrenColorMixing_Desc_MotherOnlyMoreVariation>Mère + légère variation</GeneratedChildrenColorMixing_Desc_MotherOnlyMoreVariation>
+	<GeneratedChildrenColorMixing_Desc_FatherOnly>Couleurs des pères uniquement</GeneratedChildrenColorMixing_Desc_FatherOnly>
+	<GeneratedChildrenColorMixing_Desc_FatherOnlyMoreVariation>Pères + légère variation</GeneratedChildrenColorMixing_Desc_FatherOnlyMoreVariation>
+	
+	<Children_PrioritizeTraitIfBothParents_Title>Donner la priorité aux traits des deux parents</Children_PrioritizeTraitIfBothParents_Title>
+	<Children_PrioritizeTraitIfBothParents_Desc>Les traits que les deux parents possèdent sont hérités en premier (les paramètres et les limites de l'héritage des traits s'appliquent toujours ! Ces traits sont simplement ajoutés en premier - il peut être utile de jeter un coup d'œil aux mods qui permettent d'ajouter d'autres traits).</Children_PrioritizeTraitIfBothParents_Desc>
+	
+	<Children_TryFixZeroPassions_Title>Essayez de réparer 0 passion</Children_TryFixZeroPassions_Title>
+	<Children_TryFixZeroPassions_Desc>Dans certains cas, les enfants peuvent avoir 0 passion.</Children_TryFixZeroPassions_Desc>
+	
+	<Children_DisableSchoolZoneChanges_Title>Désactiver la zone scolaire</Children_DisableSchoolZoneChanges_Title>
+	<Children_DisableSchoolZoneChanges_Desc>Ne changez pas automatiquement la zone en école (cela pourrait éviter certains problèmes avec d'autres mods).</Children_DisableSchoolZoneChanges_Desc>
+
+	<SchoolsOutMinFireDanger_Title>(Zone scolaire) L'école est fermée - danger d'incendie</SchoolsOutMinFireDanger_Title>
+	<SchoolsOutMinFireDanger_Desc>Définit quels dangers d'incendie déclenchent le non-respect de la zone scolaire en période scolaire.</SchoolsOutMinFireDanger_Desc>
+
+	<SchoolsOutMinFireDanger_Desc_AllFires0>Tous les incendies</SchoolsOutMinFireDanger_Desc_AllFires0>
+	<SchoolsOutMinFireDanger_Desc_SmallFire30>Petits incendies</SchoolsOutMinFireDanger_Desc_SmallFire30>
+	<SchoolsOutMinFireDanger_Desc_MediumFire60>Incendies moyens</SchoolsOutMinFireDanger_Desc_MediumFire60>
+	<SchoolsOutMinFireDanger_Desc_LargeFire90>Grands incendies</SchoolsOutMinFireDanger_Desc_LargeFire90>
+	<SchoolsOutMinFireDanger_Desc_Off999>Off (Ignore les incendies)</SchoolsOutMinFireDanger_Desc_Off999>
+		
+	<Children_Teacher>enseignant</Children_Teacher>
+	<Children_Stats>statistiques</Children_Stats>
+	<Children_Room>pièce</Children_Room>
+	<Children_RoomNotClassroom>Cette pièce n'est pas considérée comme une salle de classe et ne bénéficiera d'aucun bonus d'apprentissage !</Children_RoomNotClassroom>
+	<Children_TeacherNotTeaching>Enseignant n'enseignant pas ou enseignant une autre matière</Children_TeacherNotTeaching>
+	<Children_MissingTeacher>Aucun enseignant</Children_MissingTeacher>
+	<Children_MissingBlackboard>Aucun tableau noir trouvé</Children_MissingBlackboard>
+	<Children_NoBillsOnBlackboard>Pas de travail au tableau</Children_NoBillsOnBlackboard>
+	
+	<Children_PawnToYoungSeeOptions>Trop jeune, voir les options mod</Children_PawnToYoungSeeOptions>
+	<Children_PawnToOldSeeOptions>Trop vieux, voir les options du mod</Children_PawnToOldSeeOptions>
+	
+	<ChildrenMessageMedicalOperationPregFailure>{1} ne pouvait pas tomber enceinte artificiellement, raison : {0}</ChildrenMessageMedicalOperationPregFailure>
+	<ChildrenMessageMedicalOperationPregFailureMale>{1} ne peut pas tomber enceinte artificiellement parce qu'il est un homme</ChildrenMessageMedicalOperationPregFailureMale>
+	<ChildrenMessageMedicalOperationPregFailureFertile>{1} n'a pas de fertilité et ne peut pas tomber enceinte artificiellement</ChildrenMessageMedicalOperationPregFailureFertile>
+	
+	<ChildrenMessageMedicalOperationPregSuccessPartner>{1} est maintenant enceinte artificiellement de {0}</ChildrenMessageMedicalOperationPregSuccessPartner>
+	<ChildrenMessageMedicalOperationPregSuccessSelf>{1} est maintenant enceinte artificiellement sans partenaire</ChildrenMessageMedicalOperationPregSuccessSelf>
+	
+	<ChildrenMessageMedicalOperationRemovePregFailure>{1} n'était pas enceinte (l'opération n'a eu aucun effet)</ChildrenMessageMedicalOperationRemovePregFailure>
+	<ChildrenMessageMedicalOperationRemovePregSuccess>La grossesse de {1} a été interrompu avec succès par l'opération</ChildrenMessageMedicalOperationRemovePregSuccess>
+	
+	<ChildrenMessageMedicalOperationDiscoverPregFailure>{1} n'est pas enceinte</ChildrenMessageMedicalOperationDiscoverPregFailure>
+	<ChildrenMessageMedicalOperationDiscoverPregSuccess>{1} est enceinte ! ({2} jusqu'à la naissance)</ChildrenMessageMedicalOperationDiscoverPregSuccess>
+	
+	<ChildrenMessageMedicalOperationRemoveOneChildFailure>{1} n'avait pas l'effet "une seule grossesse" (l'opération n'avait aucun effet)</ChildrenMessageMedicalOperationRemoveOneChildFailure>
+	<ChildrenMessageMedicalOperationRemoveOneChildSuccess>L'affaiblissement "une seule grossesse" de {1} a été retiré avec succès par l'opération</ChildrenMessageMedicalOperationRemoveOneChildSuccess>
+	
+	<ChildrenMessageNotLearningMuch>{1} ne peut pas apprendre grand chose de {0} plus (le message peut être désactivé)</ChildrenMessageNotLearningMuch>
+	
+	<ChildrenMessageOldEnoughToWork>{1} est maintenant en âge de travailler</ChildrenMessageOldEnoughToWork>
+	
+	<Children_PawnSizeEnabled_Title>Activer la mise à l'échelle</Children_PawnSizeEnabled_Title>
+	<Children_PawnSizeEnabled_Desc>[Les jeunes colons sont dessinés plus petits, en fonction de leur stade de vie. A BESOIN D'ÊTRE RECHARGÉ !</Children_PawnSizeEnabled_Desc>
+	
+	<Children_NewPawnSizeModeEnabled_Title>Activez le nouveau mode de mise à l'échelle</Children_NewPawnSizeModeEnabled_Title>
+	<Children_NewPawnSizeModeEnabled_Desc>Une meilleure méthode de mise à l'échelle qui devrait être plus compatible avec les autres mods.</Children_NewPawnSizeModeEnabled_Desc>
+	
+	<Children_FacialStuffSizeModeEnabled_Title>Activez la mise à l'échelle de FacialStuff</Children_FacialStuffSizeModeEnabled_Title>
+	<Children_FacialStuffSizeModeEnabled_Desc>Activer la mise à l'échelle de FacialStuff avec le nouveau scaling-mode (test)</Children_FacialStuffSizeModeEnabled_Desc>
+	
+	<Children_NoWorkYoungEnabled_Title>Les jeunes ne peuvent pas travailler</Children_NoWorkYoungEnabled_Title>
+	<Children_NoWorkYoungEnabled_Desc>[Les jeunes colons ne sont pas capables d'effectuer des tâches (humains 0-3 / une fois qu'ils ont 4 ans ils peuvent travailler). A BESOIN D'ÊTRE RECHARGÉ !</Children_NoWorkYoungEnabled_Desc>
+	
+	<Children_NoAddictionUntilAge_Title>Les jeunes ne peuvent pas devenir dépendants avant</Children_NoAddictionUntilAge_Title>
+	<Children_NoAddictionUntilAge_Desc>[Jusqu'à ce que l'âge fixé soit atteint, les dépendances possibles sont maîtrisées (cela ne les empêche pas de prendre des drogues, mais atténue le besoin d'en prendre s'ils sont nés avec une dépendance). BESOIN DE RECHARGER !</Children_NoAddictionUntilAge_Desc>
+	<Children_NoAddictionUntilAge_MessageOldEnough>{0} est maintenant assez âgé pour que les éventuelles dépendances ne soient plus maîtrisées.</Children_NoAddictionUntilAge_MessageOldEnough>
+	
+	<Children_NotLearningMessageEnabled_Title>Message : Je n'apprends plus rien</Children_NotLearningMessageEnabled_Title>
+	<Children_NotLearningMessageEnabled_Desc>Affichez le message : "X ne peut plus apprendre grand chose de Y".</Children_NotLearningMessageEnabled_Desc>
+
+	<Children_AlwaysRenameFirstNameEnabled_Title>Toujours remplacer renommer</Children_AlwaysRenameFirstNameEnabled_Title>
+	<Children_AlwaysRenameFirstNameEnabled_Desc>Permet de renommer le prénom de n'importe quel colon mais remplace le dialogue normal de surnom et de titre (doit être désactivé après le renommage, et est surtout destiné à migrer d'une ancienne version sans cette fonction).</Children_AlwaysRenameFirstNameEnabled_Desc>
+	
+	<Children_DebugInfoMessagesEnabled_Title>Consigner les messages d'information de débogage</Children_DebugInfoMessagesEnabled_Title>
+	<Children_DebugInfoMessagesEnabled_Desc>Consigner les messages d'information de débogage</Children_DebugInfoMessagesEnabled_Desc>
+	
+	<Children_DebugWarningMessagesEnabled_Title>Consigner les messages d'avertissement de débogage</Children_DebugWarningMessagesEnabled_Title>
+	<Children_DebugWarningMessagesEnabled_Desc>Consigner les messages d'avertissement de débogage</Children_DebugWarningMessagesEnabled_Desc>
+
+	<Children_DebugErrorMessagesEnabled_Title>Consigner les messages d'erreur de débogage</Children_DebugErrorMessagesEnabled_Title>
+	<Children_DebugErrorMessagesEnabled_Desc>Consigner les messages d'erreur de débogage</Children_DebugErrorMessagesEnabled_Desc>	
+
+	<Children_RemoveMod_Title>Enlever le mod</Children_RemoveMod_Title>
+	<Children_RemoveMod_Desc>Ouvre une boîte de dialogue permettant de supprimer la plupart du contenu des mods du jeu. (Doit être cliqué dans un jeu en cours)</Children_RemoveMod_Desc>	
+	
+	<Children_RemoveModMessage>Cela va essayer de supprimer la plupart des parties du mod de ce jeu. Une fois qu'elle est terminée, vous devez d'abord sauvegarder le jeu sans rien faire d'autre, puis supprimer le mod de l'ordre de chargement et recharger la sauvegarde. (Il y aura quelques messages d'erreur lors du premier rechargement (peut-être aussi lors de la première sauvegarde), mais cela ne devrait pas être un gros problème).</Children_RemoveModMessage>
+	<Children_RemoveModCompeted>La plupart des parties liées au mod devraient maintenant être retirées, sauvegardez le jeu avant de faire quoi que ce soit d'autre.</Children_RemoveModCompeted>
+	
+	<Children_DisableChildrenItemsMessage>Cela désactivera également toutes les fonctions liées aux enfants de ce mod ! Il est recommandé de fermer et de rouvrir le jeu après avoir modifié ce paramètre ! Les objets et les propriétés de ce mod peuvent ne pas être restaurés lors du chargement d'une sauvegarde avec ce paramètre ! (Il peut également y avoir des erreurs lors du premier chargement d'une sauvegarde contenant ces éléments).</Children_DisableChildrenItemsMessage>
+	<Children_DisableItemsMessage>Il est recommandé de fermer et de rouvrir le jeu après avoir modifié ce paramètre ! Les objets et les propriétés de ce mod peuvent ne pas être restaurés lors du chargement d'une sauvegarde avec ce paramètre ! (Il peut également y avoir des erreurs lors du premier chargement d'une sauvegarde contenant ces éléments).</Children_DisableItemsMessage>
+	
+	<Children_FixBrokenMap_Title>Essayez de réparer la carte</Children_FixBrokenMap_Title>
+	<Children_FixBrokenMap_Desc>Tente de réparer une carte qui ne peut plus être chargée parce que le mod n'a pas été correctement supprimé (réinitialise toutes les zones de cette carte aux paramètres par défaut - le mod doit toujours être supprimé correctement par la suite !)</Children_FixBrokenMap_Desc>	
+	
+	<Children_SchoolScheduleButtonX_Title>Poste en milieu scolaire X</Children_SchoolScheduleButtonX_Title>
+	<Children_SchoolScheduleButtonX_Desc>Ceci peut être utilisé pour déplacer le bouton de l'horaire scolaire horizontalement (pour corriger un éventuel chevauchement avec d'autres mods, etc.)</Children_SchoolScheduleButtonX_Desc>
+
+	<Children_SchoolScheduleButtonY_Title>Poste en milieu scolaire Y</Children_SchoolScheduleButtonY_Title>
+	<Children_SchoolScheduleButtonY_Desc>Ceci peut être utilisé pour déplacer le bouton de l'horaire scolaire verticalement (pour corriger un éventuel chevauchement avec d'autres mods, etc.)</Children_SchoolScheduleButtonY_Desc>
+	
+	<ChildrenMessageSecondMother>2. Mère</ChildrenMessageSecondMother>
+	<ChildrenMessagePartner>Partenaire</ChildrenMessagePartner>
+	<ChildrenMessageFather>Père</ChildrenMessageFather>
+	<ChildrenMessageNoPartner>Aucun partenaire</ChildrenMessageNoPartner>
+	
+	<ChildrenMessageWorkTooYoungAge>Info : Sera assez âgé avec : </ChildrenMessageWorkTooYoungAge>
+	<ChildrenMessageWorkOldEnough>Info : est maintenant assez vieux (Sauvegarder et recharger si cela persiste)</ChildrenMessageWorkOldEnough>
+	
+	<ChildrenMessageSpecies>Espèces</ChildrenMessageSpecies>
+	<ChildrenMessageSpeciesIssue>Aucune espèce !</ChildrenMessageSpeciesIssue>
+	<ChildrenMessageSpeciesHybrid>Hybride</ChildrenMessageSpeciesHybrid>
+	<ChildrenMessageSpeciesRestricted>Restriction !</ChildrenMessageSpeciesRestricted>
+	
+	<ChildrenMessageDuration>Durée jusqu'à la naissance</ChildrenMessageDuration>
+	
+	<ChildrenMessageChooseSpecies>Choisissez les espèces pour les enfants de {0}</ChildrenMessageChooseSpecies>
+	<ChildrenMessageChooseSpeciesInfo>(Ce dialogue est montré, parce que l'espèce n'a pas pu être déterminée à 100%)</ChildrenMessageChooseSpeciesInfo>
+	<ChildrenMessageChooseSpeciesInfoNoFound>(Ce dialogue est affiché, car aucune espèce autorisée n'a été trouvée).</ChildrenMessageChooseSpeciesInfoNoFound>
+	<ChildrenMessageChooseSpeciesButton>Choisir l'espèce : </ChildrenMessageChooseSpeciesButton>
+	<ChildrenMessageChooseSpeciesRestricted>restriction</ChildrenMessageChooseSpeciesRestricted>
+	
+	<ChildrenMessageChoosePartner>Choisir le partenaire pour l'opération de {0}</ChildrenMessageChoosePartner>
+	<ChildrenMessageChoosePartnerInfo></ChildrenMessageChoosePartnerInfo>
+	<ChildrenMessageChoosePartnerButton>Choisir un partenaire : </ChildrenMessageChoosePartnerButton>
+	<ChildrenMessageChoosePartnerSelf>soi</ChildrenMessageChoosePartnerSelf>
+	
+	<Children_School>École</Children_School>
+	
+	<Children_SchoolTooltipOverride>Remplacé par l'heure de l'école</Children_SchoolTooltipOverride>
+	
+	<Children_DesignatorAreaSchoolExpand>Agrandir la zone scolaire</Children_DesignatorAreaSchoolExpand>
+	<Children_DesignatorAreaSchoolExpandDesc>Les colons qui ont des heures de cours seront enfermés dans cette zone pendant cette période.</Children_DesignatorAreaSchoolExpandDesc>
+	<Children_DesignatorAreaSchoolClear>Dégager la zone de l'école</Children_DesignatorAreaSchoolClear>
+	<Children_DesignatorAreaSchoolClearDesc>Dégager la zone de l'école</Children_DesignatorAreaSchoolClearDesc>
+	
+	
+	<Children_PerSpeciesSettings_Title>(Réglages par espèces)</Children_PerSpeciesSettings_Title>
+	<Children_PerSpeciesSettings_AddDDLText>Ajouter un nouveau réglage</Children_PerSpeciesSettings_AddDDLText>
+	<Children_PerSpeciesSettings_ResetDDLText>réinitialiser</Children_PerSpeciesSettings_ResetDDLText>
+	<Children_PerSpeciesSettings_ResetDDLConfirm>Réinitialiser paramètres par défaut</Children_PerSpeciesSettings_ResetDDLConfirm>
+	<Children_PerSpeciesSettings_Info>[Info]</Children_PerSpeciesSettings_Info>
+	<Children_PerSpeciesSettings_InfoDescription>Ces paramètres remplacent les paramètres ci-dessus en fonction de l'espèce de l'enfant ou du parent (selon le paramètre).</Children_PerSpeciesSettings_InfoDescription>
+	<Children_PerSpeciesSettings_TableColumnSpeciesName>Nom des espèces</Children_PerSpeciesSettings_TableColumnSpeciesName>
+	
+	<Children_PerSpeciesSettings_TableColumnHavingChildren>Enfants</Children_PerSpeciesSettings_TableColumnHavingChildren>
+	<Children_PerSpeciesSettings_TableColumnHavingChildren_ToolTip>Autoriser les grossesses pour cette espèce. (espèce mère) (Ne supprime pas les enfants ou les grossesses existants qui peuvent également être masqués)</Children_PerSpeciesSettings_TableColumnHavingChildren_ToolTip>
+	
+	<Children_PerSpeciesSettings_TableColumnMixedChildren>Mixte</Children_PerSpeciesSettings_TableColumnMixedChildren>
+	<Children_PerSpeciesSettings_TableColumnMixedChildren_ToolTip>Autoriser les grossesses issues de couples mixtes pour cette espèce. Cette option prévaut sur l'option générale "mixte" ci-dessus ! (espèce parentale) (Ne supprime pas les enfants ou les grossesses existantes qui peuvent également être masquées)</Children_PerSpeciesSettings_TableColumnMixedChildren_ToolTip>
+	
+	<Children_PerSpeciesSettings_TableColumnBornChildren>Naissance</Children_PerSpeciesSettings_TableColumnBornChildren>
+	<Children_PerSpeciesSettings_TableColumnBornChildren_ToolTip>Autoriser la naissance de cette espèce. Si une grossesse est issue d'espèces mixtes, l'autre espèce est choisie ou une boîte de dialogue peut être affichée si aucune espèce ne peut être déterminée à cause de cette option. (espèces enfantines) (L'option "Montrer les espèces" ci-dessus peut être utilisée pour voir si cette option est active sur une grossesse, elle indiquera "restreint").</Children_PerSpeciesSettings_TableColumnBornChildren_ToolTip>
+	
+	<Children_PerSpeciesSettings_TableColumnBornAge>Âge de naissance</Children_PerSpeciesSettings_TableColumnBornAge>
+	<Children_PerSpeciesSettings_TableColumnBornAge_ToolTip>Option comme l'option principale ci-dessus, mais par espèce. (espèce enfant) (0-5000 ans, par défaut : paramètre ci-dessus)</Children_PerSpeciesSettings_TableColumnBornAge_ToolTip>
+	
+	<Children_PerSpeciesSettings_TableColumnPregnancyDuration>Durée de la grossesse</Children_PerSpeciesSettings_TableColumnPregnancyDuration>
+	<Children_PerSpeciesSettings_TableColumnPregnancyDuration_ToolTip>Option comme l'option principale ci-dessus, mais par espèce. (espèce mère) (0-1000%, par défaut : paramètre ci-dessus) [Rimworld doit redémarrer pour que cela affecte le jeu].</Children_PerSpeciesSettings_TableColumnPregnancyDuration_ToolTip>
+	
+	<Children_PerSpeciesSettings_TableColumnChildMulti>Nombre d'enfants</Children_PerSpeciesSettings_TableColumnChildMulti>
+	<Children_PerSpeciesSettings_TableColumnChildMulti_ToolTip>Multiplicateur pour le nombre d'enfants nés (espèces d'enfants) (plus grand que 1.0 = plus, plus petit que 1.0 = moins, plafonné : sans multiplicateur 6, avec multiplicateur 20).</Children_PerSpeciesSettings_TableColumnChildMulti_ToolTip>
+	
+	<Children_PerSpeciesSettings_TableColumnAddTraitOnBirth>Trait à la naissance</Children_PerSpeciesSettings_TableColumnAddTraitOnBirth>
+	<Children_PerSpeciesSettings_TableColumnAddTraitOnBirth_ToolTip>En outre, ajoutez d'abord ce trait à la naissance. (espèces enfantines)</Children_PerSpeciesSettings_TableColumnAddTraitOnBirth_ToolTip>
+	<Children_PerSpeciesSettings_ChooseTraitDDLText>choisir un trait</Children_PerSpeciesSettings_ChooseTraitDDLText>
+	<Children_PerSpeciesSettings_NoTraitDDLText>aucun trait</Children_PerSpeciesSettings_NoTraitDDLText>
+	
+	<Children_PerSpeciesSettings_TableColumnColorMixing>Mélange de couleurs</Children_PerSpeciesSettings_TableColumnColorMixing>
+	<Children_PerSpeciesSettings_TableColumnColorMixing_ToolTip>Remplace le paramètre de mélange des couleurs ci-dessus. (espèces enfantines)</Children_PerSpeciesSettings_TableColumnColorMixing_ToolTip>
+	
+	<Children_PerSpeciesSettings_TableColumnGender>Sexe</Children_PerSpeciesSettings_TableColumnGender>
+	<Children_PerSpeciesSettings_TableColumnGender_ToolTip>Remplace le réglage du sexe ci-dessus. (espèces enfantines)</Children_PerSpeciesSettings_TableColumnGender_ToolTip>
+	
+	<Children_PerSpeciesSettings_TableColumnDrawDisableScaling>Mise à l'échelle</Children_PerSpeciesSettings_TableColumnDrawDisableScaling>
+	<Children_PerSpeciesSettings_TableColumnDrawDisableScaling_ToolTip>Désactive la mise à l'échelle de la taille du dessin des enfants pour cette espèce. (espèces enfants)</Children_PerSpeciesSettings_TableColumnDrawDisableScaling_ToolTip>
+	
+	<Children_PerSpeciesSettings_TableColumnDrawCorrectBaseSizeFactor>Taille de base</Children_PerSpeciesSettings_TableColumnDrawCorrectBaseSizeFactor>
+	<Children_PerSpeciesSettings_TableColumnDrawCorrectBaseSizeFactor_ToolTip>Corriger le facteur de taille de base des enfants pour cette espèce. Cela peut corriger les enfants grands ou petits. (espèces d'enfants)</Children_PerSpeciesSettings_TableColumnDrawCorrectBaseSizeFactor_ToolTip>
+	
+	<Children_PerSpeciesSettings_TableColumnDrawScalingSize>Mise à l'échelle du dessin d'enfant</Children_PerSpeciesSettings_TableColumnDrawScalingSize>
+	<Children_PerSpeciesSettings_TableColumnDrawScalingSize_ToolTip>Certaines espèces peuvent avoir besoin de tailles de tirage différentes (espèces enfants) (plus grand que 1,0 = plus grand, moins que 1,0 = plus petit).</Children_PerSpeciesSettings_TableColumnDrawScalingSize_ToolTip>
+	
+	<Children_PerSpeciesSettings_TableColumnDrawScalingSpecies>Mise à l'échelle des parties de l'espèce</Children_PerSpeciesSettings_TableColumnDrawScalingSpecies>
+	<Children_PerSpeciesSettings_TableColumnDrawScalingSpecies_ToolTip>[Certaines espèces peuvent nécessiter des tailles de dessin différentes pour certaines parties d'entre elles (espèces enfants) (supérieur à 1.0 = plus grand, inférieur à 1.0 = plus petit).</Children_PerSpeciesSettings_TableColumnDrawScalingSpecies_ToolTip>
+	
+	<Children_PerSpeciesSettings_TableColumnRemove>Supprimer</Children_PerSpeciesSettings_TableColumnRemove>
+	
+	
+	<Children_SpeciesHybridSettings_Title>(Réglages hybrides)</Children_SpeciesHybridSettings_Title>
+	<Children_SpeciesHybridSettings_AddDDLText>Ajouter un nouveau réglage</Children_SpeciesHybridSettings_AddDDLText>
+	<Children_SpeciesHybridSettings_ResetDDLText>réinitialiser</Children_SpeciesHybridSettings_ResetDDLText>
+	<Children_SpeciesHybridSettings_ResetDDLConfirm>Réinitialiser paramètres par défaut</Children_SpeciesHybridSettings_ResetDDLConfirm>
+	<Children_SpeciesHybridSettings_Info>[Info]</Children_SpeciesHybridSettings_Info>
+	<Children_SpeciesHybridSettings_InfoDescription>Définissez les espèces hybrides possibles, comme : les demi-elfes issus des elfes et des humains (ou les elfes et n'importe quelle espèce..). Il peut y avoir plusieurs entrées pour la même espèce (la première correspondance est utilisée, donc avec plusieurs entrées pour le même hybride - une éventuelle entrée 'Toute espèce' devrait être la dernière de la liste). L'option "Afficher les espèces" ci-dessus peut être utilisée pour voir si cette option est active sur une grossesse. Il y a quelques entrées ici par défaut pour les mods : 'Orassans' et 'Lord of the Rims : Elves' qui ne sont utilisables que si ces mods sont activés.)</Children_SpeciesHybridSettings_InfoDescription>
+	
+	<Children_SpeciesHybridSettings_TableColumnHybridSpecies>Espèces hybrides</Children_SpeciesHybridSettings_TableColumnHybridSpecies>
+	<Children_SpeciesHybridSettings_TableColumnHybridParentA>Espèce parentale A</Children_SpeciesHybridSettings_TableColumnHybridParentA>
+	<Children_SpeciesHybridSettings_TableColumnHybridParentB>Espèce parentale B</Children_SpeciesHybridSettings_TableColumnHybridParentB>
+	<Children_SpeciesHybridSettings_TableColumnRemove>Supprimer</Children_SpeciesHybridSettings_TableColumnRemove>
+	
+	<Children_SpeciesHybridSettings_ChooseDDLText>choisir les espèces</Children_SpeciesHybridSettings_ChooseDDLText>
+	<Children_SpeciesHybridSettings_AnyDDLText>toutes espèces</Children_SpeciesHybridSettings_AnyDDLText>
+	<Children_SpeciesHybridSettings_EnabledCBText>(on)</Children_SpeciesHybridSettings_EnabledCBText>
+
+	
+	<Children_HediffInheritSettings_Title>(Conditions héritées)</Children_HediffInheritSettings_Title>
+	<Children_HediffInheritSettings_AddDDLText>Ajouter une nouvelle condition</Children_HediffInheritSettings_AddDDLText>
+	<Children_HediffInheritSettings_AddDDL_AllAddictions>Toutes les addictions</Children_HediffInheritSettings_AddDDL_AllAddictions>
+	<Children_HediffInheritSettings_AddDDL_AllChronic>Toutes les maladies chroniques</Children_HediffInheritSettings_AddDDL_AllChronic>
+	<Children_HediffInheritSettings_AddDDL_AllPawnmorph>Toutes les mutations Pawnmorph</Children_HediffInheritSettings_AddDDL_AllPawnmorph>
+	<Children_HediffInheritSettings_ResetDDLText>réinitialiser</Children_HediffInheritSettings_ResetDDLText>
+	<Children_HediffInheritSettings_ResetDDLConfirm>Réinitialiser paramètres par défaut</Children_HediffInheritSettings_ResetDDLConfirm>
+	<Children_HediffInheritSettings_Info>[Info]</Children_HediffInheritSettings_Info>
+	<Children_HediffInheritSettings_InfoDescription>Définir si et comment certaines conditions de santé sont héritées. Le jeu de base ajoute des conditions aléatoires, qui ne sont pas modifiées sauf si elles apparaissent dans cette liste.</Children_HediffInheritSettings_InfoDescription>
+
+	<Children_HediffInheritSettings_TableColumnHediff>Condition</Children_HediffInheritSettings_TableColumnHediff>
+	<Children_HediffInheritSettings_TableColumnHediff_AllTooltip>(voir colonne chance)</Children_HediffInheritSettings_TableColumnHediff_AllTooltip>
+	
+	<Children_HediffInheritSettings_TableColumnMotherInherit>Mère</Children_HediffInheritSettings_TableColumnMotherInherit>
+	<Children_HediffInheritSettings_TableColumnMotherInherit_ToolTip>L'hériter de la mère. (Si les deux parents sont sélectionnés, les chances sont doublées).</Children_HediffInheritSettings_TableColumnMotherInherit_ToolTip>
+	
+	<Children_HediffInheritSettings_TableColumnFatherInherit>Père</Children_HediffInheritSettings_TableColumnFatherInherit>
+	<Children_HediffInheritSettings_TableColumnFatherInherit_ToolTip>L'hériter du père. (Si les deux parents sont sélectionnés, les chances sont doublées).</Children_HediffInheritSettings_TableColumnFatherInherit_ToolTip>
+	
+	<Children_HediffInheritSettings_TableColumnStageInherit>Stage</Children_HediffInheritSettings_TableColumnStageInherit>
+	<Children_HediffInheritSettings_TableColumnStageInherit_ToolTip>Off=Première étape, On=Tenter d'utiliser l'étape des parents.</Children_HediffInheritSettings_TableColumnStageInherit_ToolTip>
+	
+	<Children_HediffInheritSettings_TableColumnInheritChance>Chance</Children_HediffInheritSettings_TableColumnInheritChance>
+	<Children_HediffInheritSettings_TableColumnInheritChance_ToolTip>0-100% (0%=Off, supprime cette condition à la naissance, quel que soit le parent) (Mode aléatoire : Si l'enfant a cette condition de façon aléatoire à la naissance et que le parent l'a aussi, elle est maintenue - c'est ainsi que les dépendances ont toujours fonctionné et c'est plutôt une option héritée de 'Toutes les dépendances').</Children_HediffInheritSettings_TableColumnInheritChance_ToolTip>
+	<Children_HediffInheritSettings_TableColumnInheritChance_Random>Aléatoire</Children_HediffInheritSettings_TableColumnInheritChance_Random>
+	
+	<Children_HediffInheritSettings_TableColumnRemove>Supprimer</Children_HediffInheritSettings_TableColumnRemove>
+
+
+</LanguageData>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+	<!-- Securiry-->
+	<!-- short wall -->
+	<VFES_ShortWall.label>mur court</VFES_ShortWall.label>
+	<!-- A passable chest-height wall. Cannot support roofs. -->
+	<VFES_ShortWall.description>Un mur à hauteur de poitrine pouvant être escaladé. Je ne supporte pas les plafonds.</VFES_ShortWall.description>
+
+	<!-- Medical -->
+	<!-- red sterile wall -->
+	<Wall_SterileRed.label>mur stérile rouge</Wall_SterileRed.label>
+	<!-- An impassable wall. Capable of holding up a roof. Fitted with special cleanliness-enhancing properties to create a sterile environment. -->
+	<Wall_SterileRed.description>Un mur infranchissable. Grâce à sa grande capacité à maintenir la propreté, il est idéal pour créer un environnement stérile.</Wall_SterileRed.description>
+	
+	<!-- green sterile wall -->
+	<Wall_SterileGreen.label>mur stérile vert</Wall_SterileGreen.label>
+	<!-- An impassable wall. Capable of holding up a roof. Fitted with special cleanliness-enhancing properties to create a sterile environment. -->
+	<Wall_SterileGreen.description>Un mur infranchissable. Grâce à sa grande capacité à maintenir la propreté, il est idéal pour créer un environnement stérile.</Wall_SterileGreen.description>
+	
+	<!-- blue sterile wall -->
+	<Wall_SterileBlue.label>mur stérile bleu</Wall_SterileBlue.label>
+	<!-- An impassable wall. Capable of holding up a roof. Fitted with special cleanliness-enhancing properties to create a sterile environment. -->
+	<Wall_SterileBlue.description>Un mur infranchissable. Grâce à sa grande capacité à maintenir la propreté, il est idéal pour créer un environnement stérile.</Wall_SterileBlue.description>
+	
+	<!-- cream sterile wall -->
+	<Wall_SterileCream.label>mur stérile blanc</Wall_SterileCream.label>
+	<!-- An impassable wall. Capable of holding up a roof. Fitted with special cleanliness-enhancing properties to create a sterile environment. -->
+	<Wall_SterileCream.description>Un mur infranchissable. Grâce à sa grande capacité à maintenir la propreté, il est idéal pour créer un environnement stérile.</Wall_SterileCream.description>
+	
+	<!-- dark sterile wall -->
+	<Wall_SterileDark.label>mur stérile noir</Wall_SterileDark.label>
+	<!-- An impassable wall. Capable of holding up a roof. Fitted with special cleanliness-enhancing properties to create a sterile environment. -->
+	<Wall_SterileDark.description>Un mur infranchissable. Grâce à sa grande capacité à maintenir la propreté, il est idéal pour créer un environnement stérile.</Wall_SterileDark.description>
+	
+	<!-- gold sterile wall -->
+	<Wall_SterileGold.label>mur stérile doré</Wall_SterileGold.label>
+	<!-- An impassable wall. Capable of holding up a roof. Fitted with special cleanliness-enhancing properties to create a sterile environment. -->
+	<Wall_SterileGold.description>Un mur infranchissable. Grâce à sa grande capacité à maintenir la propreté, il est idéal pour créer un environnement stérile.</Wall_SterileGold.description>
+	
+	<!-- teal sterile wall -->
+	<Wall_SterileTeal.label>mur stérile turquoise</Wall_SterileTeal.label>
+	<!-- An impassable wall. Capable of holding up a roof. Fitted with special cleanliness-enhancing properties to create a sterile environment. -->
+	<Wall_SterileTeal.description>Un mur infranchissable. Grâce à sa grande capacité à maintenir la propreté, il est idéal pour créer un environnement stérile.</Wall_SterileTeal.description>
+	
+	<!-- brown sterile wall -->
+	<Wall_SterileBrown.label>mur stérile marron</Wall_SterileBrown.label>
+	<!-- An impassable wall. Capable of holding up a roof. Fitted with special cleanliness-enhancing properties to create a sterile environment. -->
+	<Wall_SterileBrown.description>Un mur infranchissable. Grâce à sa grande capacité à maintenir la propreté, il est idéal pour créer un environnement stérile.</Wall_SterileBrown.description>
+	
+<!--Traduction FR LTw Force Field Walls-->
+	<AutoForceFieldDoor.label>Porte de champ de force</AutoForceFieldDoor.label>
+	<AutoForceFieldDoor.description>Portes à champ de force - une fine membrane de gaz ionisé en plasma et maintenu en place par un champ magnétique.</AutoForceFieldDoor.description>
+  
+	<ForceFieldWall.label>Mur de champ de force</ForceFieldWall.label>
+	<ForceFieldWall.description>Mur à champ de force. Murs autoalimentés utilisant une fine membrane de gaz ionisé en plasma et maintenu en place par un champ magnétique.</ForceFieldWall.description>
+	
+<!--Traduction FR [JAIL] Prison Walls-->
+	<PrisonDoor.label>Porte de prison</PrisonDoor.label>
+	<PrisonDoor.description>Portes de prison pour votre complexe industriel pénitentiaire</PrisonDoor.description>
+	
+	<AutoPrisonDoor.label>Porte automatique de prison</AutoPrisonDoor.label>
+	<AutoPrisonDoor.description>Portes automatiques de prison pour votre complexe industriel pénitentiaire</AutoPrisonDoor.description>
+	
+	<PrisonBars.label>Barreaux de prison</PrisonBars.label>
+	<PrisonBars.description>Des barreaux de prison pour votre complexe industriel pénitentiaire</PrisonBars.description>
+	
+<!--Traduction FR [JAIL] Prison Bed-->
+	<PrisonBed.label>Lit de prison</PrisonBed.label>
+	<PrisonBed.description>Un horrible lit à barreaux couvert d'une couverture de laine en guise de matelas.  Conçu seulement pour le plus minable des minables. Très inconfortable.</PrisonBed.description>
+</LanguageData>

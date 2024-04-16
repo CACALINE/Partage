@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+	<!-- tilable planter box -->
+	<VFE_PlanterBox_Tilable.label>jardinière modulaire</VFE_PlanterBox_Tilable.label>
+	<!-- Grows plants in a box of soil. Does not require power to work.\n\nCan be constructed in any desired shape. -->
+	<VFE_PlanterBox_Tilable.description>Les plantes poussent dans une version modulaire de la jardinière. Ne nécessite aucune alimentation pour fonctionner. \n\nPeut être construit dans la forme souhaitée.</VFE_PlanterBox_Tilable.description>
+	<!-- tilable hydroponics basin -->
+	<VFE_Hydroponics_Tilable.label>bassin hydroponique modulaire</VFE_Hydroponics_Tilable.label>
+	<!-- An artificial nutrient bath for growing plants. The nutrients pumps must work continuously; the plants will die if power is cut.\n\nThis version is modular and can be assembled in any shape necessary. -->
+	<VFE_Hydroponics_Tilable.description>Les plantes poussent dans une version modulaire du conteneur hydroponique. Il a besoin d'énergie pour fonctionner; les plantes mourront en cas de coupure de courant. \n\nEtant une version modulaire, elle peut être assemblée de toutes les manières nécessaires.</VFE_Hydroponics_Tilable.description>
+	<!-- tilable artificial ecosystem -->
+	<VFE_Ecosystem_Tilable.label>écosystème artificiel modulaire</VFE_Ecosystem_Tilable.label>
+	<!-- Grows plants quickly in an artificial, sealed ecosystem which can be configured to effectively grow even picky plants. Requires a high amount of power to work; plants will die if power is cut. Contains a built-in sun lamp to provide light for the plants.\n\nThis version is modular and can be assembled in any shape necessary. -->
+	<VFE_Ecosystem_Tilable.description>Les plantes poussent rapidement dans une version modulaire de l'écosystème artificiel. Il contient une lampe solaire intégrée pour fournir de la lumière aux plantes. Il nécessite une grande quantité d'énergie pour fonctionner; les plantes mourront en cas de coupure de courant. \n\nEtant une version modulaire, elle peut être assemblée de toutes les manières nécessaires.</VFE_Ecosystem_Tilable.description>
+</LanguageData>

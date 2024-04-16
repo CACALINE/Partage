@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+	<!-- refreshing Sleep -->
+	<Bed_RefreshingSleep.label>sommeil réparateur</Bed_RefreshingSleep.label>
+	<!-- Exquisite bed rest due to advanced bed sleeping systems -->
+	<Bed_RefreshingSleep.description>Un repos exquis grâce aux systèmes de suspension avancés du lit.</Bed_RefreshingSleep.description>
+	<!-- Minor -->
+	<Bed_RefreshingSleep.stages.0.label>mineur</Bed_RefreshingSleep.stages.0.label>
+	<!-- Major -->
+	<Bed_RefreshingSleep.stages.1.label>majeur</Bed_RefreshingSleep.stages.1.label>
+	<!-- Max -->
+	<Bed_RefreshingSleep.stages.2.label>maximum</Bed_RefreshingSleep.stages.2.label>
+</LanguageData>

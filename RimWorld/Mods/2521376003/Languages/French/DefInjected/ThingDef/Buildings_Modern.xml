@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+	<!-- ergonomic bed -->
+	<Bed_Ergonomic.label>lit ergonomique</Bed_Ergonomic.label>
+	<!-- An ergonomically designed bed to help support the spine, distribute body weight and overall enchance sleep quality. -->
+	<Bed_Ergonomic.description>Un lit ergonomique qui aide à soutenir la colonne vertébrale, à répartir le poids et à améliorer la qualité du sommeil.</Bed_Ergonomic.description>
+	<!-- ergonomic double bed -->
+	<Bed_DoubleErgonomic.label>lit double ergonomique</Bed_DoubleErgonomic.label>
+	<!-- An ergonomically designed double-wide bed to help support the spine, distribute body weight and overall enchance sleep quality. Fits two. -->
+	<Bed_DoubleErgonomic.description>Un lit ergonomique pour deux personnes, aide à soutenir la colonne vertébrale, à répartir le poids et à améliorer la qualité du sommeil.</Bed_DoubleErgonomic.description>
+	<!-- wardrobe -->
+	<Table_Wardrobe.label>garde-robe</Table_Wardrobe.label>
+	<!-- A tall wardrobe for storing clothing and other items. Gives a small sleep effectiveness bonus to all nearby beds. Placing more than one wardrobe near the same bed has no effect. -->
+	<Table_Wardrobe.description>Un placard pour ranger les vêtements et autres articles. Fournit un petit bonus d'efficacité du sommeil à tous les lits à proximité. Placer plus d'un placard près du même lit n'a aucun effet.</Table_Wardrobe.description>
+	<!-- ergonomic chair -->
+	<Seat_ModernChair.label>chaise ergonomique</Seat_ModernChair.label>
+	<!-- A flexible ergonomic chair designed to fit the curves of the human body, improving comfort. -->
+	<Seat_ModernChair.description>Une chaise ergonomique flexible conçue pour s'adapter aux courbes du corps humain, améliorant le confort.</Seat_ModernChair.description>
+	<!-- modern lamp -->
+	<Light_ModernLamp.label>lampe moderne</Light_ModernLamp.label>
+	<!-- A power saving lamp that more effectively converts electricity to light, useful for lighting rooms. Will short circuit in rain. -->
+	<Light_ModernLamp.description>Une lampe à économie d'énergie qui convertit efficacement l'électricité en lumière, utile pour éclairer les pièces. Court-circuite sous la pluie.</Light_ModernLamp.description>
+</LanguageData>

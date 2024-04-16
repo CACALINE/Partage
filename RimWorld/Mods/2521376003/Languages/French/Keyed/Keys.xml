@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Mods Interaction Bubbles de Jaxe.-->
+  <Bubbles.Toggle>Afficher les bulles</Bubbles.Toggle>
+
+  <Bubbles.ResetToDefault>Réinitialiser aux valeurs par défaut</Bubbles.ResetToDefault>
+
+  <Bubbles.DoNonPlayer>Afficher pour les autres factions</Bubbles.DoNonPlayer>
+  <Bubbles.DoAnimals>Afficher pour les animaux</Bubbles.DoAnimals>
+  <Bubbles.DoDrafted>Afficher lors du dépouillement</Bubbles.DoDrafted>
+  <Bubbles.DoCombat>Afficher les interactions de combat</Bubbles.DoCombat>
+
+  <Bubbles.ScaleStart>Mise à l'échelle en Avançant/Reculant la caméra   "0% permet d'avoir les bulles à l'écran même si la caméra est entièrement éloignée"</Bubbles.ScaleStart>
+  <Bubbles.ScaleMin>Zoom minimum visible</Bubbles.ScaleMin>
+  <Bubbles.WidthMax>Largeur maximale</Bubbles.WidthMax>
+  <Bubbles.Spacing>Espacement</Bubbles.Spacing>
+  <Bubbles.OffsetStart>Décalage par rapport au label</Bubbles.OffsetStart>
+  <Bubbles.OffsetDirection>Direction du décalage</Bubbles.OffsetDirection>
+  <Bubbles.OffsetDirections>Bas|Gauche|Haut|Droit</Bubbles.OffsetDirections>
+  <Bubbles.OpacityStart>Opacité de départ</Bubbles.OpacityStart>
+  <Bubbles.OpacityMouseOver>Opacité du survol de la souris</Bubbles.OpacityMouseOver>
+
+  <Bubbles.TimeMin>Temps minimum pour le fondu "2000 = 20sec environ"</Bubbles.TimeMin>
+  <Bubbles.FadeStart>Temps pour le début du fondu "2000 = 20sec environ"</Bubbles.FadeStart>
+  <Bubbles.FadeLength>Temps nécessaire au fondu "2000 = 20sec environ"</Bubbles.FadeLength>
+  <Bubbles.PawnMax>Bulles maximum par colon</Bubbles.PawnMax>
+
+  <Bubbles.FontSize>Taille de la police d'écriture</Bubbles.FontSize>
+  <Bubbles.PaddingX>Remplissage du texte en X</Bubbles.PaddingX>
+  <Bubbles.PaddingY>Remplissage du texte en Y</Bubbles.PaddingY>
+
+  <Bubbles.ForeColor>Couleur du texte</Bubbles.ForeColor>
+  <Bubbles.BackColor>Couleur du fond</Bubbles.BackColor>
+  <Bubbles.ForeColorSelected>Couleur du texte (sélectionné)</Bubbles.ForeColorSelected>
+  <Bubbles.BackColorSelected>Couleur du fond (sélectionné)</Bubbles.BackColorSelected>
+
+  <Bubbles.ForeColorCombat>Couleur du texte de combat</Bubbles.ForeColorCombat>
+  <Bubbles.BackColorCombat>Couleur du fond du texte de combat</Bubbles.BackColorCombat>
+  <Bubbles.ForeColorCombatSelected>Couleur du texte de combat (sélectionné)</Bubbles.ForeColorCombatSelected>
+  <Bubbles.BackColorCombatSelected>Couleur du fond du texte de combat (sélectionné)</Bubbles.BackColorCombatSelected>
+  
+  <!--<Traduction FR Mods Locks de Avius.-->
+  <Locks_Label>Locks</Locks_Label>
+  <Locks_Description>Une fois déverrouillés, tous les colons auront accès à la porte. [Clic droit pour plus d'options].</Locks_Description>
+
+  <Locks_StatePrefix>Porte</Locks_StatePrefix>
+  <Locks_StateLocked>verrouillée aux non-propriétaires de cette porte (seulement si au moins 1 propriétaire a étais assignés à la porte sinon restera accessible à tous)</Locks_StateLocked>
+  <Locks_StateUnlocked>déverrouillée pour tous les colons</Locks_StateUnlocked>
+  <Locks_StateChanging>Changement...</Locks_StateChanging>
+
+  <Locks_ITabLocked>Accessibilité</Locks_ITabLocked>
+  <Locks_ITabLockedDesc>  -Lorsqu'il est activé, permet de restreindre l'accessibilité aux propriétaires de la porte. Ce paramètre est effectif seulement si au moins 1 propriétaire a étais assignés à la porte.
+  -Lorsqu'il est désactivé, permet l'accessibilité à tous les colons.</Locks_ITabLockedDesc>
+  <Locks_ITabVisitorsAllowed>Accessibilité visiteurs</Locks_ITabVisitorsAllowed>
+  <Locks_ITabVisitorsAllowedDesc>-Lorsqu'il est désactivé, les alliés et les commerçants n'auront plus l'accessibilité à la porte. Ce paramètre ne s'applique pas lorsque les propriétaires sont définis.</Locks_ITabVisitorsAllowedDesc>
+  <Locks_ITabPetDoor>Accessibilité animaux domestiques</Locks_ITabPetDoor>
+  <Locks_ITabPetDoorDesc>  -Lorsqu'il est activé, les animaux domestiques auront accès à la porte. Ce paramètre est effectif seulement si au moins 1 propriétaire a étais assignés à la porte.
+  -Lorsqu'il est désactivé, les animaux domestiques n'auront plus l'accessibilité à la porte. Ce paramètre est effectif seulement si au moins 1 propriétaire a étais assignés à la porte.</Locks_ITabPetDoorDesc>
+  <Locks_ITabOwners>Propriétaires</Locks_ITabOwners>
+  <Locks_ITabChangeLocksNotification>En attente de changement !</Locks_ITabChangeLocksNotification>
+  
+  <Locks_LockToggle>Verrouiller la porte aux non-propriétaires</Locks_LockToggle>
+  <Locks_UnlockToggle>Déverrouiller la porte pour tous les colons</Locks_UnlockToggle>
+  <Locks_AllowVisitors>Permettre l'accessibilité aux visiteurs</Locks_AllowVisitors>
+  <Locks_ForbidVisitors>Interdire l'accesibilité aux visiteurs</Locks_ForbidVisitors>
+  <Locks_AddPetDoor>Permettre l'accessibilité aux animaux domestiques</Locks_AddPetDoor>
+  <Locks_RemovePetDoor>Interdire l'accessibilité aux animaux domestiques</Locks_RemovePetDoor>
+  <Locks_SetOwners>Définir les propriétaires</Locks_SetOwners>
+  <Locks_ClearOwners>Effacer tous les propriétaires affectés</Locks_ClearOwners>
+  
+  <Locks_FailOnWrongUser>{0} n'a pas l'accessibilité requise</Locks_FailOnWrongUser>
+
+  <Locks_AlertLocksCantBeChanged>L'accessibilité à la porte ne peut pas être modifiée</Locks_AlertLocksCantBeChanged>
+  <Locks_AlertLocksCantBeChangedDesc>Certaines accessibilités ne peuvent pas être changées, car les propriétaires n'effectuent pas le travail "manutention" :\n\n{0}</Locks_AlertLocksCantBeChangedDesc>
+  <Locks_AlertLocksCantBeChangedDefaultDesc>Certaines accessibilités ne peuvent pas être changées, car les propriétaires n'effectuent pas le travail "manutention".</Locks_AlertLocksCantBeChangedDefaultDesc>
+
+  <Locks_Cancel>Annuler</Locks_Cancel>
+  <Locks_Copy>Copier</Locks_Copy>
+  <Locks_Paste>Coller</Locks_Paste>
+  
+  <!--<Traduction FR vanilla furniture expanded.-->
+	<!-- submerged -->
+	<VFESecurity.Submerged>submergé</VFESecurity.Submerged>
+		<!-- World tile range -->
+	<VFESecurity.WorldTileRange>Rayon</VFESecurity.WorldTileRange>
+	<!-- Target world tile -->
+	<VFESecurity.TargetWorldTile>Objectif</VFESecurity.TargetWorldTile>
+	<!-- Select a world tile for this {0} to fire at. -->
+	<VFESecurity.TargetWorldTile_Description>Sélectionnez un espace dans le monde pour que {0} soit déclenché.</VFESecurity.TargetWorldTile_Description>
+	<!-- Select a world tile to fire at. -->
+	<VFESecurity.TargetWorldTile_DescriptionShort>Sélectionnez un espace dans le monde pour tirer.</VFESecurity.TargetWorldTile_DescriptionShort>
+	<!-- This {0} does not have any suitable artillery. -->
+	<VFESecurity.CommandTargetTileFailNoArtillery>{0} n'a pas d'artillerie adéquate.</VFESecurity.CommandTargetTileFailNoArtillery>
+
+	<!-- Tile is out of range. -->
+	<VFESecurity.TargetWorldTileOutOfRange>Boîte hors de portée.</VFESecurity.TargetWorldTileOutOfRange>
+	<!-- Target map -->
+	<VFESecurity.TargetMap>Carte des objectifs</VFESecurity.TargetMap>
+	<!-- Target peace talks -->
+	<VFESecurity.TargetPeaceTalks>Visez des pourparlers de paix</VFESecurity.TargetPeaceTalks>
+	<!-- Target settlement -->
+	<VFESecurity.TargetSettlement>Cible de la colonie</VFESecurity.TargetSettlement>
+	<!-- Target outpost -->
+	<VFESecurity.TargetOutpost>avant-poste objectif</VFESecurity.TargetOutpost>
+	<!-- Target area (will have no effect) -->
+	<VFESecurity.TargetWorldTileEmpty>Zone cible (n'aura aucun effet)</VFESecurity.TargetWorldTileEmpty>
+	<!-- Cannot target flying objects. -->
+	<VFESecurity.TargetWorldFlyingObject>Je ne peux pas viser des objets volants.</VFESecurity.TargetWorldFlyingObject>
+	<!-- Cannot target the same tile. -->
+	<VFESecurity.TargetWorldTileSameTile>Je ne peux pas pointer vers la même boîte.</VFESecurity.TargetWorldTileSameTile>
+
+	<!-- Targeted area is invalid. -->
+	<VFESecurity.MessageTargetWorldTileInvalid>La zone cible n'est pas valide.</VFESecurity.MessageTargetWorldTileInvalid>
+	<!-- settlement -->
+	<VFESecurity.Settlement>règlement</VFESecurity.Settlement>
+	<!-- Targeted area is out of the {0}'s range. -->
+	<VFESecurity.MessageTargetWorldTileOutOfRange>La zone cible est hors de portée de {0}.</VFESecurity.MessageTargetWorldTileOutOfRange>
+
+	<!-- attacked by artillery -->
+	<VFESecurity.GoodwillChangedReason_ArtilleryStrike>attaqué par l'artillerie</VFESecurity.GoodwillChangedReason_ArtilleryStrike>
+	<!-- {0} from {1} have stopped bombarding your settlements. -->
+	<VFESecurity.Message_ArtilleryBombardmentEnded>{0} sur {1} ont cessé de bombarder vos colonies.</VFESecurity.Message_ArtilleryBombardmentEnded>
+
+	<!-- Provoked {0} -->
+	<VFESecurity.ArtilleryStrikeProvokedGeneric_Letter>{0} provoqué</VFESecurity.ArtilleryStrikeProvokedGeneric_Letter>
+	<!-- By sending an artillery strike at their peace talks negotiation party, relations between you and {0} have soured. They may send a raiding party in retaliation. -->
+	<VFESecurity.ArtilleryStrikePeaceTalks_LetterText>En envoyant une frappe d'artillerie au groupe de négociation des pourparlers de paix, les relations avec {0} se sont détériorées. Ils peuvent envoyer un groupe de grève en représailles.</VFESecurity.ArtilleryStrikePeaceTalks_LetterText>
+
+	<!-- Artillery retaliation -->
+	<VFESecurity.ArtilleryStrikeSettlement_Letter>Représailles de l'artillerie</VFESecurity.ArtilleryStrikeSettlement_Letter>
+	<!-- Due to your provocation via artillery strike, the {0} at {1} have decided to return fire at your settlements using their own artillery!\n\nThis bombardment will go on for a few days, or until you destroy the settlement. -->
+	<VFESecurity.ArtilleryStrikeSettlement_LetterText>En raison de votre provocation par une frappe d'artillerie, les {0} de {1} ont décidé de renvoyer le feu sur vos colonies en utilisant leur propre artillerie! \n\nCe bombardement se poursuivra pendant quelques jours, ou jusqu'à ce que vous détruisez l'ennemi de la colonie.</VFESecurity.ArtilleryStrikeSettlement_LetterText>
+
+	<!-- The enemy base {0} has been destroyed. -->
+	<VFESecurity.LetterFactionBaseDefeatedStrike>La base ennemie {0} a été détruite.</VFESecurity.LetterFactionBaseDefeatedStrike>
+
+	<!-- Psychic pylon exposure -->
+	<VFESecurity.PsychicPylonExposure>Exposition aux pylônes psychiques</VFESecurity.PsychicPylonExposure>
+
+	<!-- Ammo crate -->
+	<VFESecurity.AmmoCrate>Caisse de munitions</VFESecurity.AmmoCrate>
+
+	<!-- Armed -->
+	<VFESecurity.Armed>Armé</VFESecurity.Armed>
+	<!-- Needs rearming -->
+	<VFESecurity.NeedsRearming>Nécessite un rechargement</VFESecurity.NeedsRearming>
+	<!-- Rearm -->
+	<VFESecurity.DesignatorRearmTraps>Réarmé</VFESecurity.DesignatorRearmTraps>
+	<!-- Mark unarmed rearmable traps to be rearmed by your colonists. -->
+	<VFESecurity.DesignatorRearmTraps_Description>Sélectionnez les pièges désarmés à réarmer par vos colons.</VFESecurity.DesignatorRearmTraps_Description>
+	<!-- Must designate unarmed rearmable traps. -->
+	<VFESecurity.MessageMustDesignateRearmables>Doit désigner des pièges réinitialisables.</VFESecurity.MessageMustDesignateRearmables>
+	
+	<!--<Traduction FR vanilla social interactions expanded.-->
+  <VSIE.WorkFrenzyBeginLetterContinue>\n\n{PAWN_pronoun} aimerait travailler sur quelque chose.</VSIE.WorkFrenzyBeginLetterContinue>
+  <VSIE.GoFrenzyBeginLetterContinue>\n\n{PAWN_pronoun} veut rejoindre une caravane et s'aventurer dans le monde.</VSIE.GoFrenzyBeginLetterContinue>
+  <VSIE.ShootingFrenzyBeginLetterContinue>\n\n{PAWN_pronoun} veut aller chasser.</VSIE.ShootingFrenzyBeginLetterContinue>
+  <VSIE.InspiredTradeBeginLetterContinue>\n\n{PAWN_pronoun} veut conclure une transaction.</VSIE.InspiredTradeBeginLetterContinue>
+  <VSIE.InspiredRecruitmentBeginLetterContinue>\n\n{PAWN_pronoun} veut recruter un prisonnier.</VSIE.InspiredRecruitmentBeginLetterContinue>
+  <VSIE.InspiredTamingBeginLetterContinue>\n\n{PAWN_pronoun} veut essayer d'apprivoiser un animal.</VSIE.InspiredTamingBeginLetterContinue>
+  <VSIE.InspiredSurgeryBeginLetterContinue>\n\n{PAWN_pronoun} souhaite effectuer une opération.</VSIE.InspiredSurgeryBeginLetterContinue>
+  <VSIE.InspiredCreativityBeginLetterContinue>\n\n{PAWN_pronoun} veut créer un chef-d'oeuvre ou un objet légendaire.</VSIE.InspiredCreativityBeginLetterContinue>
+
+  <VSIE.TraitChangeTitle>{PAWN_nameDef} a acquis le trait suivant: {0}</VSIE.TraitChangeTitle>
+  <VSIE.TraitChangePrisonerRecruited>Lorsque vous avez recruté {PAWN_nameDef}, il s'est avéré qu'{PAWN_pronoun} avait l'attribut {0}.\n\n{1}</VSIE.TraitChangePrisonerRecruited>
+  <VSIE.TraitChangePawnResurrected>Lorsque {PAWN_nameDef} a été ressuscité, le colon a acquis un nouveau caractère: {0}.\n\n{1}</VSIE.TraitChangePawnResurrected>
+  <VSIE.TraitChangePawnHasCatatonicBreakdown>Lorsque {PAWN_nameDef} a subi une dépression nerveuse catatonique, {PAWN_pronoun} a développé le caractère: {0}.\n\n{1}</VSIE.TraitChangePawnHasCatatonicBreakdown>
+  <VSIE.TraitChangeFamilyMemberDied>orsqu'un membre de la famille de {PAWN_nameDef} est décédé, {PAWN_pronoun} a développé le trait: {0}.\n\n{1}</VSIE.TraitChangeFamilyMemberDied>
+  <VSIE.CatarhisAfterMentalBreak>La dépression nerveuse extrême de {PAWN_nameDef} l'a amené à développer un nouveau trait: {0}.\n\n{1}</VSIE.CatarhisAfterMentalBreak>
+  <VSIE.RecoveredAfterDeadlyDisease>Le temps que {PAWN_nameDef} a passé à lutter contre la maladie mortelle a été suffisant pour réfléchir à lui-même, puisqu'{PAWN_pronoun} a développé le caractère: {0}.\n\n{1}</VSIE.RecoveredAfterDeadlyDisease>
+  <VSIE.BirthdayEvent>{PAWN_nameDef} a pris un moment pour penser à lui-même le jour de son anniversaire, ce qui a conduit au développement de lu caractère {0}.\n\n{1}</VSIE.BirthdayEvent>
+  <VSIE.BestowingCeremony>Lorsque {PAWN_nameDef} a assisté aux funérailles, ses pensées ont pris vie. Cela a conduit au développement du caractère {0}.\n\n{1}</VSIE.BestowingCeremony>
+  <VSIE.ToughtRaidEvent>Après les événements récents et le raid difficile auquel la colonie a été soumise, {PAWN_nameDef} a pensé à lui-même et a développé le trait {0}.\n\n{1}</VSIE.ToughtRaidEvent>
+  
+  <VSIE.Discord>Une lutte de groupe social a éclaté.</VSIE.Discord>
+  <VSIE.OneNightStandTitle>Coup d'un soir</VSIE.OneNightStandTitle>
+  <VSIE.OneNightStandText>{INITIATOR_nameDef} a eu une aventure d'une nuit avec {PARTNER_nameDef}. Les deux colons reçoivent un bonus d'humeur pour avoir eu des relations sexuelles. Cependant, ils ne sont pas en couple.</VSIE.OneNightStandText>
+
+  <VSIE.EnableInspirations>Activez l'inspiration</VSIE.EnableInspirations>
+  <VSIE.EnableMemories>Activer la mémoire</VSIE.EnableMemories>
+  <VSIE.EnableAspirations>Activer les aspirations</VSIE.EnableAspirations>
+  <VSIE.EnableObtainingNewTraits>Activer l'obtention de nouveaux caractères</VSIE.EnableObtainingNewTraits>
+  <VSIE.EnableVenting>Activer l'échange d'idées</VSIE.EnableVenting>
+  <VSIE.EnableBestFriend>Activer les meilleurs amis</VSIE.EnableBestFriend>
+  <VSIE.EnableTeaching>Activer l'enseignement</VSIE.EnableTeaching>
+  <VSIE.EnableManyHandsMakeLightWork>Activer le soutien du travail</VSIE.EnableManyHandsMakeLightWork>
+  <VSIE.EnableDiscord>Activer la discorde</VSIE.EnableDiscord>
+  <VSIE.EnableGroupActivities>Activer les activités de groupe</VSIE.EnableGroupActivities>
+  <VSIE.EnableDating>Activer les rendez-vous</VSIE.EnableDating>
+  <VSIE.EnableUnitedWeStand>Activer ensemble nous sommes forts</VSIE.EnableUnitedWeStand>
+  <VSIE.EnableSocialEnvironmentThoughts>Activer les réflexions sur l'environnement social</VSIE.EnableSocialEnvironmentThoughts>
+  <VSIE.EnableOneNightStand>Activer les coups d'un soir</VSIE.EnableOneNightStand>
+  
+  <!--Traduction FR vanilla expanded framework-->
+    <!-- Shield -->
+    <VanillaFactionsExpanded.EquipShield>Equiper {0} comme bouclier</VanillaFactionsExpanded.EquipShield>
+    <VanillaFactionsExpanded.EquipWarningShieldUnusable>(inutilisable avec {0})</VanillaFactionsExpanded.EquipWarningShieldUnusable>
+    <VanillaFactionsExpanded.EquipWarningShieldUnusableWithWeapon>({0} sera inutilisable)</VanillaFactionsExpanded.EquipWarningShieldUnusableWithWeapon>
+
+    <VanillaFactionsExpanded.Protects>Protège</VanillaFactionsExpanded.Protects>
+    <VanillaFactionsExpanded.Protects_Desc>Quelles sont les parties du corps que le bouclier protège.</VanillaFactionsExpanded.Protects_Desc>
+    
+    <!-- Scenario parts -->
+    <VanillaFactionsExpanded.ScenPart_ForcedFactionRelations>Modificateurs de relations entre factions</VanillaFactionsExpanded.ScenPart_ForcedFactionRelations>
+    <VanillaFactionsExpanded.NumberRange>{0} à {1}</VanillaFactionsExpanded.NumberRange>
+    <VanillaFactionsExpanded.AllFactions>Toutes les factions</VanillaFactionsExpanded.AllFactions>
+    <VanillaFactionsExpanded.AllFactionsIncludingHidden>Toutes les factions, y compris les cachés</VanillaFactionsExpanded.AllFactionsIncludingHidden>
+    <VanillaFactionsExpanded.AlwaysHostile>Toujours hostile</VanillaFactionsExpanded.AlwaysHostile>
+    <VanillaFactionsExpanded.AffectHiddenFactions>Affectation cachée</VanillaFactionsExpanded.AffectHiddenFactions>
+    <VanillaFactionsExpanded.StartingGoodwill>Démarrage</VanillaFactionsExpanded.StartingGoodwill>
+    <VanillaFactionsExpanded.NaturalGoodwill>Naturel</VanillaFactionsExpanded.NaturalGoodwill>
+
+    <!-- Stat Draw Entries -->
+    <VanillaFactionsExpanded.UsableWithShield>Utilisable avec des boucliers</VanillaFactionsExpanded.UsableWithShield>
+    <VanillaFactionsExpanded.UsableWithShield_Desc>Si cette arme peut être utilisée ou non si le personnage dispose également d'un bouclier.</VanillaFactionsExpanded.UsableWithShield_Desc>
+	
+	<!-- New Faction Spawning -->
+	<VanillaFactionsExpanded.FactionTitle>Nouvelle faction: {FactionName}</VanillaFactionsExpanded.FactionTitle>
+	<VanillaFactionsExpanded.ModInfo>Cette faction est ajoutée par {ModName} et n'est pas présente dans votre jeu.</VanillaFactionsExpanded.ModInfo>
+	<VanillaFactionsExpanded.AnUnknownMod>un mod inconnu</VanillaFactionsExpanded.AnUnknownMod>
+	<VanillaFactionsExpanded.HiddenFactionInfo>Il s'agit d'une faction cachée qui n'apparaîtra pas dans votre liste de factions.</VanillaFactionsExpanded.HiddenFactionInfo>
+	<VanillaFactionsExpanded.RequiredFactionInfo>Il est marqué comme requis par {ModName}.</VanillaFactionsExpanded.RequiredFactionInfo>
+	<VanillaFactionsExpanded.NonSpawningFactionInfo>Cette faction est marquée comme n'apparaissant pas et vous devriez probablement l'ignorer.</VanillaFactionsExpanded.NonSpawningFactionInfo>
+	<VanillaFactionsExpanded.FactionSelectOption>Veuillez choisir comment procéder :</VanillaFactionsExpanded.FactionSelectOption>
+	<VanillaFactionsExpanded.FactionButtonAdd>Ajouter la faction</VanillaFactionsExpanded.FactionButtonAdd>
+	<VanillaFactionsExpanded.FactionButtonAddFull>Ajouter la faction avec les colonies</VanillaFactionsExpanded.FactionButtonAddFull>
+	<VanillaFactionsExpanded.FactionButtonSkip>Ne rien faire</VanillaFactionsExpanded.FactionButtonSkip>
+	<VanillaFactionsExpanded.FactionButtonIgnore>Ne demandez plus cette faction</VanillaFactionsExpanded.FactionButtonIgnore>
+	<VanillaFactionsExpanded.FactionMessageFailed>Impossible d'ajouter la faction.</VanillaFactionsExpanded.FactionMessageFailed>
+	<VanillaFactionsExpanded.FactionMessageFailedFull>Impossible de créer une faction avec des colonies.</VanillaFactionsExpanded.FactionMessageFailedFull>
+	<VanillaFactionsExpanded.FactionMessageSuccessFull>Ajout de {FactionName} avec les règlements {Amount}.</VanillaFactionsExpanded.FactionMessageSuccessFull>
+	<VanillaFactionsExpanded.FactionMessageSuccess>Ajouté {FactionName}.</VanillaFactionsExpanded.FactionMessageSuccess>
+	
+	<VanillaFactionsExpanded.FactionSettlementsToSpawn>Colonies à apparaître (recommandé : {0}) : {1}</VanillaFactionsExpanded.FactionSettlementsToSpawn>
+	<VanillaFactionsExpanded.FactionMinDistance>La distance minimale des bases de joueurs (recommandée est de {0}) : {1}</VanillaFactionsExpanded.FactionMinDistance>
+	<VanillaFactionsExpanded.FactionButtonSpawn>Apparaître</VanillaFactionsExpanded.FactionButtonSpawn>
+	<VanillaFactionsExpanded.FactionButtonCancel>Annuler</VanillaFactionsExpanded.FactionButtonCancel>
+	
+	<VSE.Reinforcements>Renforts</VSE.Reinforcements>
+	<VSE.ReinforcementsDesc>Voyant que vos forces ont subi des pertes, {FACTION_name} a décidé de renforcer sa force de raid.</VSE.ReinforcementsDesc>
+	
+	<VSE.CostGoodwill>coût: {0} goodwill</VSE.CostGoodwill>
+	
+  <VWEL_ToggleHotshotLabel>Échauffement des armes</VWEL_ToggleHotshotLabel>
+  <VWEL_ToggleHotshotDesc>Coups de feu tirés lorsque l’arme est immobile, ce qui permet d’augmenter la vitesse de tir. Une surchauffe peut entraîner une détonation.</VWEL_ToggleHotshotDesc>
+</LanguageData>

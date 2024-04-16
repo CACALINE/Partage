@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR vanilla social interactions expanded.-->
+  <VSIE_SufferedLossPositive.stages.0.label>A subi une perte</VSIE_SufferedLossPositive.stages.0.label>
+  <VSIE_SufferedLossPositive.stages.0.description>Nous avons perdu, mais nous pouvons tenir le coup!</VSIE_SufferedLossPositive.stages.0.description>
+
+  <VSIE_SufferedLossNegative.stages.0.label>A subi une perte</VSIE_SufferedLossNegative.stages.0.label>
+  <VSIE_SufferedLossNegative.stages.0.description>Quelle perte dévastatrice!</VSIE_SufferedLossNegative.stages.0.description>
+
+
+</LanguageData>

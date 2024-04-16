@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Tous les vanilla animals expanded.-->
+  <!-- large lizardlike -->
+  <AEXP_LargeLizardlike.label>gros lézard</AEXP_LargeLizardlike.label>
+  <!-- left lung -->
+  <AEXP_LargeLizardlike.corePart.parts.left_lung.customLabel>poumon gauche</AEXP_LargeLizardlike.corePart.parts.left_lung.customLabel>
+  <!-- right lung -->
+  <AEXP_LargeLizardlike.corePart.parts.right_lung.customLabel>poumon droit</AEXP_LargeLizardlike.corePart.parts.right_lung.customLabel>
+  <!-- left kidney -->
+  <AEXP_LargeLizardlike.corePart.parts.left_kidney.customLabel>rein gauche</AEXP_LargeLizardlike.corePart.parts.left_kidney.customLabel>
+  <!-- right kidney -->
+  <AEXP_LargeLizardlike.corePart.parts.right_kidney.customLabel>rein droit</AEXP_LargeLizardlike.corePart.parts.right_kidney.customLabel>
+  <!-- left eye -->
+  <AEXP_LargeLizardlike.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>oeil gauche</AEXP_LargeLizardlike.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- right eye -->
+  <AEXP_LargeLizardlike.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>oeil droit</AEXP_LargeLizardlike.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- front left leg -->
+  <AEXP_LargeLizardlike.corePart.parts.front_left_leg.customLabel>patte avant gauche</AEXP_LargeLizardlike.corePart.parts.front_left_leg.customLabel>
+  <!-- front left leg first claw -->
+  <AEXP_LargeLizardlike.corePart.parts.front_left_leg.parts.front_left_leg_first_claw.customLabel>première griffe de la patte avant gauche</AEXP_LargeLizardlike.corePart.parts.front_left_leg.parts.front_left_leg_first_claw.customLabel>
+  <!-- front left leg second claw -->
+  <AEXP_LargeLizardlike.corePart.parts.front_left_leg.parts.front_left_leg_second_claw.customLabel>deuxième griffe de la patte avant gauche</AEXP_LargeLizardlike.corePart.parts.front_left_leg.parts.front_left_leg_second_claw.customLabel>
+  <!-- front left leg third claw -->
+  <AEXP_LargeLizardlike.corePart.parts.front_left_leg.parts.front_left_leg_third_claw.customLabel>troisième griffe de la patte avant gauche</AEXP_LargeLizardlike.corePart.parts.front_left_leg.parts.front_left_leg_third_claw.customLabel>
+  <!-- front right leg -->
+  <AEXP_LargeLizardlike.corePart.parts.front_right_leg.customLabel>patte avant droite</AEXP_LargeLizardlike.corePart.parts.front_right_leg.customLabel>
+  <!-- front right leg first claw -->
+  <AEXP_LargeLizardlike.corePart.parts.front_right_leg.parts.front_right_leg_first_claw.customLabel>première griffe de la patte avant droite</AEXP_LargeLizardlike.corePart.parts.front_right_leg.parts.front_right_leg_first_claw.customLabel>
+  <!-- front right leg second claw -->
+  <AEXP_LargeLizardlike.corePart.parts.front_right_leg.parts.front_right_leg_second_claw.customLabel>deuxième griffe de la patte avant droite</AEXP_LargeLizardlike.corePart.parts.front_right_leg.parts.front_right_leg_second_claw.customLabel>
+  <!-- front right leg third claw -->
+  <AEXP_LargeLizardlike.corePart.parts.front_right_leg.parts.front_right_leg_third_claw.customLabel>troisième griffe de la patte avant droite</AEXP_LargeLizardlike.corePart.parts.front_right_leg.parts.front_right_leg_third_claw.customLabel>
+  <!-- rear left leg -->
+  <AEXP_LargeLizardlike.corePart.parts.rear_left_leg.customLabel>pata trasera gauche</AEXP_LargeLizardlike.corePart.parts.rear_left_leg.customLabel>
+  <!-- rear left leg first claw -->
+  <AEXP_LargeLizardlike.corePart.parts.rear_left_leg.parts.rear_left_leg_first_claw.customLabel>première griffe de la patte arrière gauche</AEXP_LargeLizardlike.corePart.parts.rear_left_leg.parts.rear_left_leg_first_claw.customLabel>
+  <!-- rear left leg second claw -->
+  <AEXP_LargeLizardlike.corePart.parts.rear_left_leg.parts.rear_left_leg_second_claw.customLabel>deuxième griffe de la patte arrière gauche</AEXP_LargeLizardlike.corePart.parts.rear_left_leg.parts.rear_left_leg_second_claw.customLabel>
+  <!-- rear left leg third claw -->
+  <AEXP_LargeLizardlike.corePart.parts.rear_left_leg.parts.rear_left_leg_third_claw.customLabel>troisième griffe de la patte arrière gauche</AEXP_LargeLizardlike.corePart.parts.rear_left_leg.parts.rear_left_leg_third_claw.customLabel>
+  <!-- rear right leg -->
+  <AEXP_LargeLizardlike.corePart.parts.rear_right_leg.customLabel>pata trasera droite</AEXP_LargeLizardlike.corePart.parts.rear_right_leg.customLabel>
+  <!-- rear right leg first claw -->
+  <AEXP_LargeLizardlike.corePart.parts.rear_right_leg.parts.rear_right_leg_first_claw.customLabel>première griffe de la patte arrière droite</AEXP_LargeLizardlike.corePart.parts.rear_right_leg.parts.rear_right_leg_first_claw.customLabel>
+  <!-- rear right leg second claw -->
+  <AEXP_LargeLizardlike.corePart.parts.rear_right_leg.parts.rear_right_leg_second_claw.customLabel>deuxième griffe de la patte arrière droite</AEXP_LargeLizardlike.corePart.parts.rear_right_leg.parts.rear_right_leg_second_claw.customLabel>
+  <!-- rear right leg third claw -->
+  <AEXP_LargeLizardlike.corePart.parts.rear_right_leg.parts.rear_right_leg_third_claw.customLabel>troisième griffe de la patte arrière droite</AEXP_LargeLizardlike.corePart.parts.rear_right_leg.parts.rear_right_leg_third_claw.customLabel>
+
+</LanguageData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR vanilla events expanded.-->
+  <Hunter.label>chasseur</Hunter.label>
+  <Hunter.labelMale>chasseur</Hunter.labelMale>
+  <Hunter.labelFemale>chasseuse</Hunter.labelFemale>
+  <Hunter.labelPlural>chasseurs</Hunter.labelPlural>
+  <Hunter.race>Humain</Hunter.race>
+
+</LanguageData>

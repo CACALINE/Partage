@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+<!--<Traduction FR vanilla events expanded.-->
+    <SCat>Vanilla Event Expanded</SCat>
+    <BReset>Réinitialiser les paramètres</BReset>
+    <GCWReset>Arrêter toutes les conditions du monde</GCWReset>
+    <GCMReset>Arrêter toutes les conditions de la carte</GCMReset>
+    <NeedToBeIngame>Vous devez être en jeu pour mettre fin aux conditions de jeu </NeedToBeIngame>
+    <CEBC>&lt;color=cyan&gt;&lt;b&gt;Modifier la chance de base des événements (définir sur 0 pour désactiver) :&lt;/b&gt;&lt;/color&gt;</CEBC>
+    <BCS>Ouvrir les paramètres de chance de la base d’événements</BCS>
+    <MinTPE>Mini jours avant nouveau feu :</MinTPE>
+    <ETPE>Mini jours avant incendie :</ETPE>
+    <PES>&lt;color=cyan&gt;&lt;b&gt;Paramètres d'événements violets  :&lt;/b&gt;&lt;/color&gt;</PES>
+
+    <IABaseC>Période glaciaire</IABaseC>
+    <GWBaseC>Réchauffement climatique </GWBaseC>
+    <PRBaseC>Pluie psychique</PRBaseC>
+    <LNBaseC>Longue nuit</LNBaseC>
+    <PBBaseC>Floraison psychique </PBBaseC>
+
+    <HSBaseC>Tempête de grêle</HSBaseC>
+    <MSBaseC>Pluie de météorites </MSBaseC>
+    <APCBaseC>Accident de nacelle animale</APCBaseC>
+    <WJTBaseC>Vagabond s'unit au traître</WJTBaseC>
+    <SPBaseC>Bataille spatiale</SPBaseC>
+    <SCBaseC>Crash de la navette</SCBaseC>
+    <EBaseC>Tremblement de terre</EBaseC>
+    <CPWBaseC>Capsules cargaison d'armes</CPWBaseC>
+    <CPABaseC>Capsules cargaison vêtements</CPABaseC>
+    <CAWIBaseC>Animaux de la caravane errant</CAWIBaseC>
+    <CSBaseC>Germe de culture</CSBaseC>
+    <BAWIBaseC>Animaux de combat errant</BAWIBaseC>
+    <DBaseC>Sécheresse</DBaseC>
+    <WMWIBaseC>Hommes sauvages errant</WMWIBaseC>
+    <HPBaseC>Groupe de chasseurs</HPBaseC>
+</LanguageData>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<!--Traduction FR Nuclear Energy-->
+  <Make_RefinedUranium.label>Raffinage de l'uranium</Make_RefinedUranium.label>
+  <Make_RefinedUranium.description>Raffiner l'uranium.</Make_RefinedUranium.description>
+  <Make_RefinedUranium.jobString>Le raffinage de l'uranium.</Make_RefinedUranium.jobString>
+  
+  <Make_BulkRefinedUranium.label>Raffinage de 4 uranium</Make_BulkRefinedUranium.label>
+  <Make_BulkRefinedUranium.description>Raffiner l'uranium en masse.</Make_BulkRefinedUranium.description>
+  <Make_BulkRefinedUranium.jobString>Raffinage de l'uranium en masse.</Make_BulkRefinedUranium.jobString>
+  
+  <Make_CoolingComponents.label>Fabriquer des composants de refroidissement</Make_CoolingComponents.label>
+  <Make_CoolingComponents.description>Fabriquer des composants de refroidissement.</Make_CoolingComponents.description>
+  <Make_CoolingComponents.jobString>Fabriquer des composants de refroidissement.</Make_CoolingComponents.jobString>
+  
+  <Make_BulkCoolingComponents.label>Fabriquer 5 composants de refroidissement</Make_BulkCoolingComponents.label>
+  <Make_BulkCoolingComponents.description>Fabriquer des composants de refroidissement en masse.</Make_BulkCoolingComponents.description>
+  <Make_BulkCoolingComponents.jobString>Fabriquer des composants de refroidissement en masse.</Make_BulkCoolingComponents.jobString>
+  
+  <Make_CoolingInjector.label>Fabriquer un injecteur de liquide</Make_CoolingInjector.label>
+  <Make_CoolingInjector.description>Fabriquer un injecteur de liquide.</Make_CoolingInjector.description>
+  <Make_CoolingInjector.jobString>Fabriquer un injecteur de liquide.</Make_CoolingInjector.jobString>
+  
+  <Make_CoolingTank.label>Fabriquer un réservoir de liquide</Make_CoolingTank.label>
+  <Make_CoolingTank.description>Fabriquer un réservoir de liquide.</Make_CoolingTank.description>
+  <Make_CoolingTank.jobString>Fabriquer un réservoir de liquide.</Make_CoolingTank.jobString>
+  
+  <Make_CoolingAI.label>Fabriquer un refroidissement IA</Make_CoolingAI.label>
+  <Make_CoolingAI.description>Fabriquer un refroidissement IA.</Make_CoolingAI.description>
+  <Make_CoolingAI.jobString>Fabriquer un refroidissement IA.</Make_CoolingAI.jobString>
+  
+  <Make_CoolingSys.label>Fabriquer des systèmes de refroidissement</Make_CoolingSys.label>
+  <Make_CoolingSys.description>Fabriquer des systèmes de refroidissement.</Make_CoolingSys.description>
+  <Make_CoolingSys.jobString>Fabriquer des systèmes de refroidissement.</Make_CoolingSys.jobString>
+  
+  <Make_SmallCoolingSys.label>Fabriquer de petits systèmes de refroidissement</Make_SmallCoolingSys.label>
+  <Make_SmallCoolingSys.description>Fabriquer de petits systèmes de refroidissement</Make_SmallCoolingSys.description>
+  <Make_SmallCoolingSys.jobString>Fabriquer de petits systèmes de refroidissement.</Make_SmallCoolingSys.jobString>
+</LanguageData>

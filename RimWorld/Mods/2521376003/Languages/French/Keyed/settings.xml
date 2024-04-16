@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Mods Seasonal Weathers (Continued) de Mlie.-->
+  <SeasonalWeatherSettingsCategoryLabel>Seasonal Weather</SeasonalWeatherSettingsCategoryLabel>
+  <EnableEarthquakesLabel>Activer les tremblements de terre</EnableEarthquakesLabel>
+  <EnableWildfiresLabel>Activer les feux de forêt</EnableWildfiresLabel>
+  <!--<DynamicDefNote>NOTE: Actuellement, ces paramètres ne sont déclenchés que lors de la création ou du chargement de la carte.</DynamicDefNote>-->
+  
+<!--Traduction FR vanilla expanded framework-->
+    <!-- CSG -->
+    <CSGTitle>Génération de structures personnalisées :</CSGTitle>
+    <CSGLog>Activer le journal de débogage de la génération de structure : </CSGLog>
+
+    <!-- Toggable patches -->
+    <TPTitle>Correctifs modifiables :</TPTitle>
+    <NeedRestart>&lt;b&gt;&lt;color=red&gt;Tous les paramètres nécessitent un redémarrage pour être appliqués&lt;/color&gt;&lt;/b&gt;</NeedRestart>
+</LanguageData>

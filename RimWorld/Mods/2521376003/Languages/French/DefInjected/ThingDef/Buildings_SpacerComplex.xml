@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+	<!-- barrier -->
+	<VFES_Barrier.label>barrière</VFES_Barrier.label>
+	<!-- A reinforced metal barricade held in place by a concrete frame. Provides an excellent amount of cover from ranged attacks. -->
+	<VFES_Barrier.description>Une barricade métallique renforcée soutenue par une ossature en béton. Fournit une excellente couverture pour les attaques à distance.</VFES_Barrier.description>
+
+	<!-- charge complex -->
+	<VFES_Turret_ChargeComplex.label>charge complexe</VFES_Turret_ChargeComplex.label>
+	<!-- A stationary charge cannon mounted on a metal barrier. Capable of sustaining fire until the barrel needs changing. -->
+	<VFES_Turret_ChargeComplex.description>Un canon de charge fixe monté sur une barrière métallique. Capable de soutenir le feu jusqu'à ce que le canon ait besoin d'être changé.</VFES_Turret_ChargeComplex.description>
+	<!-- EN: Shots remaining -->
+	<VFES_Turret_ChargeComplex.comps.CompRefuelable.fuelGizmoLabel>Coups restants</VFES_Turret_ChargeComplex.comps.CompRefuelable.fuelGizmoLabel>
+	<!-- EN: Shots until battery replacement -->
+	<VFES_Turret_ChargeComplex.comps.CompRefuelable.fuelLabel>Tirs jusqu'au remplacement de la batterie</VFES_Turret_ChargeComplex.comps.CompRefuelable.fuelLabel>
+	<!-- EN: Cannot shoot: Needs new battery -->
+	<VFES_Turret_ChargeComplex.comps.CompRefuelable.outOfFuelMessage>Impossible de tirer: nécessite une nouvelle batterie</VFES_Turret_ChargeComplex.comps.CompRefuelable.outOfFuelMessage>
+
+	<!-- charge gun emplacement -->
+	<VFES_Gun_ChargeComplex.label>emplacement de l'arme à impulsion</VFES_Gun_ChargeComplex.label>
+	<!-- A charge gun made to be mounted on a turret. -->
+	<VFES_Gun_ChargeComplex.description>Une arme à impulsion conçue pour être montée sur une tourelle.</VFES_Gun_ChargeComplex.description>
+	<!-- charge shot -->
+	<VFES_Bullet_ChargeComplex.label>projectile à impulsion</VFES_Bullet_ChargeComplex.label>
+	<!-- EN: charge gun emplacement -->
+	<VFES_Gun_ChargeComplex.verbs.Verb_Shoot.label>emplacement de l'arme à impulsion</VFES_Gun_ChargeComplex.verbs.Verb_Shoot.label>
+
+</LanguageData>

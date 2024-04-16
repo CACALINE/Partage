@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+  <!-- EN: Props tab -->
+  <Architect_PropsandDecor.label>Onglet Accessoires</Architect_PropsandDecor.label>
+  <!-- EN: Key bindings for the "Props" section of the Architect menu -->
+  <Architect_PropsandDecor.description>Affectation des touches pour la section "Accessoires" du menu Architecte</Architect_PropsandDecor.description>
+
+</LanguageData>

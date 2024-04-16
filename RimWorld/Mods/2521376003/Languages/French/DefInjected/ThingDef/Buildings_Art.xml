@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+	<!-- pottery -->
+	<VFE_Pottery.label>poterie</VFE_Pottery.label>
+	<!-- A small-size pieces of pottery with artisting engravings. Can be crafted on a crafting spot. -->
+	<VFE_Pottery.description>Quelques petites pièces de poterie avec des gravures artistiques. Il peut être fait à la main dans la zone artisanale.</VFE_Pottery.description>
+
+	<!-- small statue -->
+	<VFE_StatueSmall.label>petite statue</VFE_StatueSmall.label>
+	<!-- A small-size piece of material on a decorative pedestal, sculpted into an artistic form. -->
+	<VFE_StatueSmall.description>Un petit morceau de matière sur un piédestal décoratif, sculpté de manière artistique.</VFE_StatueSmall.description>
+
+	<!-- carving -->
+	<VFE_Carving.label>sculpture</VFE_Carving.label>
+	<!-- A small carving sculpted from a waist-tall wall piece. Can act as cover. -->
+	<VFE_Carving.description>Une petite sculpture sculptée dans une pièce haute d'un demi-mur. Il peut servir de couverture.</VFE_Carving.description>
+
+	<!-- large statue -->
+	<VFE_StatueLarge.label>statue moyenne</VFE_StatueLarge.label>
+	<!-- A person-sized piece of material on a decorative pedestal, sculpted into an artistic form. -->
+	<VFE_StatueLarge.description>Un morceau de matériau à la taille d'une personne sur un piédestal décoratif, sculpté de manière artistique.</VFE_StatueLarge.description>
+
+	<!-- grand statue -->
+	<VFE_StatueGrand.label>grande statue</VFE_StatueGrand.label>
+	<!-- A huge piece of material on a decorative pedestal, sculpted into an artistic form. -->
+	<VFE_StatueGrand.description>Un énorme morceau de matière sur un piédestal décoratif, sculpté de manière artistique.</VFE_StatueGrand.description>
+
+	<!-- monument -->
+	<VFE_Monument.label>monument</VFE_Monument.label>
+	<!-- An impassable, massive monument with an ornate pedestal and a large art piece. -->
+	<VFE_Monument.description>Un monument immense et infranchissable avec un piédestal orné et une grande oeuvre d'art.</VFE_Monument.description>
+
+	<!-- relief -->
+	<VFE_Relief.label>relief</VFE_Relief.label>
+	<!-- An impassable, long piece of wall with an artistic relief carved into it. -->
+	<VFE_Relief.description>Un long morceau de mur infranchissable avec un relief artistique gravé dedans.</VFE_Relief.description>
+
+	<!-- pillar -->
+	<VFE_Pillar.label>pilier</VFE_Pillar.label>
+	<!-- An impassable, decorated pillar capable of supporting a roof. -->
+	<VFE_Pillar.description>Un pilier infranchissable et décoré capable de supporter un toit.</VFE_Pillar.description>
+
+	<!-- obelisk -->
+	<VFE_Obelisk.label>obélisque</VFE_Obelisk.label>
+	<!-- A tall piece of material shaped into an obelisk with an art piece carved into the sides. -->
+	<VFE_Obelisk.description>Un long morceau de matériau en forme d'obélisque avec une oeuvre d'art sculptée sur les côtés.</VFE_Obelisk.description>
+
+	<!-- plinth -->
+	<VFE_Plinth.label>piédestal</VFE_Plinth.label>
+	<!-- A small plinth with an artistic imagery carved into the sides. Can be used for storing miscellaneous items. Items stored in this will not deteriorate, even if outside. -->
+	<VFE_Plinth.description>Un petit piédestal avec une image artistique sculptée sur les côtés. Il peut être utilisé pour stocker divers articles. Les articles stockés ici ne se détérioreront pas, même à l'extérieur.</VFE_Plinth.description>
+
+	<!-- decorative plant pot -->
+	<VFE_DecorativePlantPot.label>pot de fleurs décoratif</VFE_DecorativePlantPot.label>
+	<!-- Plant decorative flowers on this ornamental plant pot to improve the mood of people nearby. -->
+	<VFE_DecorativePlantPot.description>Placez des fleurs décoratives dans ce pot de plantes ornementales pour améliorer l'humeur de vos proches.</VFE_DecorativePlantPot.description>
+
+	<!-- wallpaper -->
+	<VFE_Wallpaper.label>papier-peint</VFE_Wallpaper.label>
+	<!-- An impassable wall with a beautiful wallpaper. Capable of holding up a roof. -->
+	<VFE_Wallpaper.description>Un mur infranchissable avec un beau papier peint. Capable de supporter un toit.</VFE_Wallpaper.description>
+
+
+</LanguageData>

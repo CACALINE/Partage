@@ -1,0 +1,385 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+<!-- EN: arrow long symbol -->
+<VFEPD_DecalArrowLong.label>flèche longue</VFEPD_DecalArrowLong.label>
+<VFEPD_DecalArrowLong.description>Un symbole pour le sol.</VFEPD_DecalArrowLong.description>
+
+<!-- EN: arrow short symbol -->
+<VFEPD_DecalArrowShort.label>flèche courte</VFEPD_DecalArrowShort.label>
+<VFEPD_DecalArrowShort.description>Un symbole pour le sol.</VFEPD_DecalArrowShort.description>
+
+<!-- EN: arrow wide symbol -->
+<VFEPD_DecalArrowWide.label>flèche large</VFEPD_DecalArrowWide.label>
+<VFEPD_DecalArrowWide.description>Un symbole pour le sol.</VFEPD_DecalArrowWide.description>
+
+<!-- EN: decal line double -->
+<VFEPD_DecalLineDouble.label>ligne double</VFEPD_DecalLineDouble.label>
+<VFEPD_DecalLineDouble.description>Un symbole pour le sol.</VFEPD_DecalLineDouble.description>
+
+<!-- EN: decal line double inner corner -->
+<VFEPD_DecalLineDoubleCornerInner.label>ligne double coin intérieur</VFEPD_DecalLineDoubleCornerInner.label>
+<VFEPD_DecalLineDoubleCornerInner.description>Un symbole pour le sol.</VFEPD_DecalLineDoubleCornerInner.description>
+
+<!-- EN: decal line double outer corner -->
+<VFEPD_DecalLineDoubleCornerOuter.label>ligne double coin extérieur</VFEPD_DecalLineDoubleCornerOuter.label>
+<VFEPD_DecalLineDoubleCornerOuter.description>Un symbole pour le sol.</VFEPD_DecalLineDoubleCornerOuter.description>
+
+<!-- EN: decal line thin -->
+<VFEPD_DecalLineThin.label>ligne fine</VFEPD_DecalLineThin.label>
+<VFEPD_DecalLineThin.description>Un symbole pour le sol.</VFEPD_DecalLineThin.description>
+
+<!-- EN: decal line thin inner corner -->
+<VFEPD_DecalLineThinCornerInner.label>ligne fine coin intérieur</VFEPD_DecalLineThinCornerInner.label>
+<VFEPD_DecalLineThinCornerInner.description>Un symbole pour le sol.</VFEPD_DecalLineThinCornerInner.description>
+
+<!-- EN: decal line thin outer corner -->
+<VFEPD_DecalLineThinCornerOuter.label>ligne fine coin extérieur</VFEPD_DecalLineThinCornerOuter.label>
+<VFEPD_DecalLineThinCornerOuter.description>Un symbole pour le sol.</VFEPD_DecalLineThinCornerOuter.description>
+
+<!-- EN: A symbol -->
+<VFEPD_DecalSymbolA.label>symbole A</VFEPD_DecalSymbolA.label>
+<VFEPD_DecalSymbolA.description>Un symbole pour le sol.</VFEPD_DecalSymbolA.description>
+
+<!-- EN: B symbol -->
+<VFEPD_DecalSymbolB.label>symbole B</VFEPD_DecalSymbolB.label>
+<VFEPD_DecalSymbolB.description>Un symbole pour le sol.</VFEPD_DecalSymbolB.description>
+
+<!-- EN: C symbol -->
+<VFEPD_DecalSymbolC.label>symbole C</VFEPD_DecalSymbolC.label>
+<VFEPD_DecalSymbolC.description>Un symbole pour le sol.</VFEPD_DecalSymbolC.description>
+
+<!-- EN: D symbol -->
+<VFEPD_DecalSymbolD.label>symbole D</VFEPD_DecalSymbolD.label>
+<VFEPD_DecalSymbolD.description>Un symbole pour le sol.</VFEPD_DecalSymbolD.description>
+
+<!-- EN: E symbol -->
+<VFEPD_DecalSymbolE.label>symbole E</VFEPD_DecalSymbolE.label>
+<VFEPD_DecalSymbolE.description>Un symbole pour le sol.</VFEPD_DecalSymbolE.description>
+
+<!-- EN: F symbol -->
+<VFEPD_DecalSymbolF.label>symbole F</VFEPD_DecalSymbolF.label>
+<VFEPD_DecalSymbolF.description>Un symbole pour le sol.</VFEPD_DecalSymbolF.description>
+
+<!-- EN: G symbol -->
+<VFEPD_DecalSymbolG.label>symbole G</VFEPD_DecalSymbolG.label>
+<VFEPD_DecalSymbolG.description>Un symbole pour le sol.</VFEPD_DecalSymbolG.description>
+
+<!-- EN: H symbol -->
+<VFEPD_DecalSymbolH.label>symbole H</VFEPD_DecalSymbolH.label>
+<VFEPD_DecalSymbolH.description>Un symbole pour le sol.</VFEPD_DecalSymbolH.description>
+
+<!-- EN: I symbol -->
+<VFEPD_DecalSymbolI.label>symbole I</VFEPD_DecalSymbolI.label>
+<VFEPD_DecalSymbolI.description>Un symbole pour le sol.</VFEPD_DecalSymbolI.description>
+
+<!-- EN: J symbol -->
+<VFEPD_DecalSymbolJ.label>symbole J</VFEPD_DecalSymbolJ.label>
+<VFEPD_DecalSymbolJ.description>Un symbole pour le sol.</VFEPD_DecalSymbolJ.description>
+
+<!-- EN: K symbol -->
+<VFEPD_DecalSymbolK.label>symbole K</VFEPD_DecalSymbolK.label>
+<VFEPD_DecalSymbolK.description>Un symbole pour le sol.</VFEPD_DecalSymbolK.description>
+
+<!-- EN: L symbol -->
+<VFEPD_DecalSymbolL.label>symbole L</VFEPD_DecalSymbolL.label>
+<VFEPD_DecalSymbolL.description>Un symbole pour le sol.</VFEPD_DecalSymbolL.description>
+
+<!-- EN: M symbol -->
+<VFEPD_DecalSymbolM.label>symbole M</VFEPD_DecalSymbolM.label>
+<VFEPD_DecalSymbolM.description>Un symbole pour le sol.</VFEPD_DecalSymbolM.description>
+
+<!-- EN: N symbol -->
+<VFEPD_DecalSymbolN.label>symbole N</VFEPD_DecalSymbolN.label>
+<VFEPD_DecalSymbolN.description>Un symbole pour le sol.</VFEPD_DecalSymbolN.description>
+
+<!-- EN: O symbol -->
+<VFEPD_DecalSymbolO.label>symbole O</VFEPD_DecalSymbolO.label>
+<VFEPD_DecalSymbolO.description>Un symbole pour le sol.</VFEPD_DecalSymbolO.description>
+
+<!-- EN: P symbol -->
+<VFEPD_DecalSymbolP.label>symbole P</VFEPD_DecalSymbolP.label>
+<VFEPD_DecalSymbolP.description>Un symbole pour le sol.</VFEPD_DecalSymbolP.description>
+
+<!-- EN: Q symbol -->
+<VFEPD_DecalSymbolQ.label>symbole Q</VFEPD_DecalSymbolQ.label>
+<VFEPD_DecalSymbolQ.description>Un symbole pour le sol</VFEPD_DecalSymbolQ.description>
+
+<!-- EN: R symbol -->
+<VFEPD_DecalSymbolR.label>symbole R</VFEPD_DecalSymbolR.label>
+<VFEPD_DecalSymbolR.description>Un symbole pour le sol.</VFEPD_DecalSymbolR.description>
+
+<!-- EN: S symbol -->
+<VFEPD_DecalSymbolS.label>symbole S</VFEPD_DecalSymbolS.label>
+<VFEPD_DecalSymbolS.description>Un symbole pour le sol.</VFEPD_DecalSymbolS.description>
+
+<!-- EN: T symbol -->
+<VFEPD_DecalSymbolT.label>symbole T</VFEPD_DecalSymbolT.label>
+<VFEPD_DecalSymbolT.description>Un symbole pour le sol.</VFEPD_DecalSymbolT.description>
+
+<!-- EN: U symbol -->
+<VFEPD_DecalSymbolU.label>symbole U</VFEPD_DecalSymbolU.label>
+<VFEPD_DecalSymbolU.description>Un symbole pour le sol.</VFEPD_DecalSymbolU.description>
+
+<!-- EN: V symbol -->
+<VFEPD_DecalSymbolV.label>symbole V</VFEPD_DecalSymbolV.label>
+<VFEPD_DecalSymbolV.description>Un symbole pour le sol.</VFEPD_DecalSymbolV.description>
+
+<!-- EN: W symbol -->
+<VFEPD_DecalSymbolW.label>symbole W</VFEPD_DecalSymbolW.label>
+<VFEPD_DecalSymbolW.description>Un symbole pour le sol.</VFEPD_DecalSymbolW.description>
+
+<!-- EN: X symbol -->
+<VFEPD_DecalSymbolX.label>symbole X</VFEPD_DecalSymbolX.label>
+<VFEPD_DecalSymbolX.description>Un symbole pour le sol.</VFEPD_DecalSymbolX.description>
+
+<!-- EN: Y symbol -->
+<VFEPD_DecalSymbolY.label>symbole Y</VFEPD_DecalSymbolY.label>
+<VFEPD_DecalSymbolY.description>Un symbole pour le sol.</VFEPD_DecalSymbolY.description>
+
+<!-- EN: Z symbol -->
+<VFEPD_DecalSymbolZ.label>symbole Z</VFEPD_DecalSymbolZ.label>
+<VFEPD_DecalSymbolZ.description>Un symbole pour le sol.</VFEPD_DecalSymbolZ.description>
+
+<!-- EN: 1 symbol -->
+<VFEPD_DecalSymbolOne.label>symbole 1</VFEPD_DecalSymbolOne.label>
+<VFEPD_DecalSymbolOne.description>Un symbole pour le sol.</VFEPD_DecalSymbolOne.description>
+
+<!-- EN: 2 symbol -->
+<VFEPD_DecalSymbolTwo.label>symbole 2</VFEPD_DecalSymbolTwo.label>
+<VFEPD_DecalSymbolTwo.description>Un symbole pour le sol.</VFEPD_DecalSymbolTwo.description>
+
+<!-- EN: 3 symbol -->
+<VFEPD_DecalSymbolThree.label>symbole 3</VFEPD_DecalSymbolThree.label>
+<VFEPD_DecalSymbolThree.description>Un symbole pour le sol.</VFEPD_DecalSymbolThree.description>
+
+<!-- EN: 4 symbol -->
+<VFEPD_DecalSymbolFour.label>symbole 4</VFEPD_DecalSymbolFour.label>
+<VFEPD_DecalSymbolFour.description>Un symbole pour le sol.</VFEPD_DecalSymbolFour.description>
+
+<!-- EN: 5 symbol -->
+<VFEPD_DecalSymbolFive.label>symbole 5</VFEPD_DecalSymbolFive.label>
+<VFEPD_DecalSymbolFive.description>Un symbole pour le sol.</VFEPD_DecalSymbolFive.description>
+
+<!-- EN: 6 symbol -->
+<VFEPD_DecalSymbolSix.label>symbole 6</VFEPD_DecalSymbolSix.label>
+<VFEPD_DecalSymbolSix.description>Un symbole pour le sol.</VFEPD_DecalSymbolSix.description>
+
+<!-- EN: 7 symbol -->
+<VFEPD_DecalSymbolSeven.label>symbole 7</VFEPD_DecalSymbolSeven.label>
+<VFEPD_DecalSymbolSeven.description>Un symbole pour le sol.</VFEPD_DecalSymbolSeven.description>
+
+<!-- EN: 8 symbol -->
+<VFEPD_DecalSymbolEight.label>symbole 8</VFEPD_DecalSymbolEight.label>
+<VFEPD_DecalSymbolEight.description>Un symbole pour le sol.</VFEPD_DecalSymbolEight.description>
+
+<!-- EN: 9 symbol -->
+<VFEPD_DecalSymbolNine.label>symbole 9</VFEPD_DecalSymbolNine.label>
+<VFEPD_DecalSymbolNine.description>Un symbole pour le sol.</VFEPD_DecalSymbolNine.description>
+
+<!-- EN: 0 symbol -->
+<VFEPD_DecalSymbolZero.label>symbole 0</VFEPD_DecalSymbolZero.label>
+<VFEPD_DecalSymbolZero.description>Un symbole pour le sol.</VFEPD_DecalSymbolZero.description>
+
+<!-- EN: armory decal -->
+<VFEPD_DecalWordArmory.label>armurerie</VFEPD_DecalWordArmory.label>
+<VFEPD_DecalWordArmory.description>Un symbole pour le sol.</VFEPD_DecalWordArmory.description>
+
+<!-- EN: barracks decal -->
+<VFEPD_DecalWordBarracks.label>caserne</VFEPD_DecalWordBarracks.label>
+<VFEPD_DecalWordBarracks.description>Un symbole pour le sol.</VFEPD_DecalWordBarracks.description>
+
+<!-- EN: block decal -->
+<VFEPD_DecalWordBlock.label>bloc</VFEPD_DecalWordBlock.label>
+<VFEPD_DecalWordBlock.description>Un symbole pour le sol.</VFEPD_DecalWordBlock.description>
+
+<!-- EN: cafeteria decal -->
+<VFEPD_DecalWordCafeteria.label>café</VFEPD_DecalWordCafeteria.label>
+<VFEPD_DecalWordCafeteria.description>Un symbole pour le sol.</VFEPD_DecalWordCafeteria.description>
+
+<!-- EN: cargo decal -->
+<VFEPD_DecalWordCargo.label>cargaison</VFEPD_DecalWordCargo.label>
+<VFEPD_DecalWordCargo.description>Un symbole pour le sol.</VFEPD_DecalWordCargo.description>
+
+<!-- EN: chamber decal -->
+<VFEPD_DecalWordChamber.label>culasse</VFEPD_DecalWordChamber.label>
+<VFEPD_DecalWordChamber.description>Un symbole pour le sol.</VFEPD_DecalWordChamber.description>
+
+<!-- EN: climate decal -->
+<VFEPD_DecalWordClimate.label>météo</VFEPD_DecalWordClimate.label>
+<VFEPD_DecalWordClimate.description>Un symbole pour le sol.</VFEPD_DecalWordClimate.description>
+
+<!-- EN: command decal -->
+<VFEPD_DecalWordCommand.label>commande</VFEPD_DecalWordCommand.label>
+<VFEPD_DecalWordCommand.description>Un symbole pour le sol.</VFEPD_DecalWordCommand.description>
+
+<!-- EN: control decal -->
+<VFEPD_DecalWordControl.label>contrôle</VFEPD_DecalWordControl.label>
+<VFEPD_DecalWordControl.description>Un symbole pour le sol.</VFEPD_DecalWordControl.description>
+
+<!-- EN: engineer decal -->
+<VFEPD_DecalWordEngineer.label>ingénierie</VFEPD_DecalWordEngineer.label>
+<VFEPD_DecalWordEngineer.description>Un symbole pour le sol.</VFEPD_DecalWordEngineer.description>
+
+<!-- EN: farming decal -->
+<VFEPD_DecalWordFarming.label>agriculture</VFEPD_DecalWordFarming.label>
+<VFEPD_DecalWordFarming.description>Un symbole pour le sol.</VFEPD_DecalWordFarming.description>
+
+<!-- EN: freezer decal -->
+<VFEPD_DecalWordFreezer.label>congélateur</VFEPD_DecalWordFreezer.label>
+<VFEPD_DecalWordFreezer.description>Un symbole pour le sol.</VFEPD_DecalWordFreezer.description>
+
+<!-- EN: fridge decal -->
+<VFEPD_DecalWordFridge.label>réfrigérateur</VFEPD_DecalWordFridge.label>
+<VFEPD_DecalWordFridge.description>Un symbole pour le sol.</VFEPD_DecalWordFridge.description>
+
+<!-- EN: hangar decal -->
+<VFEPD_DecalWordHangar.label>hangar</VFEPD_DecalWordHangar.label>
+<VFEPD_DecalWordHangar.description>Un symbole pour le sol.</VFEPD_DecalWordHangar.description>
+
+<!-- EN: hospital decal -->
+<VFEPD_DecalWordHospital.label>hôpital</VFEPD_DecalWordHospital.label>
+<VFEPD_DecalWordHospital.description>Un symbole pour le sol.</VFEPD_DecalWordHospital.description>
+
+<!-- EN: kill decal -->
+<VFEPD_DecalWordKill.label>abattoir</VFEPD_DecalWordKill.label>
+<VFEPD_DecalWordKill.description>Un symbole pour le sol.</VFEPD_DecalWordKill.description>
+
+<!-- EN: kitchen decal -->
+<VFEPD_DecalWordKitchen.label>cuisine</VFEPD_DecalWordKitchen.label>
+<VFEPD_DecalWordKitchen.description>Un symbole pour le sol.</VFEPD_DecalWordKitchen.description>
+
+<!-- EN: landing decal -->
+<VFEPD_DecalWordLanding.label>atterrissage</VFEPD_DecalWordLanding.label>
+<VFEPD_DecalWordLanding.description>Un symbole pour le sol.</VFEPD_DecalWordLanding.description>
+
+<!-- EN: medical decal -->
+<VFEPD_DecalWordMedical.label>médecine</VFEPD_DecalWordMedical.label>
+<VFEPD_DecalWordMedical.description>Un symbole pour le sol.</VFEPD_DecalWordMedical.description>
+
+<!-- EN: mess decal -->
+<VFEPD_DecalWordMess.label>désordre</VFEPD_DecalWordMess.label>
+<VFEPD_DecalWordMess.description>Un symbole pour le sol.</VFEPD_DecalWordMess.description>
+
+<!-- EN: morgue decal -->
+<VFEPD_DecalWordMorgue.label>morgue</VFEPD_DecalWordMorgue.label>
+<VFEPD_DecalWordMorgue.description>Un symbole pour le sol.</VFEPD_DecalWordMorgue.description>
+
+<!-- EN: mortar decal -->
+<VFEPD_DecalWordMortar.label>mortier</VFEPD_DecalWordMortar.label>
+<VFEPD_DecalWordMortar.description>Un symbole pour le sol.</VFEPD_DecalWordMortar.description>
+
+<!-- EN: play decal -->
+<VFEPD_DecalWordPlay.label>jeu</VFEPD_DecalWordPlay.label>
+<VFEPD_DecalWordPlay.description>Un symbole pour le sol.</VFEPD_DecalWordPlay.description>
+
+<!-- EN: prison decal -->
+<VFEPD_DecalWordPrison.label>prison</VFEPD_DecalWordPrison.label>
+<VFEPD_DecalWordPrison.description>Un symbole pour le sol.</VFEPD_DecalWordPrison.description>
+
+<!-- EN: reactor decal -->
+<VFEPD_DecalWordReactor.label>réacteur</VFEPD_DecalWordReactor.label>
+<VFEPD_DecalWordReactor.description>Un symbole pour le sol.</VFEPD_DecalWordReactor.description>
+
+<!-- EN: recreation decal -->
+<VFEPD_DecalWordRecreation.label>loisirs</VFEPD_DecalWordRecreation.label>
+<VFEPD_DecalWordRecreation.description>Un symbole pour le sol.</VFEPD_DecalWordRecreation.description>
+
+<!-- EN: refinery decal -->
+<VFEPD_DecalWordRefinery.label>raffinerie</VFEPD_DecalWordRefinery.label>
+<VFEPD_DecalWordRefinery.description>Un symbole pour le sol.</VFEPD_DecalWordRefinery.description>
+
+<!-- EN: relax decal -->
+<VFEPD_DecalWordRelax.label>relaxation</VFEPD_DecalWordRelax.label>
+<VFEPD_DecalWordRelax.description>Un symbole pour le sol.</VFEPD_DecalWordRelax.description>
+
+<!-- EN: research decal -->
+<VFEPD_DecalWordResearch.label>recherche</VFEPD_DecalWordResearch.label>
+<VFEPD_DecalWordResearch.description>Un symbole pour le sol.</VFEPD_DecalWordResearch.description>
+
+<!-- EN: security decal -->
+<VFEPD_DecalWordSecurity.label>sécurité</VFEPD_DecalWordSecurity.label>
+<VFEPD_DecalWordSecurity.description>Un symbole pour le sol.</VFEPD_DecalWordSecurity.description>
+
+<!-- EN: shipping decal -->
+<VFEPD_DecalWordShipping.label>transport</VFEPD_DecalWordShipping.label>
+<VFEPD_DecalWordShipping.description>Un symbole pour le sol.</VFEPD_DecalWordShipping.description>
+
+<!-- EN: sleeping decal -->
+<VFEPD_DecalWordSleeping.label>dortoir</VFEPD_DecalWordSleeping.label>
+<VFEPD_DecalWordSleeping.description>Un symbole pour le sol.</VFEPD_DecalWordSleeping.description>
+
+<!-- EN: smelting decal -->
+<VFEPD_DecalWordSmelting.label>fusion</VFEPD_DecalWordSmelting.label>
+<VFEPD_DecalWordSmelting.description>Un symbole pour le sol.</VFEPD_DecalWordSmelting.description>
+
+<!-- EN: storage decal -->
+<VFEPD_DecalWordStorage.label>stockage</VFEPD_DecalWordStorage.label>
+<VFEPD_DecalWordStorage.description>Un symbole pour le sol.</VFEPD_DecalWordStorage.description>
+
+<!-- EN: warning decal -->
+<VFEPD_DecalWordWarning.label>avertissement</VFEPD_DecalWordWarning.label>
+<VFEPD_DecalWordWarning.description>Un symbole pour le sol.</VFEPD_DecalWordWarning.description>
+
+<!-- EN: workshop decal -->
+<VFEPD_DecalWordWorkshop.label>atelier</VFEPD_DecalWordWorkshop.label>
+<VFEPD_DecalWordWorkshop.description>Un symbole pour le sol.</VFEPD_DecalWordWorkshop.description>
+
+<!-- EN: base decal -->
+<VFEPD_DecalWordSmallBase.label>base</VFEPD_DecalWordSmallBase.label>
+<VFEPD_DecalWordSmallBase.description>Un symbole pour le sol.</VFEPD_DecalWordSmallBase.description>
+
+<!-- EN: bay decal -->
+<VFEPD_DecalWordSmallBay.label>baie</VFEPD_DecalWordSmallBay.label>
+<VFEPD_DecalWordSmallBay.description>Un symbole pour le sol.</VFEPD_DecalWordSmallBay.description>
+
+<!-- EN: box decal -->
+<VFEPD_DecalWordSmallBox.label>boîte</VFEPD_DecalWordSmallBox.label>
+<VFEPD_DecalWordSmallBox.description>Un symbole pour le sol.</VFEPD_DecalWordSmallBox.description>
+
+<!-- EN: cell decal -->
+<VFEPD_DecalWordSmallCell.label>cellule</VFEPD_DecalWordSmallCell.label>
+<VFEPD_DecalWordSmallCell.description>Un symbole pour le sol.</VFEPD_DecalWordSmallCell.description>
+
+<!-- EN: clear decal -->
+<VFEPD_DecalWordSmallClear.label>nettoyage</VFEPD_DecalWordSmallClear.label>
+<VFEPD_DecalWordSmallClear.description>Un symbole pour le sol.</VFEPD_DecalWordSmallClear.description>
+
+<!-- EN: dock decal -->
+<VFEPD_DecalWordSmallDock.label>quai</VFEPD_DecalWordSmallDock.label>
+<VFEPD_DecalWordSmallDock.description>Un symbole pour le sol.</VFEPD_DecalWordSmallDock.description>
+
+<!-- EN: gas decal -->
+<VFEPD_DecalWordSmallGas.label>gaz</VFEPD_DecalWordSmallGas.label>
+<VFEPD_DecalWordSmallGas.description>Un symbole pour le sol.</VFEPD_DecalWordSmallGas.description>
+
+<!-- EN: hall decal -->
+<VFEPD_DecalWordSmallHall.label>salon</VFEPD_DecalWordSmallHall.label>
+<VFEPD_DecalWordSmallHall.description>Un symbole pour le sol.</VFEPD_DecalWordSmallHall.description>
+
+<!-- EN: keep decal -->
+<VFEPD_DecalWordSmallKeep.label>garde</VFEPD_DecalWordSmallKeep.label>
+<VFEPD_DecalWordSmallKeep.description>Un symbole pour le sol.</VFEPD_DecalWordSmallKeep.description>
+
+<!-- EN: lab decal -->
+<VFEPD_DecalWordSmallLab.label>laboratoire</VFEPD_DecalWordSmallLab.label>
+<VFEPD_DecalWordSmallLab.description>Un symbole pour le sol.</VFEPD_DecalWordSmallLab.description>
+
+<!-- EN: pad decal -->
+<VFEPD_DecalWordSmallPad.label>pad</VFEPD_DecalWordSmallPad.label>
+<VFEPD_DecalWordSmallPad.description>Un symbole pour le sol.</VFEPD_DecalWordSmallPad.description>
+
+<!-- EN: room decal -->
+<VFEPD_DecalWordSmallRoom.label>chambre</VFEPD_DecalWordSmallRoom.label>
+<VFEPD_DecalWordSmallRoom.description>Un symbole pour le sol.</VFEPD_DecalWordSmallRoom.description>
+
+<!-- EN: wing decal -->
+<VFEPD_DecalWordSmallWing.label>aile</VFEPD_DecalWordSmallWing.label>
+<VFEPD_DecalWordSmallWing.description>Un symbole pour le sol.</VFEPD_DecalWordSmallWing.description>
+
+<!-- EN: zone decal -->
+<VFEPD_DecalWordSmallZone.label>zone</VFEPD_DecalWordSmallZone.label>
+<VFEPD_DecalWordSmallZone.description>Un symbole pour le sol.</VFEPD_DecalWordSmallZone.description>
+
+
+</LanguageData>

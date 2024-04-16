@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<QRY_Quarry.label>carrière</QRY_Quarry.label>
+<QRY_Quarry.description>Une grande fosse pour déterrer des ressources enfouies depuis longtemps.</QRY_Quarry.description>
+
+<QRY_MiniQuarry.label>petite carrière</QRY_MiniQuarry.label>
+<QRY_MiniQuarry.description>Une petite fosse pour déterrer des ressources enfouies depuis longtemps.</QRY_MiniQuarry.description>
+
+<QRY_Platform.label>plate-forme de carrière</QRY_Platform.label>
+<QRY_Platform.description>Une plate-forme sur laquelle les travailleurs de la carrière transportent les ressources. Elle doit être placée à côté d'une carrière, de préférence près des échelles. Les carrières ne peuvent être reliées qu'à une ou deux plateformes.</QRY_Platform.description>
+
+
+</LanguageData>

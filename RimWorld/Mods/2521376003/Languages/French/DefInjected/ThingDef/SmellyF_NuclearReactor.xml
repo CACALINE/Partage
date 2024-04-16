@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<!--Traduction FR Nuclear Energy-->
+	<NuclearReactor.label>Réacteur nucléaire</NuclearReactor.label>
+	<NuclearReactor.description>Produit beaucoup d'énergie en consommant de l'uranium raffiné. Doit être ravitaillé à la main. Dangereux quand il explose.</NuclearReactor.description>
+	
+	<SmallNuclearReactor.label>Petit réacteur nucléaire</SmallNuclearReactor.label>
+	<SmallNuclearReactor.description>Produit une bonne quantité d'énergie en consommant de l'uranium raffiné. Doit être ravitaillé à la main. Peut être dangereux s'il explose.</SmallNuclearReactor.description>
+	
+	<GiantNuclearReactor.label>Réacteur nucléaire géant</GiantNuclearReactor.label>
+	<GiantNuclearReactor.description>Produit des tonnes d'énergie en consommant de l'uranium raffiné. Doit être rechargé à la main. Très dangereux s'il explose.</GiantNuclearReactor.description>
+</LanguageData>

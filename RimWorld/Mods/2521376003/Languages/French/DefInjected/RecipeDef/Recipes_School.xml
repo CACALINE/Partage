@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR children, school and learning.-->
+  <DoingNothingAtSchool.label>Aucune leçon !</DoingNothingAtSchool.label>
+  <DoingNothingAtSchool.description>Aucune leçon !</DoingNothingAtSchool.description>
+  <DoingNothingAtSchool.jobString>Aucune leçon !</DoingNothingAtSchool.jobString>
+  
+  <TeachAtSchoolGeneral.label>enseigner à l'école (apprentissage assisté)</TeachAtSchoolGeneral.label>
+  <TeachAtSchoolGeneral.description>Accélérer l'apprentissage par l'enseignement (toutes les matières, mais coup de pouce limité aux étudiants).</TeachAtSchoolGeneral.description>
+  <TeachAtSchoolGeneral.jobString>Enseignement à l'école. (Apprentissage assisté)</TeachAtSchoolGeneral.jobString>
+  
+  <LearnAtSchoolResearching.label>apprendre à faire des recherches à l'école</LearnAtSchoolResearching.label>
+  <LearnAtSchoolResearching.description>Améliorer et définir les compétences par l'apprentissage (pour les personnes de moins de 16 ans).</LearnAtSchoolResearching.description>
+  <LearnAtSchoolResearching.jobString>Apprendre à faire des recherches à l'école.</LearnAtSchoolResearching.jobString>
+
+  <TeachAtSchoolResearching.label>enseigner la recherche à l'école</TeachAtSchoolResearching.label>
+  <TeachAtSchoolResearching.description>Accélérer l'apprentissage par l'enseignement.</TeachAtSchoolResearching.description>
+  <TeachAtSchoolResearching.jobString>Enseigner la recherche à l'école.</TeachAtSchoolResearching.jobString>
+  
+  <LearnAtSchoolSocial.label>apprendre des compétences sociales à l'école</LearnAtSchoolSocial.label>
+  <LearnAtSchoolSocial.description>Améliorer et définir les compétences par l'apprentissage (pour les personnes de moins de 16 ans).</LearnAtSchoolSocial.description>
+  <LearnAtSchoolSocial.jobString>Apprendre les compétences sociales à l'école.</LearnAtSchoolSocial.jobString>
+
+  <TeachAtSchoolSocial.label>enseigner les compétences sociales à l'école</TeachAtSchoolSocial.label>
+  <TeachAtSchoolSocial.description>Accélérer l'apprentissage par l'enseignement.</TeachAtSchoolSocial.description>
+  <TeachAtSchoolSocial.jobString>Enseigner les compétences sociales à l'école.</TeachAtSchoolSocial.jobString>
+  
+  <LearnAtSchoolMelee.label>apprendre le combat à l'école</LearnAtSchoolMelee.label>
+  <LearnAtSchoolMelee.description>Améliorer et définir les compétences par l'apprentissage (pour les personnes de moins de 16 ans).</LearnAtSchoolMelee.description>
+  <LearnAtSchoolMelee.jobString>Apprendre le combat à l'école.</LearnAtSchoolMelee.jobString>
+  
+  <TeachAtSchoolMelee.label>enseigner le combat à l'école</TeachAtSchoolMelee.label>
+  <TeachAtSchoolMelee.description>Accélérer l'apprentissage par l'enseignement.</TeachAtSchoolMelee.description>
+  <TeachAtSchoolMelee.jobString>Enseigner le combat à l'école.</TeachAtSchoolMelee.jobString>
+  
+  <LearnAtSchoolShooting.label>apprendre à tirer à l'école</LearnAtSchoolShooting.label>
+  <LearnAtSchoolShooting.description>Améliorer et définir les compétences par l'apprentissage (pour les personnes de moins de 16 ans).</LearnAtSchoolShooting.description>
+  <LearnAtSchoolShooting.jobString>Apprendre à tirer à l'école.</LearnAtSchoolShooting.jobString>
+  
+  <TeachAtSchoolShooting.label>enseigner le tir à l'école</TeachAtSchoolShooting.label>
+  <TeachAtSchoolShooting.description>Accélérer l'apprentissage par l'enseignement.</TeachAtSchoolShooting.description>
+  <TeachAtSchoolShooting.jobString>Enseigner le tir à l'école.</TeachAtSchoolShooting.jobString>
+  
+  <LearnAtSchoolAnimals.label>apprendre à dresser les animaux à l'école</LearnAtSchoolAnimals.label>
+  <LearnAtSchoolAnimals.description>Améliorer et définir les compétences par l'apprentissage (pour les personnes de moins de 16 ans).</LearnAtSchoolAnimals.description>
+  <LearnAtSchoolAnimals.jobString>Apprendre à dresser les animaux à l'école.</LearnAtSchoolAnimals.jobString>
+  
+  <TeachAtSchoolAnimals.label>enseigner à dresser des animaux à l'école</TeachAtSchoolAnimals.label>
+  <TeachAtSchoolAnimals.description>Accélérer l'apprentissage par l'enseignement.</TeachAtSchoolAnimals.description>
+  <TeachAtSchoolAnimals.jobString>Enseigner à dresser des animaux à l'école.</TeachAtSchoolAnimals.jobString>
+  
+  <LearnAtSchoolArtistic.label>apprendre l'art à l'école</LearnAtSchoolArtistic.label>
+  <LearnAtSchoolArtistic.description>Améliorer et définir les compétences par l'apprentissage (pour les personnes de moins de 16 ans).</LearnAtSchoolArtistic.description>
+  <LearnAtSchoolArtistic.jobString>Apprendre l'art à l'école.</LearnAtSchoolArtistic.jobString>
+  
+  <TeachAtSchoolArtistic.label>enseigner l'art à l'école</TeachAtSchoolArtistic.label>
+  <TeachAtSchoolArtistic.description>Accélérer l'apprentissage par l'enseignement.</TeachAtSchoolArtistic.description>
+  <TeachAtSchoolArtistic.jobString>Enseigner l'art à l'école.</TeachAtSchoolArtistic.jobString>
+  
+  <LearnAtSchoolCooking.label>apprendre la cuisine à l'école</LearnAtSchoolCooking.label>
+  <LearnAtSchoolCooking.description>Améliorer et définir les compétences par l'apprentissage (pour les personnes de moins de 16 ans).</LearnAtSchoolCooking.description>
+  <LearnAtSchoolCooking.jobString>Apprendre la cuisine à l'école.</LearnAtSchoolCooking.jobString>
+  
+  <TeachAtSchoolCooking.label>enseigner la cuisine à l'école</TeachAtSchoolCooking.label>
+  <TeachAtSchoolCooking.description>Accélérer l'apprentissage par l'enseignement.</TeachAtSchoolCooking.description>
+  <TeachAtSchoolCooking.jobString>J'enseigne la cuisine à l'école.</TeachAtSchoolCooking.jobString>
+  
+  <LearnAtSchoolMedicine.label>apprendre la médecine à l'école</LearnAtSchoolMedicine.label>
+  <LearnAtSchoolMedicine.description>Améliorer et définir les compétences par l'apprentissage (pour les personnes de moins de 16 ans).</LearnAtSchoolMedicine.description>
+  <LearnAtSchoolMedicine.jobString>Apprendre la médecine à l'école.</LearnAtSchoolMedicine.jobString>
+  
+  <TeachAtSchoolMedicine.label>enseigner la médecine à l'école</TeachAtSchoolMedicine.label>
+  <TeachAtSchoolMedicine.description>Accélérer l'apprentissage par l'enseignement.</TeachAtSchoolMedicine.description>
+  <TeachAtSchoolMedicine.jobString>Enseigner la médecine à l'école.</TeachAtSchoolMedicine.jobString>
+  
+  <LearnAtSchoolMining.label>apprendre l'exploitation minière à l'école</LearnAtSchoolMining.label>
+  <LearnAtSchoolMining.description>Améliorer et définir les compétences par l'apprentissage (pour les personnes de moins de 16 ans).</LearnAtSchoolMining.description>
+  <LearnAtSchoolMining.jobString>Apprendre l'exploitation minière à l'école.</LearnAtSchoolMining.jobString>
+  
+  <TeachAtSchoolMining.label>enseigner l'exploitation minière à l'école</TeachAtSchoolMining.label>
+  <TeachAtSchoolMining.description>Accélérer l'apprentissage par l'enseignement.</TeachAtSchoolMining.description>
+  <TeachAtSchoolMining.jobString>Enseigner l'exploitation minière à l'école.</TeachAtSchoolMining.jobString>
+  
+  <LearnAtSchoolConstruction.label>apprendre la construction à l'école</LearnAtSchoolConstruction.label>
+  <LearnAtSchoolConstruction.description>Améliorer et définir les compétences par l'apprentissage (pour les personnes de moins de 16 ans).</LearnAtSchoolConstruction.description>
+  <LearnAtSchoolConstruction.jobString>Apprendre la construction à l'école.</LearnAtSchoolConstruction.jobString>
+  
+  <TeachAtSchoolConstruction.label>enseigner la construction à l'école</TeachAtSchoolConstruction.label>
+  <TeachAtSchoolConstruction.description>Accélérer l'apprentissage par l'enseignement.</TeachAtSchoolConstruction.description>
+  <TeachAtSchoolConstruction.jobString>Enseigner la construction à l'école.</TeachAtSchoolConstruction.jobString>
+  
+  <LearnAtSchoolTailoring.label>apprendre la couture à l'école</LearnAtSchoolTailoring.label>
+  <LearnAtSchoolTailoring.description>Améliorer et définir les compétences par l'apprentissage (pour les personnes de moins de 16 ans).</LearnAtSchoolTailoring.description>
+  <LearnAtSchoolTailoring.jobString>Apprendre la couture à l'école.</LearnAtSchoolTailoring.jobString>
+  
+  <TeachAtSchoolTailoring.label>enseigner la couture à l'école</TeachAtSchoolTailoring.label>
+  <TeachAtSchoolTailoring.description>Accélérer l'apprentissage par l'enseignement.</TeachAtSchoolTailoring.description>
+  <TeachAtSchoolTailoring.jobString>Enseigner la couture à l'école.</TeachAtSchoolTailoring.jobString>
+  
+  <LearnAtSchoolCrafting.label>apprendre l'artisanat à l'école</LearnAtSchoolCrafting.label>
+  <LearnAtSchoolCrafting.description>Améliorer et définir les compétences par l'apprentissage (pour les personnes de moins de 16 ans).</LearnAtSchoolCrafting.description>
+  <LearnAtSchoolCrafting.jobString>Apprendre l'artisanat à l'école.</LearnAtSchoolCrafting.jobString>
+  
+  <TeachAtSchoolCrafting.label>enseigner l'artisanat à l'école</TeachAtSchoolCrafting.label>
+  <TeachAtSchoolCrafting.description>Accélérer l'apprentissage par l'enseignement.</TeachAtSchoolCrafting.description>
+  <TeachAtSchoolCrafting.jobString>Enseigner l'artisanat à l'école.</TeachAtSchoolCrafting.jobString>
+  
+  <LearnAtSchoolGrowing.label>apprendre la botanique à l'école</LearnAtSchoolGrowing.label>
+  <LearnAtSchoolGrowing.description>Améliorer et définir les compétences par l'apprentissage (pour les personnes de moins de 16 ans).</LearnAtSchoolGrowing.description>
+  <LearnAtSchoolGrowing.jobString>Apprendre la botanique à l'école.</LearnAtSchoolGrowing.jobString>
+  
+  <TeachAtSchoolGrowing.label>enseigner la botanique à l'école</TeachAtSchoolGrowing.label>
+  <TeachAtSchoolGrowing.description>Accélérer l'apprentissage par l'enseignement.</TeachAtSchoolGrowing.description>
+  <TeachAtSchoolGrowing.jobString>Enseigner la botanique à l'école.</TeachAtSchoolGrowing.jobString>
+</LanguageData>

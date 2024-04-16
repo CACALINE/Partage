@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<QRY_Quarry>Quarry </QRY_Quarry>
+<QRY_SettingsDepletionPercent>Nombre d'extractions minières</QRY_SettingsDepletionPercent>
+<QRY_SettingsJunkChance>Chance d'échec (+ gravats) : &lt;b&gt;&lt;color=orange&gt;{0}%&lt;/color&gt;&lt;/b&gt;</QRY_SettingsJunkChance>
+<QRY_SettingsResourceModifier>Modificateur de ressource : &lt;b&gt;&lt;color=orange&gt;{0}%&lt;/color&gt;&lt;/b&gt;</QRY_SettingsResourceModifier>
+<QRY_SettingsChunkChance>Chance de gravats : &lt;b&gt;&lt;color=orange&gt;{0}%&lt;/color&gt;&lt;/b&gt;</QRY_SettingsChunkChance>
+<QRY_DepletionLabel> La carrière est épuisée après &lt;b&gt;&lt;color=orange&gt;{0}&lt;/color&gt;&lt;/b&gt; extractions minières</QRY_DepletionLabel>
+<QRY_DictionaryLabel>Ressource exploitable et chance</QRY_DictionaryLabel>
+
+<QRY_TooltipLetter>Indiquer si la lettre de remise en état des sols a déjà été envoyée ou non. Si désactivé, la lettre sera envoyée lors de la première démolition d'une carrière.</QRY_TooltipLetter>
+<QRY_TooltipJunkChance>La chance d’obtenir un échec quand un colon mine dans la carrière.\n\nSi vous exploiter votre carrière en mode ressources, la chance de gravats et prise en compte pour obtenir un gravats au lieu d’un échec.</QRY_TooltipJunkChance>
+<QRY_TooltipResourceModifier>Modificateur appliqué aux ressources exploitées.</QRY_TooltipResourceModifier>
+<QRY_TooltipChunkChance>Chance d'obtenir un gravats. Si le minage échoue, cela devient la chance d'obtenir des gravats au lieu d’un échec.\n\nSi vous exploiter votre carrière en mode blocs, la chance de gravats détermine si une quantité suffisante de pierres a été extraite pour fabriquer des blocs.</QRY_TooltipChunkChance>
+
+<QRY_SettingsMineTimeBase>Tics de minage de base</QRY_SettingsMineTimeBase>
+<QRY_SettingsMineTimeVar>Tics de variation max.</QRY_SettingsMineTimeVar>
+<QRY_ToolTipTicksAverage>Temps de base (en ticks) par action de minage.</QRY_ToolTipTicksAverage>
+<QRY_ToolTipTicksVariance>Plus ce chiffre est élevé, plus la compétence de minage d'un colon a d'effet sur le temps nécessaire pour miner.</QRY_ToolTipTicksVariance>
+
+<QRY_LabelHaulMode>Transporter</QRY_LabelHaulMode>
+<QRY_Haul>Transporte les ressources minées vers une plate-forme de carrière liée.</QRY_Haul>
+<QRY_NotHaul>Ignore le transport des ressources minées.</QRY_NotHaul>
+<QRY_RockTypesAvailable>Roche exploitable </QRY_RockTypesAvailable>
+
+<QRY_LabelMineResources>Ressources</QRY_LabelMineResources>
+<QRY_DescriptionMineResources>Indique à vos colons d’extraire des ressources. Cliquer pour miner des blocs ou des gravats.</QRY_DescriptionMineResources>
+
+<QRY_LabelMineBlocks>Blocs</QRY_LabelMineBlocks>
+<QRY_DescriptionMineBlocks>Indique à vos colons d’extraire des blocs. Cliquer pour miner des ressources ou des gravats.</QRY_DescriptionMineBlocks>
+
+<QRY_LabelMineChunks>Gravats</QRY_LabelMineChunks>
+<QRY_DescriptionMineChunks>Indique à vos colons d’extraire des gravats. Cliquer pour miner des ressources ou des blocs.</QRY_DescriptionMineChunks>
+
+<QRY_ReportNotEnoughStone>La carrière doit être construite sur une zone de pierre brute.</QRY_ReportNotEnoughStone>
+<QRY_InspectQuarryPercent>Durabilité de la carrière </QRY_InspectQuarryPercent>
+<QRY_CommandBedSetOwnerLabel>Définir le propriétaire</QRY_CommandBedSetOwnerLabel>
+<QRY_CommandSetOwnerDesc>Assigner cette carrière pour qu'elle soit exploitée que par certains colons.</QRY_CommandSetOwnerDesc>
+<QRY_ReportGizmoLackingResearch>Nécessite la recherche Taille de la pierre.</QRY_ReportGizmoLackingResearch>
+
+<QRY_TextMote_LargeVein>Grand filon !</QRY_TextMote_LargeVein>
+<QRY_TextMote_MiningFailed>Échec...</QRY_TextMote_MiningFailed>
+
+<QRY_LetterSentQuery>Lettre de remise en état des sols envoyée</QRY_LetterSentQuery>
+<QRY_LetterLabel>Récupérer le sol</QRY_LetterLabel>
+<QRY_LetterText>Une fois la carrière démolie, vous pouvez désigner des colons pour recouvrir l'ancien terrain de terre afin d'obtenir un terrain utilisable là où se trouvait la carrière. Utiliser la commande Récupérer le sol pour désigner une zone à récupérer.</QRY_LetterText>
+<QRY_LabelReclaimSoil>Récupérer le sol</QRY_LabelReclaimSoil>
+<QRY_DescriptionReclaimSoil>Transformer un terrain de pierre meuble provenant d'une carrière en un terrain de terre utilisable.</QRY_DescriptionReclaimSoil>
+<QRY_MessageMustDesignateQuarriedGround>Doit désigner un sol de carrière.</QRY_MessageMustDesignateQuarriedGround>
+
+<QRY_AllowRottable>Autoriser périssable</QRY_AllowRottable>
+<QRY_TooltipAllowRottable>Permet d'ajouter des éléments périssables à la liste des carrières.</QRY_TooltipAllowRottable>
+
+<QRY_SettingsReclaimedSoilFertility>Fertilité des sols récupérés</QRY_SettingsReclaimedSoilFertility>
+<QRY_ToolTipReclaimedSoilFertility>Permet de contrôler la fertilité des sols récupérés.</QRY_ToolTipReclaimedSoilFertility>
+<QRY_TooltipReclaimedSoilFertility>Permet de contrôler la fertilité des sols récupérés.</QRY_TooltipReclaimedSoilFertility>  <!-- Manque la Maj à tip (QRY_ToolTipReclaimedSoilFertility) Présent pour supprimer l'erreur. -->
+
+<QRY_PlaceAnywhere>Placer n'importe où</QRY_PlaceAnywhere>
+<QRY_TooltipPlaceAnywhere>Permet de placer les carrières sans tenir compte des ressources exploitables.</QRY_TooltipPlaceAnywhere>
+
+<QRY_LabelAddThing>Ajouter à la liste</QRY_LabelAddThing>
+<QRY_LabelRemoveThing>Retirer de la liste</QRY_LabelRemoveThing>
+<QRY_LabelResetList>Réinitialiser la liste</QRY_LabelResetList>
+<QRY_RestrictedTo>Réservé à </QRY_RestrictedTo>
+
+<QRY_MessageSinkhole>Les éboulements dans la carrière ont blessé {0}.</QRY_MessageSinkhole>
+
+
+</LanguageData>

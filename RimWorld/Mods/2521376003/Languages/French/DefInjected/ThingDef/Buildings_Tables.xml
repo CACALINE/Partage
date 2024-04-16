@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+<!-- interactive table (1x1) -->
+<Table_interactive_1x1c.label>table interactive (1x1)</Table_interactive_1x1c.label>
+<!-- A table for eating off of with interactive display for watching shows, playing games or taking notes on whilst eating. Fulfills recreation need when a pawn eats at this table and the table is powered. -->
+<Table_interactive_1x1c.description>Une table à manger avec un écran numérique pour regarder des émissions, jouer à des jeux ou prendre des notes en mangeant. Répond au besoin de loisirs lorsqu'un colon mange à cette table.</Table_interactive_1x1c.description>
+
+<!-- interactive table (2x2) -->
+<Table_interactive_2x2c.label>table interactive (2x2)</Table_interactive_2x2c.label>
+<!-- A table for eating off of with interactive display for watching shows, playing games or taking notes on whilst eating. Fulfills recreation need when a pawn eats at this table and the table is powered. -->
+<Table_interactive_2x2c.description>Une table à manger avec un écran numérique pour regarder des émissions, jouer à des jeux ou prendre des notes en mangeant. Répond au besoin de loisirs lorsqu'un colon mange à cette table.</Table_interactive_2x2c.description>
+
+
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+  <!-- EN: lightning rod -->
+  <VPE_LightningRod.label>paratonnerre</VPE_LightningRod.label>
+  <!-- EN: An advanced technology allows this device to harness the power of lightning and place it as a ready-to-use charge in the batteries. -->
+  <VPE_LightningRod.description>Une technologie avancée permet à cet appareil d'exploiter la puissance du faisceau et de le transformer en une charge prête à l'emploi sur batteries.</VPE_LightningRod.description>
+
+
+</LanguageData>

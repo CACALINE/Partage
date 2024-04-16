@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR vanilla events expanded.-->
+<!--<Morceau de vaisseau spatial-->
+
+  <VEE_ShipChunkHuman.label>morceau de vaisseau spatial</VEE_ShipChunkHuman.label>
+  <VEE_ShipChunkHuman.description>Un morceau d'un vaisseau spatial. Peut être déconstruit pour produire des ressources utiles.</VEE_ShipChunkHuman.description>
+  
+  <!--<Morceau de navette-->
+
+  <VEE_Shuttle.label>morceau de navette</VEE_Shuttle.label>
+  <VEE_Shuttle.description>Un morceau de navette. Peut être déconstruit pour produire des ressources utiles.</VEE_Shuttle.description>
+  
+    <!--<Morceau de navette (entrant)-->
+
+  <ShuttleChunkIncoming.label>morceau de navette (entrant)</ShuttleChunkIncoming.label>
+  
+      <!--<Scories (entrantes)-->
+
+  <SlagIncoming.label>scories (entrantes)</SlagIncoming.label>
+
+</LanguageData>

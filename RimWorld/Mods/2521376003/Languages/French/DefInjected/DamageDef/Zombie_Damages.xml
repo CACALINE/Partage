@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR zombieland.-->
+  <ZombieBite.label>morsure de zombie</ZombieBite.label>
+  <ZombieBite.deathMessage>{0} a été mordu à mort par un zombie.</ZombieBite.deathMessage>
+
+  <SuicideBomb.label>bombe suicide</SuicideBomb.label>
+  <SuicideBomb.deathMessage>{0} est mort par une attaque bombe suicide d'un zombie.</SuicideBomb.deathMessage>
+
+  <ToxicSplatter.label>projection de venin</ToxicSplatter.label>
+  
+  <ElectricalShock.label>choc électrique</ElectricalShock.label>
+  <ElectricalShock.deathMessage>{0} est mort par un choc électrique d'un zombie.</ElectricalShock.deathMessage>
+
+
+</LanguageData>

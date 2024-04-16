@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR vanilla apparel expanded.-->
+  <!-- Scarf -->
+
+  <VAE_Headgear_Scarf.label>Écharpe</VAE_Headgear_Scarf.label>
+  <VAE_Headgear_Scarf.description>Un morceau de tissu chaud et long protégeant le cou de l’exposition au froid.</VAE_Headgear_Scarf.description>
+
+
+  <!-- Beret -->
+
+  <VAE_Headgear_Beret.label>Béret</VAE_Headgear_Beret.label>
+  <VAE_Headgear_Beret.description>Un béret doux. Souvent porté par les militaires comme un symbole de vaillance.</VAE_Headgear_Beret.description>
+
+
+  <!-- Hardhat -->
+
+  <VAE_Headgear_Hardhat.label>Casque de protection</VAE_Headgear_Hardhat.label>
+  <VAE_Headgear_Hardhat.description>Un type de casque principalement utilisé dans un environnement de travail. Il offre une protection élevée contre les traumatismes contondants.</VAE_Headgear_Hardhat.description>
+
+
+  <!-- Surgical Mask -->
+
+  <VAE_Headgear_SurgicalMask.label>Masque sanitaire</VAE_Headgear_SurgicalMask.label>
+  <VAE_Headgear_SurgicalMask.description>Masque sanitaire porté par les chirurgiens, les infirmières et les autres travailleurs qui s’occupent des soins aux patients.</VAE_Headgear_SurgicalMask.description>
+
+
+  <!-- Gas Mask -->
+
+  <VAE_Headgear_GasMask.label>Masque à gaz</VAE_Headgear_GasMask.label>
+  <VAE_Headgear_GasMask.description>Un masque d’isolement intégral avec des systèmes de filtration d’air de base, offrant un certain degré d’immunité toxique.</VAE_Headgear_GasMask.description>
+
+
+  <!-- Baseball Cap -->
+
+  <VAE_Headgear_BaseballCap.label>Casquette de baseball</VAE_Headgear_BaseballCap.label>
+  <VAE_Headgear_BaseballCap.description>Un type de capuchon souple avec une couronne arrondie et un pic rigide protégeant l’avant.</VAE_Headgear_BaseballCap.description>
+
+
+  <!-- Sunglasses -->
+
+  <VAE_Headgear_Sunglasses.label>Lunettes de soleil</VAE_Headgear_Sunglasses.label>
+  <VAE_Headgear_Sunglasses.description>Une paire de lunettes de soleil protégeant le porteur des rayons UV dangereux. Souvent considéré comme 'cool'.</VAE_Headgear_Sunglasses.description>
+
+
+  <!-- Glasses -->
+
+  <VAE_Headgear_Glasses.label>Lunettes de vue</VAE_Headgear_Glasses.label>
+  <VAE_Headgear_Glasses.description>Une paire de lunettes correctrices, offrant aux utilisateurs un certain degré d’immunité psychique.</VAE_Headgear_Glasses.description>
+
+
+  <!-- Chefs Toque -->
+
+  <VAE_Headgear_ChefsToque.label>Toque de chef</VAE_Headgear_ChefsToque.label>
+  <VAE_Headgear_ChefsToque.description>Un grand chapeau plissé par les chefs.</VAE_Headgear_ChefsToque.description>
+
+</LanguageData>

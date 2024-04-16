@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+
+	<!-- cryptosleep sickness (minor) -->
+	<Minor_CryptoSickness.label>maladie de crypto-sommeil (légère)</Minor_CryptoSickness.label>
+	<!-- minor cryptosleep sickness -->
+	<Minor_CryptoSickness.description>petit inconfort causé par la maladie de crypto-sommeil.</Minor_CryptoSickness.description>
+
+
+</LanguageData>

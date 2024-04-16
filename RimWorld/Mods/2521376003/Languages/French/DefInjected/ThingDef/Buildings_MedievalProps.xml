@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+<!-- EN: anvil -->
+<VFEPD_Anvil.label>enclume</VFEPD_Anvil.label>
+<!-- EN: A heavy forge anvil. -->
+<VFEPD_Anvil.description>Une enclume de forge lourde.</VFEPD_Anvil.description>
+
+<!-- EN: empty armor stand -->
+<VFEPD_ArmorStandEmpty.label>support d'armure vide</VFEPD_ArmorStandEmpty.label>
+<!-- EN: An armor stand. There is currently no armor mounted on it. -->
+<VFEPD_ArmorStandEmpty.description>Un support d'armure. Il n'y a actuellement aucune armure montée dessus.</VFEPD_ArmorStandEmpty.description>
+
+<!-- EN: full armor stand -->
+<VFEPD_ArmorStandFull.label>support d'armure utilisé</VFEPD_ArmorStandFull.label>
+<!-- EN: An armor stand. There is a suit of plate armor mounted on it. -->
+<VFEPD_ArmorStandFull.description>Un support d'armure. Il y a une armure de plaque montée dessus.</VFEPD_ArmorStandFull.description>
+
+<!-- EN: arrow cage -->
+<VFEPD_ArrowCage.label>cage à flèche</VFEPD_ArrowCage.label>
+<!-- EN: A small cage with arrows -->
+<VFEPD_ArrowCage.description>Une petite cage avec des flèches</VFEPD_ArrowCage.description>
+
+<!-- EN: banner -->
+<VFEPD_Banner.label>bannière</VFEPD_Banner.label>
+<!-- EN: A decorative banner hanging from a vertical wooden frame. -->
+<VFEPD_Banner.description>Une bannière décorative suspendue à un cadre en bois vertical.</VFEPD_Banner.description>
+
+<!-- EN: empty brazier -->
+<VFEPD_BrazierEmpty.label>brasier vide</VFEPD_BrazierEmpty.label>
+<!-- EN: A bowl-shaped furnishing used to hold a fire. -->
+<VFEPD_BrazierEmpty.description>Un meuble en forme de bol utilisé pour entretenir le feu.</VFEPD_BrazierEmpty.description>
+<!-- EN: empty brazier (blueprint) -->
+<Blueprint_VFEPD_BrazierEmpty.label>brasier vide (plan)</Blueprint_VFEPD_BrazierEmpty.label>
+<!-- EN: empty brazier (blueprint) -->
+<Blueprint_Install_VFEPD_BrazierEmpty.label>brasier vide (installation)</Blueprint_Install_VFEPD_BrazierEmpty.label>
+<!-- EN: empty brazier (building) -->
+<Frame_VFEPD_BrazierEmpty.label>brasier vide (construction)</Frame_VFEPD_BrazierEmpty.label>
+<!-- EN: A bowl-shaped furnishing used to hold a fire. -->
+<Frame_VFEPD_BrazierEmpty.description>Un meuble en forme de bol utilisé pour entretenir le feu.</Frame_VFEPD_BrazierEmpty.description>
+
+<!-- EN: empty bucket -->
+<VFEPD_BucketEmpty.label>seau vide</VFEPD_BucketEmpty.label>
+<!-- EN: A wooden bucket. -->
+<VFEPD_BucketEmpty.description>Un seau en bois.</VFEPD_BucketEmpty.description>
+
+<!-- EN: water bucket -->
+<VFEPD_BucketwithWater.label>seau d'eau</VFEPD_BucketwithWater.label>
+<!-- EN: A wooden bucket filled with water. -->
+<VFEPD_BucketwithWater.description>Un seau en bois rempli d'eau.</VFEPD_BucketwithWater.description>
+
+<!-- EN: cage brazier -->
+<VFEPD_CageBrazier.label>cage de brasier</VFEPD_CageBrazier.label>
+<!-- EN: A metal cage shaped empty brazier. -->
+<VFEPD_CageBrazier.description>Une cage métallique en forme de brasier vide.</VFEPD_CageBrazier.description>
+<!-- EN: cage brazier (blueprint) -->
+<Blueprint_VFEPD_CageBrazier.label>cage à brasier (plan)</Blueprint_VFEPD_CageBrazier.label>
+<!-- EN: cage brazier (building) -->
+<Frame_VFEPD_CageBrazier.label>cage à brasier (construction)</Frame_VFEPD_CageBrazier.label>
+<!-- EN: A metal cage shaped empty brazier. -->
+<Frame_VFEPD_CageBrazier.description>Une cage métallique en forme de brasier vide.</Frame_VFEPD_CageBrazier.description>
+
+<!-- EN: wooden chest -->
+<VFEPD_WoodenChest.label>El cofre de madera</VFEPD_WoodenChest.label>
+<!-- EN: A medium size wooden chest. -->
+<VFEPD_WoodenChest.description>Un cofre de madera mediano.</VFEPD_WoodenChest.description>
+
+<!-- EN: large wooden chest -->
+<VFEPD_WoodenChestLarge.label>grand coffre en bois</VFEPD_WoodenChestLarge.label>
+<!-- EN: A large size wooden chest. -->
+<VFEPD_WoodenChestLarge.description>Un grand coffre en bois.</VFEPD_WoodenChestLarge.description>
+
+<!-- EN: empty weapon rack -->
+<VFEPD_WeaponRackEmpty.label>support d'armes</VFEPD_WeaponRackEmpty.label>
+<!-- EN: A long weapon rack. There aren't any weapons on it at the moment. -->
+<VFEPD_WeaponRackEmpty.description>Un support d'armes. Il n'y a pas d'armes dessus pour le moment.</VFEPD_WeaponRackEmpty.description>
+
+<!-- EN: sword weapon rack -->
+<VFEPD_WeaponRackSwords.label>support pour épées</VFEPD_WeaponRackSwords.label>
+<!-- EN: A long weapon rack. There is a selection of swords mounted on it. -->
+<VFEPD_WeaponRackSwords.description>Un support d'armes. Il y a une sélection d'épées montées dessus.</VFEPD_WeaponRackSwords.description>
+
+<!-- EN: spears weapon rack -->
+<VFEPD_WeaponRackSpears.label>support pour lances</VFEPD_WeaponRackSpears.label>
+<!-- EN: A long weapon rack. There is a selection of spears mounted on it. -->
+<VFEPD_WeaponRackSpears.description>Un support d'armes. Il y a une sélection de lances montées dessus.</VFEPD_WeaponRackSpears.description>
+
+<!-- EN: wooden sign -->
+<VFEPD_WoodenSign.label>panneau en bois</VFEPD_WoodenSign.label>
+<!-- EN: A tall post with signs pointing in different directions. -->
+<VFEPD_WoodenSign.description>Un grand poteau avec des signes pointant dans des directions différentes.</VFEPD_WoodenSign.description>
+
+<!-- EN: tanning rack -->
+<VFEPD_TanningRack.label>support de tannage</VFEPD_TanningRack.label>
+<!-- EN: A tanning rack with a pelt mounted on it. -->
+<VFEPD_TanningRack.description>Un support de tannage avec une peau montée dessus.</VFEPD_TanningRack.description>
+
+<!-- EN: wooden platform -->
+<VFEPD_WoodenPlatform.label>plateforme en bois</VFEPD_WoodenPlatform.label>
+<!-- EN: A wooden platform to walk on. -->
+<VFEPD_WoodenPlatform.description>Une plateforme en bois pour marcher.</VFEPD_WoodenPlatform.description>
+
+<!-- EN: cage platform -->
+<VFEPD_CagePlatform.label>plate-forme de cage</VFEPD_CagePlatform.label>
+<!-- EN: A cage platform to walk on. -->
+<VFEPD_CagePlatform.description>Une plate-forme de cage pour marcher.</VFEPD_CagePlatform.description>
+
+
+</LanguageData>

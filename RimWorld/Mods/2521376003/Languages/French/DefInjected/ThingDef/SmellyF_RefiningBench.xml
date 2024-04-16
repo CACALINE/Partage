@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<!--Traduction FR Nuclear Energy-->
+	<DoBillsUraniumRefinery.label>Travailler dans une raffinerie d'uranium</DoBillsUraniumRefinery.label>
+	<DoBillsUraniumRefinery.verb>raffiner l'uranium</DoBillsUraniumRefinery.verb>
+	<DoBillsUraniumRefinery.gerund>raffinage de l'uranium à</DoBillsUraniumRefinery.gerund>
+	
+	<UraniumRefinery.label>Station d'enrichissement et de raffinage de l'uranium</UraniumRefinery.label>
+	<UraniumRefinery.description>Le processus d'enrichissement et de raffinage de l'uranium est nécessaire pour pouvoir l'utiliser pleinement comme combustible nucléaire pour vos réacteurs.</UraniumRefinery.description>
+</LanguageData>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR vanilla events expanded.-->
+<!--<L'ère glacière-->
+
+  <VEE_IceAge.label>ère glacière</VEE_IceAge.label>
+  <VEE_IceAge.letterLabel>L'ère glacière</VEE_IceAge.letterLabel>
+  <VEE_IceAge.letterText>La composition atmosphérique de la planète a radicalement changé, entraînant une baisse significative de la température.
+  
+La flore et la faune souffrent de ces changements, les biomes devenant plus froids. Les ressources se raréfient, forçant les factions à entrer en conflit.
+
+Il peut durer d'une saison à plusieurs années. (Les changements visuels n'apparaîtront que lors de la sauvegarde/du rechargement de la sauvegarde en cours).</VEE_IceAge.letterText>
+
+<!--<Réchauffement climatique-->
+
+  <VEE_GlobalWarming.label>réchauffement climatique</VEE_GlobalWarming.label>
+  <VEE_GlobalWarming.letterLabel>Réchauffement climatique</VEE_GlobalWarming.letterLabel>
+  <VEE_GlobalWarming.letterText>Les températures mondiales ont soudainement atteint des niveaux dangereux.
+  
+La flore et la faune souffrent de ces changements, car les biomes se transforment en leurs homologues plus chauds. Les ressources se raréfient, forçant les factions à entrer en conflit.
+
+Il peut durer d'une saison à plusieurs années. (Les changements visuels n'apparaîtront que lors de la sauvegarde/du rechargement de la sauvegarde en cours).</VEE_GlobalWarming.letterText>
+
+<!--<La pluie psychique-->
+
+  <VEE_PsychicRain.label>la pluie psychique</VEE_PsychicRain.label>
+  <VEE_PsychicRain.letterLabel>La pluie psychique</VEE_PsychicRain.letterLabel>
+  <VEE_PsychicRain.letterText>Une dangereuse entité psychique a provoqué des perturbations à des niveaux subatomiques, résonnant à travers toutes les particules de l'atmosphère.
+  
+Une pluie surnaturelle apparemment sans fin a commencé, altérant la composition même du temps. Toute personne ou créature qui n'est pas sous le toit vieillira significativement plus vite.
+
+Il peut durer d'une saison à plusieurs années. (Les changements visuels n'apparaîtront que lors de la sauvegarde/du rechargement de la sauvegarde en cours).</VEE_PsychicRain.letterText>
+
+<!--<Longue nuit-->
+
+  <VEE_LongNight.label>longue nuit</VEE_LongNight.label>
+  <VEE_LongNight.letterLabel>Longue nuit</VEE_LongNight.letterLabel>
+  <VEE_LongNight.letterText>Une entité spatiale d'une taille inimaginable a recouvert une étoile locale, provoquant une éclipse de longue durée.
+  
+Terrifiées par ce phénomène surnaturel, les autres factions profiteront de cette période pour mener des guerres et des conflits à la surface.
+
+Il peut durer d'une saison à plusieurs années. (Les changements visuels n'apparaîtront que lors de la sauvegarde/du rechargement de la sauvegarde en cours).</VEE_LongNight.letterText>
+
+<!--<Floraison psychique-->
+
+  <VEE_PsychicBloom.label>floraison psychique</VEE_PsychicBloom.label>
+  <VEE_PsychicBloom.letterLabel>Floraison psychique</VEE_PsychicBloom.letterLabel>
+  <VEE_PsychicBloom.letterText>Une forte impulsion psychique émise par une entité oubliée depuis longtemps a modifié la structure génétique de la flore locale. Tandis que le ciel se remplissait d'aurores boréales apparemment sans fin, des fleurs colorées ont commencé à pousser partout. 
+  
+Tous les colons bénéficieront d'une amélioration de l'humeur pendant la durée de l'événement. Les fleurs qui se répandent rapidement envahiront tout, y compris vos champs. 
+
+Il peut durer d'une saison à plusieurs années. (Les changements visuels n'apparaîtront que lors de la sauvegarde/du rechargement de la sauvegarde en cours).</VEE_PsychicBloom.letterText>
+
+<!--<Tempête de grêle-->
+
+  <VEE_HailStorm.label>tempête de grêle</VEE_HailStorm.label>
+  <VEE_HailStorm.letterLabel>Tempête de grêle</VEE_HailStorm.letterLabel>
+  <VEE_HailStorm.letterText>Une tempête de grêle à petite échelle ravage la région. Toute personne ou créature ne se cachant pas sous le toit risque d'être blessée par les granules de glace.</VEE_HailStorm.letterText>
+  
+  <!--<Pluie de météorites-->
+
+  <VEE_MeteoriteShower.label>pluie de météorites</VEE_MeteoriteShower.label>
+  <VEE_MeteoriteShower.letterLabel>Pluie de météorites</VEE_MeteoriteShower.letterLabel>
+  <VEE_MeteoriteShower.letterText>Plusieurs grosses météorites ont touché le sol dans la région. Elles ont laissé derrière elles de gros morceaux de ressources.</VEE_MeteoriteShower.letterText>
+  
+    <!--<Accident d'une nacelle de transport d'animaux-->
+
+  <VEE_AnimalPodCrash.label>accident d'une nacelle de transport d'animaux</VEE_AnimalPodCrash.label>
+  
+    <!--<Vagabond rejoint-->
+
+  <VEE_WandererJoinTraitor.label>vagabond rejoint</VEE_WandererJoinTraitor.label>
+  <VEE_WandererJoinTraitor.letterLabel>Le vagabond rejoint</VEE_WandererJoinTraitor.letterLabel>
+  <VEE_WandererJoinTraitor.letterText>Un {PAWN_kind} nommé {PAWN_nameDef} est arrivé et rejoint la colonie. {PAWN_pronoun} est un {PAWN_titre}. Il est prêt à contribuer, mais ne partira pas volontairement. Si vous ne voulez pas de {PAWN_pronon}, vous pouvez bannir {PAWN_objectif}, vendre {PAWN_objectif} comme esclave, ou simplement tuer {PAWN_objectif}. Cependant, vos autres colons peuvent trouver cela inquiétant.</VEE_WandererJoinTraitor.letterText>
+
+    <!--<Bataille spatiale-->
+
+  <VEE_SpaceBattle.label>bataille spatiale</VEE_SpaceBattle.label>
+  
+    <!--<Accident de navette-->
+
+  <VEE_ShuttleCrash.label>accident de navette</VEE_ShuttleCrash.label>
+  
+    <!--<Tremblement de terre-->
+
+  <VEE_Earthquake.label>tremblement de terre</VEE_Earthquake.label>
+  
+    <!--<Nacelles de cargaison (armes) -->
+
+  <VEE_Cargopodsweapons.label>nacelles de cargaison (armes)</VEE_Cargopodsweapons.label>
+  
+    <!--<Nacelles de cargaison (vêtements) -->
+
+  <VEE_Cargopodsapparel.label>nacelles de cargaison (vêtements)</VEE_Cargopodsapparel.label>
+  
+    <!--<Les animaux de la caravane errent  -->
+
+  <VEE_CaravanAnimalsWanderIn.label>les animaux de la caravane errent</VEE_CaravanAnimalsWanderIn.label>
+  
+    <!--<Germe de culture   -->
+
+  <VEE_CropSprout.label>germe de culture</VEE_CropSprout.label>
+  
+    <!--<Les animaux de combat errent   -->
+
+  <VEE_BattleAnimalsWanderIn.label>les animaux de combat errent</VEE_BattleAnimalsWanderIn.label>
+  
+    <!--<Sécheresse-->
+
+  <VEE_Drought.label>sécheresse</VEE_Drought.label>
+  <VEE_Drought.letterLabel>Sécheresse</VEE_Drought.letterLabel>
+  <VEE_Drought.letterText>Une sécheresse inhabituelle s'est installée.
+  
+La sécheresse est dévastatrice pour la vie végétale et empêchera rapidement toutes les cultures non plantées en hydroponie ou dans un sol très fertile.</VEE_Drought.letterText>
+
+    <!--<Des hommes sauvages errent    -->
+
+  <VEE_WildMenWanderIn.label>des hommes sauvages errent</VEE_WildMenWanderIn.label>
+  
+    <!--<Groupe de chasseurs   -->
+
+  <VEE_HuntingParty.label>groupe de chasseurs</VEE_HuntingParty.label>
+  
+</LanguageData>

@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Mods RimHUD de Jaxe.-->
+  <RimHUD.Theme.HudPosition>Position du HUD</RimHUD.Theme.HudPosition>
+  <RimHUD.Theme.HudDocked>Ancrer pour inspecter le panneau</RimHUD.Theme.HudDocked>
+  <RimHUD.Theme.HudDockedDesc>Nécessite la modification du panneau d'inspection, voir ci-dessous.</RimHUD.Theme.HudDockedDesc>
+  <RimHUD.Theme.HudAnchor>Ancre</RimHUD.Theme.HudAnchor>
+  <RimHUD.Theme.HudAnchors>Haut gauche|Haut centre|Haut droite|Centre gauche|Centre centre|Centre droite|Bas gauche|Bas centre|Bas droite</RimHUD.Theme.HudAnchors>
+  <RimHUD.Theme.HudOffsetX>X</RimHUD.Theme.HudOffsetX>
+  <RimHUD.Theme.HudOffsetY>Y</RimHUD.Theme.HudOffsetY>
+
+  <RimHUD.Theme.RefreshRate>Taux de rafraîchissement</RimHUD.Theme.RefreshRate>
+  <RimHUD.Theme.RefreshRateDesc>La fréquence à laquelle le HUD sera actualisé. Réglez-le plus haut si vous constatez une baisse de la fréquence d'images.</RimHUD.Theme.RefreshRateDesc>
+  <RimHUD.Theme.RefreshRateUnits>ms</RimHUD.Theme.RefreshRateUnits>
+
+  <RimHUD.Theme.HudDimensions>Dimensions du HUD</RimHUD.Theme.HudDimensions>
+  <RimHUD.Theme.HudWidth>Largeur</RimHUD.Theme.HudWidth>
+  <RimHUD.Theme.HudHeight>Hauteur</RimHUD.Theme.HudHeight>
+
+  <RimHUD.Theme.TextOptions>Options de texte</RimHUD.Theme.TextOptions>
+
+  <RimHUD.Theme.TextStyleRegular>Normal</RimHUD.Theme.TextStyleRegular>
+  <RimHUD.Theme.TextStyleLarge>Titre</RimHUD.Theme.TextStyleLarge>
+  <RimHUD.Theme.TextStyleSmall>Descriptif</RimHUD.Theme.TextStyleSmall>
+  <RimHUD.Theme.LabelWidth>Largeur de l'étiquette</RimHUD.Theme.LabelWidth>
+  <RimHUD.Theme.ValueWidth>Valeur Largeur</RimHUD.Theme.ValueWidth>
+
+  <RimHUD.Theme.InspectPane>Panneau d'inspection</RimHUD.Theme.InspectPane>
+  <RimHUD.Theme.InspectPaneModify>Modifier</RimHUD.Theme.InspectPaneModify>
+  <RimHUD.Theme.InspectPaneModifyDesc>Ceci est nécessaire pour le mode HUD ancré.</RimHUD.Theme.InspectPaneModifyDesc>
+  <RimHUD.Theme.InspectPaneAddLog>Afficher le journal des personnages</RimHUD.Theme.InspectPaneAddLog>
+  <RimHUD.Theme.InspectPaneAddLogDesc>Remplit le panneau d'inspection avec le journal du personnage sélectionné. Disponible uniquement en mode flottant.</RimHUD.Theme.InspectPaneAddLogDesc>
+  <RimHUD.Theme.InspectPaneHeight>Hauteur du panneau</RimHUD.Theme.InspectPaneHeight>
+  <RimHUD.Theme.InspectPaneMinTabs>Onglets minimums</RimHUD.Theme.InspectPaneMinTabs>
+  <RimHUD.Theme.InspectPaneTabWidth>Largeur de l'onglet</RimHUD.Theme.InspectPaneTabWidth>
+
+  <RimHUD.Theme.OtherOptions>Autres options</RimHUD.Theme.OtherOptions>
+
+  <RimHUD.Theme.ShowDecimals>Afficher les décimales</RimHUD.Theme.ShowDecimals>
+  <RimHUD.Theme.LetterPadding>Remplissage de lettres </RimHUD.Theme.LetterPadding>
+  <RimHUD.Theme.LetterPaddingDesc>Modifie la distance entre les caractères des notifications qui apparaissent sur le côté droit de l'écran. Vanilla: 12</RimHUD.Theme.LetterPaddingDesc>
+  <RimHUD.Theme.LetterCompress>Comprimer les notifications </RimHUD.Theme.LetterCompress>
+  <RimHUD.Theme.LetterCompressDesc>Comprimera les caractères et les alertes sur le côté droit de l'écran si elles chevauchent le HUD..</RimHUD.Theme.LetterCompressDesc>
+
+  <RimHUD.Theme.HudColors>Couleurs du HUD</RimHUD.Theme.HudColors>
+
+  <RimHUD.Theme.MainTextColor>Texte principal</RimHUD.Theme.MainTextColor>
+  <RimHUD.Theme.DisabledColor>Texte désactivé</RimHUD.Theme.DisabledColor>
+  <RimHUD.Theme.CriticalColor>Texte critique</RimHUD.Theme.CriticalColor>
+  <RimHUD.Theme.WarningColor>Texte d'alerte</RimHUD.Theme.WarningColor>
+  <RimHUD.Theme.InfoColor>Texte d'information</RimHUD.Theme.InfoColor>
+  <RimHUD.Theme.GoodColor>Informations positives</RimHUD.Theme.GoodColor>
+  <RimHUD.Theme.ExcellentColor>Informations excellente</RimHUD.Theme.ExcellentColor>
+  <RimHUD.Theme.BarBackgroundColor>Barre de fond</RimHUD.Theme.BarBackgroundColor>
+  <RimHUD.Theme.BarMainColor>Barre principale</RimHUD.Theme.BarMainColor>
+  <RimHUD.Theme.BarLowColor>Barre en bas</RimHUD.Theme.BarLowColor>
+  <RimHUD.Theme.BarThresholdColor>Soulignement</RimHUD.Theme.BarThresholdColor>
+  <RimHUD.Theme.SelectorBackgroundColor>Fond du sélecteur</RimHUD.Theme.SelectorBackgroundColor>
+  <RimHUD.Theme.SelectorTextColor>Texte du sélecteur</RimHUD.Theme.SelectorTextColor>
+  <RimHUD.Theme.LineColor>Ligne</RimHUD.Theme.LineColor>
+
+  <RimHUD.Theme.FactionColors>Couleurs des factions</RimHUD.Theme.FactionColors>
+  <RimHUD.Theme.FactionOwnColor>Vous</RimHUD.Theme.FactionOwnColor>
+  <RimHUD.Theme.FactionAlliedColor>Alliée</RimHUD.Theme.FactionAlliedColor>
+  <RimHUD.Theme.FactionIndependentColor>Indépendante</RimHUD.Theme.FactionIndependentColor>
+  <RimHUD.Theme.FactionHostileColor>Hostile</RimHUD.Theme.FactionHostileColor>
+  <RimHUD.Theme.FactionWildColor>Sauvage</RimHUD.Theme.FactionWildColor>
+
+  <RimHUD.Theme.SkillColors>Couleurs des compétences</RimHUD.Theme.SkillColors>
+  <RimHUD.Theme.SkillMinorPassionColor>Petite passion </RimHUD.Theme.SkillMinorPassionColor>
+  <RimHUD.Theme.SkillMajorPassionColor>Passion majeure </RimHUD.Theme.SkillMajorPassionColor>
+  <RimHUD.Theme.SkillSaturatedColor>Apprentissage saturé</RimHUD.Theme.SkillSaturatedColor>
+  <RimHUD.Theme.SkillActiveColor>Actuellement actif</RimHUD.Theme.SkillActiveColor>
+
+  <RimHUD.TextStyle.Size>Taille</RimHUD.TextStyle.Size>
+  <RimHUD.TextStyle.Height>Hauteur</RimHUD.TextStyle.Height>
+</LanguageData>

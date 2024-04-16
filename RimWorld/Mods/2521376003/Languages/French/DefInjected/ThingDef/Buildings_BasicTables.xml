@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+<!-- table (1x1) -->
+<Table_1x1c.label>table (1x1)</Table_1x1c.label>
+<Table_1x1c.description>Une table simple. Les gens ont besoin de chaises pour pouvoir manger.</Table_1x1c.description>
+<!-- countertop -->
+<Table_Counter.label>table de bar</Table_Counter.label>
+<!-- A smooth, waist high surface for eating off of, commonly found in kitchens and bars. -->
+<Table_Counter.description>Une surface haute pour manger, que l'on trouve couramment dans les cuisines et les bars.</Table_Counter.description>
+
+
+</LanguageData>

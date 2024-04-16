@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!--<Traduction FR Tous les vanilla animals expanded.-->
+    <!-- rear left claws -->
+    <AEXP_RearLeftClaws.label>griffes arrière gauche</AEXP_RearLeftClaws.label>
+    <!-- claws -->
+    <AEXP_RearLeftClaws.labelShort>griffes</AEXP_RearLeftClaws.labelShort>
+
+    <!-- rear right claws -->
+    <AEXP_RearRightClaws.label>griffes arrière droites</AEXP_RearRightClaws.label>
+    <!-- claws -->
+    <AEXP_RearRightClaws.labelShort>griffes</AEXP_RearRightClaws.labelShort>
+
+    <!-- rear left spur -->
+    <AEXP_RearLeftSpur.label>éperon arrière gauche</AEXP_RearLeftSpur.label>
+    <!-- spur -->
+    <AEXP_RearLeftSpur.labelShort>éperon</AEXP_RearLeftSpur.labelShort>
+
+    <!-- rear right spur -->
+    <AEXP_RearRightSpur.label>éperon arrière droit</AEXP_RearRightSpur.label>
+    <!-- spur -->
+    <AEXP_RearRightSpur.labelShort>éperon</AEXP_RearRightSpur.labelShort>
+  
+</LanguageData>

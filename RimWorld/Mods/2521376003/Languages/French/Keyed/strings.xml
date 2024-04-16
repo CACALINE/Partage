@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+<!--<Traduction FR animal controls.-->
+	<FoodRestrictionPlants>Plantes</FoodRestrictionPlants>
+	<AnimalControlsDefault>"Défaut"</AnimalControlsDefault>
+	<AnimalControlsAnimalRestrictionLabel>Restriction par défaut pour les animaux</AnimalControlsAnimalRestrictionLabel>
+	<AnimalControlsHandlerRestrictionLabel>Restriction du gestionnaire </AnimalControlsHandlerRestrictionLabel>
+	<AnimalControlsDefaultsLabel>Défauts</AnimalControlsDefaultsLabel>
+	<ac_allow_feeding_with_plants_label>Permettez aux pions de nourrir les animaux avec du foin et encouragez-les..</ac_allow_feeding_with_plants_label>
+	<ac_allow_feeding_with_plants_note>Les animaux sont également encouragés à préférer davantage la nourriture non humaine.</ac_allow_feeding_with_plants_note>
+	<ac_animals_pay_attention_label>Les animaux feront attention au maître pendant l'interaction </ac_animals_pay_attention_label>
+	<ac_animals_pay_attention_note>Plus besoin de courir après les autres pendant une demi-journée lors de l'entraînement.</ac_animals_pay_attention_note>
+</LanguageData>

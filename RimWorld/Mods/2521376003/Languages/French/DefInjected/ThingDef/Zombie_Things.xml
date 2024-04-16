@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR zombieland.-->
+  <Apparel_BombVest.label>Gilet bombe</Apparel_BombVest.label>
+  <Apparel_BombVest.description>Une veste avec des explosifs.</Apparel_BombVest.description>
+  
+  <TarSlime.label>bave</TarSlime.label>
+  
+  <TarSmoke.label>fumée</TarSmoke.label>
+
+  <StickyGoo.label>très toxique  &amp; bave de zombie</StickyGoo.label>
+  
+  <ZombieExtract.label>extrait de zombie</ZombieExtract.label>
+  <ZombieExtract.description>Petite quantité d'extrait d'un zombie mort. Combinez jusqu'à 100 extraits pour fabriquer un médicament appelé sérum de zombie qui est utilisé dans les opérations sur les parties du corps infectées</ZombieExtract.description>
+
+  <UnfinishedZombieSerum.label>sérum de zombie inachevé</UnfinishedZombieSerum.label>
+  
+  <Zombie10Serum.label>sérum zombie 10%</Zombie10Serum.label>
+  <Zombie10Serum.description>Sérum de zombies morts qui guérit les infections de zombies pendant les opérations (taux de réussite de 10%)</Zombie10Serum.description>
+
+  <Zombie20Serum.label>sérum zombie 20%</Zombie20Serum.label>
+  <Zombie20Serum.description>Sérum de zombies morts qui guérit les infections de zombies pendant les opérations (taux de réussite de 20%)</Zombie20Serum.description>
+  
+  <Zombie30Serum.label>sérum zombie 30%</Zombie30Serum.label>
+  <Zombie30Serum.description>Sérum de zombies morts qui guérit les infections de zombies pendant les opérations (taux de réussite de 30%)</Zombie30Serum.description>
+  
+  <Zombie40Serum.label>sérum zombie 40%</Zombie40Serum.label>
+  <Zombie40Serum.description>Sérum de zombies morts qui guérit les infections de zombies pendant les opérations (taux de réussite de 40%)</Zombie40Serum.description>
+  
+  <Zombie50Serum.label>sérum zombie 50%</Zombie50Serum.label>
+  <Zombie50Serum.description>Sérum de zombies morts qui guérit les infections de zombies pendant les opérations (taux de réussite de 50%)</Zombie50Serum.description>
+  
+  <Zombie60Serum.label>sérum zombie 60%</Zombie60Serum.label>
+  <Zombie60Serum.description>Sérum de zombies morts qui guérit les infections de zombies pendant les opérations (taux de réussite de 60%)</Zombie60Serum.description>
+  
+  <Zombie70Serum.label>sérum zombie 70%</Zombie70Serum.label>
+  <Zombie70Serum.description>Sérum de zombies morts qui guérit les infections de zombies pendant les opérations (taux de réussite de 70%)</Zombie70Serum.description>
+  
+  <Zombie80Serum.label>sérum zombie 80%</Zombie80Serum.label>
+  <Zombie80Serum.description>Sérum de zombies morts qui guérit les infections de zombies pendant les opérations (taux de réussite de 80%)</Zombie80Serum.description>
+  
+  <Zombie90Serum.label>sérum zombie 90%</Zombie90Serum.label>
+  <Zombie90Serum.description>Sérum de zombies morts qui guérit les infections de zombies pendant les opérations (taux de réussite de 90%)</Zombie90Serum.description>
+  
+    <Zombie100Serum.label>sérum zombie 100%</Zombie100Serum.label>
+  <Zombie100Serum.description>Sérum de zombies morts qui guérit les infections de zombies pendant les opérations (taux de réussite de 100%)</Zombie100Serum.description>
+
+</LanguageData>

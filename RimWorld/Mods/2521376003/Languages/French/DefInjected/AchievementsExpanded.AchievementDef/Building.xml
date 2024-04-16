@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Vanilla Achivements Expanded.-->
+  <comfierThanUsual.label>Plus confortable que d'habitude</comfierThanUsual.label>
+  <comfierThanUsual.description>Construire un fauteuil en cuir d'humain</comfierThanUsual.description>
+  
+  <theArchitect.label>L'architecte</theArchitect.label>
+  <theArchitect.description>Construire 1000 murs</theArchitect.description>
+  
+  <buildingTheSkynet.label>Construire le Skynet</buildingTheSkynet.label>
+  <buildingTheSkynet.description>Construire 30 mini-tourelles</buildingTheSkynet.description>
+  
+  <itAintRocketScience.label>Ce n'est pas une science exacte</itAintRocketScience.label>
+  <itAintRocketScience.description>Construire un vaisseau spatial</itAintRocketScience.description>
+  
+</LanguageData>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR vanilla social interactions expanded.-->
+  <Frenzy_Work.label>Frénésie de travail</Frenzy_Work.label>
+  <Frenzy_Work.beginLetterContinue>\n\n[PAWN_pronoun] veut travailler.</Frenzy_Work.beginLetterContinue>
+  
+  <Frenzy_Go.label>Frénésie d'exploration</Frenzy_Go.label>
+  <Frenzy_Go.beginLetterContinue>\n\n[PAWN_pronoun] aimerait rejoindre une caravane et découvrir le monde.</Frenzy_Go.beginLetterContinue>
+  
+  <Frenzy_Shoot.label>Frénésie de tir</Frenzy_Shoot.label>
+  <Frenzy_Shoot.beginLetterContinue>\n\n[PAWN_pronoun] veux aller chasser.</Frenzy_Shoot.beginLetterContinue>
+  
+  <Inspired_Trade.label>Commerçant inspiré</Inspired_Trade.label>
+  <Inspired_Trade.beginLetterContinue>\n\n[PAWN_pronoun] veut effectuer une transaction.</Inspired_Trade.beginLetterContinue>
+  
+  <Inspired_Recruitment.label>Recruteur inspiré</Inspired_Recruitment.label>
+  <Inspired_Recruitment.beginLetterContinue>\n\n[PAWN_pronoun] veux recruter un prisonnier.</Inspired_Recruitment.beginLetterContinue>
+ 
+  <Inspired_Taming.label>Dresseur d'animaux inspiré</Inspired_Taming.label>
+  <Inspired_Taming.beginLetterContinue>\n\n[PAWN_pronoun] aimerait essayer d'apprivoiser un animal.</Inspired_Taming.beginLetterContinue>
+
+  <Inspired_Surgery.label>Chirurgien inspiré</Inspired_Surgery.label>
+  <Inspired_Surgery.beginLetterContinue>\n\n[PAWN_pronoun] veut effectuer une opération.</Inspired_Surgery.beginLetterContinue>
+
+  <Inspired_Creativity.label>Artiste inspiré</Inspired_Creativity.label>
+  <Inspired_Creativity.beginLetterContinue>\n\n[PAWN_pronoun] veut créer un chef-d'oeuvre ou un objet légendaire.</Inspired_Creativity.beginLetterContinue>
+
+  <VSIE_Inspired_Planting.label>Jardinier inspiré</VSIE_Inspired_Planting.label>
+
+  <VSIE_Party_Frenzy.label>Frénésie de fête</VSIE_Party_Frenzy.label>
+
+  <VSIE_Inspired_Research.label></VSIE_Inspired_Research.label>
+
+  <VSIE_Inspired_Mining.label>Mineur inspiré</VSIE_Inspired_Mining.label>
+
+  <VSIE_Learning_Frenzy.label>Lernrausch</VSIE_Learning_Frenzy.label>
+
+  <VSIE_Inspired_Cooking.label>Chef inspiré</VSIE_Inspired_Cooking.label>
+
+  <VSIE_Flirting_Frenzy.label>Frénésie de flirt</VSIE_Flirting_Frenzy.label>
+
+  <VSIE_Melee_Frenzy.label>Frénésie de combat</VSIE_Melee_Frenzy.label>
+
+
+</LanguageData>

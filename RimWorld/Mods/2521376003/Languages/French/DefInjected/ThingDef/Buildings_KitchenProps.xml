@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+<!-- EN: brewing barrel -->
+<VFEPD_BrewingBarrel.label>baril de brassage</VFEPD_BrewingBarrel.label>
+<!-- EN: A large, empty brewing barrel. -->
+<VFEPD_BrewingBarrel.description>Un grand baril de brassage vide.</VFEPD_BrewingBarrel.description>
+
+<!-- EN: cooker -->
+<VFEPD_Cooker.label>cuisinière</VFEPD_Cooker.label>
+<!-- EN: A cooker unit. -->
+<VFEPD_Cooker.description>Un élément de cuisine.</VFEPD_Cooker.description>
+
+<!-- EN: microwave -->
+<VFEPD_Microwave.label>micro-ondes</VFEPD_Microwave.label>
+<!-- EN: A tabletop microwave device. -->
+<VFEPD_Microwave.description>Un appareil à micro-ondes de table.</VFEPD_Microwave.description>
+
+<!-- EN: oven -->
+<VFEPD_Oven.label>four</VFEPD_Oven.label>
+<!-- EN: A large oven. -->
+<VFEPD_Oven.description>Un grand four.</VFEPD_Oven.description>
+
+<!-- EN: fridge -->
+<VFEPD_Fridge.label>frigo</VFEPD_Fridge.label>
+<!-- EN: A large fridge with an in-built freezer. -->
+<VFEPD_Fridge.description>Un grand réfrigérateur avec un congélateur intégré.</VFEPD_Fridge.description>
+
+<!-- EN: water dispenser -->
+<VFEPD_WaterDispenser.label>Fontaine à eau</VFEPD_WaterDispenser.label>
+<!-- EN: A large, standing fresh water dispenser. -->
+<VFEPD_WaterDispenser.description>Un grand distributeur d'eau fraîche.</VFEPD_WaterDispenser.description>
+
+<!-- EN: food trolley -->
+<VFEPD_FoodTrolley.label>chariot de nourriture</VFEPD_FoodTrolley.label>
+<!-- EN: A four wheeled trolley for empty plates and food trays. -->
+<VFEPD_FoodTrolley.description>Un chariot à quatre roues pour assiettes et plateaux vides.</VFEPD_FoodTrolley.description>
+
+<!-- EN: kitchen surface -->
+<VFEPD_KitchenSurface.label>surface de cuisine</VFEPD_KitchenSurface.label>
+<!-- EN: A simple kitchen surface with a cutting board. -->
+<VFEPD_KitchenSurface.description>Une simple surface de cuisine avec une planche à découper.</VFEPD_KitchenSurface.description>
+
+<!-- EN: kitchen surface empty -->
+<VFEPD_KitchenSurfaceEmpty.label>surface de cuisine vide</VFEPD_KitchenSurfaceEmpty.label>
+<!-- EN: A simple kitchen surface. -->
+<VFEPD_KitchenSurfaceEmpty.description>Une simple surface de cuisine.</VFEPD_KitchenSurfaceEmpty.description>
+
+<!-- EN: kitchen sink -->
+<VFEPD_KitchenSink.label>évier de cuisine</VFEPD_KitchenSink.label>
+<!-- EN: A long kitchen sink. -->
+<VFEPD_KitchenSink.description>Un long évier.</VFEPD_KitchenSink.description>
+
+<!-- EN: wine rack -->
+<VFEPD_WineRack.label>casier à vin</VFEPD_WineRack.label>
+<!-- EN: A civilised wine storage rack. -->
+<VFEPD_WineRack.description>Un casier à vin civilisé.</VFEPD_WineRack.description>
+
+<!-- EN: mop bucket -->
+<VFEPD_MopBucket.label>seau à serpillière</VFEPD_MopBucket.label>
+<!-- EN: A sterile mop bucket. Ideal for a mop. -->
+<VFEPD_MopBucket.description>Un seau à serpillière.</VFEPD_MopBucket.description>
+
+<!-- EN: cooking appliances -->
+<VFEPD_CookingAppliances.label>appareils de cuisine</VFEPD_CookingAppliances.label>
+<!-- EN: A singular cooking appliance. -->
+<VFEPD_CookingAppliances.description>Un appareil de cuisine unique.</VFEPD_CookingAppliances.description>
+
+<!-- EN: cutting board -->
+<VFEPD_CuttingBoard.label>planche à découper</VFEPD_CuttingBoard.label>
+<!-- EN: A wooden cutting board. -->
+<VFEPD_CuttingBoard.description>Une planche à découper en bois.</VFEPD_CuttingBoard.description>
+
+<!-- EN: knives -->
+<VFEPD_Knives.label>couteaux</VFEPD_Knives.label>
+<!-- EN: A set of cooking knives. -->
+<VFEPD_Knives.description>Un ensemble de couteaux de cuisine.</VFEPD_Knives.description>
+
+<!-- EN: dinner set -->
+<VFEPD_DinnerSet.label>ensemble de vaisselle</VFEPD_DinnerSet.label>
+<!-- EN: A simple dinner set containing all the required utensils. -->
+<VFEPD_DinnerSet.description>Une vaisselle simple qui contient tous les ustensiles nécessaires.</VFEPD_DinnerSet.description>
+
+<!-- EN: spices -->
+<VFEPD_Spices.label>épices</VFEPD_Spices.label>
+<!-- EN: A wide assortment of different spices -->
+<VFEPD_Spices.description>Un large assortiment d'épices différentes</VFEPD_Spices.description>
+
+
+</LanguageData>

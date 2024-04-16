@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<!--Traduction FR quarry1.1-->
+	<QRY_Quarry>Quarry</QRY_Quarry>
+	<QRY_SettingsDepletionPercent>Nombre d'opérations minières</QRY_SettingsDepletionPercent>
+	<QRY_SettingsJunkChance>Possibilité obtenir échec : &lt;b&gt;&lt;color=orange&gt;{0}%&lt;/color&gt;&lt;/b&gt;</QRY_SettingsJunkChance>
+	<QRY_SettingsResourceModifier>Modificateur de ressources: &lt;b&gt;&lt;color=orange&gt;{0}%&lt;/color&gt;&lt;/b&gt;</QRY_SettingsResourceModifier>
+	<QRY_SettingsChunkChance>Possibilité obtenir ressources : &lt;b&gt;&lt;color=orange&gt;{0}%&lt;/color&gt;&lt;/b&gt;</QRY_SettingsChunkChance>
+	<QRY_DepletionLabel>&lt;b&gt;&lt;color=orange&gt;{0}&lt;/color&gt;&lt;/b&gt; opérations minières avant que la carrière ne soit inutilisable</QRY_DepletionLabel>
+	<QRY_DictionaryLabel>Ressources/Objets exploitables et possibilité d'en obtenir</QRY_DictionaryLabel>
+	
+	<QRY_TooltipLetter>Indiquez si l'ordre de remise en état des sols a déjà été envoyée ou non. Si elle est fausse, l'ordre sera envoyée lors de la première déconstruction d'une carrière.</QRY_TooltipLetter>
+	<QRY_TooltipJunkChance>Possibilité d'obtenir un "échec". \n\nATTENTION: En mode "Ressources des carrières" désigné dans l'exploitation de la Quarry, cette possibilité d'obtenir un "échec" devient une possibilité d'obtenir des gravats (Néanmoins cela n'enlève pas la possibilité d'obtenir un "échec"). \n\nCette valeur peut être comprise entre 20% et 40% pour une partie équitable.</QRY_TooltipJunkChance>
+	<QRY_TooltipResourceModifier>Modificateur appliqué aux ressources exploitées</QRY_TooltipResourceModifier>
+	<QRY_TooltipChunkChance>Possibilité d'obtenir les ressources pour lequel la Quarry est exploitée. \n\nExemple: \n-Si la Quarry est en mode "Ressources des carrières" vous obtiendrait une ressource aléatoire listée ci-dessous \n-Si la Quarry est en mode "Blocs de pierre" vous obtiendraient des blocs de pierre \n-Si la Quarry est en mode "Gravats" vous obtiendrait des gravats \n\nCette valeur doit toujours être supérieur à la valeur de possibilité obtenir "échec" pour une partie équitable.</QRY_TooltipChunkChance>
+	
+	<QRY_SettingsMineTimeBase>Tics d'exploitation minières</QRY_SettingsMineTimeBase>
+	<QRY_SettingsMineTimeVar>Tics de variance maximum</QRY_SettingsMineTimeVar>
+	<QRY_ToolTipTicksAverage>Temps de base (en tics) par opération minière \n\nSi vous n'êtes pas expérimenté dans ce domaine laisser par défaut "4500"</QRY_ToolTipTicksAverage>
+	<QRY_ToolTipTicksVariance>plus ce chiffre est élevé, plus la compétence minière d'un colons a d'effet sur le temps nécessaire à l'exploitation des mines. \n\nSi vous n'êtes pas expérimenté dans ce domaine laisser par défaut "4050"</QRY_ToolTipTicksVariance>
+	
+	<QRY_LabelHaulMode>Mode de transport</QRY_LabelHaulMode>
+	<QRY_Haul>Transporter les objets minés.</QRY_Haul>
+	<QRY_NotHaul>Ignorez les objets minés.</QRY_NotHaul>
+
+	<QRY_LabelMineResources>Ressources des carrières</QRY_LabelMineResources>
+	<QRY_DescriptionMineResources>Désignez la carrière qui sera exploitée pour ses ressources. Cliquez pour changer de mode.</QRY_DescriptionMineResources>
+
+	<QRY_LabelMineBlocks>Blocs de pierre</QRY_LabelMineBlocks>
+	<QRY_DescriptionMineBlocks>Désignez la carrière à exploiter pour les blocs de pierre. Cliquez pour changer de mode.</QRY_DescriptionMineBlocks>
+
+	<QRY_LabelMineChunks>Gravats</QRY_LabelMineChunks>
+	<QRY_DescriptionMineChunks>Désignez la carrière à exploiter pour les gravats. Cliquez pour changer de mode.</QRY_DescriptionMineChunks>
+
+	<QRY_ReportNotEnoughStone>La carrière doit être construite dans une zone où il y a plus de pierres non extraites.</QRY_ReportNotEnoughStone>
+	<QRY_InspectQuarryPercent>Pourcentage de la carrière</QRY_InspectQuarryPercent>
+	<QRY_CommandBedSetOwnerLabel>Définir le propriétaire</QRY_CommandBedSetOwnerLabel>
+	<QRY_CommandSetOwnerDesc>Attribuer cette carrière à certains colons seulement.</QRY_CommandSetOwnerDesc>
+	<QRY_ReportGizmoLackingResearch>Nécessite une recherche sur la taille des pierres.</QRY_ReportGizmoLackingResearch>
+	
+	<QRY_TextMote_LargeVein>Grosse veine!</QRY_TextMote_LargeVein>
+	<QRY_TextMote_MiningFailed>Échec...</QRY_TextMote_MiningFailed>
+	
+	<QRY_LetterSentQuery>Ordres de remise en état des sols déjà émis</QRY_LetterSentQuery>
+	<QRY_LetterLabel>Remise en état du sol</QRY_LetterLabel>
+	<QRY_LetterText>Une fois la carrière déconstruite, vous pouvez désigner des colons pour recouvrir l'ancien terrain de terre afin d'obtenir un terrain utilisable là où se trouvait la carrière. Utilisez la commande Remise en état du sol pour désigner une zone à remblayer.</QRY_LetterText>
+	<QRY_LabelReclaimSoil>Remise en état du sol</QRY_LabelReclaimSoil>
+	<QRY_DescriptionReclaimSoil>Transformez un terrain de pierre provenant d'une carrière en un terrain de terre utilisable.</QRY_DescriptionReclaimSoil>
+	<QRY_MessageMustDesignateQuarriedGround>Doit désigner un terrain de carrière.</QRY_MessageMustDesignateQuarriedGround>
+
+	<QRY_AllowRottable>Autoriser les éléments périssables</QRY_AllowRottable>
+	<QRY_TooltipAllowRottable>Permets d'ajouter des éléments périssables à la liste ressources/objets exploitables</QRY_TooltipAllowRottable>
+	
+	<QRY_LabelAddThing>Ajouter à la liste</QRY_LabelAddThing>
+	<QRY_LabelRemoveThing>Supprimer de la liste</QRY_LabelRemoveThing>
+	<QRY_LabelResetList>Réinitialiser la liste</QRY_LabelResetList>
+	
+	<QRY_MessageSinkhole>Des roches en mouvement dans la carrière ont blessé {0}.</QRY_MessageSinkhole>
+
+</LanguageData>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<!--Traduction FR Nuclear Energy-->
+	<ConDoor.label>Porte de confinement</ConDoor.label>
+	<ConDoor.description>Divise les pièces. Les portes simples doivent être ouvertes manuellement, ce qui ralentit les gens. Cette porte peut résister à une explosion normale du réacteur.</ConDoor.description>
+	
+	<ContAutodoor.label>Porte automatique de confinement</ContAutodoor.label>
+	<ContAutodoor.description>Divise les pièces. Le fonctionnement motorisé permet aux personnes de passer la porte sans ralentir. Cette porte (bien que plus faible que la porte manuelle) peut résister à une explosion normale du réacteur.</ContAutodoor.description>
+	
+	<StrConDoor.label>Porte de confinement renforcé</StrConDoor.label>
+	<StrConDoor.description>Divise les pièces. Les portes simples doivent être ouvertes manuellement, ce qui ralentit les gens. Cette porte peut résister à l'explosion d'un réacteur géant.</StrConDoor.description>
+	
+	<StrContAutodoor.label>Porte automatique de confinement renforcé</StrContAutodoor.label>
+	<StrContAutodoor.description>Divise les pièces. Le fonctionnement motorisé permet aux personnes de passer la porte sans ralentir. Cette porte (bien que plus faible que la porte manuelle) peut résister à l'explosion d'un réacteur géant.</StrContAutodoor.description>
+	
+	<ContainWall.label>Mur de confinement</ContainWall.label>
+	<ContainWall.description>Un mur infranchissable. Capable de soutenir un toit et de résister à l'explosion d'un réacteur normal. Utilisé pour contenir les réacteurs dans une chambre.</ContainWall.description>
+	
+	<StrContainWall.label>Mur de confinement renforcé</StrContainWall.label>
+	<StrContainWall.description>Un mur infranchissable. Capable de soutenir un toit et de résister à l'explosion d'un réacteur géant. Utilisé pour contenir les réacteurs dans une chambre.</StrContainWall.description>
+</LanguageData>

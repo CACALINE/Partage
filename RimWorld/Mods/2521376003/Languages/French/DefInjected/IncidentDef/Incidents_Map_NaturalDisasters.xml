@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Mods Seasonal Weathers (Continued) de Mlie.-->
+  <Earthquake.label>Tremblement de terre</Earthquake.label>
+  <Wildfire.label>Feu de forêt</Wildfire.label>
+  <Wildfire.letterText>Un grand feu de forêt a éclaté à proximité et se propage maintenant à votre emplacement !
+  
+  La durée minimale si le feu est maîtrisé est d'environ une demi-journée.
+  La durée minimale sans intervention est de 5 jours.
+  Durée maximale est d'un quadrum.</Wildfire.letterText>
+  <Wildfire.letterLabel>Retombées toxiques</Wildfire.letterLabel>
+</LanguageData>

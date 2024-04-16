@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+	<!-- Power-->
+	<!-- EN: small vanometric power cell -->
+	<VFE_SmallVanometricPowerCell.label>petite cellule d'énergie vanométrique</VFE_SmallVanometricPowerCell.label>
+	<!-- EN: Generates a very small amount of free energy, forever, without using fuel. This technology is developed by archotechs, and is beyond even most glitterworld societies. While nobody knows exactly how it works, scholars believe it somehow extracts energy directly from fluctuations in the quantum foam. -->
+	<VFE_SmallVanometricPowerCell.description>Il génère une très petite quantité d'énergie gratuitement, pour toujours, sans utiliser de carburant. Cette technologie est développée par des archéologues et dépasse même les sociétés les plus brillantes du monde. Bien que personne ne sache exactement comment cela fonctionne, les chercheurs pensent qu'il puise de l'énergie directement à partir des fluctuations de la matière quantique.</VFE_SmallVanometricPowerCell.description>
+	<!-- EN: large vanometric power cell -->
+	<VFE_LargeVanometricPowerCell.label>grande cellule d'énergie vanométrique</VFE_LargeVanometricPowerCell.label>
+	<!-- EN: Generates a large amount of free energy, forever, without using fuel. This technology is developed by archotechs, and is beyond even most glitterworld societies. While nobody knows exactly how it works, scholars believe it somehow extracts energy directly from fluctuations in the quantum foam. -->
+	<VFE_LargeVanometricPowerCell.description>Générez beaucoup d'énergie gratuitement, pour toujours, sans utiliser de carburant. Cette technologie est développée par des archéologues et dépasse même les sociétés les plus brillantes du monde. Bien que personne ne sache exactement comment cela fonctionne, les chercheurs pensent qu'il puise de l'énergie directement à partir des fluctuations de la matière quantique.</VFE_LargeVanometricPowerCell.description>
+	<!-- EN: archotech violence generator -->
+	<VPE_ArchotechViolenceGenerator.label>générateur de violence archéotechnologique</VPE_ArchotechViolenceGenerator.label>
+	<!-- EN: This device taps into psychic energy leaving the bodies of surrounding humanoids, changing it directly into usable energy. This technology is developed by archotechs, and is beyond even most glitterworld societies -->
+	<VPE_ArchotechViolenceGenerator.description>Cet appareil exploite l'énergie psychique qui sort des corps des humanoïdes environnants, la transformant directement en énergie utilisable. Cette technologie est développée par des archéologues et dépasse même les sociétés les plus brillantes du monde.</VPE_ArchotechViolenceGenerator.description>
+	
+	<!-- Security-->
+	<!-- psychic pylon -->
+	<VFES_PsychicPylon.label>pylône psychique</VFES_PsychicPylon.label>
+	<!-- An ancient device that projects a strong psychic drone around itself. Only seems to target those who mean you harm. Works through walls. -->
+	<VFES_PsychicPylon.description>Un appareil ancien qui projette un bourdonnement psychique fort autour de lui. Il ne semble cibler que ceux qui veulent vous blesser. Fonctionne à travers les murs.</VFES_PsychicPylon.description>
+
+	
+</LanguageData>

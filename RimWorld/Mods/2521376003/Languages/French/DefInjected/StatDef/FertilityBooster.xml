@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR children, school and learning.-->
+  <FertilityBooster.label>stimulant de fertilité</FertilityBooster.label>
+  <FertilityBooster.description>Augmente la fertilité pendant 2 jours. (fonctionne pour les deux sexes, les deux doivent le prendre si leur fertilité est faible).</FertilityBooster.description>
+  
+  <FertilityBoosterActive.label>stimulant de fertilité</FertilityBoosterActive.label>
+  <FertilityBoosterActive.labelNoun>stimulant de fertilité</FertilityBoosterActive.labelNoun>
+  <FertilityBoosterActive.description>stimulant de fertilité</FertilityBoosterActive.description>
+  
+</LanguageData>

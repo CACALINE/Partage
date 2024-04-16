@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+<!-- Traps Rearmed -->
+<VFES_TrapsRearmed.label>Pièges réarmés</VFES_TrapsRearmed.label>
+<!-- The number of traps I have rearmed. -->
+<VFES_TrapsRearmed.description>Le nombre de pièges que j'ai réarmés.</VFES_TrapsRearmed.description>
+
+
+</LanguageData>

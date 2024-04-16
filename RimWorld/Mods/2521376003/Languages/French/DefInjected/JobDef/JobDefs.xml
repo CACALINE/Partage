@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR locks.-->
+  <Locks_Flick.reportString>verrouillage/déverrouillage TargetA.</Locks_Flick.reportString>
+
+<!--Traduction FR quarry 1.1-->
+  <QRY_MineQuarry.reportString>Exploitation minière dans une carrière.</QRY_MineQuarry.reportString>
+</LanguageData>

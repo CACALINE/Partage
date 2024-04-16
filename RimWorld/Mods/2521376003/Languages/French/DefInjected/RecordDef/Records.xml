@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--Traduction FR quarry 1.1-->
+  <QRY_CellsMined.label>mètre cube extrait de la carrière</QRY_CellsMined.label>
+  <QRY_CellsMined.description>(Beta 19) Le nombre de mètres cubes que j'ai extraits d'une carrière.</QRY_CellsMined.description>
+
+
+</LanguageData>

@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Tous les vanilla animals expanded.-->
+  <!-- AridShrubland-->
+  <!-- coyote -->
+  <AEXP_Coyote.label>coyote</AEXP_Coyote.label>
+  <!-- A praire wolf native to desert and shrubland areas. It's capable of hunting much bigger prey, and is often found in packs, similar to a wolf. -->
+  <AEXP_Coyote.description>Un loup de prairie originaire des zones désertiques et arbustives. Il est capable de chasser des proies beaucoup plus grosses et se trouve souvent en meute, semblable à un loup.</AEXP_Coyote.description>
+  <!-- left claw -->
+  <AEXP_Coyote.tools.left_claw.label>griffe gauche</AEXP_Coyote.tools.left_claw.label>
+  <!-- right claw -->
+  <AEXP_Coyote.tools.right_claw.label>griffe droite</AEXP_Coyote.tools.right_claw.label>
+  <!-- head -->
+  <AEXP_Coyote.tools.head.label>tête</AEXP_Coyote.tools.head.label>
+
+  <Corpse_AEXP_Coyote.label>cadavre de coyote</Corpse_AEXP_Coyote.label>
+  <Corpse_AEXP_Coyote.description>Le corps sans vie d'un coyote.</Corpse_AEXP_Coyote.description>
+  <Meat_AEXP_Coyote.label>viande de coyote</Meat_AEXP_Coyote.label>
+  <Meat_AEXP_Coyote.description>Viande crue dépecée. Peut être cuit ou consommé cru.</Meat_AEXP_Coyote.description>
+
+  <!-- giraffe -->
+  <AEXP_Giraffe.label>girafe</AEXP_Giraffe.label>
+  <!-- Une girafe est l'un des mammifères les plus grands de la galaxie, utilisant son long cou pour atteindre les feuilles et les branches indisponibles pour les petits herbivores -->
+  <AEXP_Giraffe.description>Une girafe est l'un des mammifères les plus grands de la galaxie, utilisant son long cou pour atteindre les feuilles et les branches indisponibles pour les petits herbivores.</AEXP_Giraffe.description>
+  <!-- left hoof -->
+  <AEXP_Giraffe.tools.left_hoof.label>sabot gauche</AEXP_Giraffe.tools.left_hoof.label>
+  <!-- right hoof -->
+  <AEXP_Giraffe.tools.right_hoof.label>sabot droit</AEXP_Giraffe.tools.right_hoof.label>
+  <!-- head -->
+  <AEXP_Giraffe.tools.head.label>têtet</AEXP_Giraffe.tools.head.label>
+
+  <Corpse_AEXP_Giraffe.label>cadavre de girafe</Corpse_AEXP_Giraffe.label>
+  <Corpse_AEXP_Giraffe.description>Le corps sans vie d'une girafe.</Corpse_AEXP_Giraffe.description>
+  <Meat_AEXP_Giraffe.label>viande de jirafa</Meat_AEXP_Giraffe.label>
+  <Meat_AEXP_Giraffe.description>viande crue coupée en quartiers. Peut être cuit ou consommé cru.</Meat_AEXP_Giraffe.description>
+
+  <!-- hippopotamus -->
+  <AEXP_Hippopotamus.label>hippopotame</AEXP_Hippopotamus.label>
+  <!-- A massive semi-aquatic hoofed mammal with thick skin and a very powerful jaw.\n\nExtremely difficult to tame, these monstrous beings often attack on a failed attempt. -->
+  <AEXP_Hippopotamus.description>Un énorme mammifère semi-aquatique à sabots avec une peau épaisse et une mâchoire très puissante.\n\nExtrêmement difficiles à apprivoiser, ces êtres monstrueux attaquent souvent en cas d'échec.</AEXP_Hippopotamus.description>
+  <!-- left foot -->
+  <AEXP_Hippopotamus.tools.left_foot.label>patte gauche</AEXP_Hippopotamus.tools.left_foot.label>
+  <!-- right foot -->
+  <AEXP_Hippopotamus.tools.right_foot.label>patte droite</AEXP_Hippopotamus.tools.right_foot.label>
+  <!-- head -->
+  <AEXP_Hippopotamus.tools.head.label>têtet</AEXP_Hippopotamus.tools.head.label>
+
+  <Corpse_AEXP_Hippopotamus.label>cadavre d'hippopotame</Corpse_AEXP_Hippopotamus.label>
+  <Corpse_AEXP_Hippopotamus.description>Le corps sans vie d'un hippopotame.</Corpse_AEXP_Hippopotamus.description>
+  <Meat_AEXP_Hippopotamus.label>viande d'hippopotame</Meat_AEXP_Hippopotamus.label>
+  <Meat_AEXP_Hippopotamus.description>viande crue coupée en quartiers. Peut être cuit ou consommé cru.</Meat_AEXP_Hippopotamus.description>
+
+  <!-- zebra -->
+  <AEXP_Zebra.label>zèbre</AEXP_Zebra.label>
+  <!-- A member of the horse family native to arid and desert areas. Whilst it doesn't share the same bodysize as a horse, due to years of evolution it's one of the fastest hooved animals. -->
+  <AEXP_Zebra.description>Il appartient à la famille des chevaux et est originaire des zones arides et désertiques. Bien qu'il n'ait pas la même taille corporelle qu'un cheval, en raison d'années d'évolution, c'est l'un des animaux à sabots les plus rapides.</AEXP_Zebra.description>
+  <!-- head -->
+  <AEXP_Zebra.tools.head.label>tête</AEXP_Zebra.tools.head.label>
+  <!-- left hoof -->
+  <AEXP_Zebra.tools.left_hoof.label>sabot gauche</AEXP_Zebra.tools.left_hoof.label>
+  <!-- right hoof -->
+  <AEXP_Zebra.tools.right_hoof.label>sabot droit</AEXP_Zebra.tools.right_hoof.label>
+
+  <Corpse_AEXP_Zebra.label>cadavre de zèbre</Corpse_AEXP_Zebra.label>
+  <Corpse_AEXP_Zebra.description>Le corps sans vie d'un zèbre.</Corpse_AEXP_Zebra.description>
+
+  <!-- wildebeest -->
+  <AEXP_Wildebeest.label>gnou</AEXP_Wildebeest.label>
+  <!-- Also called Gnu, this wild cow earned it's name with it's menacing horns, pointed beard and large head. These animals are known from their migrations and the size of their herds./n/nDue to it's wildness, it produces milk at much slower rate than a standard cow. -->
+  <AEXP_Wildebeest.description>Également appelée Gnu, cette vache sauvage tire son nom de ses cornes menaçantes, de sa barbe pointue et de sa grosse tête. Ces animaux sont connus pour leurs migrations et la taille de leurs troupeaux. /n/n En raison de leur nature sauvage, ils produisent du lait à un rythme beaucoup plus lent qu'une vache standard.</AEXP_Wildebeest.description>
+  <!-- head -->
+  <AEXP_Wildebeest.tools.head.label>têtet</AEXP_Wildebeest.tools.head.label>
+  <!-- left hoof -->
+  <AEXP_Wildebeest.tools.left_hoof.label>sabot gauche</AEXP_Wildebeest.tools.left_hoof.label>
+  <!-- right hoof -->
+  <AEXP_Wildebeest.tools.right_hoof.label>sabot droit</AEXP_Wildebeest.tools.right_hoof.label>
+
+  <Corpse_AEXP_Wildebeest.label>cadavre de gnou</Corpse_AEXP_Wildebeest.label>
+  <Corpse_AEXP_Wildebeest.description>Le corps sans vie d'un gnou.</Corpse_AEXP_Wildebeest.description>
+
+  <!-- crocodile -->
+  <AEXP_Crocodile.label>crocodile</AEXP_Crocodile.label>
+  <!-- A large semi-aquatic reptile, most often found on the river banks. It's predatory insticts combined with an extremely strong jaw allow them to tackle much larger prey. Older crocodiles can grow to monstrous sizes. -->
+  <AEXP_Crocodile.description>C'est un grand reptile semi-aquatique, que l'on trouve généralement sur les rives des rivières. Leur instinct de prédateur, combiné à une mâchoire extrêmement forte, leur permet de s'attaquer à des proies beaucoup plus grosses. Les crocodiles plus âgés peuvent atteindre des tailles monstrueuses.</AEXP_Crocodile.description>
+
+  <Corpse_AEXP_Crocodile.label>cadavre de crocodile</Corpse_AEXP_Crocodile.label>
+  <Corpse_AEXP_Crocodile.description>Le corps sans vie d'un crocodile.</Corpse_AEXP_Crocodile.description>
+  <Meat_AEXP_Crocodile.label>viande de crocodile</Meat_AEXP_Crocodile.label>
+  <Meat_AEXP_Crocodile.description>viande crue coupée en quartiers. Peut être cuit ou consommé cru.</Meat_AEXP_Crocodile.description>
+
+  <!-- cheetah -->
+  <AEXP_Cheetah.label>guépard</AEXP_Cheetah.label>
+  <!-- These cats are lean and lanky, allowing them to reach incredible speeds. They have tan-colored fur with solid black, round spots, very long legs, a long narrow tail for balance, and a deep chest that contains large lungs. -->
+  <AEXP_Cheetah.description>Ces chats sont minces et grands, ce qui leur permet d'atteindre des vitesses incroyables. Ils ont un pelage bronzé avec des taches noires solides, de très longues pattes et une queue longue et étroite pour l'équilibre, ainsi qu'une poitrine profonde qui contient de gros et puissants poumons.</AEXP_Cheetah.description>
+  <!-- left claw -->
+  <AEXP_Cheetah.tools.left_claw.label>griffe gauche</AEXP_Cheetah.tools.left_claw.label>
+  <!-- right claw -->
+  <AEXP_Cheetah.tools.right_claw.label>griffe droite</AEXP_Cheetah.tools.right_claw.label>
+  <!-- head -->
+  <AEXP_Cheetah.tools.head.label>têtet</AEXP_Cheetah.tools.head.label>
+
+  <Corpse_AEXP_Cheetah.label>cadavre de guépard</Corpse_AEXP_Cheetah.label>
+  <Corpse_AEXP_Cheetah.description>Le corps sans vie d'un guépard.</Corpse_AEXP_Cheetah.description>
+  <Meat_AEXP_Cheetah.label>viande de guépard</Meat_AEXP_Cheetah.label>
+  <Meat_AEXP_Cheetah.description>viande crue coupée en quartiers. Peut être cuit ou consommé cru.</Meat_AEXP_Cheetah.description>
+  
+</LanguageData>

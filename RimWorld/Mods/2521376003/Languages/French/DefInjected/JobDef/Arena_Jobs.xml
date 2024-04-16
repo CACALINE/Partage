@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Mods Prisoner Arena (Continued) de Mlie.-->
+  <!-- Item hauling -->
+  <HaulingPrisoner.reportString>Préparer les prisonniers au combat !</HaulingPrisoner.reportString>
+  <SpectateFightingMatch.reportString>Assister à un match de combat.</SpectateFightingMatch.reportString>
+  <Cheer.reportString>Encourager un combattant.</Cheer.reportString>
+</LanguageData>

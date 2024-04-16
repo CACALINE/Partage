@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<HugsLogPublisher.copy>Copier</HugsLogPublisher.copy>
+<HugsLogPublisher.shareBtn>Partager le journal</HugsLogPublisher.shareBtn>
+<HugsLogPublisher.shareConfirmTitle>Confirmer</HugsLogPublisher.shareConfirmTitle>
+<HugsLogPublisher.shareConfirmMessage>Télécharger le journal de jeu maintenant ?\n\nCette opération permet de publier vos journaux de jeu sur un serveur public et de vous donner le lien pour les partager avec d'autres personnes. C'est utile si vous avez besoin d'aide pour résoudre un problème ou si vous souhaitez signaler un problème à un auteur de mod.\n\nAucune information privée ne sera partagée.</HugsLogPublisher.shareConfirmMessage>
+<HugsLogPublisher.publisherTitle>Éditeur de journal</HugsLogPublisher.publisherTitle>
+<HugsLogPublisher.uploading>Téléchargement{0}</HugsLogPublisher.uploading>
+<HugsLogPublisher.shortening>Obtenir le lien{0}</HugsLogPublisher.shortening>
+<HugsLogPublisher.uploaded>Téléchargement terminé !</HugsLogPublisher.uploaded>
+<HugsLogPublisher.uploadError>Erreur de téléchargement : {0}</HugsLogPublisher.uploadError>
+<HugsLogPublisher.copiedToClipboard>Copier dans le presse-papiers.</HugsLogPublisher.copiedToClipboard>
+<HugsLogPublisher.abortBtn>Annuler</HugsLogPublisher.abortBtn>
+<HugsLogPublisher.retryBtn>Recommencer</HugsLogPublisher.retryBtn>
+<HugsLogPublisher.browseBtn>Ouvrir dans navigateur</HugsLogPublisher.browseBtn>
+<HugsLogPublisher.useRecommendedSettings>Utiliser paramètres recommandés</HugsLogPublisher.useRecommendedSettings>
+<HugsLogPublisher.shortUrls>Utiliser une URL courte</HugsLogPublisher.shortUrls>
+<HugsLogPublisher.shortUrls_tip>Génère un lien plus court lors du téléchargement. Non recommandé sur Steam - les liens courts sont automatiquement supprimés.</HugsLogPublisher.shortUrls_tip>
+<HugsLogPublisher.platformInfo>Inclure info. de votre PC</HugsLogPublisher.platformInfo>
+<HugsLogPublisher.platformInfo_tip>Le journal contient des informations sur votre processeur, votre mémoire et votre carte vidéo.</HugsLogPublisher.platformInfo_tip>
+<HugsLogPublisher.unlimitedLogSize>Autoriser un journal illimitée</HugsLogPublisher.unlimitedLogSize>
+<HugsLogPublisher.unlimitedLogSize_tip>Si désactivé, la taille du journal est limitée à 10 000 lignes pour éviter que les journaux très longs ne causent des problèmes.</HugsLogPublisher.unlimitedLogSize_tip>
+<HugsLogPublisher.toClipboardBtn>Presse-papiers</HugsLogPublisher.toClipboardBtn>
+<HugsLogPublisher.uploadBtn>Télécharger</HugsLogPublisher.uploadBtn>
+<HugsLogPublisher.filesBtn> +</HugsLogPublisher.filesBtn>
+<HugsLogPublisher.openLogFile>Ouvrir le fichier Journal</HugsLogPublisher.openLogFile>
+<HugsLogPublisher.openSaveDir>Ouvrir le dossier Sauvegardes</HugsLogPublisher.openSaveDir>
+<HugsLogPublisher.openModsDir>Ouvrir le dossier Mods</HugsLogPublisher.openModsDir>
+
+
+</LanguageData>

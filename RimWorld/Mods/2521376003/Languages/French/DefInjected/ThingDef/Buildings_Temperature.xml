@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+<!-- air conditioning unit -->
+<AirConditioningUnit.label>unité d'air conditionné</AirConditioningUnit.label>
+<!-- An air-cooling machine that fits into a wall. Exhaust cool air without forcing warm air onto another room. Can be used to cool down rooms during summer, or to create a walk-in freezer. -->
+<AirConditioningUnit.description>Une machine de refroidissement par air qui s'adapte au mur. Propage de l'air frais sans forcer l'air chaud dans une autre pièce. Il peut être utilisé pour rafraîchir les pièces pendant l'été, ou pour créer un congélateur.</AirConditioningUnit.description>
+
+
+</LanguageData>

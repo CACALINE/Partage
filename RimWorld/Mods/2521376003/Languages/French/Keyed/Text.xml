@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+<!--<Traduction FR Mods Achtung! de Brrainz.-->
+	<PositioningEnabledTitle>Positionnement personnalisé de la souris</PositioningEnabledTitle>
+	<PositioningEnabledExplained>Active le positionnement de combat pour vos clics/déplacements de souris (voir les paramètres ci-dessous).</PositioningEnabledExplained>
+
+	<AchtungModifierTitle>Touche Achtung!</AchtungModifierTitle>
+	<AchtungModifierExplained>Si vous maintenez cette touche, vous forcerez les colons à se déplacer ou à se déplacer en formation.
+Lorsqu’il est maintenu, il permet aux colons sélectionnés d’être déplacés dans leur formation actuelle à votre curseur, en maintenant et en faisant glisser le bouton droit de la souris. Une fois que le bouton droit de la souris est maintenu, la touche Achtung! peut être relâchée.
+La formation peut être tournée en utilisant Q et E</AchtungModifierExplained>
+
+	<ForceCommandMenuModeTitle>Mode Menu contextuel</ForceCommandMenuModeTitle>
+	<ForceCommandMenuModeExplained>Auto = comportement normal (projet de statut décide) 
+Afficher le menu = Maintenez la touche enfoncée pour le menu contextuel  
+Position définie = Maintenez la touche pour commander de positionner</ForceCommandMenuModeExplained>
+	<ForceCommandMenuKeyTitle>Touche de menu contextuel</ForceCommandMenuKeyTitle>
+
+	<ForcedCommandState>Ordonné de travailler jusqu'à la fin .</ForcedCommandState>
+
+	<ForceMenuButtonText>Force</ForceMenuButtonText>
+
+	<IncreaseForceRadius>Augmenter le rayon</IncreaseForceRadius>
+	<IncreaseForceRadiusDesc>Augmenter la distance de recherche pour le travail forcé (le rayon actuel est {0})</IncreaseForceRadiusDesc>
+	<DecreaseForceRadius>Diminuer le rayon</DecreaseForceRadius>
+	<DecreaseForceRadiusDesc>Diminuez la distance de recherche du travail forcé (le rayon actuel est {0})</DecreaseForceRadiusDesc>
+	<BuildingSmart>Construction intelligente </BuildingSmart>
+	<BuildingSmartDesc>La construction intelligente évite les trous et les blocages, mais elle est plus lente et se construit toujours autour de votre point de départ.</BuildingSmartDesc>
+
+	<Notes>Notes</Notes>
+	<Note1>Lorsque vous utilisez Achtung, le menu contextuel contient à la fois des commandes rédigées et non rédigées</Note1>
+	<Note2>Lors du positionnement de colons non enrôlés le long d'une ligne, un clic gauche ramène les colons à leur position actuelle</Note2>
+
+	<CommandMenuModeOptionAuto>Auto</CommandMenuModeOptionAuto>
+	<CommandMenuModeOptionPressForMenu>Afficher le menu</CommandMenuModeOptionPressForMenu>
+	<CommandMenuModeOptionPressForPosition>Position définie</CommandMenuModeOptionPressForPosition>
+
+	<AchtungModKeyOptionNone>Désactivée</AchtungModKeyOptionNone>
+	<AchtungModKeyOptionAlt>Alt</AchtungModKeyOptionAlt>
+	<AchtungModKeyOptionCtrl>Ctrl</AchtungModKeyOptionCtrl>
+	<AchtungModKeyOptionShift>Shift</AchtungModKeyOptionShift>
+	<AchtungModKeyOptionMeta>Win/Cmd</AchtungModKeyOptionMeta>
+
+	<BreakLevelTitle>Niveau de rupture mentale pour les emplois </BreakLevelTitle>
+	<BreakLevelExplained>Définir le niveau de rupture à partir duquel un colon arrête un travail Achtung donné.</BreakLevelExplained>
+	<BreakLevelOptionNone>Ignorer</BreakLevelOptionNone>
+	<BreakLevelOptionMinor>Mineur</BreakLevelOptionMinor>
+	<BreakLevelOptionMajor>Majeur</BreakLevelOptionMajor>
+	<BreakLevelOptionAlmostExtreme>Presque extrême</BreakLevelOptionAlmostExtreme>
+	<BreakLevelOptionExtreme>Extrême</BreakLevelOptionExtreme>
+
+	<HealthLevelTitle>État de santé pour les emplois</HealthLevelTitle>
+	<HealthLevelExplained>Définir l'état de santé à partir duquel un colon arrête un travail Achtung donné.</HealthLevelExplained>
+	<HealthLevelOptionNone>Ignorer</HealthLevelOptionNone>
+	<HealthLevelOptionShouldBeTendedNow>Devrait être soigné maintenant</HealthLevelOptionShouldBeTendedNow>
+	<HealthLevelOptionPrefersMedicalRest>Soins médicaux</HealthLevelOptionPrefersMedicalRest>
+	<HealthLevelOptionNeedsMedicalRest>Besoin de repos médical</HealthLevelOptionNeedsMedicalRest>
+	<HealthLevelOptionInPainShock>En état de choc douloureux</HealthLevelOptionInPainShock>
+
+	<IgnoreForbiddenTitle>Ignorer les choses interdites</IgnoreForbiddenTitle>
+	<IgnoreForbiddenExplained>Ignore les éléments interdits (barrés en rouge) lors de travaux forcés</IgnoreForbiddenExplained>
+	<IgnoreRestrictionsTitle>Ignorer les zones restreintes</IgnoreRestrictionsTitle>
+	<IgnoreRestrictionsExplained>Ignorer les restrictions de zone lors des travaux forcés</IgnoreRestrictionsExplained>
+	<IgnoreAssignmentsTitle>Ignorer les affectations de type de travail</IgnoreAssignmentsTitle>
+	<IgnoreAssignmentsExplained>Ignore les priorités de travail non définies</IgnoreAssignmentsExplained>
+
+	<BuildingSmartDefaultTitle>Construction intelligente activé pour emplois récents d'Achtung</BuildingSmartDefaultTitle>
+	<BuildingSmartDefaultExplained>Définit la méthode par défaut pour le choix de l'ordre de construction des nouvelles tâches.</BuildingSmartDefaultExplained>
+
+	<WorkMarkersTitle>Marqueurs de travail forcé </WorkMarkersTitle>
+	<WorkMarkersExplained>Le travail forcé est affiché avec de petits marqueurs</WorkMarkersExplained>
+	<WorkMarkersOptionAnimated>Animé</WorkMarkersOptionAnimated>
+	<WorkMarkersOptionStatic>Statique</WorkMarkersOptionStatic>
+	<WorkMarkersOptionOff>Off</WorkMarkersOptionOff>
+
+	<JobInterruptedLabel>Annulé {0}</JobInterruptedLabel>
+	<JobInterruptedBreakdown>{0}: {1}</JobInterruptedBreakdown>
+	<JobInterruptedBadHealth>{0} est en mauvais état</JobInterruptedBadHealth>
+
+	<CleanRoomLabel>Nettoyer cette pièce</CleanRoomLabel>
+	<CleanRoomInfoText>Nettoyage complet de la pièce</CleanRoomInfoText>
+	<CleanRoomDescription>Nettoyer une pièce jusqu'à ce qu'elle soit complètement propre</CleanRoomDescription>
+	<CleanRoomReport>Nettoyage{0}: {1}</CleanRoomReport>
+
+	<FireFightLabel>Combattre un incendie</FireFightLabel>
+	<FireFightInfoText>Combattre un incendie</FireFightInfoText>
+	<FireFightDescription>Combattre un incendie (même en dehors de la zone d'habitation)</FireFightDescription>
+	<FireFightReport>Combattre l'incendie: {0}</FireFightReport>
+
+	<SowZoneLabel>Semer cette zone/cette pièce</SowZoneLabel>
+	<SowZoneInfoText>Zone/salle de semis</SowZoneInfoText>
+	<SowZoneDescription>Semer une zone de culture ou une pièce jusqu'à ce qu'elle soit complètement ensemencée.</SowZoneDescription>
+	<SowZoneReport>Semer{0}: {1}</SowZoneReport>
+
+	<AlreadyDoing>(Travail #{0})</AlreadyDoing>
+
+</LanguageData>

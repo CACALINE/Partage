@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+  <!-- EN: advanced wind turbine -->
+  <VFE_AdvancedWindTurbine.label>éolienne avancée</VFE_AdvancedWindTurbine.label>
+  <!-- EN: A spacertech, advanced wind-powered electrical generator. Requires a large clear space in front and behind for optimal air flow. -->
+  <VFE_AdvancedWindTurbine.description>Un bâtiment de technologie spatiale qui produit de l'électricité sous l'effet des vents. Il nécessite un grand espace libre à l'avant et à l'arrière pour une circulation d'air optimale.</VFE_AdvancedWindTurbine.description>
+
+  <!-- EN: advanced solar generator -->
+  <VFE_AdvancedSolarGenerator.label>panneaux solaires avancés</VFE_AdvancedSolarGenerator.label>
+  <!-- EN: This spacertech solar generator is capable of extracting significantly more energy from sunlight. Does not work in the dark or under artificial light. -->
+  <VFE_AdvancedSolarGenerator.description>Ce générateur solaire de technologie spatiale est capable d'extraire beaucoup plus d'énergie de la lumière du soleil. Ne fonctionne pas dans l'obscurité ou sous la lumière artificielle.</VFE_AdvancedSolarGenerator.description>
+
+  <!-- EN: advanced watermill generator -->
+  <VFE_AdvancedWatermillGenerator.label>moulin à eau avancé</VFE_AdvancedWatermillGenerator.label>
+  <!-- EN: A spacertech building that produces electricity from a river. Must be placed with its wheel in moving water. If watermills are placed too close together, the turbulence they generate will interfere and reduce power generation. -->
+  <VFE_AdvancedWatermillGenerator.description>Un bâtiment de technologie spatiale qui produit de l'électricité à partir d'une rivière. Il doit être placé avec sa roue dans l'eau pour générer du mouvement. Si les moulins à eau sont placés trop près les uns des autres, les turbulences qu'ils génèrent interféreront et réduiront la production d'électricité.</VFE_AdvancedWatermillGenerator.description>
+
+  <!-- EN: advanced geothermal generator -->
+  <VPE_AdvancedGeothermalGenerator.label>générateur géothermique avancé</VPE_AdvancedGeothermalGenerator.label>
+  <!-- EN: This advanced, spacertech generator produces electricity from geothermal steam geysers. Must be placed on a steam geyser. -->
+  <VPE_AdvancedGeothermalGenerator.description>Ce générateur de technologie spatiale avancée produit de l'électricité à partir de geysers géothermiques à vapeur. Il doit être placé sur un geyser à vapeur.</VPE_AdvancedGeothermalGenerator.description>
+</LanguageData>

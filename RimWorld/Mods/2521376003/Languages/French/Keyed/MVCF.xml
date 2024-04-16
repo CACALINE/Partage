@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--Traduction FR vanilla expanded framework-->
+    <MVCF.Toggle>Basculer {0}</MVCF.Toggle>
+    <MVCF.ToggleUsing>Basculer en utilisant {0} automatiquement</MVCF.ToggleUsing>
+    <MVCF.ToggleAuto>Basculer l'utilisation automatique</MVCF.ToggleAuto>
+</LanguageData>

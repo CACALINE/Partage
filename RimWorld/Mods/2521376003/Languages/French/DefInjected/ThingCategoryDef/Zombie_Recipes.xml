@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+<!--<Traduction FR zombieland.-->
+  <CureZombieInfection.label>soigner l'infection des zombies</CureZombieInfection.label>
+  <CureZombieInfection.description>Élimine une infection zombie de stade précoce d'une partie du corps. Nécessite un sérum de zombie (un meilleur pourcentage donne moins de risque d'échec).</CureZombieInfection.description>
+  <CureZombieInfection.jobString>Soigner une infection par un zombie.</CureZombieInfection.jobString>
+
+
+</LanguageData>

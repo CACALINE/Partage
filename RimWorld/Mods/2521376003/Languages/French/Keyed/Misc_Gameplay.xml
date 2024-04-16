@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--<Traduction FR vanilla animals expanded.-->
+  <!-- Body clock -->
+  <NocturnalAnimals.BodyClock>Horloge biologique</NocturnalAnimals.BodyClock>
+  <!-- Determines when the animal sleeps and when it is awake.\n\nDiurnal animals sleep during the night and are awake during the day, while nocturnal animals sleep during the day and are awake during the night. Crepuscular animals are mainly active during dusk. -->
+  <NocturnalAnimals.BodyClock_Description>Détermine quand l'animal dort et quand il est éveillé. \n\nLes animaux diurnes dorment pendant la nuit et sont éveillés pendant la journée, tandis que les animaux nocturnes dorment pendant la journée et sont éveillés pendant la nuit. Les animaux du crépuscule sont principalement actifs au crépuscule.</NocturnalAnimals.BodyClock_Description>
+  <!-- Diurnal -->
+  <NocturnalAnimals.BodyClock_Diurnal>Diurne</NocturnalAnimals.BodyClock_Diurnal>
+  <!-- Nocturnal -->
+  <NocturnalAnimals.BodyClock_Nocturnal>Nocturne</NocturnalAnimals.BodyClock_Nocturnal>
+  <!-- Crepuscular -->
+  <NocturnalAnimals.BodyClock_Crepuscular>Crépusculaire</NocturnalAnimals.BodyClock_Crepuscular>
+
+  <!-- Release to the wild -->
+  <VAEE.ReleaseIntoWild>Relâcher dans la nature</VAEE.ReleaseIntoWild>
+  <!-- Release this animal to the wild and increase relations with tribal and outlander factions. -->
+  <VAEE.ReleaseIntoWildDesc>Relâchez cet animal dans la nature et augmentez les relations avec les factions tribales et étrangères.</VAEE.ReleaseIntoWildDesc>
+  <!-- Endangered Animals. -->
+  <VAEE.LetterLabelExtintAnimalsPasses>Animaux en voie d'extinction.</VAEE.LetterLabelExtintAnimalsPasses>
+  <!-- A pair of {0}, critically endangered, have wandered into the area.\n\nThey can easily fall prey to larger predators and poachers, but you can tame them and bring them to safety. \n\nReleasing endangered animals into the wild will boost relations with tribal and outlander factions. -->
+  <VAEE.LetterExtintAnimalsPasses>Deux {0}, en danger critique d'extinction, errent dans la région. \n\nIls peuvent facilement devenir la proie de grands prédateurs et de braconniers, mais vous pouvez les apprivoiser et les mettre en sécurité. \n\nLibérer des animaux en voie de disparition dans la nature renforcera les relations avec les factions tribales et étrangères.</VAEE.LetterExtintAnimalsPasses>
+  <!-- Releasing an endangered animal into the wild improved relations with tribal and outlander factions by +2. -->
+  <VAEE.ReleasingToTheWildMessage>Relâcher un animal en voie d'extinction dans la nature a amélioré les relations avec les factions tribales et étrangères de +2.</VAEE.ReleasingToTheWildMessage>
+  <!-- Releasing to the wild\n\nReleasing an animal to the wild means you will never see it again, as the animal will walk off the map. -->
+  <VAEE.ReleasingToTheWildConfirmation>Relâcher dans la nature\n\nRelâcher un animal dans la nature signifie que vous ne le reverrez jamais, car l'animal quittera la carte.</VAEE.ReleasingToTheWildConfirmation>
+  <!-- Cancel -->
+  <VAEE.Cancel>Annuler</VAEE.Cancel>
+  <!-- Add release into wild button to all animals -->
+  <VAEE.AddBanishGizmoToAllAnimals>Ajouter le bouton relâcher dans la nature à tous les animaux</VAEE.AddBanishGizmoToAllAnimals>
+  
+  <!--<Traduction FR vanilla furniture expanded.-->
+	
+	<!-- EN: Select base -->
+	<VFEArt_SelectHologramText>Sélectionner hologramme</VFEArt_SelectHologramText>
+	<!-- EN: Click to select the hologram base to shut it down, deconstruct, move, etc -->
+	<VFEArt_SelectHologramDesc>Cliquez pour sélectionner la base de l'hologramme pour l'éteindre, la déconstruire, la déplacer, etc.</VFEArt_SelectHologramDesc>
+
+	<!-- Power -->
+	<!-- EN: Pipes not connected to generator or tanks -->
+	<VPE_PipesNotConnected>Tuyaux non connectés au générateur ou aux réservoirs</VPE_PipesNotConnected>
+	<!-- EN: Pipe grid excess/stored: {0} ml / {1} ml-d -->
+	<VPE_PipeConnectedRateStored>Réseau de canalisations excédentaires / de stockage: {0} ml / {1} ml-d</VPE_PipeConnectedRateStored>
+	<!-- EN: Gas stored -->
+	<VPE_LiquidTankStored>Gaz stocké</VPE_LiquidTankStored>
+	<!-- EN: Tank efficiency -->
+	<VPE_LiquidTankEfficiency>Efficacité du réservoir</VPE_LiquidTankEfficiency>
+	<!-- EN: Minimum sealant leakage -->
+	<VPE_TankLeakage>Fuite minimale</VPE_TankLeakage>
+	<!-- EN: Gas needed -->
+	<VPE_NutrientNeeded>Besoin de gaz</VPE_NutrientNeeded>
+	<!-- EN: Gas output -->
+	<VPE_LiquidOutput>Sortie de gaz</VPE_LiquidOutput>
+	<!-- EN: This building must be placed on top of a helixien gas geyser -->
+	<VPE_MustPlaceOnGasGeyser>Ce bâtiment doit être placé au-dessus d'un geyser à gaz hélixien</VPE_MustPlaceOnGasGeyser>
+	<!-- EN: Fill hole -->
+	<VPE_PlugHole>Remplir le trou</VPE_PlugHole>
+	<!-- EN: Fill hole with dirt. WARNING: this will destroy the geyser or pond. Only do this if it is no longer useable or if you need the space. -->
+	<VPE_PlugHoleDesc>Remplissez le trou de terre. ATTENTION: cela détruira le geyser ou l'étang. Ne le faites que s'il n'est plus utilisable ou si vous avez besoin d'espace.</VPE_PlugHoleDesc>
+	<!-- EN: Cancel fill hole -->
+	<VPE_CancelPlugHole>Annuler le remplissage du trou.</VPE_CancelPlugHole>
+	<!-- EN: Cancels the hole filling job. -->
+	<VPE_CancelPlugHoleDesc>Annule le travail de remplissage de trous.</VPE_CancelPlugHoleDesc>
+	<!-- EN: Gas powered buildings must be placed adjacent to gas pipes, not on top -->
+	<VPE_MustPlaceAdjacentToPipe>Les bâtiments alimentés au gaz doivent être placés à côté des conduites de gaz, pas dessus.</VPE_MustPlaceAdjacentToPipe>
+	<!-- EN: Deconstruct Gas Network -->
+	<VPE_DeconstructGasPipes>Déconstruire le réseau de gaz</VPE_DeconstructGasPipes>
+	<!-- EN: Deconstruct only gas pipes and subterranean gas pipes -->
+	<VPE_DeconstructGasPipesDesc>Déconstruire uniquement les conduites de gaz et les conduites de gaz souterraines</VPE_DeconstructGasPipesDesc>
+	<!-- EN: Gas excess/stored: {0} / {1} -->
+	<Fluffy.GasNetwork.GasNetworkInspectString>Gaz excédentaire / stocké: {0} / {1}</Fluffy.GasNetwork.GasNetworkInspectString>
+	<!-- EN: Gas stored: {0}/{1} -->
+	<Fluffy.GasNetwork.Stored>Gaz stocké: {0}/{1}</Fluffy.GasNetwork.Stored>
+	<!-- EN: Gas produced: {0} -->
+	<Fluffy.GasNetwork.Production>Gaz produit: {0}</Fluffy.GasNetwork.Production>
+	<!-- EN: Gas consumed: {0} -->
+	<Fluffy.GasNetwork.Consumption>Gaz consommé: {0}</Fluffy.GasNetwork.Consumption>
+	<!-- EN: Gas turned off. -->
+	<Fluffy.GasNetwork.GasOff>Gaz éteint.</Fluffy.GasNetwork.GasOff>
+	<!-- EN: Not connected to gas network. -->
+	<Fluffy.GasNetwork.NoNetwork>Il n'est pas connecté au réseau de gaz.</Fluffy.GasNetwork.NoNetwork>
+	<!-- EN: Valve is open. -->
+	<Fluffy.GasNetwork.ValveOpen>La vanne est ouverte.</Fluffy.GasNetwork.ValveOpen>
+	<!-- EN: Valve is closed. -->
+	<Fluffy.GasNetwork.ValveClosed>La vanne est fermée.</Fluffy.GasNetwork.ValveClosed>
+	<!-- EN: Toggle gas flow -->
+	<Fluffy.GasNetwork.CommandToggleGas.Label>Flux de gaz alterné</Fluffy.GasNetwork.CommandToggleGas.Label>
+	<!-- EN: Designate gas flow to be toggle on or off. A colonist will come soon to flick the switch. -->
+	<Fluffy.GasNetwork.CommandToggleGas.Desc>Désignez le débit de gaz à activer ou à désactiver. Un colon viendra bientôt pour basculer l'interrupteur.</Fluffy.GasNetwork.CommandToggleGas.Desc>
+	<!-- EN: Target gas storage: {0}/{1} -->
+  	<Fluffy.GasNetwork.DesiredBuffer>Choisissez le stockage de gaz: {0}/{1}</Fluffy.GasNetwork.DesiredBuffer>
+  	<!-- EN: Gas storage turned off. -->
+  	<Fluffy.GasNetwork.BufferOff>Le stockage de gaz est désactivé.</Fluffy.GasNetwork.BufferOff>
+  	 <!-- EN: Preferred unit of wind speed -->
+  	<Fluffy.GasNetwork.Settings.Wind.WindSpeedUnit>Unité préférée de vitesse du vent</Fluffy.GasNetwork.Settings.Wind.WindSpeedUnit>
+  	<!-- EN: Wind Simulation -->
+	<Fluffy.GasNetwork.Settings.Wind.Category>Simulation du vent</Fluffy.GasNetwork.Settings.Wind.Category>
+	<!-- EN: Warning: Reactor producing radiation in a {0} meters radius -->
+	<VPE_RadiationProduced>Avertissement: le réacteur produit un rayonnement dans un rayon de {0} mètres</VPE_RadiationProduced>
+	<!-- EN: Temperature in reactor room: {0}ºC -->
+	<VPE_TempInReactorRoom>Température dans la salle du réacteur: {0}ºC</VPE_TempInReactorRoom>
+	<!-- EN: Warning: Temperature in reactor room: {0}ºC -->
+	<VPE_TempInReactorRoomCritical>Avertissement: température dans la salle du réacteur: {0}ºC</VPE_TempInReactorRoomCritical>
+	<!-- EN: Warning: Meltdown due to high temperature. Until repaired, reactor will kill all life in a radius of -->
+	<VPE_Meltdown>Attention: fusion à haute température. Jusqu'à ce qu'il soit réparé, le réacteur tuera toute vie dans un rayon de</VPE_Meltdown>
+	<!-- EN: Reactor Meltdown -->
+	<VPE_MeltdownLetterLabel>Fusion du réacteur</VPE_MeltdownLetterLabel>
+	<!-- EN: A partial reactor meltdown has occured due to high temperature in the reactor room! Until repaired, this reactor will be extremely harmful to life in an extended radius.\n\nIgnoring this may very well be the end of your colony in a few hours -->
+	<VPE_MeltdownLetter>Une fusion partielle du réacteur s'est produite en raison de la température élevée dans la salle du réacteur! Jusqu'à ce qu'il soit réparé, ce réacteur sera extrêmement nocif pour la vie dans un rayon étendu. \n\nIgnorer cela peut très bien être la fin de votre colonie dans quelques heures.</VPE_MeltdownLetter>
+	<!-- EN: Reactor room must be a roofed, enclosed space -->
+	<VPE_NoReactorRoom>La salle du réacteur doit être un espace clos et couvert</VPE_NoReactorRoom>
+	<!-- EN: This building needs to be placed in an indoors, roofed area -->
+	<VPE_MustPlaceRoofed>Ce bâtiment doit être placé dans une zone intérieure couverte</VPE_MustPlaceRoofed>
+	<!-- EN: Souls stored for:  -->
+	<VPE_SoulsTime>Âmes stockées pour: </VPE_SoulsTime>
+	<!-- EN: No souls absorbed. The Machine Gods are hungry for human souls. -->
+	<VPE_NotProducing>Il n'y a pas d'âmes absorbées. Les dieux de la machine ont faim d'âmes humaines.</VPE_NotProducing>
+	  <!-- EN: Switch Generator  -->
+  	<VPE_ToggleViolenceGenerator>Générateur de commutateur</VPE_ToggleViolenceGenerator>
+  	<!-- EN: Switch Generator between a working and an inactive state  -->
+	<VPE_ToggleViolenceGeneratorDesc>Commutation du générateur entre un état de fonctionnement et un état au repos</VPE_ToggleViolenceGeneratorDesc>
+  	<!-- EN: Violence generator is toggled off and inactive right now  -->
+	<VPE_GeneratorIsOff>Le générateur de violence est éteint et inactif en ce moment</VPE_GeneratorIsOff>
+	<!-- EN: Lightning energy stored for: -->
+	<VPE_LightningTime>L'énergie stockée pour: </VPE_LightningTime>
+	<!-- EN: Producing {0} W of electricity -->
+	<VPE_Producing>Produciendo {0} W</VPE_Producing>
+	<!-- EN: Lightning electricity depleted. Looks like you'll have to wait for the next thunderstorm. -->
+	<VPE_NotLightningProducing>L'électricité de la foudre est épuisée. Il semblerait que vous deviez attendre le prochain orage.</VPE_NotLightningProducing>
+	<!-- Gas pipe kaboom -->
+	<!-- EN: a gas pipe -->
+	<VPE_AGasPipe>une conduite de gaz</VPE_AGasPipe>
+	<!-- EN: A fault in {0} has caused a gas explosion. -->
+	<VPE_GasExplosion>Un défaut à {0} a provoqué une explosion de gaz.</VPE_GasExplosion>
+	<!-- EN: A fault in {0} has caused a gas explosion which started a fire. -->
+	<VPE_GasExplosionStartedFire>Un défaut dans {0} a provoqué une explosion de gaz et déclenché un incendie.</VPE_GasExplosionStartedFire>
+	<!-- EN: All {0} l-d of gas in the connected gas tanks has been discharged in a violent explosion. -->
+	<VPE_GasExplosionLostGas>Tout le {0} l-j de gaz dans les réservoirs de gaz connectés a été évacué lors d'une violente explosion.</VPE_GasExplosionLostGas>
+	<!-- EN: This large amount of gas has created an explosion of considerable size -->
+	<VPE_GasExplosionLWasLarge>Cette grande quantité de gaz a créé une explosion de taille considérable.</VPE_GasExplosionLWasLarge>
+	<!-- EN: That really is a huge explosion. Wow. -->
+	<VPE_GasExplosionLWasHuge>C'est vraiment une grande explosion. Wow!</VPE_GasExplosionLWasHuge>
+	<!-- EN: Kaboom! -->
+	<VPE_LetterLabelGasExplosion>¡Boouum!</VPE_LetterLabelGasExplosion>
+	<!-- Chemfuel Pond -->
+	<!-- EN: This chemfuel pond has {0} units of chemfuel left -->
+	<VPE_PondHasFuel>Il reste {0} unités de chemfuel dans cet étang</VPE_PondHasFuel>
+	<!-- EN: This chemfuel pond is depleted -->
+	<VPE_PondNoFuel>Cet étang de chemfuel est épuisé</VPE_PondNoFuel>
+	<!-- EN: The chemfuel pump needs to be built on top of a chemfuel pond -->
+	<VPE_MustPlaceOnChemfuelPond>La pompe à chemfuel doit être construite au-dessus d'un bassin à chemfuel</VPE_MustPlaceOnChemfuelPond>
+	<!-- EN: The pump will produce {0} units of chemfuel in {1} -->
+	<VPE_PumpProducing>La pompe produira {0} unités de chemfuel en {1}</VPE_PumpProducing>
+	<!-- Tidal power plant -->
+	<!-- EN: This power plant must be built on water -->
+	<VPE_NeedsWater>Cette centrale doit être construite sur l'eau</VPE_NeedsWater>
+	<!-- EN: Tidal power plants must be built with at least 40 tiles of separation of each other -->
+	<VPE_NeedsDistance>Les centrales marémotrices doivent être construites avec au moins 40 cases séparées les unes des autres</VPE_NeedsDistance>
+	<!-- Update Letter -->
+	<!-- EN: Power Mod Update -->
+	<VPE_GasUpdateNoticeLetterLabel>Mise à jour du Power Mod</VPE_GasUpdateNoticeLetterLabel>
+	<!-- EN: The Vanilla Furniture Expanded: Power mod has been updated with a very important update regarding the Helixien Gas Network.\n\nThe original code was made by me (Sarg Bjornson) and it was quite sloppy, causing a lot of bugs and inconsistent behaviour. Thanks to the amazing Fluffy, the whole gas network code has been rewritten, and it should work perfectly now.\n\nNOTE: since most of the classes controlling the Gas Network have changed, you should re-make any gas network components you have on an existing save. You can replace buildings without cost by accessing dev mode and turning on God mode. Then simply deconstruct your current gas network (with all gas-based objects), and replace it, for free. -->
+	<VPE_GasUpdateNoticeLetterText>Vanilla Furniture Expanded: Le module d'alimentation a été mis à jour avec une mise à jour très importante concernant le Helixene Gas Grid. \n\nLe code original a été écrit par moi (Sarg Bjornson) et était assez bâclé, provoquant de nombreux bogues et comportements incohérents. Grâce à l'incroyable Fluffy, tout le code du réseau de gaz a été réécrit, et cela devrait fonctionner parfaitement maintenant.\n\nREMARQUE: étant donné que la plupart des classes qui contrôlent le réseau de gaz ont changé, vous devez refaire tout composant de réseau de gaz que vous avez dans une réserve existante. Vous pouvez remplacer des bâtiments sans frais en passant en mode développement et en activant le mode Dieu. Ensuite, il vous suffit de déconstruire votre réseau de gaz actuel (avec tous les éléments à base de gaz) et de le remplacer gratuitement.</VPE_GasUpdateNoticeLetterText>
+
+	<!-- Spacer -->
+	<!-- Current light radius -->
+	<TargetLightRadius>Rayon lumineux</TargetLightRadius>
+	<!-- Current intensity -->
+	<CurrentLightOpacity>Intensité</CurrentLightOpacity>
+	<!-- Increase the current radius. -->
+	<CommandRaiseLightRDesc>Augmenter le rayon.</CommandRaiseLightRDesc>
+	<!-- Decrease the current radius. -->
+	<CommandLowerLightRDesc>Diminuer le rayon.</CommandLowerLightRDesc>
+	<!-- Increase the current intensity. -->
+	<CommandRaiseLightIntDesc>Augmenter l'intensité.</CommandRaiseLightIntDesc>
+	<!-- Lower the current intensity. -->
+	<CommandLowerLightIntDesc>Diminuer l'intensité.</CommandLowerLightIntDesc>
+	<!-- % Intensity. -->
+	<LightIntensityPercent>% d'intensité</LightIntensityPercent>
+	<!--  Cell radius. -->
+	<LightRadiusCells>Rayon (en cases).</LightRadiusCells>
+	<!-- Switch light colour to  -->
+	<SwitchedColourDesc>Changez la couleur de la lumière en</SwitchedColourDesc>
+	<!-- Red -->
+	<LightColourRed>rouge</LightColourRed>
+	<!-- Green -->
+	<LightColourGreen>vert</LightColourGreen>
+	<!-- Blue -->
+	<LightColourBlue>Bleu</LightColourBlue>
+	<!-- White -->
+	<LightColourWhite>Blanc</LightColourWhite>
+
+</LanguageData>

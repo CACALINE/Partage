@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Mods RimHUD de Jaxe.-->
+  <RimHUD.Integration.PawnRules.RuleNameFormat>Règles: {0}</RimHUD.Integration.PawnRules.RuleNameFormat>
+</LanguageData>

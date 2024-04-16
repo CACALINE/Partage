@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+	<!-- artillery strike (incoming) -->
+	<VFES_ArtilleryStrikeIncoming.label>frappe d'artillerie (en approche)</VFES_ArtilleryStrikeIncoming.label>
+	<!-- artillery strike (leaving) -->
+	<VFES_ArtilleryStrikeLeaving.label>frappe d'artillerie (en partance)</VFES_ArtilleryStrikeLeaving.label>
+
+
+</LanguageData>

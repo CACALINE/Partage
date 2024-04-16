@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR zombieland.-->
+  <Stumble.reportString>hésitant.</Stumble.reportString>
+  <Sabotage.reportString>sabotage.</Sabotage.reportString>
+  <ExtractZombieSerum.reportString>extraire le sérum de zombie de la TargetA.</ExtractZombieSerum.reportString>
+  <DoubleTap.reportString>double tapotement de la TargetA.</DoubleTap.reportString>
+
+
+</LanguageData>

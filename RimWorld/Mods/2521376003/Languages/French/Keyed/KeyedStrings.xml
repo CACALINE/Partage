@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR vanilla furniture expanded.-->
+
+	<!-- Designate feeding area -->
+	<VFEF_CommandMakeCompAreaLabel>Zone d'alimentation</VFEF_CommandMakeCompAreaLabel>
+	<!-- Automatically designate the specified area around this {0}. -->
+	<!-- {0} is the parent building's label -->
+	<VFEF_CommandMakeCompAreaDesc>Mappez automatiquement la zone spécifiée autour de ce {0}.</VFEF_CommandMakeCompAreaDesc>
+	<!-- Scare colony animals -->
+	<VFEF_ScarecrowGizmo>Effrayez n'importe quel animal</VFEF_ScarecrowGizmo>
+	<!-- Allow to choose if this scarecrow should make your colony animal flee -->
+	<VFEF_ScarecrowGizmoText>Lorsqu'il est installé, l'épouvantail chassera les animaux sauvages et de colonie.</VFEF_ScarecrowGizmoText>
+
+	
+</LanguageData>

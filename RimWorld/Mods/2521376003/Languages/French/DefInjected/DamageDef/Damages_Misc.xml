@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+<!-- splinter -->
+<VFES_SplinterArrow.label>flèche</VFES_SplinterArrow.label>
+<!-- {0} a été transpercé à mort par une flèche gigantesque. -->
+<VFES_SplinterArrow.deathMessage>{0} est mort transpercé par une flèche géante.</VFES_SplinterArrow.deathMessage>
+
+<!-- rock -->
+<VFES_Rock.label>roche</VFES_Rock.label>
+<!-- {0} a été écrasé à mort par un rocher gigantesque. -->
+<VFES_Rock.deathMessage>{0} est mort écrasé par un rocher géant.</VFES_Rock.deathMessage>
+
+<!-- flame -->
+<VFES_HauntingFlame.label>flamme</VFES_HauntingFlame.label>
+<!-- {0} has burned to death. -->
+<VFES_HauntingFlame.deathMessage>{0} a brûlé à mort.</VFES_HauntingFlame.deathMessage>
+
+<!-- {0} has been killed. -->
+<VFES_NoDMG.deathMessage>{0} a été assassiné.</VFES_NoDMG.deathMessage>
+
+</LanguageData>

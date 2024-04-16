@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Vanilla Achivements Expanded.-->
+  <threeLittlePigs.label>Les trois petits cochons</threeLittlePigs.label>
+  <threeLittlePigs.description>Avoir 3 Cochons et 1 Loup des bois</threeLittlePigs.description>
+  
+  <lookAtAllThoseChickens.label>La basse-cour</lookAtAllThoseChickens.label>
+  <lookAtAllThoseChickens.description>Avoir 20 oies</lookAtAllThoseChickens.description>
+  
+  <sustainableFuelSource.label>Source de carburant durable</sustainableFuelSource.label>
+  <sustainableFuelSource.description>Avoir 8 Boomalopes</sustainableFuelSource.description>
+  
+  <muffaloRancher.label>Eleveur de muffalos</muffaloRancher.label>
+  <muffaloRancher.description>Avoir 12 Muffalos</muffaloRancher.description>
+  
+  <arkHalfFull.label>Arche de Noé</arkHalfFull.label>
+  <arkHalfFull.description>Avoir chaque animal du jeu de base en 1 exemplaire en même temps.</arkHalfFull.description>
+  
+  <gentleGiant.label>Géant doux</gentleGiant.label>
+  <gentleGiant.description>Apprivoiser un Thrumbo</gentleGiant.description>
+  
+</LanguageData>

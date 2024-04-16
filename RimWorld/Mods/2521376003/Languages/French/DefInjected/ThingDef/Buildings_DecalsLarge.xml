@@ -1,0 +1,386 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+<!-- EN: large arrow long symbol -->
+<VFEPD_LargeDecalArrowLong.label>grand symbole de flèche longue</VFEPD_LargeDecalArrowLong.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalArrowLong.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalArrowLong.description>
+<!-- EN: large arrow short symbol -->
+<VFEPD_LargeDecalArrowShort.label>grand symbole de flèche courte</VFEPD_LargeDecalArrowShort.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalArrowShort.description>Un grand autocollant pour le sol.</VFEPD_LargeDecalArrowShort.description>
+<!-- EN: large arrow wide symbol -->
+<VFEPD_LargeDecalArrowWide.label>grand symbole de flèche large</VFEPD_LargeDecalArrowWide.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalArrowWide.description>Un grand symbole pour le sol.</VFEPD_LargeDecalArrowWide.description>
+<!-- EN: large decal line double -->
+<VFEPD_LargeDecalLineDouble.label>grand symbole de ligne double</VFEPD_LargeDecalLineDouble.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalLineDouble.description>Un grand symbole  pour le sol.</VFEPD_LargeDecalLineDouble.description>
+<!-- EN: large decal line double inner corner -->
+<VFEPD_LargeDecalLineDoubleCornerInner.label>grand symbole de coin intérieur double ligne</VFEPD_LargeDecalLineDoubleCornerInner.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalLineDoubleCornerInner.description>Un grand symbole pour le sol.</VFEPD_LargeDecalLineDoubleCornerInner.description>
+<!-- EN: large decal line double outer corner -->
+<VFEPD_LargeDecalLineDoubleCornerOuter.label>grand symbole de coin extérieur double ligne</VFEPD_LargeDecalLineDoubleCornerOuter.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalLineDoubleCornerOuter.description>Un grand symbole pour le sol.</VFEPD_LargeDecalLineDoubleCornerOuter.description>
+<!-- EN: large decal line thin -->
+<VFEPD_LargeDecalLineThin.label>grand symbole de ligne fine</VFEPD_LargeDecalLineThin.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalLineThin.description>Un grand symbole pour le sol.</VFEPD_LargeDecalLineThin.description>
+<!-- EN: large decal line thin inner corner -->
+<VFEPD_LargeDecalLineThinCornerInner.label>grand symbole de coin intérieur fine ligne</VFEPD_LargeDecalLineThinCornerInner.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalLineThinCornerInner.description>Un grand symbole pour le sol.</VFEPD_LargeDecalLineThinCornerInner.description>
+<!-- EN: large decal line thin outer corner -->
+<VFEPD_LargeDecalLineThinCornerOuter.label>grand symbole de coin extérieur en ligne fine</VFEPD_LargeDecalLineThinCornerOuter.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalLineThinCornerOuter.description>Un grand symbole pour le sol.</VFEPD_LargeDecalLineThinCornerOuter.description>
+<!-- EN: large A symbol -->
+<VFEPD_LargeDecalSymbolA.label>symbole A/VFEPD_LargeDecalSymbolA.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalSymbolA.description>Un grand symbole pour le sol.</VFEPD_LargeDecalSymbolA.description>
+<!-- EN: large B symbol -->
+<VFEPD_LargeDecalSymbolB.label>symbole B/VFEPD_LargeDecalSymbolB.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalSymbolB.description>Un grand symbole pour le sol.</VFEPD_LargeDecalSymbolB.description>
+<!-- EN: large C symbol -->
+<VFEPD_LargeDecalSymbolC.label>symbole C/VFEPD_LargeDecalSymbolC.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalSymbolC.description>Un grand symbole pour le sol.</VFEPD_LargeDecalSymbolC.description>
+<!-- EN: large D symbol -->
+<VFEPD_LargeDecalSymbolD.label>symbole D/VFEPD_LargeDecalSymbolD.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalSymbolD.description>Un grand symbole pour le sol.</VFEPD_LargeDecalSymbolD.description>
+<!-- EN: large E symbol -->
+<VFEPD_LargeDecalSymbolE.label>symbole E/VFEPD_LargeDecalSymbolE.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalSymbolE.description>Un grand symbole pour le sol.</VFEPD_LargeDecalSymbolE.description>
+<!-- EN: large F symbol -->
+<VFEPD_LargeDecalSymbolF.label>symbole F/VFEPD_LargeDecalSymbolF.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalSymbolF.description>Un grand symbole pour le sol.</VFEPD_LargeDecalSymbolF.description>
+<!-- EN: large G symbol -->
+<VFEPD_LargeDecalSymbolG.label>symbole G/VFEPD_LargeDecalSymbolG.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalSymbolG.description>Un grand symbole pour le sol.</VFEPD_LargeDecalSymbolG.description>
+<!-- EN: large H symbol -->
+<VFEPD_LargeDecalSymbolH.label>symbole H/VFEPD_LargeDecalSymbolH.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalSymbolH.description>Un grand symbole pour le sol.</VFEPD_LargeDecalSymbolH.description>
+<!-- EN: large I symbol -->
+<VFEPD_LargeDecalSymbolI.label>symbole I/VFEPD_LargeDecalSymbolI.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalSymbolI.description>Un grand symbole pour le sol.</VFEPD_LargeDecalSymbolI.description>
+<!-- EN: large J symbol -->
+<VFEPD_LargeDecalSymbolJ.label>symbole J/VFEPD_LargeDecalSymbolJ.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalSymbolJ.description>Un grand symbole pour le sol.</VFEPD_LargeDecalSymbolJ.description>
+<!-- EN: large K symbol -->
+<VFEPD_LargeDecalSymbolK.label>symbole K/VFEPD_LargeDecalSymbolK.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalSymbolK.description>Un grand symbole pour le sol.</VFEPD_LargeDecalSymbolK.description>
+<!-- EN: large L symbol -->
+<VFEPD_LargeDecalSymbolL.label>symbole L/VFEPD_LargeDecalSymbolL.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalSymbolL.description>Un grand symbole pour le sol.</VFEPD_LargeDecalSymbolL.description>
+<!-- EN: large M symbol -->
+<VFEPD_LargeDecalSymbolM.label>symbole M/VFEPD_LargeDecalSymbolM.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalSymbolM.description>Un grand symbole pour le sol.</VFEPD_LargeDecalSymbolM.description>
+<!-- EN: large N symbol -->
+<VFEPD_LargeDecalSymbolN.label>symbole N/VFEPD_LargeDecalSymbolN.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalSymbolN.description>Un grand symbole pour le sol.</VFEPD_LargeDecalSymbolN.description>
+<!-- EN: large O symbol -->
+<VFEPD_LargeDecalSymbolO.label>symbole O/VFEPD_LargeDecalSymbolO.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalSymbolO.description>Un grand symbole pour le sol.</VFEPD_LargeDecalSymbolO.description>
+<!-- EN: large P symbol -->
+<VFEPD_LargeDecalSymbolP.label>symbole P/VFEPD_LargeDecalSymbolP.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalSymbolP.description>Un grand symbole pour le sol.</VFEPD_LargeDecalSymbolP.description>
+<!-- EN: large Q symbol -->
+<VFEPD_LargeDecalSymbolQ.label>symbole Q/VFEPD_LargeDecalSymbolQ.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalSymbolQ.description>Un grand symbole pour le sol</VFEPD_LargeDecalSymbolQ.description>
+<!-- EN: large R symbol -->
+<VFEPD_LargeDecalSymbolR.label>symbole R/VFEPD_LargeDecalSymbolR.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalSymbolR.description>Un grand symbole pour le sol.</VFEPD_LargeDecalSymbolR.description>
+<!-- EN: large S symbol -->
+<VFEPD_LargeDecalSymbolS.label>symbole S/VFEPD_LargeDecalSymbolS.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalSymbolS.description>Un grand symbole pour le sol.</VFEPD_LargeDecalSymbolS.description>
+<!-- EN: large T symbol -->
+<VFEPD_LargeDecalSymbolT.label>symbole T/VFEPD_LargeDecalSymbolT.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalSymbolT.description>Un grand symbole pour le sol.</VFEPD_LargeDecalSymbolT.description>
+<!-- EN: large U symbol -->
+<VFEPD_LargeDecalSymbolU.label>symbole U/VFEPD_LargeDecalSymbolU.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalSymbolU.description>Un grand symbole pour le sol.</VFEPD_LargeDecalSymbolU.description>
+<!-- EN: large V symbol -->
+<VFEPD_LargeDecalSymbolV.label>symbole V/VFEPD_LargeDecalSymbolV.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalSymbolV.description>Un grand symbole pour le sol.</VFEPD_LargeDecalSymbolV.description>
+<!-- EN: large W symbol -->
+<VFEPD_LargeDecalSymbolW.label>symbole W/VFEPD_LargeDecalSymbolW.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalSymbolW.description>Un grand symbole pour le sol.</VFEPD_LargeDecalSymbolW.description>
+<!-- EN: large X symbol -->
+<VFEPD_LargeDecalSymbolX.label>symbole X/VFEPD_LargeDecalSymbolX.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalSymbolX.description>Un grand symbole pour le sol.</VFEPD_LargeDecalSymbolX.description>
+<!-- EN: large Y symbol -->
+<VFEPD_LargeDecalSymbolY.label>symbole Y/VFEPD_LargeDecalSymbolY.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalSymbolY.description>Un grand symbole pour le sol.</VFEPD_LargeDecalSymbolY.description>
+<!-- EN: large Z symbol -->
+<VFEPD_LargeDecalSymbolZ.label>symbole Z/VFEPD_LargeDecalSymbolZ.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalSymbolZ.description>Un grand symbole pour le sol.</VFEPD_LargeDecalSymbolZ.description>
+<!-- EN: large 1 symbol -->
+<VFEPD_LargeDecalSymbolOne.label>symbole 1/VFEPD_LargeDecalSymbolOne.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalSymbolOne.description>Un grand symbole pour le sol.</VFEPD_LargeDecalSymbolOne.description>
+<!-- EN: large 2 symbol -->
+<VFEPD_LargeDecalSymbolTwo.label>symbole 2/VFEPD_LargeDecalSymbolTwo.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalSymbolTwo.description>Un grand symbole pour le sol.</VFEPD_LargeDecalSymbolTwo.description>
+<!-- EN: large 3 symbol -->
+<VFEPD_LargeDecalSymbolThree.label>symbole 3/VFEPD_LargeDecalSymbolThree.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalSymbolThree.description>Un grand symbole pour le sol.</VFEPD_LargeDecalSymbolThree.description>
+<!-- EN: large 4 symbol -->
+<VFEPD_LargeDecalSymbolFour.label>symbole 4/VFEPD_LargeDecalSymbolFour.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalSymbolFour.description>Un grand symbole pour le sol.</VFEPD_LargeDecalSymbolFour.description>
+<!-- EN: large 5 symbol -->
+<VFEPD_LargeDecalSymbolFive.label>symbole 5/VFEPD_LargeDecalSymbolFive.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalSymbolFive.description>Un grand symbole pour le sol.</VFEPD_LargeDecalSymbolFive.description>
+<!-- EN: large 6 symbol -->
+<VFEPD_LargeDecalSymbolSix.label>symbole 6/VFEPD_LargeDecalSymbolSix.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalSymbolSix.description>Un grand symbole pour le sol.</VFEPD_LargeDecalSymbolSix.description>
+<!-- EN: large 7 symbol -->
+<VFEPD_LargeDecalSymbolSeven.label>symbole 7/VFEPD_LargeDecalSymbolSeven.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalSymbolSeven.description>Un grand symbole pour le sol.</VFEPD_LargeDecalSymbolSeven.description>
+<!-- EN: large 8 symbol -->
+<VFEPD_LargeDecalSymbolEight.label>symbole 8/VFEPD_LargeDecalSymbolEight.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalSymbolEight.description>Un grand symbole pour le sol.</VFEPD_LargeDecalSymbolEight.description>
+<!-- EN: large 9 symbol -->
+<VFEPD_LargeDecalSymbolNine.label>symbole 9/VFEPD_LargeDecalSymbolNine.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalSymbolNine.description>Un grand symbole pour le sol.</VFEPD_LargeDecalSymbolNine.description>
+<!-- EN: large 0 symbol -->
+<VFEPD_LargeDecalSymbolZero.label>symbole 0/VFEPD_LargeDecalSymbolZero.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalSymbolZero.description>Un grand symbole pour le sol.</VFEPD_LargeDecalSymbolZero.description>
+<!-- EN: large armory decal -->
+<VFEPD_LargeDecalWordArmory.label>grand symbole d'armurerie</VFEPD_LargeDecalWordArmory.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalWordArmory.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordArmory.description>
+<!-- EN: large barracks decal -->
+<VFEPD_LargeDecalWordBarracks.label>grand symbole de caserne</VFEPD_LargeDecalWordBarracks.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalWordBarracks.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordBarracks.description>
+<!-- EN: large block decal -->
+<VFEPD_LargeDecalWordBlock.label>grand symbole de bloc</VFEPD_LargeDecalWordBlock.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalWordBlock.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordBlock.description>
+<!-- EN: large cafeteria decal -->
+<VFEPD_LargeDecalWordCafeteria.label>grand symbole de cafétéria</VFEPD_LargeDecalWordCafeteria.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalWordCafeteria.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordCafeteria.description>
+<!-- EN: large cargo decal -->
+<VFEPD_LargeDecalWordCargo.label>grand symbole de cargaison</VFEPD_LargeDecalWordCargo.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalWordCargo.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordCargo.description>
+<!-- EN: large chamber decal -->
+<VFEPD_LargeDecalWordChamber.label>grand symbole de chambre</VFEPD_LargeDecalWordChamber.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalWordChamber.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordChamber.description>
+<!-- EN: large climate decal -->
+<VFEPD_LargeDecalWordClimate.label>grand symbole météo</VFEPD_LargeDecalWordClimate.label>
+<!-- EN: A large floor decal. -->
+<VFEPD_LargeDecalWordClimate.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordClimate.description>
+
+<!-- EN: large command decal -->
+<VFEPD_LargeDecalWordCommand.label>grand symbole de commande</VFEPD_LargeDecalWordCommand.label>
+<VFEPD_LargeDecalWordCommand.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordCommand.description>
+
+<!-- EN: large control decal -->
+<VFEPD_LargeDecalWordControl.label>grand symbole de contrôle</VFEPD_LargeDecalWordControl.label>
+<VFEPD_LargeDecalWordControl.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordControl.description>
+
+<!-- EN: large engineer decal -->
+<VFEPD_LargeDecalWordEngineer.label>grand symbole d'ingénierie</VFEPD_LargeDecalWordEngineer.label>
+<VFEPD_LargeDecalWordEngineer.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordEngineer.description>
+
+<!-- EN: large farming decal -->
+<VFEPD_LargeDecalWordFarming.label>grand symbole d'agriculture</VFEPD_LargeDecalWordFarming.label>
+<VFEPD_LargeDecalWordFarming.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordFarming.description>
+
+<!-- EN: large freezer decal -->
+<VFEPD_LargeDecalWordFreezer.label>grand symbole de congélateur</VFEPD_LargeDecalWordFreezer.label>
+<VFEPD_LargeDecalWordFreezer.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordFreezer.description>
+
+<!-- EN: large fridge decal -->
+<VFEPD_LargeDecalWordFridge.label>grand symbole de réfrigérateur</VFEPD_LargeDecalWordFridge.label>
+<VFEPD_LargeDecalWordFridge.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordFridge.description>
+
+<!-- EN: large hangar decal -->
+<VFEPD_LargeDecalWordHangar.label>grand symbole de hangar</VFEPD_LargeDecalWordHangar.label>
+<VFEPD_LargeDecalWordHangar.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordHangar.description>
+
+<!-- EN: large hospital decal -->
+<VFEPD_LargeDecalWordHospital.label>grand symbole d'hôpital</VFEPD_LargeDecalWordHospital.label>
+<VFEPD_LargeDecalWordHospital.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordHospital.description>
+
+<!-- EN: large kill decal -->
+<VFEPD_LargeDecalWordKill.label>grand symbole d'abattoir</VFEPD_LargeDecalWordKill.label>
+<VFEPD_LargeDecalWordKill.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordKill.description>
+
+<!-- EN: large kitchen decal -->
+<VFEPD_LargeDecalWordKitchen.label>grand symbole de cuisine</VFEPD_LargeDecalWordKitchen.label>
+<VFEPD_LargeDecalWordKitchen.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordKitchen.description>
+
+<!-- EN: large landing decal -->
+<VFEPD_LargeDecalWordLanding.label>grand symbole d'atterissage</VFEPD_LargeDecalWordLanding.label>
+<VFEPD_LargeDecalWordLanding.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordLanding.description>
+
+<!-- EN: large medical decal -->
+<VFEPD_LargeDecalWordMedical.label>grand symbole mécidal</VFEPD_LargeDecalWordMedical.label>
+<VFEPD_LargeDecalWordMedical.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordMedical.description>
+
+<!-- EN: large mess decal -->
+<VFEPD_LargeDecalWordMess.label>grand symbole de désordre</VFEPD_LargeDecalWordMess.label>
+<VFEPD_LargeDecalWordMess.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordMess.description>
+
+<!-- EN: large morgue decal -->
+<VFEPD_LargeDecalWordMorgue.label>grand symbole de morgue</VFEPD_LargeDecalWordMorgue.label>
+<VFEPD_LargeDecalWordMorgue.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordMorgue.description>
+
+<!-- EN: large mortar decal -->
+<VFEPD_LargeDecalWordMortar.label>grand symbole de mortier</VFEPD_LargeDecalWordMortar.label>
+<VFEPD_LargeDecalWordMortar.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordMortar.description>
+
+<!-- EN: large play decal -->
+<VFEPD_LargeDecalWordPlay.label>grand symbole de jeu</VFEPD_LargeDecalWordPlay.label>
+<VFEPD_LargeDecalWordPlay.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordPlay.description>
+
+<!-- EN: large prison decal -->
+<VFEPD_LargeDecalWordPrison.label>grand symbole de prison</VFEPD_LargeDecalWordPrison.label>
+<VFEPD_LargeDecalWordPrison.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordPrison.description>
+
+<!-- EN: large reactor decal -->
+<VFEPD_LargeDecalWordReactor.label>grand symbole de réacteur</VFEPD_LargeDecalWordReactor.label>
+<VFEPD_LargeDecalWordReactor.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordReactor.description>
+
+<!-- EN: large recreation decal -->
+<VFEPD_LargeDecalWordRecreation.label>grand symbole de loisirs</VFEPD_LargeDecalWordRecreation.label>
+<VFEPD_LargeDecalWordRecreation.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordRecreation.description>
+
+<!-- EN: large refinery decal -->
+<VFEPD_LargeDecalWordRefinery.label>grand symbole de raffinerie</VFEPD_LargeDecalWordRefinery.label>
+<VFEPD_LargeDecalWordRefinery.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordRefinery.description>
+
+<!-- EN: large relax decal -->
+<VFEPD_LargeDecalWordRelax.label>grand symbole de relaxation</VFEPD_LargeDecalWordRelax.label>
+<VFEPD_LargeDecalWordRelax.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordRelax.description>
+
+<!-- EN: large research decal -->
+<VFEPD_LargeDecalWordResearch.label>grand symbole de recherche</VFEPD_LargeDecalWordResearch.label>
+<VFEPD_LargeDecalWordResearch.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordResearch.description>
+
+<!-- EN: large security decal -->
+<VFEPD_LargeDecalWordSecurity.label>grand symbole de sécurité</VFEPD_LargeDecalWordSecurity.label>
+<VFEPD_LargeDecalWordSecurity.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordSecurity.description>
+
+<!-- EN: large shipping decal -->
+<VFEPD_LargeDecalWordShipping.label>grand symbole de transport</VFEPD_LargeDecalWordShipping.label>
+<VFEPD_LargeDecalWordShipping.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordShipping.description>
+
+<!-- EN: large sleeping decal -->
+<VFEPD_LargeDecalWordSleeping.label>grand symbole de dortoir</VFEPD_LargeDecalWordSleeping.label>
+<VFEPD_LargeDecalWordSleeping.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordSleeping.description>
+
+<!-- EN: large smelting decal -->
+<VFEPD_LargeDecalWordSmelting.label>grand symbole de fonderie</VFEPD_LargeDecalWordSmelting.label>
+<VFEPD_LargeDecalWordSmelting.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordSmelting.description>
+
+<!-- EN: large storage decal -->
+<VFEPD_LargeDecalWordStorage.label>grand symbole de stockage</VFEPD_LargeDecalWordStorage.label>
+<VFEPD_LargeDecalWordStorage.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordStorage.description>
+
+<!-- EN: large warning decal -->
+<VFEPD_LargeDecalWordWarning.label>grand symbole d'avertissement</VFEPD_LargeDecalWordWarning.label>
+<VFEPD_LargeDecalWordWarning.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordWarning.description>
+
+<!-- EN: large workshop decal -->
+<VFEPD_LargeDecalWordWorkshop.label>grand symbole d'atelier</VFEPD_LargeDecalWordWorkshop.label>
+<VFEPD_LargeDecalWordWorkshop.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordWorkshop.description>
+
+<!-- EN: large base decal -->
+<VFEPD_LargeDecalWordSmallBase.label>grand symbole de base</VFEPD_LargeDecalWordSmallBase.label>
+<VFEPD_LargeDecalWordSmallBase.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordSmallBase.description>
+
+<!-- EN: large bay decal -->
+<VFEPD_LargeDecalWordSmallBay.label>grand symbole de baie</VFEPD_LargeDecalWordSmallBay.label>
+<VFEPD_LargeDecalWordSmallBay.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordSmallBay.description>
+
+<!-- EN: large box decal -->
+<VFEPD_LargeDecalWordSmallBox.label>grand symbole de caja</VFEPD_LargeDecalWordSmallBox.label>
+<VFEPD_LargeDecalWordSmallBox.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordSmallBox.description>
+
+<!-- EN: large cell decal -->
+<VFEPD_LargeDecalWordSmallCell.label>grand symbole de cellule</VFEPD_LargeDecalWordSmallCell.label>
+<VFEPD_LargeDecalWordSmallCell.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordSmallCell.description>
+
+<!-- EN: large clear decal -->
+<VFEPD_LargeDecalWordSmallClear.label>grand symbole de nettoyage</VFEPD_LargeDecalWordSmallClear.label>
+<VFEPD_LargeDecalWordSmallClear.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordSmallClear.description>
+
+<!-- EN: large dock decal -->
+<VFEPD_LargeDecalWordSmallDock.label>grand symbole de quai</VFEPD_LargeDecalWordSmallDock.label>
+<VFEPD_LargeDecalWordSmallDock.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordSmallDock.description>
+
+<!-- EN: large gas decal -->
+<VFEPD_LargeDecalWordSmallGas.label>grand symbole de gaz</VFEPD_LargeDecalWordSmallGas.label>
+<VFEPD_LargeDecalWordSmallGas.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordSmallGas.description>
+
+<!-- EN: large hall decal -->
+<VFEPD_LargeDecalWordSmallHall.label>grand symbole de salon</VFEPD_LargeDecalWordSmallHall.label>
+<VFEPD_LargeDecalWordSmallHall.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordSmallHall.description>
+
+<!-- EN: large keep decal -->
+<VFEPD_LargeDecalWordSmallKeep.label>grand symbole de garde</VFEPD_LargeDecalWordSmallKeep.label>
+<VFEPD_LargeDecalWordSmallKeep.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordSmallKeep.description>
+
+<!-- EN: large lab decal -->
+<VFEPD_LargeDecalWordSmallLab.label>grand symbole de laboratoire</VFEPD_LargeDecalWordSmallLab.label>
+<VFEPD_LargeDecalWordSmallLab.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordSmallLab.description>
+
+<!-- EN: large pad decal -->
+<VFEPD_LargeDecalWordSmallPad.label>grand symbole de pad</VFEPD_LargeDecalWordSmallPad.label>
+<VFEPD_LargeDecalWordSmallPad.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordSmallPad.description>
+
+<!-- EN: large room decal -->
+<VFEPD_LargeDecalWordSmallRoom.label>grand symbole de chambre</VFEPD_LargeDecalWordSmallRoom.label>
+<VFEPD_LargeDecalWordSmallRoom.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordSmallRoom.description>
+
+<!-- EN: large wing decal -->
+<VFEPD_LargeDecalWordSmallWing.label>grand symbole d'aile</VFEPD_LargeDecalWordSmallWing.label>
+<VFEPD_LargeDecalWordSmallWing.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordSmallWing.description>
+
+<!-- EN: large zone decal -->
+<VFEPD_LargeDecalWordSmallZone.label>grand symbole de zone</VFEPD_LargeDecalWordSmallZone.label>
+<VFEPD_LargeDecalWordSmallZone.description>Un grand symbole pour le sol.</VFEPD_LargeDecalWordSmallZone.description>
+
+
+</LanguageData>

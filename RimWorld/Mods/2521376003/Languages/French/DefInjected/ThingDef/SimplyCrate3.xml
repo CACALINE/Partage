@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--Traduction FR [KET] Simple Storage - Stone Crates-->
+  <JDS_11ResourcesCrate.label>Stockage de gravats de calcaire</JDS_11ResourcesCrate.label>
+  <JDS_11ResourcesCrate.description>Peut stocker jusqu'à 40 piles de gravats de calcaire.</JDS_11ResourcesCrate.description>
+  
+  <JDS_11bResourcesCrate.label>Stockage de blocs de calcaire</JDS_11bResourcesCrate.label>
+  <JDS_11bResourcesCrate.description>Peut stocker jusqu'à 10 piles de blocs de calcaire.</JDS_11bResourcesCrate.description>
+  
+  <JDS_12ResourcesCrate.label>Stockage de gravats d'ardoise</JDS_12ResourcesCrate.label>
+  <JDS_12ResourcesCrate.description>Peut stocker jusqu'à 40 piles de gravats d'ardoise.</JDS_12ResourcesCrate.description>
+  
+  <JDS_12bResourcesCrate.label>Stockage de blocs d'ardoise</JDS_12bResourcesCrate.label>
+  <JDS_12bResourcesCrate.description>Peut stocker jusqu'à 10 piles de blocs d'ardoise.</JDS_12bResourcesCrate.description>
+  
+  <JDS_13ResourcesCrate.label>Stockage de gravats de granite</JDS_13ResourcesCrate.label>
+  <JDS_13ResourcesCrate.description>Peut stocker jusqu'à 40 piles de gravats de granite.</JDS_13ResourcesCrate.description>
+  
+  <JDS_13bResourcesCrate.label>Stockage de blocs de granite</JDS_13bResourcesCrate.label>
+  <JDS_13bResourcesCrate.description>Peut stocker jusqu'à 10 piles de blocs de granite.</JDS_13bResourcesCrate.description>
+  
+  <JDS_14ResourcesCrate.label>Stockage de gravats de marbre</JDS_14ResourcesCrate.label>
+  <JDS_14ResourcesCrate.description>Peut stocker jusqu'à 40 piles de gravats de marbre.</JDS_14ResourcesCrate.description>
+  
+  <JDS_14bResourcesCrate.label>Stockage de blocs de marbre</JDS_14bResourcesCrate.label>
+  <JDS_14bResourcesCrate.description>Peut stocker jusqu'à 10 piles de blocs de marbre.</JDS_14bResourcesCrate.description>
+  
+  <JDS_15ResourcesCrate.label>Stockage de gravats de grès</JDS_15ResourcesCrate.label>
+  <JDS_15ResourcesCrate.description>Peut stocker jusqu'à 40 piles de gravats de grès.</JDS_15ResourcesCrate.description>
+  
+  <JDS_15bResourcesCrate.label>Stockage de blocs de grès</JDS_15bResourcesCrate.label>
+  <JDS_15bResourcesCrate.description>Peut stocker jusqu'à 10 piles de blocs de grès.</JDS_15bResourcesCrate.description>
+  
+</LanguageData>

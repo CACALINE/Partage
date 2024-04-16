@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Tous les vanilla animals expanded.-->
+  <!-- walrus tusk -->
+  <AEXP_WalrusTusk.label>défense de morse</AEXP_WalrusTusk.label>
+  <!-- A walrus's tusk. It is quite valuable, but somewhat unwieldy as a melee weapon. -->
+  <AEXP_WalrusTusk.description>Une défense de morse. C'est assez précieux, mais quelque peu lourd en tant qu'arme de mêlée.</AEXP_WalrusTusk.description>
+  <!-- point -->
+  <AEXP_WalrusTusk.tools.point.label>point</AEXP_WalrusTusk.tools.point.label>
+  <!-- base -->
+  <AEXP_WalrusTusk.tools.base.label>base</AEXP_WalrusTusk.tools.base.label>
+
+
+</LanguageData>

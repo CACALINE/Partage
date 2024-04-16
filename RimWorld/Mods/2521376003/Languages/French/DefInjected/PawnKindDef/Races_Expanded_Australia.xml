@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Tous les vanilla animals expanded.-->
+  <!-- Australia-->
+  <!-- boombat -->
+  <AEXP_Boombat.label>boombat</AEXP_Boombat.label>
+  <!-- boombats -->
+  <AEXP_Boombat.labelPlural>boombates</AEXP_Boombat.labelPlural>
+  <!-- boombat -->
+  <AEXP_Boombat.lifeStages.0.label>bébé boombat</AEXP_Boombat.lifeStages.0.label>
+  <!-- boombat -->
+  <AEXP_Boombat.lifeStages.0.labelPlural>bébés boombat</AEXP_Boombat.lifeStages.0.labelPlural>
+  <!-- male boombat -->
+  <AEXP_Boombat.lifeStages.0.labelMale>bébé boombat</AEXP_Boombat.lifeStages.0.labelMale>
+  <!-- male boombats -->
+  <AEXP_Boombat.lifeStages.0.labelMalePlural>bébés boombat</AEXP_Boombat.lifeStages.0.labelMalePlural>
+  <!-- female boombat -->
+  <AEXP_Boombat.lifeStages.0.labelFemale>bébé boombat</AEXP_Boombat.lifeStages.0.labelFemale>
+  <!-- female boombats -->
+  <AEXP_Boombat.lifeStages.0.labelFemalePlural>bébés boombat</AEXP_Boombat.lifeStages.0.labelFemalePlural>
+  <!-- boombat -->
+  <AEXP_Boombat.lifeStages.1.label>boombat</AEXP_Boombat.lifeStages.1.label>
+  <!-- boombat -->
+  <AEXP_Boombat.lifeStages.1.labelPlural>boombates</AEXP_Boombat.lifeStages.1.labelPlural>
+  <!-- male boombat -->
+  <AEXP_Boombat.lifeStages.1.labelMale>boombat</AEXP_Boombat.lifeStages.1.labelMale>
+  <!-- male boombats -->
+  <AEXP_Boombat.lifeStages.1.labelMalePlural>boombates</AEXP_Boombat.lifeStages.1.labelMalePlural>
+  <!-- female boombat -->
+  <AEXP_Boombat.lifeStages.1.labelFemale>boombat</AEXP_Boombat.lifeStages.1.labelFemale>
+  <!-- female boombats -->
+  <AEXP_Boombat.lifeStages.1.labelFemalePlural>boombates</AEXP_Boombat.lifeStages.1.labelFemalePlural>
+  <!-- boombat -->
+  <AEXP_Boombat.lifeStages.2.label>boombat</AEXP_Boombat.lifeStages.2.label>
+  <!-- boombat -->
+  <AEXP_Boombat.lifeStages.2.labelPlural>boombates</AEXP_Boombat.lifeStages.2.labelPlural>
+  <!-- male boombat -->
+  <AEXP_Boombat.lifeStages.2.labelMale>boombat</AEXP_Boombat.lifeStages.2.labelMale>
+  <!-- male boombats -->
+  <AEXP_Boombat.lifeStages.2.labelMalePlural>boombates</AEXP_Boombat.lifeStages.2.labelMalePlural>
+  <!-- female boombat -->
+  <AEXP_Boombat.lifeStages.2.labelFemale>boombat</AEXP_Boombat.lifeStages.2.labelFemale>
+  <!-- female boombats -->
+  <AEXP_Boombat.lifeStages.2.labelFemalePlural>boombates</AEXP_Boombat.lifeStages.2.labelFemalePlural>
+  <!-- male boombat -->
+  <AEXP_Boombat.labelMale>boombat</AEXP_Boombat.labelMale>
+  <!-- male boombats -->
+  <AEXP_Boombat.labelMalePlural>boombates</AEXP_Boombat.labelMalePlural>
+  <!-- female boombat -->
+  <AEXP_Boombat.labelFemale>boombat</AEXP_Boombat.labelFemale>
+  <!-- female boombats -->
+  <AEXP_Boombat.labelFemalePlural>boombates</AEXP_Boombat.labelFemalePlural>
+
+  <!-- kangaroo -->
+  <AEXP_Kangaroo.label>kangourou</AEXP_Kangaroo.label>
+  <!-- kangaroos -->
+  <AEXP_Kangaroo.labelPlural>kangourous</AEXP_Kangaroo.labelPlural>
+  <!-- kangaroo -->
+  <AEXP_Kangaroo.lifeStages.0.label>bébé kangourou</AEXP_Kangaroo.lifeStages.0.label>
+  <!-- kangaroo -->
+  <AEXP_Kangaroo.lifeStages.0.labelPlural>bébés kangourous</AEXP_Kangaroo.lifeStages.0.labelPlural>
+  <!-- male kangaroo -->
+  <AEXP_Kangaroo.lifeStages.0.labelMale>bébé kangourou</AEXP_Kangaroo.lifeStages.0.labelMale>
+  <!-- male kangaroos -->
+  <AEXP_Kangaroo.lifeStages.0.labelMalePlural>bébés kangourous</AEXP_Kangaroo.lifeStages.0.labelMalePlural>
+  <!-- female kangaroo -->
+  <AEXP_Kangaroo.lifeStages.0.labelFemale>bébé kangourou</AEXP_Kangaroo.lifeStages.0.labelFemale>
+  <!-- female kangaroos -->
+  <AEXP_Kangaroo.lifeStages.0.labelFemalePlural>bébés kangourous</AEXP_Kangaroo.lifeStages.0.labelFemalePlural>
+  <!-- kangaroo -->
+  <AEXP_Kangaroo.lifeStages.1.label>kangourou</AEXP_Kangaroo.lifeStages.1.label>
+  <!-- kangaroo -->
+  <AEXP_Kangaroo.lifeStages.1.labelPlural>kangourous</AEXP_Kangaroo.lifeStages.1.labelPlural>
+  <!--male kangaroo -->
+  <AEXP_Kangaroo.lifeStages.1.labelMale>kangourou</AEXP_Kangaroo.lifeStages.1.labelMale>
+  <!-- male kangaroos -->
+  <AEXP_Kangaroo.lifeStages.1.labelMalePlural>kangourous</AEXP_Kangaroo.lifeStages.1.labelMalePlural>
+  <!-- female kangaroo -->
+  <AEXP_Kangaroo.lifeStages.1.labelFemale>kangourou</AEXP_Kangaroo.lifeStages.1.labelFemale>
+  <!-- female kangaroos -->
+  <AEXP_Kangaroo.lifeStages.1.labelFemalePlural>kangourous</AEXP_Kangaroo.lifeStages.1.labelFemalePlural>
+  <!-- kangaroo -->
+  <AEXP_Kangaroo.lifeStages.2.label>kangourou</AEXP_Kangaroo.lifeStages.2.label>
+  <!-- kangaroo -->
+  <AEXP_Kangaroo.lifeStages.2.labelPlural>kangourous</AEXP_Kangaroo.lifeStages.2.labelPlural>
+  <!--male kangaroo -->
+  <AEXP_Kangaroo.lifeStages.2.labelMale>kangourou</AEXP_Kangaroo.lifeStages.2.labelMale>
+  <!-- male kangaroos -->
+  <AEXP_Kangaroo.lifeStages.2.labelMalePlural>kangourous</AEXP_Kangaroo.lifeStages.2.labelMalePlural>
+  <!-- female kangaroo -->
+  <AEXP_Kangaroo.lifeStages.2.labelFemale>kangourou</AEXP_Kangaroo.lifeStages.2.labelFemale>
+  <!-- female kangaroos -->
+  <AEXP_Kangaroo.lifeStages.2.labelFemalePlural>kangourous</AEXP_Kangaroo.lifeStages.2.labelFemalePlural>
+  <!-- male kangaroo -->
+  <AEXP_Kangaroo.labelMale>kangourou</AEXP_Kangaroo.labelMale>
+  <!-- male kangaroos -->
+  <AEXP_Kangaroo.labelMalePlural>kangourous</AEXP_Kangaroo.labelMalePlural>
+  <!-- female kangaroo -->
+  <AEXP_Kangaroo.labelFemale>kangourou</AEXP_Kangaroo.labelFemale>
+  <!-- female kangaroos -->
+  <AEXP_Kangaroo.labelFemalePlural>kangourous</AEXP_Kangaroo.labelFemalePlural>
+
+  <!-- koala -->
+  <AEXP_Koala.label>koala</AEXP_Koala.label>
+  <!-- koala -->
+  <AEXP_Koala.labelPlural>koalas</AEXP_Koala.labelPlural>
+  <!-- koala -->
+  <AEXP_Koala.lifeStages.0.label>bébé koala</AEXP_Koala.lifeStages.0.label>
+  <!-- koala -->
+  <AEXP_Koala.lifeStages.0.labelPlural>bébés koalas</AEXP_Koala.lifeStages.0.labelPlural>
+  <!-- male koala -->
+  <AEXP_Koala.lifeStages.0.labelMale>bébé koala</AEXP_Koala.lifeStages.0.labelMale>
+  <!-- male koalas -->
+  <AEXP_Koala.lifeStages.0.labelMalePlural>bébés koalas</AEXP_Koala.lifeStages.0.labelMalePlural>
+  <!-- female koala -->
+  <AEXP_Koala.lifeStages.0.labelFemale>bébé koala</AEXP_Koala.lifeStages.0.labelFemale>
+  <!-- female koalas -->
+  <AEXP_Koala.lifeStages.0.labelFemalePlural>bébés koalas</AEXP_Koala.lifeStages.0.labelFemalePlural>
+  <!-- koala -->
+  <AEXP_Koala.lifeStages.1.label>koala</AEXP_Koala.lifeStages.1.label>
+  <!-- koala -->
+  <AEXP_Koala.lifeStages.1.labelPlural>koalas</AEXP_Koala.lifeStages.1.labelPlural>
+  <!-- male koala -->
+  <AEXP_Koala.lifeStages.1.labelMale>koala</AEXP_Koala.lifeStages.1.labelMale>
+  <!-- >male koalas -->
+  <AEXP_Koala.lifeStages.1.labelMalePlural>koalas</AEXP_Koala.lifeStages.1.labelMalePlural>
+  <!-- female koala -->
+  <AEXP_Koala.lifeStages.1.labelFemale>koala</AEXP_Koala.lifeStages.1.labelFemale>
+  <!-- female koalas -->
+  <AEXP_Koala.lifeStages.1.labelFemalePlural>koalas</AEXP_Koala.lifeStages.1.labelFemalePlural>
+  <!-- koala -->
+  <AEXP_Koala.lifeStages.2.label>koala</AEXP_Koala.lifeStages.2.label>
+  <!-- koala -->
+  <AEXP_Koala.lifeStages.2.labelPlural>koalas</AEXP_Koala.lifeStages.2.labelPlural>
+  <!-- male koala -->
+  <AEXP_Koala.lifeStages.2.labelMale>koala</AEXP_Koala.lifeStages.2.labelMale>
+  <!-- male koalas -->
+  <AEXP_Koala.lifeStages.2.labelMalePlural>koalas</AEXP_Koala.lifeStages.2.labelMalePlural>
+  <!-- female koala -->
+  <AEXP_Koala.lifeStages.2.labelFemale>koala</AEXP_Koala.lifeStages.2.labelFemale>
+  <!-- female koalas -->
+  <AEXP_Koala.lifeStages.2.labelFemalePlural>koalas</AEXP_Koala.lifeStages.2.labelFemalePlural>
+  <!-- male koala -->
+  <AEXP_Koala.labelMale>koala</AEXP_Koala.labelMale>
+  <!-- male koalas -->
+  <AEXP_Koala.labelMalePlural>koalas</AEXP_Koala.labelMalePlural>
+  <!-- female koala -->
+  <AEXP_Koala.labelFemale>koala</AEXP_Koala.labelFemale>
+  <!-- female koalas -->
+  <AEXP_Koala.labelFemalePlural>koalas</AEXP_Koala.labelFemalePlural>
+
+  <!-- platypus -->
+  <AEXP_Platypus.label>ornithorynque</AEXP_Platypus.label>
+  <!-- platypuss -->
+  <AEXP_Platypus.labelPlural>ornithorynque</AEXP_Platypus.labelPlural>
+  <!-- platypus -->
+  <AEXP_Platypus.lifeStages.0.label>bébé ornithorynque</AEXP_Platypus.lifeStages.0.label>
+  <!-- platypuss -->
+  <AEXP_Platypus.lifeStages.0.labelPlural>bébés ornithorynques</AEXP_Platypus.lifeStages.0.labelPlural>
+  <!-- male platypus -->
+  <AEXP_Platypus.lifeStages.0.labelMale>bébé ornithorynque</AEXP_Platypus.lifeStages.0.labelMale>
+  <!-- male platypuss -->
+  <AEXP_Platypus.lifeStages.0.labelMalePlural>bébés ornithorynquse</AEXP_Platypus.lifeStages.0.labelMalePlural>
+  <!-- female platypus -->
+  <AEXP_Platypus.lifeStages.0.labelFemale>bébé ornithorynque</AEXP_Platypus.lifeStages.0.labelFemale>
+  <!-- female platypuss -->
+  <AEXP_Platypus.lifeStages.0.labelFemalePlural>bébés ornithorynques</AEXP_Platypus.lifeStages.0.labelFemalePlural>
+  <!-- platypus -->
+  <AEXP_Platypus.lifeStages.1.label>ornithorynque</AEXP_Platypus.lifeStages.1.label>
+  <!-- platypuss -->
+  <AEXP_Platypus.lifeStages.1.labelPlural>ornithorynques</AEXP_Platypus.lifeStages.1.labelPlural>
+  <!-- male platypus -->
+  <AEXP_Platypus.lifeStages.1.labelMale>ornithorynque</AEXP_Platypus.lifeStages.1.labelMale>
+  <!--male platypuss -->
+  <AEXP_Platypus.lifeStages.1.labelMalePlural>ornithorynques</AEXP_Platypus.lifeStages.1.labelMalePlural>
+  <!-- female platypus -->
+  <AEXP_Platypus.lifeStages.1.labelFemale>ornithorynque</AEXP_Platypus.lifeStages.1.labelFemale>
+  <!-- female platypuss -->
+  <AEXP_Platypus.lifeStages.1.labelFemalePlural>ornithorynques</AEXP_Platypus.lifeStages.1.labelFemalePlural>
+  <!-- platypus -->
+  <AEXP_Platypus.lifeStages.2.label>ornithorynque</AEXP_Platypus.lifeStages.2.label>
+  <!-- platypuss -->
+  <AEXP_Platypus.lifeStages.2.labelPlural>ornithorynques</AEXP_Platypus.lifeStages.2.labelPlural>
+  <!-- male platypus -->
+  <AEXP_Platypus.lifeStages.2.labelMale>ornithorynque</AEXP_Platypus.lifeStages.2.labelMale>
+  <!-- male platypuss -->
+  <AEXP_Platypus.lifeStages.2.labelMalePlural>ornithorynques</AEXP_Platypus.lifeStages.2.labelMalePlural>
+  <!-- female platypus -->
+  <AEXP_Platypus.lifeStages.2.labelFemale>ornithorynque</AEXP_Platypus.lifeStages.2.labelFemale>
+  <!-- female platypuss -->
+  <AEXP_Platypus.lifeStages.2.labelFemalePlural>ornithorynques</AEXP_Platypus.lifeStages.2.labelFemalePlural>
+  <!-- male platypus -->
+  <AEXP_Platypus.labelMale>ornithorynque</AEXP_Platypus.labelMale>
+  <!-- male platypuss -->
+  <AEXP_Platypus.labelMalePlural>ornithorynques</AEXP_Platypus.labelMalePlural>
+  <!-- female platypus -->
+  <AEXP_Platypus.labelFemale>ornithorynque</AEXP_Platypus.labelFemale>
+  <!-- female platypuss -->
+  <AEXP_Platypus.labelFemalePlural>ornithorynques</AEXP_Platypus.labelFemalePlural>
+
+</LanguageData>

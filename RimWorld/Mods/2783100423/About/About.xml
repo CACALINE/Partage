@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Quarry [Fr]</name>
+	<author>Joedox</author>
+	<supportedVersions>		
+		<li>1.3</li>
+		<li>1.4</li>
+   </supportedVersions>
+   <modDependencies>
+		<li>
+			<packageId>Ogliss.TheWhiteCrayon.Quarry</packageId>
+			<displayName>Quarry</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2007576583</steamWorkshopUrl>
+		</li>
+	</modDependencies>	
+	<packageId>Joedox.Ogliss.TheWhiteCrayon.Quarry.Fr</packageId>
+	<description>
+&lt;size=18&gt;Traduction &lt;color=#3691FF&gt;fra&lt;/color&gt;&lt;color=#FFFFFF&gt;nça&lt;/color&gt;&lt;color=#E00000&gt;ise&lt;/color&gt; du mod :&lt;b&gt; Quarry &lt;/b&gt; &lt;/size&gt;
+
+
+Ajoute une carrière pour l'exploitation minière sur terrain plat.
+	</description>
+
+	<loadBefore>
+		<li></li>
+	</loadBefore>
+
+	<loadAfter>			
+		<li>Ogliss.TheWhiteCrayon.Quarry</li>
+	</loadAfter>
+
+	<incompatibleWith>
+		<li></li>
+	</incompatibleWith>
+
+</ModMetaData>

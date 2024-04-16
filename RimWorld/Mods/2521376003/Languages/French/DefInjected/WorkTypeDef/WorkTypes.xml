@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--suppress ALL -->
+<LanguageData>
+	<!--Traduction FR Hospitality-->
+	<Diplomat.labelShort>Hôte</Diplomat.labelShort>
+	<Diplomat.pawnLabel>Hôte</Diplomat.pawnLabel>
+	<Diplomat.gerundLabel>Accueillir et divertir les invités</Diplomat.gerundLabel>
+	<Diplomat.description>Les hôtes, ou diplomates, divertissent les invités et nouent des amitiés.</Diplomat.description>
+	<Diplomat.verb>Accueillir</Diplomat.verb>
+
+	<!--Traduction FR quarry 1.1-->
+  <QuarryMining.description>Creuser et forer dans une carrière.</QuarryMining.description>
+  <QuarryMining.labelShort>Carrière</QuarryMining.labelShort>
+  <QuarryMining.pawnLabel>Mineur</QuarryMining.pawnLabel>
+  <QuarryMining.gerundLabel>exploitation de carrières</QuarryMining.gerundLabel>
+  <QuarryMining.verb>Carrière minière</QuarryMining.verb>
+  
+  <!--<Traduction FR children, school and learning.-->
+  <Study.labelShort>Étude</Study.labelShort>
+  <Study.pawnLabel>Étudiant</Study.pawnLabel>
+  <Study.gerundLabel>Étudier</Study.gerundLabel>
+  <Study.description>Étudier pour améliorer et définir les compétences.</Study.description>
+  <Study.verb>Étudier à</Study.verb>
+  
+  <Teach.labelShort>Enseigner</Teach.labelShort>
+  <Teach.pawnLabel>Enseignant</Teach.pawnLabel>
+  <Teach.gerundLabel>Enseignement</Teach.gerundLabel>
+  <Teach.description>Enseigner pour améliorer et définir les compétences.</Teach.description>
+  <Teach.verb>Enseigner à</Teach.verb>
+  
+  <!--<Traduction FR Complex Jobs.-->
+	<FSFNurse.labelShort>Infirmier</FSFNurse.labelShort>
+	<FSFNurse.pawnLabel>Infirmier</FSFNurse.pawnLabel>
+	<FSFNurse.gerundLabel>Infirmières</FSFNurse.gerundLabel>
+	<FSFNurse.description>Soigner les malades, leur apporter de la nourriture, leur remonter le moral et accomplir les tâches qui leur sont assignées. Les infirmières s'occuperont des colons, des prisonniers et des animaux.</FSFNurse.description>
+    <FSFNurse.verb>Soins</FSFNurse.verb>
+	
+	<FSFSurgeon.labelShort>Chirurgie</FSFSurgeon.labelShort>
+	<FSFSurgeon.pawnLabel>Chirurgien</FSFSurgeon.pawnLabel>
+	<FSFSurgeon.gerundLabel>Opération</FSFSurgeon.gerundLabel>
+	<FSFSurgeon.description>Effectuer des opérations chirurgicales sur les colons, les prisonniers et les animaux.</FSFSurgeon.description>
+    <FSFSurgeon.verb>Opérer sur</FSFSurgeon.verb>
+	
+	<FSFRearming.labelShort>Réarmé</FSFRearming.labelShort>
+	<FSFRearming.pawnLabel>Rearmer</FSFRearming.pawnLabel>
+	<FSFRearming.gerundLabel>Réarmement</FSFRearming.gerundLabel>
+	<FSFRearming.description>Réarmez les tourelles et les pièges.</FSFRearming.description>
+    <FSFRearming.verb>Réarmé</FSFRearming.verb>
+	
+	<FSFRefueling.labelShort>Ravitaille</FSFRefueling.labelShort>
+	<FSFRefueling.pawnLabel>Ravitailleur</FSFRefueling.pawnLabel>
+	<FSFRefueling.gerundLabel>Ravitaillement</FSFRefueling.gerundLabel>
+	<FSFRefueling.description>Ravitailler les objets qui fonctionnent au bois ou au carburant chimique.</FSFRefueling.description>
+    <FSFRefueling.verb>Ravitailler</FSFRefueling.verb>
+	
+	<FSFTraining.labelShort>Appr.</FSFTraining.labelShort>
+	<FSFTraining.pawnLabel>Apprivoiseur</FSFTraining.pawnLabel>
+	<FSFTraining.gerundLabel>Apprivoisement</FSFTraining.gerundLabel>
+	<FSFTraining.description>Apprivoisez les animaux sauvages et dressez les animaux domestiques.</FSFTraining.description>
+    <FSFTraining.verb>Apprivoiser</FSFTraining.verb>
+	
+	<FSFButcher.labelShort>Boucher</FSFButcher.labelShort>
+	<FSFButcher.pawnLabel>Boucher</FSFButcher.pawnLabel>
+	<FSFButcher.gerundLabel>Boucherie</FSFButcher.gerundLabel>
+	<FSFButcher.description>Créer des croquettes et de la viande de boucherie.</FSFButcher.description>
+    <FSFButcher.verb>Boucher</FSFButcher.verb>
+	
+	<FSFBrewing.labelShort>Brasseur</FSFBrewing.labelShort>
+	<FSFBrewing.pawnLabel>Brasseur</FSFBrewing.pawnLabel>
+	<FSFBrewing.gerundLabel>Brassage</FSFBrewing.gerundLabel>
+	<FSFBrewing.description>Créer le moût à partir du houblon, remplir et vider les fûts de fermentation.</FSFBrewing.description>
+    <FSFBrewing.verb>Brasser</FSFBrewing.verb>
+	
+	<FSFRepair.labelShort>Répa.</FSFRepair.labelShort>
+	<FSFRepair.pawnLabel>Réparateur</FSFRepair.pawnLabel>
+	<FSFRepair.gerundLabel>Réparation</FSFRepair.gerundLabel>
+	<FSFRepair.description>Réparer les bâtiments/objets endommagés ou en mauvais état.</FSFRepair.description>
+    <FSFRepair.verb>Réparer</FSFRepair.verb>
+
+	<FSFDeconstruct.labelShort>Décons.</FSFDeconstruct.labelShort>
+	<FSFDeconstruct.pawnLabel>Déconstructeur</FSFDeconstruct.pawnLabel>
+	<FSFDeconstruct.gerundLabel>Déconstruction</FSFDeconstruct.gerundLabel>
+	<FSFDeconstruct.description>Désinstaller ou déconstruire des bâtiments/objets.</FSFDeconstruct.description>
+    <FSFDeconstruct.verb>Déconstruire</FSFDeconstruct.verb>
+	
+	<FSFHarvesting.labelShort>Récolteur</FSFHarvesting.labelShort>
+	<FSFHarvesting.pawnLabel>Récolteuse</FSFHarvesting.pawnLabel>
+	<FSFHarvesting.gerundLabel>Récolte</FSFHarvesting.gerundLabel>
+	<FSFHarvesting.description>Récolter les cultures.</FSFHarvesting.description>
+    <FSFHarvesting.verb>Récolte</FSFHarvesting.verb>
+	
+	<FSFDrilling.labelShort>Foreur</FSFDrilling.labelShort>
+	<FSFDrilling.pawnLabel>Foreur</FSFDrilling.pawnLabel>
+	<FSFDrilling.gerundLabel>Forage</FSFDrilling.gerundLabel>
+	<FSFDrilling.description>Utilisez des forets profonds pour forer les ressources.</FSFDrilling.description>
+    <FSFDrilling.verb>Foret</FSFDrilling.verb>
+	
+	<FSFDrugs.labelShort>Chimiste</FSFDrugs.labelShort>
+	<FSFDrugs.pawnLabel>Chimiste</FSFDrugs.pawnLabel>
+	<FSFDrugs.gerundLabel>Chimiste</FSFDrugs.gerundLabel>
+	<FSFDrugs.description>Fabriquer de la drogue dans un laboratoire.</FSFDrugs.description>
+    <FSFDrugs.verb>Artisanat</FSFDrugs.verb>
+	
+	<FSFFabrication.labelShort>Fabricant</FSFFabrication.labelShort>
+	<FSFFabrication.pawnLabel>Fabricant</FSFFabrication.pawnLabel>
+	<FSFFabrication.gerundLabel>Fabrication</FSFFabrication.gerundLabel>
+	<FSFFabrication.description>Créez des armes, des armures, de la bionique et des composants à partir de matières premières sur un banc de fabrication.</FSFFabrication.description>
+    <FSFFabrication.verb>Forgeron</FSFFabrication.verb>
+
+	<FSFMachining.labelShort>Usineur</FSFMachining.labelShort>
+	<FSFMachining.pawnLabel>Usineur</FSFMachining.pawnLabel>
+	<FSFMachining.gerundLabel>forge</FSFMachining.gerundLabel>
+	<FSFMachining.description>Créer des armes et des outils à partir de matières premières sur une table d'usinage.</FSFMachining.description>
+    <FSFMachining.verb>Forgeron</FSFMachining.verb>
+	
+	<FSFRefining.labelShort>Raffineur</FSFRefining.labelShort>
+	<FSFRefining.pawnLabel>Raffineur</FSFRefining.pawnLabel>
+	<FSFRefining.gerundLabel>Raffinage</FSFRefining.gerundLabel>
+	<FSFRefining.description>Raffiner les matériaux en carburant chimique dans une raffinerie.</FSFRefining.description>
+    <FSFRefining.verb>Raffiner</FSFRefining.verb>
+	
+	<FSFSmelt.labelShort>Fondeur</FSFSmelt.labelShort>
+	<FSFSmelt.pawnLabel>Fondeur</FSFSmelt.pawnLabel>
+	<FSFSmelt.gerundLabel>Fonte</FSFSmelt.gerundLabel>
+	<FSFSmelt.description>Faire fonctionner des fonderies pour faire fondre des scories ou des armes.</FSFSmelt.description>
+    <FSFSmelt.verb>Fonderie</FSFSmelt.verb>
+	
+	<FSFStoneCut.labelShort>Taille pierre</FSFStoneCut.labelShort>
+	<FSFStoneCut.pawnLabel>Tailleur de pierre</FSFStoneCut.pawnLabel>
+	<FSFStoneCut.gerundLabel>Taille de la pierre</FSFStoneCut.gerundLabel>
+	<FSFStoneCut.description>Créez des blocs de pierre à partir de morceaux de roche.</FSFStoneCut.description>
+    <FSFStoneCut.verb>Tailleur pierre</FSFStoneCut.verb>
+	
+	<FSFLoading.labelShort>Charg.</FSFLoading.labelShort>
+	<FSFLoading.pawnLabel>Chargeur</FSFLoading.pawnLabel>
+	<FSFLoading.gerundLabel>Chargement</FSFLoading.gerundLabel>
+	<FSFLoading.description>Charger et décharger les cabines de transport et les caravanes.</FSFLoading.description>
+    <FSFLoading.verb>Charger</FSFLoading.verb>
+	
+	<FSFCremating.labelShort>Incin.</FSFCremating.labelShort>
+	<FSFCremating.pawnLabel>Incinérateur</FSFCremating.pawnLabel>
+	<FSFCremating.gerundLabel>Incinération</FSFCremating.gerundLabel>
+	<FSFCremating.description>Faire fonctionner le crématorium ou le feu de camp pour brûler les vêtements, les drogues et les corps.</FSFCremating.description>
+    <FSFCremating.verb>Incinérer</FSFCremating.verb>
+	
+	<FSFDeliver.labelShort>Transp.</FSFDeliver.labelShort>
+	<FSFDeliver.pawnLabel>Transporteur</FSFDeliver.pawnLabel>
+	<FSFDeliver.gerundLabel>Livraison</FSFDeliver.gerundLabel>
+	<FSFDeliver.description>Fournir des ressources aux projets de construction.</FSFDeliver.description>
+    <FSFDeliver.verb>Livraison</FSFDeliver.verb>
+	
+	<FSFScan.labelShort>Scan</FSFScan.labelShort>
+	<FSFScan.pawnLabel>Scanneur</FSFScan.pawnLabel>
+	<FSFScan.gerundLabel>Scannage</FSFScan.gerundLabel>
+	<FSFScan.description>Recherchez les nœuds de ressources à l'aide du scanner minéral à longue portée et utilisez le scanner à pénétration de sol.</FSFScan.description>
+    <FSFScan.verb>Scanner</FSFScan.verb>
+</LanguageData>

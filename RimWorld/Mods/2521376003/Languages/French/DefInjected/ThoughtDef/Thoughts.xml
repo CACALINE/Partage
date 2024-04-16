@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Mods Seasonal Weathers (Continued) de Mlie.-->
+  <WeatherDrone.stages.0.label>Le temps s'apaise</WeatherDrone.stages.0.label>
+  <WeatherDrone.stages.0.description>Je suis une feuille dans le vent.</WeatherDrone.stages.0.description>
+  
+  <!--<Traduction FR children, school and learning.-->
+  <ChildrenPregnantPositive.label>est enceinte</ChildrenPregnantPositive.label>
+  <ChildrenPregnantPositive.description>Je suis enceinte.</ChildrenPregnantPositive.description>
+  
+  <ChildrenPregnantPositivePartner.label>ma compagne est enceinte</ChildrenPregnantPositivePartner.label>
+  <ChildrenPregnantPositivePartner.description>Ma compagne est enceinte.</ChildrenPregnantPositivePartner.description>
+  
+  <ChildrenPregnantNegative.label>est enceinte</ChildrenPregnantNegative.label>
+  <ChildrenPregnantNegative.description>Je suis enceinte, mais je n'aime pas les enfants.</ChildrenPregnantNegative.description>
+  
+  <ChildrenPregnantNegativePartner.label>ma compagne est enceinte</ChildrenPregnantNegativePartner.label>
+  <ChildrenPregnantNegativePartner.description>Ma partenaire est enceinte, mais je n'aime pas les enfants.</ChildrenPregnantNegativePartner.description>
+  
+  <ChildrenPregnantNegativePrison.label>est enceinte</ChildrenPregnantNegativePrison.label>
+  <ChildrenPregnantNegativePrison.description>Je suis enceinte en prison !</ChildrenPregnantNegativePrison.description>
+
+  <ChildrenMiscarriageNegative.label>a fait une fausse couche</ChildrenMiscarriageNegative.label>
+  <ChildrenMiscarriageNegative.description>J'ai fait une fausse couche.</ChildrenMiscarriageNegative.description>
+  
+  <ChildrenMiscarriageNegativePartner.label>ma compagne a fait une fausse couche</ChildrenMiscarriageNegativePartner.label>
+  <ChildrenMiscarriageNegativePartner.description>Ma compagne a fait une fausse couche.</ChildrenMiscarriageNegativePartner.description>
+  
+  <ChildrenMiscarriagePositive.label>a fait une fausse couche</ChildrenMiscarriagePositive.label>
+  <ChildrenMiscarriagePositive.description>J'ai fait une fausse couche et je n'aime pas les enfants.</ChildrenMiscarriagePositive.description>
+  
+  <ChildrenMiscarriagePositivePartner.label>ma compagne a fait une fausse couche</ChildrenMiscarriagePositivePartner.label>
+  <ChildrenMiscarriagePositivePartner.description>Ma compagne a fait une fausse couche et je n'aime pas les enfants.</ChildrenMiscarriagePositivePartner.description>
+  
+  <ChildrenBornPositive.label>a eu un enfant</ChildrenBornPositive.label>
+  <ChildrenBornPositive.description>Un de mes enfants est né.</ChildrenBornPositive.description>
+  
+  <ChildrenBornNegative.label>a eu un enfant</ChildrenBornNegative.label>
+  <ChildrenBornNegative.description>Un de mes enfants est né et je n'aime pas les enfants.</ChildrenBornNegative.description>
+  
+</LanguageData>

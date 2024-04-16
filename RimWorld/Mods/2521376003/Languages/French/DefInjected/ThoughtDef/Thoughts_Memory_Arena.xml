@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Mods Prisoner Arena (Continued) de Mlie.-->
+  <ArenaWinner.stages.0.label>Champion</ArenaWinner.stages.0.label>
+  <ArenaWinner.stages.0.description>J'ai gagné la bataille de l'arène !</ArenaWinner.stages.0.description>
+  <ArenaLoser.stages.0.label>a perdu la bataille</ArenaLoser.stages.0.label>
+  <ArenaLoser.stages.0.description>J'ai été forcé de participer à la bataille et j'ai perdu. Aïe</ArenaLoser.stages.0.description>
+</LanguageData>

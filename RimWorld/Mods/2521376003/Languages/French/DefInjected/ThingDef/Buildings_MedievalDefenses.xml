@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+<!-- bear trap -->
+<VFES_BearTrap.label>piège à ours</VFES_BearTrap.label>
+<!-- A set of spikes under tension, connected to a touch-activated trigger. When the victim disturbs the trigger, the spikes spring forth and typically strike their legs or feet. The spikes will harmlessly go over vitims that are too small, while victims that are too large will simply crush this trap. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. -->
+<VFES_BearTrap.description>Un ensemble de pointes en tension, reliées à une gâchette activée au toucher. Lorsque la victime perturbe la gâchette, les pointes ressortent et frappent souvent leurs jambes ou leurs pieds. Les pointes passeront inoffensivement sur les victimes trop petites, tandis que les victimes trop grandes seront simplement écrasées par ce piège. Puisqu'il est caché dans le terrain environnant, il ne peut pas être placé à côté d'autres pièges.</VFES_BearTrap.description>
+
+
+</LanguageData>

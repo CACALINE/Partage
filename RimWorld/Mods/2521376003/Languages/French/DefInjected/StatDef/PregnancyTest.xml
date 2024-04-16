@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR children, school and learning.-->
+  <PregnancyTest.label>test de grossesse</PregnancyTest.label>
+  <PregnancyTest.description>Découvrir/vérifier la grossesse d'une créature (la grossesse n'est normalement pas visible pendant le premier tiers de sa durée).</PregnancyTest.description>
+  
+  <PregnancyTestActive.label>test de grossesse</PregnancyTestActive.label>
+  <PregnancyTestActive.labelNoun>test de grossesse</PregnancyTestActive.labelNoun>
+  <PregnancyTestActive.description>test de grossesse</PregnancyTestActive.description>
+  
+</LanguageData>

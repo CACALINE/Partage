@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+	<!-- stone campfire -->
+	<Stone_Campfire.label>feu de camp en pierre</Stone_Campfire.label>
+	<!-- Cooks meals but produces less heat but more light, burns out slower than the standard campfire. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable. -->
+	<Stone_Campfire.description>Faites cuire les repas en produisant moins de chaleur mais plus léger qu'un feu de bois, il brûle plus lentement que le feu de bois standard. Comme toutes les sources de chaleur, il doit être placé à l'intérieur de manière à disposer d'un espace clos pour chauffer. Il est rechargeable.</Stone_Campfire.description>
+</LanguageData>

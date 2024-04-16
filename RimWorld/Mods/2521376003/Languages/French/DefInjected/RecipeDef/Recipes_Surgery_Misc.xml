@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR children, school and learning.-->
+  <ArtificiallyImpregnate.label>fécondation artificielle</ArtificiallyImpregnate.label>
+  <ArtificiallyImpregnate.description>Féconde artificiellement une créature. (a besoin de mieux que la phytothérapie! Affiche le choix du partenaire avec la médecine avancé lorsqu'elle est activée.)</ArtificiallyImpregnate.description>
+  <ArtificiallyImpregnate.jobString>fécondation artificielle</ArtificiallyImpregnate.jobString>
+  
+  <RemovePregnancy.label>supprimer la grossesse</RemovePregnancy.label>
+  <RemovePregnancy.description>Supprimer la grossesse d'une créature.</RemovePregnancy.description>
+  <RemovePregnancy.jobString>Supprimer la grossesse.</RemovePregnancy.jobString>
+  
+  <DiscoverPregnancy.label>vérifier la grossesse</DiscoverPregnancy.label>
+  <DiscoverPregnancy.description>Découvrir/vérifier la grossesse d'une créature (la grossesse n'est normalement pas visible pendant le premier tiers de sa durée).</DiscoverPregnancy.description>
+  <DiscoverPregnancy.jobString>Découvrir/vérifier la grossesse.</DiscoverPregnancy.jobString>
+  
+  <RemoveOneChildOnly.label>supprimer "a déjà eu une grossesse"</RemoveOneChildOnly.label>
+  <RemoveOneChildOnly.description>Supprimer "a déjà eu une grossesse".</RemoveOneChildOnly.description>
+  <RemoveOneChildOnly.jobString>Supprimer "a déjà eu une grossesse".</RemoveOneChildOnly.jobString>
+</LanguageData>

@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+<!-- military turret doublegun -->
+<VFES_Turret_MilitaryTurret.label>tourelle militaire à double canon</VFES_Turret_MilitaryTurret.label>
+<!-- A military-grade double barreled automatic turret. Requires steel to refurbish its barrels after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+<VFES_Turret_MilitaryTurret.description>Une tourelle automatique à double canon de qualité militaire. Il nécessite de l'acier pour renouveler ses canons après une utilisation intensive. Peut exploser s'il est endommagé.</VFES_Turret_MilitaryTurret.description>
+<!-- EN: military turret doublegun -->
+<VFES_Gun_MilitaryTurret.verbs.Verb_Shoot.label>tourelle militaire à double canon</VFES_Gun_MilitaryTurret.verbs.Verb_Shoot.label>
+<!-- EN: Barrel durability -->
+<VFES_Turret_MilitaryTurret.comps.CompRefuelable.fuelGizmoLabel>Durabilité du canon</VFES_Turret_MilitaryTurret.comps.CompRefuelable.fuelGizmoLabel>
+<!-- EN: Shots until barrel change -->
+<VFES_Turret_MilitaryTurret.comps.CompRefuelable.fuelLabel>Tirs jusqu'au changement de canon</VFES_Turret_MilitaryTurret.comps.CompRefuelable.fuelLabel>
+<!-- EN: Cannot shoot: Needs new barrels -->
+<VFES_Turret_MilitaryTurret.comps.CompRefuelable.outOfFuelMessage>Impossible de tirer: a besoin de nouveaux canons</VFES_Turret_MilitaryTurret.comps.CompRefuelable.outOfFuelMessage>
+
+<!-- military turret doublegun -->
+<VFES_Gun_MilitaryTurret.label>double canon de tourelle militaire</VFES_Gun_MilitaryTurret.label>
+<!-- Two simple automatic guns made to be mounted on a turret. -->
+<VFES_Gun_MilitaryTurret.description>Deux canons automatiques simples conçus pour être montés sur une tourelle.</VFES_Gun_MilitaryTurret.description>
+
+<!-- searchlight -->
+<VFES_Turret_Searchlight.label>projecteur</VFES_Turret_Searchlight.label>
+<!-- An apparatus combining an extremely luminous lamp and a mirrored parabolic reflector, useful for lighting up and dazzling targets. -->
+<VFES_Turret_Searchlight.description>Un appareil qui combine une lampe extrêmement lumineuse et un réflecteur à miroir parabolique, utile pour éclairer et éblouir.</VFES_Turret_Searchlight.description>
+<!-- EN: searchlight -->
+<VFES_Gun_Searchlight.verbs.Verb_Dazzle.label>projecteur</VFES_Gun_Searchlight.verbs.Verb_Dazzle.label>
+
+<!-- searchlight -->
+<VFES_Gun_Searchlight.label>réflecteur</VFES_Gun_Searchlight.label>
+<!-- A searchlight for a turret. -->
+<VFES_Gun_Searchlight.description>Un réflecteur pour une tourelle.</VFES_Gun_Searchlight.description>
+
+<!-- flame turret gun -->
+<VFES_Turret_Flame.label>tourelle lance-flammes</VFES_Turret_Flame.label>
+<!-- A portable flamethrower turret. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+<VFES_Turret_Flame.description>Une tourelle lance-flammes portable. Peut exploser si endommagée.</VFES_Turret_Flame.description>
+<!-- EN: Remaining fuel -->
+<VFES_Turret_Flame.comps.CompRefuelable.fuelGizmoLabel>Combustible restant</VFES_Turret_Flame.comps.CompRefuelable.fuelGizmoLabel>
+<!-- EN: Remaining fuel -->
+<VFES_Turret_Flame.comps.CompRefuelable.fuelLabel>Combustible restant</VFES_Turret_Flame.comps.CompRefuelable.fuelLabel>
+<!-- EN: Cannot shoot: Needs chemfuel -->
+<VFES_Turret_Flame.comps.CompRefuelable.outOfFuelMessage>Impossible de tirer: a besoin de combustible</VFES_Turret_Flame.comps.CompRefuelable.outOfFuelMessage>
+
+<!-- flame turret gun -->
+<VFES_Gun_FlameTurret.label>canon de tourelle lance-flammes</VFES_Gun_FlameTurret.label>
+<!-- A flamethrower made to be mounted on a turret. -->
+<VFES_Gun_FlameTurret.description>Un lance-flammes conçu pour être monté sur une tourelle.</VFES_Gun_FlameTurret.description>
+<!-- EN: flame turret gun -->
+<VFES_Gun_FlameTurret.verbs.Verb_Shoot.label>canon de tourelle lance-flammes</VFES_Gun_FlameTurret.verbs.Verb_Shoot.label>
+<!-- flamethrower fuel -->
+<VFES_Bullet_FlameTurret.label>carburant pour lance-flammes</VFES_Bullet_FlameTurret.label>
+
+<!-- sentry gun -->
+<VFES_Turret_SentryGun.label>tourelle sentinelle</VFES_Turret_SentryGun.label>
+<!-- A self-powered turret with a small gatling gun mounted on top. Light enough to be carried and deployed wherever. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+<VFES_Turret_SentryGun.description>Une tourelle autoalimentée avec un petit canon de combat monté sur le dessus. Suffisamment léger pour être transporté et déployé n'importe où. Peut exploser s'il endommagée.</VFES_Turret_SentryGun.description>
+<!-- EN: Barrel durability -->
+<VFES_Turret_SentryGun.comps.CompRefuelable.fuelGizmoLabel>Durabilité du canon</VFES_Turret_SentryGun.comps.CompRefuelable.fuelGizmoLabel>
+<!-- EN: Shots until barrel change -->
+<VFES_Turret_SentryGun.comps.CompRefuelable.fuelLabel>Tirs jusqu'au changement de canon</VFES_Turret_SentryGun.comps.CompRefuelable.fuelLabel>
+<!-- EN: Cannot shoot: Needs new barrel -->
+<VFES_Turret_SentryGun.comps.CompRefuelable.outOfFuelMessage>Incapable de tirer: nécessite un nouveau canon</VFES_Turret_SentryGun.comps.CompRefuelable.outOfFuelMessage>
+
+<!-- sentry turret gun -->
+<VFES_Gun_SentryTurret.label>canon de tourelle sentinelle</VFES_Gun_SentryTurret.label>
+<!-- A fully automatic gatling gun made to be mounted on a turret. -->
+<VFES_Gun_SentryTurret.description>Une mitrailleuse entièrement automatique conçue pour être montée sur une tourelle.</VFES_Gun_SentryTurret.description>
+<!-- EN: sentry turret gun -->
+<VFES_Gun_SentryTurret.verbs.Verb_Shoot.label>canon de tourelle sentinelle</VFES_Gun_SentryTurret.verbs.Verb_Shoot.label>
+
+
+</LanguageData>

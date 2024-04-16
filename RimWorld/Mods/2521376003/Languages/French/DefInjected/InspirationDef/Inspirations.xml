@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR vanilla social interactions expanded.-->
+  <VSIE_Inspired_Planting.label>Inspiration: jardinier</VSIE_Inspired_Planting.label>
+  <VSIE_Inspired_Planting.beginLetter>[PAWN_pronoun] peut semer toutes les plantes dans les 8 prochains jours..\n\n[PAWN_pronoun] veut planter au moins 50 plantes.</VSIE_Inspired_Planting.beginLetter>
+  <VSIE_Inspired_Planting.endMessage>{0} n'est plus inspiré (inspiration: jardinier).</VSIE_Inspired_Planting.endMessage>
+  <VSIE_Inspired_Planting.baseInspectLine>Inspiration: jardinier</VSIE_Inspired_Planting.baseInspectLine>
+
+  <VSIE_Party_Frenzy.label>Frénésie de fête</VSIE_Party_Frenzy.label>
+  <VSIE_Party_Frenzy.beginLetter>[PAWN_pronoun] récupérera deux fois plus vite au cours des 8 prochains jours. \n\n [PAWN_pronoun] veut assister à une fête.</VSIE_Party_Frenzy.beginLetter>
+  <VSIE_Party_Frenzy.endMessage>{0} n'est plus inspiré (inspiration: frénésie de fête).</VSIE_Party_Frenzy.endMessage>
+  <VSIE_Party_Frenzy.baseInspectLine>Inspiration: frénésie de fête</VSIE_Party_Frenzy.baseInspectLine>
+
+  <VSIE_Inspired_Research.label>Inspiration: chercheur</VSIE_Inspired_Research.label>
+  <VSIE_Inspired_Research.beginLetter>[PAWN_pronoun] effectuera des recherches 5 fois plus vite au cours des 8 prochains jours ou après la fin du projet de recherche. \n\n [PAWN_pronoun] souhaite terminer un projet de recherche.</VSIE_Inspired_Research.beginLetter>
+  <VSIE_Inspired_Research.endMessage>{0} n'est plus inspiré (inspiration: chercheur).</VSIE_Inspired_Research.endMessage>
+  <VSIE_Inspired_Research.baseInspectLine>Inspiration: chercheur</VSIE_Inspired_Research.baseInspectLine>
+
+  <VSIE_Inspired_Mining.label>Inspiration: exploitation minière</VSIE_Inspired_Mining.label>
+  <VSIE_Inspired_Mining.beginLetter>[PAWN_pronoun] aura le double du rendement des pierres ou du minerai extrait dans les 8 prochains jours. \n\n [PAWN_pronoun] veut extraire au moins 50 pierres.</VSIE_Inspired_Mining.beginLetter>
+  <VSIE_Inspired_Mining.endMessage>{0} n'est plus inspiré (inspiration: exploitation minière).</VSIE_Inspired_Mining.endMessage>
+  <VSIE_Inspired_Mining.baseInspectLine>Inspiration: exploitation minière</VSIE_Inspired_Mining.baseInspectLine>
+
+  <VSIE_Learning_Frenzy.label>Frénésie d'apprentissage</VSIE_Learning_Frenzy.label>
+  <VSIE_Learning_Frenzy.beginLetter>[PAWN_pronoun] gagnera deux fois plus d'expérience que la normale au cours des 8 prochains jours. \n\n [PAWN_pronoun] souhaite amener une compétence au niveau 10.</VSIE_Learning_Frenzy.beginLetter>
+  <VSIE_Learning_Frenzy.endMessage>{0} n'est plus inspiré (inspiration: frénésie d'apprentissage).</VSIE_Learning_Frenzy.endMessage>
+  <VSIE_Learning_Frenzy.baseInspectLine>Inspiration: frénésie d'apprentissage</VSIE_Learning_Frenzy.baseInspectLine>
+
+  <VSIE_Inspired_Cooking.label>Inspiration: cuisinier</VSIE_Inspired_Cooking.label>
+  <VSIE_Inspired_Cooking.beginLetter>[PAWN_pronoun] cuisinera deux fois plus vite que d'habitude au cours des 8 prochains jours. \n\n [PAWN_pronoun] veut cuisiner au moins 50 repas.</VSIE_Inspired_Cooking.beginLetter>
+  <VSIE_Inspired_Cooking.endMessage>{0} n'est plus inspiré (Inspiration: cuisinier).</VSIE_Inspired_Cooking.endMessage>
+  <VSIE_Inspired_Cooking.baseInspectLine>Inspiration: cuisinier</VSIE_Inspired_Cooking.baseInspectLine>
+
+  <VSIE_Flirting_Frenzy.label>Frénésie de flirt</VSIE_Flirting_Frenzy.label>
+  <VSIE_Flirting_Frenzy.beginLetter>[PAWN_pronoun] sera beaucoup plus gentil avec les autres dans les interactions sociales et beaucoup plus sophistiqué dans les interactions romantiques, ce qui réduira les chances d'être rejeté pendant les 8 prochains jours. \n\n [PAWN_pronoun] aimerait coucher avec quelqu'un.</VSIE_Flirting_Frenzy.beginLetter>
+  <VSIE_Flirting_Frenzy.endMessage>{0} n'est plus inspiré (Inspiration: Flirt).</VSIE_Flirting_Frenzy.endMessage>
+  <VSIE_Flirting_Frenzy.baseInspectLine>Inspiration: flirt</VSIE_Flirting_Frenzy.baseInspectLine>
+
+  <VSIE_Melee_Frenzy.label>Frénésie de combat</VSIE_Melee_Frenzy.label>
+  <VSIE_Melee_Frenzy.beginLetter>Toutes les attaques de mêlée de [PAWN_pronoun] toucheront leur cible pendant les 8 prochains jours. \n\n [PAWN_pronoun] veut vaincre un ennemi en combat rapproché.</VSIE_Melee_Frenzy.beginLetter>
+  <VSIE_Melee_Frenzy.endMessage>{0} n'est plus inspiré (inspiration: rage).</VSIE_Melee_Frenzy.endMessage>
+  <VSIE_Melee_Frenzy.baseInspectLine>Inspiration : Frénésie de combat</VSIE_Melee_Frenzy.baseInspectLine>
+
+
+</LanguageData>

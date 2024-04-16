@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+<!-- EN: hearing ability -->
+<AO_MusicHearingAbility.label>capacité auditive</AO_MusicHearingAbility.label>
+<!-- EN: How effective musical sources of enjoyment are, such as radios. -->
+<AO_MusicHearingAbility.description>Quelle est l'efficacité des sources de plaisir musicales, telles que les radios.</AO_MusicHearingAbility.description>
+
+</LanguageData>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR vanilla social interactions expanded.-->
+  <VSIE_BondedPetButchered.label>Animal de compagne abattu</VSIE_BondedPetButchered.label>
+  <VSIE_ExposedCorpseOfMyFriend.label>J'ai vu le corps de mon ami</VSIE_ExposedCorpseOfMyFriend.label>
+  <VSIE_IngestedHumanFlesh.label>A mangé de la chair humaine</VSIE_IngestedHumanFlesh.label>
+  <VSIE_BingedFood.label>Orgie de nourriture</VSIE_BingedFood.label>
+  <VSIE_BingedDrug.label>Orgie de drogue</VSIE_BingedDrug.label>
+  <VSIE_HideInRoom.label>se cache dans sa chambre</VSIE_HideInRoom.label>
+  <VSIE_WanderedInSaddness.label>erre dans la tristesse</VSIE_WanderedInSaddness.label>
+  <VSIE_WentIntoSadisticRage.label>entre dans une colère sadique</VSIE_WentIntoSadisticRage.label>
+  <VSIE_ThrewTantrum.label>a eu une crise de colère</VSIE_ThrewTantrum.label>
+  <VSIE_WentBerserk.label>est devenu fou</VSIE_WentBerserk.label>
+  <VSIE_WentOnFireStartingSpree.label>avait une inflammation élevée</VSIE_WentOnFireStartingSpree.label>
+  <VSIE_WentOnMurderousRage.label>a eu un accès de colère meurtrier</VSIE_WentOnMurderousRage.label>
+  <VSIE_RanWild.label>a couru follement</VSIE_RanWild.label>
+  <VSIE_InsultedMe.label>m'a insulté</VSIE_InsultedMe.label>
+  <VSIE_SlaughteredAnimalInRage.label>a abattu un animal enragé</VSIE_SlaughteredAnimalInRage.label>
+  <VSIE_RebuffedMe.label>m'a rejeté</VSIE_RebuffedMe.label>
+  <VSIE_InducedPrisonerToEscape.label>a fait fuir un prisonnier</VSIE_InducedPrisonerToEscape.label>
+  <VSIE_TamedThrumbo.label>a apprivoisé un thrumbo</VSIE_TamedThrumbo.label>
+  <VSIE_WasPreviouslyOurEnemy.label>était notre ennemi avant</VSIE_WasPreviouslyOurEnemy.label>
+  <VSIE_WasBadlyInjured.label>a été gravement blessé</VSIE_WasBadlyInjured.label>
+  <VSIE_DidNotAttendWedding.label>n'a pas assisté à notre fête de mariage</VSIE_DidNotAttendWedding.label>
+  <VSIE_AttendedMyWedding.label>a assisté à mon mariage</VSIE_AttendedMyWedding.label>
+  <VSIE_RemovedPrisonersOrgans.label>a prélevé des organes sur un prisonnier</VSIE_RemovedPrisonersOrgans.label>
+  <VSIE_FailedMedicalOperationAndKilled.label>opération médicale ratée et a tué l'un de nous</VSIE_FailedMedicalOperationAndKilled.label>
+  <VSIE_TamedMe.label>m'a apprivoisé</VSIE_TamedMe.label>
+  <VSIE_ArrestedMe.label>m'a capturé</VSIE_ArrestedMe.label>
+  <VSIE_ResurrectedMe.label>m'a ressuscité</VSIE_ResurrectedMe.label>
+  <VSIE_BrokeUpWithMe.label>a rompu avec moi</VSIE_BrokeUpWithMe.label>
+  <VSIE_WeHadNiceChat.label>a eu une bonne conversation</VSIE_WeHadNiceChat.label>
+  <VSIE_WeHadSocialFight.label>a participé à une lutte sociale</VSIE_WeHadSocialFight.label>
+  <VSIE_SavedMeFromMyWounds.label>m'a sauvé de mes blessures</VSIE_SavedMeFromMyWounds.label>
+  <VSIE_HasBeenMyFriendSinceChildhood.label>est mon ami depuis que je suis enfant</VSIE_HasBeenMyFriendSinceChildhood.label>
+  <VSIE_SavedMeFromRaiders.label>m'a sauvé des assaillants</VSIE_SavedMeFromRaiders.label>
+  <VSIE_CuredMyFriend.label>a guéri mon ami</VSIE_CuredMyFriend.label>
+  <VSIE_StoleMyLover.label>a volé mon amant</VSIE_StoleMyLover.label>
+
+
+</LanguageData>

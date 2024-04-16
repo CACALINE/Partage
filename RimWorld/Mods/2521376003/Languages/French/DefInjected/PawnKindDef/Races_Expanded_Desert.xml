@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Tous les vanilla animals expanded.-->
+  <!-- Hyena -->
+
+  <!-- hyena -->
+  <AEXP_Hyena.label>hyène</AEXP_Hyena.label>
+<!-- hyenas -->
+  <AEXP_Hyena.labelPlural>hyènes</AEXP_Hyena.labelPlural>
+  <!-- hyena cub -->
+  <AEXP_Hyena.lifeStages.0.label>hyène</AEXP_Hyena.lifeStages.0.label>
+ <!-- hyena cubs -->
+  <AEXP_Hyena.lifeStages.0.labelPlural>hyène</AEXP_Hyena.lifeStages.0.labelPlural>
+ <!-- hyena cub -->
+  <AEXP_Hyena.lifeStages.0.labelMale>hyène</AEXP_Hyena.lifeStages.0.labelMale>
+ <!-- hyena cubs -->
+  <AEXP_Hyena.lifeStages.0.labelMalePlural>hyène</AEXP_Hyena.lifeStages.0.labelMalePlural>
+<!-- hyena cub -->
+  <AEXP_Hyena.lifeStages.0.labelFemale>hyène</AEXP_Hyena.lifeStages.0.labelFemale>
+ <!-- hyena cubs -->
+  <AEXP_Hyena.lifeStages.0.labelFemalePlural>hyène</AEXP_Hyena.lifeStages.0.labelFemalePlural>
+<!-- hyena -->
+  <AEXP_Hyena.lifeStages.1.label>hyène</AEXP_Hyena.lifeStages.1.label>
+<!-- hyenas -->
+  <AEXP_Hyena.lifeStages.1.labelPlural>hyènes</AEXP_Hyena.lifeStages.1.labelPlural>
+ <!-- hyena -->
+  <AEXP_Hyena.lifeStages.1.labelMale>hyène</AEXP_Hyena.lifeStages.1.labelMale>
+  <!-- hyenas-->
+  <AEXP_Hyena.lifeStages.1.labelMalePlural>hyènes</AEXP_Hyena.lifeStages.1.labelMalePlural>
+ <!-- hyena -->
+  <AEXP_Hyena.lifeStages.1.labelFemale>hyène</AEXP_Hyena.lifeStages.1.labelFemale>
+<!-- hyenas -->
+  <AEXP_Hyena.lifeStages.1.labelFemalePlural>hyènes</AEXP_Hyena.lifeStages.1.labelFemalePlural>
+<!-- hyena -->
+  <AEXP_Hyena.lifeStages.2.label>hyène</AEXP_Hyena.lifeStages.2.label>
+ <!-- hyena -->
+  <AEXP_Hyena.lifeStages.2.labelPlural>hyènes</AEXP_Hyena.lifeStages.2.labelPlural>
+<!-- hyena -->
+  <AEXP_Hyena.lifeStages.2.labelMale>hyène</AEXP_Hyena.lifeStages.2.labelMale>
+  <!-- hyenas -->
+  <AEXP_Hyena.lifeStages.2.labelMalePlural>hyènes</AEXP_Hyena.lifeStages.2.labelMalePlural>
+  <!-- hyena -->
+  <AEXP_Hyena.lifeStages.2.labelFemale>hyène</AEXP_Hyena.lifeStages.2.labelFemale>
+<!-- hyena -->
+  <AEXP_Hyena.lifeStages.2.labelFemalePlural>hyènes</AEXP_Hyena.lifeStages.2.labelFemalePlural>
+<!-- hyena -->
+  <AEXP_Hyena.labelMale>hyène</AEXP_Hyena.labelMale>
+ <!-- hyena -->
+  <AEXP_Hyena.labelMalePlural>hyènes</AEXP_Hyena.labelMalePlural>
+<!-- hyena -->
+  <AEXP_Hyena.labelFemale>hyène</AEXP_Hyena.labelFemale>
+ <!-- hyena -->
+  <AEXP_Hyena.labelFemalePlural>hyènes</AEXP_Hyena.labelFemalePlural>
+
+
+  <!-- Desert Tortoise -->
+
+ <!-- desert tortoise -->
+  <AEXP_DesertTortoise.label>tortue du désert</AEXP_DesertTortoise.label>
+<!-- desert tortoise -->
+  <AEXP_DesertTortoise.labelPlural>tortues du désert</AEXP_DesertTortoise.labelPlural>
+<!-- desert tortoise -->
+  <AEXP_DesertTortoise.lifeStages.0.label>bébé tortue du désert</AEXP_DesertTortoise.lifeStages.0.label>
+  <!-- desert tortoises-->
+  <AEXP_DesertTortoise.lifeStages.0.labelPlural>bébés tortues du désert</AEXP_DesertTortoise.lifeStages.0.labelPlural>
+  <!-- desert tortoise -->
+  <AEXP_DesertTortoise.lifeStages.0.labelMale>bébé tortue du désert</AEXP_DesertTortoise.lifeStages.0.labelMale>
+  <!-- desert tortoises -->
+  <AEXP_DesertTortoise.lifeStages.0.labelMalePlural>bébés tortues du désert</AEXP_DesertTortoise.lifeStages.0.labelMalePlural>
+ <!-- desert tortoise -->
+  <AEXP_DesertTortoise.lifeStages.0.labelFemale>bébé tortue du désert</AEXP_DesertTortoise.lifeStages.0.labelFemale>
+ <!-- desert tortoises -->
+  <AEXP_DesertTortoise.lifeStages.0.labelFemalePlural>bébés tortues du désert</AEXP_DesertTortoise.lifeStages.0.labelFemalePlural>
+  <!-- desert tortoise -->
+  <AEXP_DesertTortoise.lifeStages.1.label>tortue du désert</AEXP_DesertTortoise.lifeStages.1.label>
+ <!-- desert tortoise -->
+  <AEXP_DesertTortoise.lifeStages.1.labelPlural>tortues du désert</AEXP_DesertTortoise.lifeStages.1.labelPlural>
+  <!-- desert tortoise -->
+  <AEXP_DesertTortoise.lifeStages.1.labelMale>tortue du désert</AEXP_DesertTortoise.lifeStages.1.labelMale>
+<!-- desert tortoise -->
+  <AEXP_DesertTortoise.lifeStages.1.labelMalePlural>tortues du désert</AEXP_DesertTortoise.lifeStages.1.labelMalePlural>
+ <!-- desert tortoise -->
+  <AEXP_DesertTortoise.lifeStages.1.labelFemale>tortue du désert</AEXP_DesertTortoise.lifeStages.1.labelFemale>
+<!-- desert tortoise -->
+  <AEXP_DesertTortoise.lifeStages.1.labelFemalePlural>tortues du désert</AEXP_DesertTortoise.lifeStages.1.labelFemalePlural>
+  <!-- desert tortoise -->
+  <AEXP_DesertTortoise.lifeStages.2.label>tortue du désert</AEXP_DesertTortoise.lifeStages.2.label>
+<!-- desert tortoise -->
+  <AEXP_DesertTortoise.lifeStages.2.labelPlural>tortues du désert</AEXP_DesertTortoise.lifeStages.2.labelPlural>
+ <!-- desert tortoise -->
+  <AEXP_DesertTortoise.lifeStages.2.labelMale>tortue du désert</AEXP_DesertTortoise.lifeStages.2.labelMale>
+  <!-- desert tortoise -->
+  <AEXP_DesertTortoise.lifeStages.2.labelMalePlural>tortues du désert</AEXP_DesertTortoise.lifeStages.2.labelMalePlural>
+ <!-- desert tortoise -->
+  <AEXP_DesertTortoise.lifeStages.2.labelFemale>tortue du désert</AEXP_DesertTortoise.lifeStages.2.labelFemale>
+<!-- desert tortoises -->
+  <AEXP_DesertTortoise.lifeStages.2.labelFemalePlural>tortues du désert</AEXP_DesertTortoise.lifeStages.2.labelFemalePlural>
+  <!-- desert tortoise -->
+  <AEXP_DesertTortoise.labelMale>tortue du désert</AEXP_DesertTortoise.labelMale>
+<!-- desert tortoise -->
+  <AEXP_DesertTortoise.labelMalePlural>tortues du désert</AEXP_DesertTortoise.labelMalePlural>
+ <!-- desert tortoises -->
+  <AEXP_DesertTortoise.labelFemale>tortue du désert</AEXP_DesertTortoise.labelFemale>
+ <!-- desert tortoise -->
+  <AEXP_DesertTortoise.labelFemalePlural>tortues du désert</AEXP_DesertTortoise.labelFemalePlural>
+
+
+
+  <!-- Lion -->
+
+<!-- lion -->
+  <AEXP_Lion.label>lion</AEXP_Lion.label>
+<!-- lions -->
+  <AEXP_Lion.labelPlural>lions</AEXP_Lion.labelPlural>
+<!-- lion cub -->
+  <AEXP_Lion.lifeStages.0.label>lionceau</AEXP_Lion.lifeStages.0.label>
+<!-- lion cubs -->
+  <AEXP_Lion.lifeStages.0.labelPlural>lionceaux</AEXP_Lion.lifeStages.0.labelPlural>
+<!-- lion cub -->
+  <AEXP_Lion.lifeStages.0.labelMale>lionceau</AEXP_Lion.lifeStages.0.labelMale>
+<!-- lion cubs -->
+  <AEXP_Lion.lifeStages.0.labelMalePlural>lionceaux</AEXP_Lion.lifeStages.0.labelMalePlural>
+<!-- lion cub -->
+  <AEXP_Lion.lifeStages.0.labelFemale>lionçonne</AEXP_Lion.lifeStages.0.labelFemale>
+<!-- lion cubs -->
+  <AEXP_Lion.lifeStages.0.labelFemalePlural>lionçonnes</AEXP_Lion.lifeStages.0.labelFemalePlural>
+<!-- lion -->
+  <AEXP_Lion.lifeStages.1.label>lion</AEXP_Lion.lifeStages.1.label>
+<!-- lion -->
+  <AEXP_Lion.lifeStages.1.labelPlural>lions</AEXP_Lion.lifeStages.1.labelPlural>
+<!-- lion -->
+  <AEXP_Lion.lifeStages.1.labelMale>lion</AEXP_Lion.lifeStages.1.labelMale>
+<!-- lion -->
+  <AEXP_Lion.lifeStages.1.labelMalePlural>lions</AEXP_Lion.lifeStages.1.labelMalePlural>
+<!-- lion -->
+  <AEXP_Lion.lifeStages.1.labelFemale>lionne</AEXP_Lion.lifeStages.1.labelFemale>
+<!-- lion -->
+  <AEXP_Lion.lifeStages.1.labelFemalePlural>lionnes</AEXP_Lion.lifeStages.1.labelFemalePlural>
+<!-- lion -->
+  <AEXP_Lion.lifeStages.2.label>lion</AEXP_Lion.lifeStages.2.label>
+<!-- lion -->
+  <AEXP_Lion.lifeStages.2.labelPlural>lions</AEXP_Lion.lifeStages.2.labelPlural>
+<!-- lion -->
+  <AEXP_Lion.lifeStages.2.labelMale>lion</AEXP_Lion.lifeStages.2.labelMale>
+<!-- lion -->
+  <AEXP_Lion.lifeStages.2.labelMalePlural>lions</AEXP_Lion.lifeStages.2.labelMalePlural>
+<!-- lion -->
+  <AEXP_Lion.lifeStages.2.labelFemale>lionne</AEXP_Lion.lifeStages.2.labelFemale>
+<!-- lion -->
+  <AEXP_Lion.lifeStages.2.labelFemalePlural>lionnes</AEXP_Lion.lifeStages.2.labelFemalePlural>
+<!-- lion -->
+  <AEXP_Lion.labelMale>lion</AEXP_Lion.labelMale>
+<!-- lion -->
+  <AEXP_Lion.labelMalePlural>lions</AEXP_Lion.labelMalePlural>
+<!-- lion -->
+  <AEXP_Lion.labelFemale>lionne</AEXP_Lion.labelFemale>
+<!-- lion -->
+  <AEXP_Lion.labelFemalePlural>lionnes</AEXP_Lion.labelFemalePlural>
+
+
+
+  <!-- Gila Monster -->
+
+<!-- gila monster -->
+  <AEXP_GilaMonster.label>monstre de gila</AEXP_GilaMonster.label>
+<!-- gila monsters -->
+  <AEXP_GilaMonster.labelPlural>monstres de gila</AEXP_GilaMonster.labelPlural>
+<!-- gila monster -->
+  <AEXP_GilaMonster.lifeStages.0.label>bébé monstre de gila</AEXP_GilaMonster.lifeStages.0.label>
+<!-- gila monster -->
+  <AEXP_GilaMonster.lifeStages.0.labelPlural>bébés monstres de gila</AEXP_GilaMonster.lifeStages.0.labelPlural>
+<!-- gila monster -->
+  <AEXP_GilaMonster.lifeStages.0.labelMale>bébé monstre de gila</AEXP_GilaMonster.lifeStages.0.labelMale>
+<!-- gila monsters -->
+  <AEXP_GilaMonster.lifeStages.0.labelMalePlural>bébés monstres de gila</AEXP_GilaMonster.lifeStages.0.labelMalePlural>
+<!-- gila monster -->
+  <AEXP_GilaMonster.lifeStages.0.labelFemale>bébé monstre de gila</AEXP_GilaMonster.lifeStages.0.labelFemale>
+<!-- gila monsters -->
+  <AEXP_GilaMonster.lifeStages.0.labelFemalePlural>bébés monstres de gila</AEXP_GilaMonster.lifeStages.0.labelFemalePlural>
+<!-- gila monster -->
+  <AEXP_GilaMonster.lifeStages.1.label>monstre de gila</AEXP_GilaMonster.lifeStages.1.label>
+<!-- gila monster -->
+  <AEXP_GilaMonster.lifeStages.1.labelPlural>monstres de gila</AEXP_GilaMonster.lifeStages.1.labelPlural>
+<!-- gila monster -->
+  <AEXP_GilaMonster.lifeStages.1.labelMale>monstre de gila</AEXP_GilaMonster.lifeStages.1.labelMale>
+<!-- gila monsters -->
+  <AEXP_GilaMonster.lifeStages.1.labelMalePlural>monstres de gila</AEXP_GilaMonster.lifeStages.1.labelMalePlural>
+<!-- gila monster -->
+  <AEXP_GilaMonster.lifeStages.1.labelFemale>monstre de gila</AEXP_GilaMonster.lifeStages.1.labelFemale>
+<!-- gila monsters -->
+  <AEXP_GilaMonster.lifeStages.1.labelFemalePlural>monstres de gila</AEXP_GilaMonster.lifeStages.1.labelFemalePlural>
+<!-- gila monster -->
+  <AEXP_GilaMonster.lifeStages.2.label>monstre de gila</AEXP_GilaMonster.lifeStages.2.label>
+<!-- gila monster -->
+  <AEXP_GilaMonster.lifeStages.2.labelPlural>monstres de gila</AEXP_GilaMonster.lifeStages.2.labelPlural>
+<!-- gila monster -->
+  <AEXP_GilaMonster.lifeStages.2.labelMale>monstre de gila</AEXP_GilaMonster.lifeStages.2.labelMale>
+<!-- gila monsters -->
+  <AEXP_GilaMonster.lifeStages.2.labelMalePlural>monstres de gila</AEXP_GilaMonster.lifeStages.2.labelMalePlural>
+<!-- gila monster -->
+  <AEXP_GilaMonster.lifeStages.2.labelFemale>monstre de gila</AEXP_GilaMonster.lifeStages.2.labelFemale>
+<!-- gila monsters -->
+  <AEXP_GilaMonster.lifeStages.2.labelFemalePlural>monstres de gila</AEXP_GilaMonster.lifeStages.2.labelFemalePlural>
+<!-- gila monster -->
+  <AEXP_GilaMonster.labelMale>monstre de gila</AEXP_GilaMonster.labelMale>
+<!-- gila monsters -->
+  <AEXP_GilaMonster.labelMalePlural>monstres de gila</AEXP_GilaMonster.labelMalePlural>
+<!-- gila monster -->
+  <AEXP_GilaMonster.labelFemale>monstre de gila</AEXP_GilaMonster.labelFemale>
+<!-- gila monsters -->
+  <AEXP_GilaMonster.labelFemalePlural>monstres de gila</AEXP_GilaMonster.labelFemalePlural>
+
+
+
+</LanguageData>

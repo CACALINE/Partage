@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+  <!-- EN: nuclear reactor -->
+  <VPE_NuclearGenerator.label>réacteur nucléaire</VPE_NuclearGenerator.label>
+  <!-- EN: A large nuclear reactor repurposed from a ship power core. Consumes uranium to produce large amounts of power. Can be overloaded, resulting in even larger power output at the cost of local radiation.\n\nNuclear reactor will quickly overheat and should be cooled at all times.\n\nCannot be placed outdoors. -->
+  <VPE_NuclearGenerator.description>Un grand réacteur nucléaire reprogrammé à partir du coeur de puissance d'un vaisseau. Il consomme de l'uranium pour produire de grandes quantités d'énergie. Il peut être surchargé, ce qui entraîne une production d'énergie encore plus importante au détriment du rayonnement local. \n\nLe réacteur nucléaire surchauffera rapidement et doit être refroidi à tout moment. \n\nNe peut pas être placé à l'extérieur.</VPE_NuclearGenerator.description>
+
+
+</LanguageData>

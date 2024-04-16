@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Vanilla Achivements Expanded.-->
+  <thisIsWhereTheFunBegins.label>C'est ici que le plaisir commence</thisIsWhereTheFunBegins.label>
+  <thisIsWhereTheFunBegins.description>Se faire attaquer pour la première fois</thisIsWhereTheFunBegins.description>
+  
+  <showMustGoOn.label>Le spectacle doit continuer</showMustGoOn.label>
+  <showMustGoOn.description>L'homme en noir rejoint votre colonie</showMustGoOn.description>
+  
+  <brrr.label>Brrr</brrr.label>
+  <brrr.description>Avoir une vague de froid en hiver</brrr.description>
+  
+  <phew.label>Pfiou</phew.label>
+  <phew.description>Avoir une vague de chaleur en été</phew.description>
+  
+  <outOfTheFryingPan.label>Hors de la poêle</outOfTheFryingPan.label>
+  <outOfTheFryingPan.description>Avoir un colon qui développe un lien avec un cochon.</outOfTheFryingPan.description>
+  
+  <intoTheFire.label>Cochon grillé</intoTheFire.label>
+  <intoTheFire.description>Un cochon lié à un colon meurt dans le feu</intoTheFire.description>
+  
+  <blitzkrieg.label>La conquête commence</blitzkrieg.label>
+  <blitzkrieg.description>Détruire 5 bases de factions</blitzkrieg.description>
+  
+</LanguageData>

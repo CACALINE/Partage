@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+<!--<Traduction FR zombieland.-->
+	<ExtractZombieSerum.label>extraire le sérum des cadavres de zombies</ExtractZombieSerum.label>
+	<ExtractZombieSerum.verb>extrait</ExtractZombieSerum.verb>
+	<ExtractZombieSerum.gerund>extraire</ExtractZombieSerum.gerund>
+
+	<DoubleTap.label>tapez deux fois sur un cadavre</DoubleTap.label>
+	<DoubleTap.verb>tapez deux fois</DoubleTap.verb>
+	<DoubleTap.gerund>double tapotement </DoubleTap.gerund>
+
+</LanguageData>

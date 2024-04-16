@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--suppress ALL -->
+<LanguageData>
+	<!--Traduction FR Hospitality-->
+	<GuestRoom.label>Chambre d'invités</GuestRoom.label>
+
+	  <!--<Traduction FR tous les vanilla furniture expanded.-->
+  <!--EN: Reactor Room -->
+  <VPE_ReactorRoom.label>Salle du réacteur</VPE_ReactorRoom.label>
+  
+  <!--<Traduction FR children, school and learning.-->
+  <Classroom.label>Salle de classe</Classroom.label>
+
+</LanguageData>

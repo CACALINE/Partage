@@ -1,0 +1,3547 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+
+  <ThingDef ParentName="TM_BuildingBase">
+    <defName>TM_ProximityChargeBD</defName>
+    <thingClass>Building_TrapExplosive</thingClass>
+    <label>Proximity Mine</label>
+    <description>A landmine that is designed to go off on a hair-trigger and will explode if it is damaged in any way. It will also explode if an unaware pawn walks over it.</description>    
+    <graphicData>
+      <texPath>Spells/trapproximity</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+	  <drawSize>(1.3,1.3)</drawSize>
+    </graphicData>
+	<building>
+      <isTrap>true</isTrap>
+		<isInert>true</isInert>
+      <trapPeacefulWildAnimalsSpringChanceFactor>0.25</trapPeacefulWildAnimalsSpringChanceFactor>
+      <expandHomeArea>false</expandHomeArea>
+      <ai_chillDestination>false</ai_chillDestination>
+	</building>
+    <damageMultipliers>
+      <li>
+        <damageDef>TM_BarrelBombDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_MiningExplosiveDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_BreachingCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_ShapedCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_DemolishDD</damageDef>
+        <multiplier>1</multiplier>
+      </li>
+    </damageMultipliers>
+	<size>(1,1)</size>
+	<fillPercent>.1</fillPercent>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+	<tradeability>None</tradeability>
+    <pathCost>0</pathCost>
+    <!-- <constructEffect>ConstructDirt</constructEffect> -->
+    <tickerType>Normal</tickerType>
+    <drawerType>RealtimeOnly</drawerType>
+    <statBases>
+    <MaxHitPoints>1000</MaxHitPoints>
+ <!--        <WorkToBuild>200</WorkToBuild>
+      <TrapSpringChance>1.0</TrapSpringChance>
+      <Flammability>0</Flammability> -->
+    </statBases>
+    <selectable>true</selectable>
+	<clearBuildingArea>false</clearBuildingArea>
+    <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <drawPlaceWorkersWhileSelected>false</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>4.0</explosiveRadius>
+        <explosiveDamageType>TM_ExplosiveTrapDD</explosiveDamageType>
+		<damageAmountBase>32</damageAmountBase>
+        <explodeOnKilled>true</explodeOnKilled>
+        <startWickHitPointsPercent>0.999</startWickHitPointsPercent>
+        <wickTicks>15</wickTicks>
+        <startWickOnDamageTaken>
+          <li>Bullet</li>
+          <li>Arrow</li>
+          <li>Bomb</li>
+          <li>ArrowHighVelocity</li>
+          <li>Flame</li>
+        </startWickOnDamageTaken>
+      </li>
+<!--       <li Class="TorannMagic.CompProperties_Summoned"></li> -->
+      <li Class="CompProperties_Lifespan">
+        <lifespanTicks>60000</lifespanTicks>
+      </li>
+    </comps>
+    <specialDisplayRadius>4.0</specialDisplayRadius>
+  </ThingDef>
+
+  <ThingDef ParentName="TM_BuildingBase">
+    <defName>TM_MiniMineBD</defName>
+    <thingClass>Building_TrapExplosive</thingClass>
+    <label>Mini Mine</label>
+    <description>A small landmine that is designed to go off on a hair-trigger and will explode if it is damaged in any way. It will also explode if an unaware pawn walks over it.</description>    
+    <graphicData>
+      <texPath>Spells/trapproximity</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+	  <drawSize>(0.8,0.8)</drawSize>
+    </graphicData>
+	<building>
+      <isTrap>true</isTrap>
+		<isInert>true</isInert>
+      <trapPeacefulWildAnimalsSpringChanceFactor>0.25</trapPeacefulWildAnimalsSpringChanceFactor>
+      <expandHomeArea>false</expandHomeArea>
+      <ai_chillDestination>false</ai_chillDestination>
+	</building>
+    <damageMultipliers>
+      <li>
+        <damageDef>TM_BarrelBombDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_MiningExplosiveDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_BreachingCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_ShapedCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_DemolishDD</damageDef>
+        <multiplier>1</multiplier>
+      </li>
+    </damageMultipliers>
+	<size>(1,1)</size>
+	<fillPercent>.1</fillPercent>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+	<tradeability>None</tradeability>
+    <pathCost>0</pathCost>
+    <!-- <constructEffect>ConstructDirt</constructEffect> -->
+    <tickerType>Normal</tickerType>
+    <drawerType>RealtimeOnly</drawerType>
+    <statBases>
+    <MaxHitPoints>1000</MaxHitPoints>
+ <!--        <WorkToBuild>200</WorkToBuild>
+      <TrapSpringChance>1.0</TrapSpringChance>
+      <Flammability>0</Flammability> -->
+    </statBases>
+    <selectable>true</selectable>
+	<clearBuildingArea>false</clearBuildingArea>
+    <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <drawPlaceWorkersWhileSelected>false</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>1.9</explosiveRadius>
+        <explosiveDamageType>TM_ExplosiveTrapDD</explosiveDamageType>
+		<damageAmountBase>8</damageAmountBase>
+        <explodeOnKilled>true</explodeOnKilled>
+        <startWickHitPointsPercent>0.999</startWickHitPointsPercent>
+        <wickTicks>5</wickTicks>
+        <startWickOnDamageTaken>
+          <li>Bullet</li>
+          <li>Arrow</li>
+          <li>Bomb</li>
+          <li>ArrowHighVelocity</li>
+          <li>Flame</li>
+        </startWickOnDamageTaken>
+      </li>
+<!--       <li Class="TorannMagic.CompProperties_Summoned"></li> -->
+      <li Class="CompProperties_Lifespan">
+        <lifespanTicks>60000</lifespanTicks>
+      </li>
+    </comps>
+    <specialDisplayRadius>1.9</specialDisplayRadius>
+  </ThingDef>
+
+  <ThingDef ParentName="TM_BuildingBase">
+    <defName>TM_MiniMineBD_I</defName>
+    <thingClass>Building_TrapExplosive</thingClass>
+    <label>Mini Mine</label>
+    <description>A small landmine that is designed to go off on a hair-trigger and will explode if it is damaged in any way. It will also explode if an unaware pawn walks over it.</description>    
+    <graphicData>
+      <texPath>Spells/trapproximity</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+	  <drawSize>(0.8,0.8)</drawSize>
+    </graphicData>
+	<building>
+      <isTrap>true</isTrap>
+		<isInert>true</isInert>
+      <trapPeacefulWildAnimalsSpringChanceFactor>0.25</trapPeacefulWildAnimalsSpringChanceFactor>
+      <expandHomeArea>false</expandHomeArea>
+      <ai_chillDestination>false</ai_chillDestination>
+	</building>
+    <damageMultipliers>
+      <li>
+        <damageDef>TM_BarrelBombDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_MiningExplosiveDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_BreachingCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_ShapedCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_DemolishDD</damageDef>
+        <multiplier>1</multiplier>
+      </li>
+    </damageMultipliers>
+	<size>(1,1)</size>
+	<fillPercent>.1</fillPercent>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+	<tradeability>None</tradeability>
+    <pathCost>0</pathCost>
+    <!-- <constructEffect>ConstructDirt</constructEffect> -->
+    <tickerType>Normal</tickerType>
+    <drawerType>RealtimeOnly</drawerType>
+    <statBases>
+    <MaxHitPoints>1000</MaxHitPoints>
+ <!--        <WorkToBuild>200</WorkToBuild>
+      <TrapSpringChance>1.0</TrapSpringChance>
+      <Flammability>0</Flammability> -->
+    </statBases>
+    <selectable>true</selectable>
+	<clearBuildingArea>false</clearBuildingArea>
+    <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <drawPlaceWorkersWhileSelected>false</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>1.9</explosiveRadius>
+        <explosiveDamageType>TM_ExplosiveTrapDD</explosiveDamageType>
+		<damageAmountBase>10</damageAmountBase>
+        <explodeOnKilled>true</explodeOnKilled>
+        <startWickHitPointsPercent>0.999</startWickHitPointsPercent>
+        <wickTicks>5</wickTicks>
+        <startWickOnDamageTaken>
+          <li>Bullet</li>
+          <li>Arrow</li>
+          <li>Bomb</li>
+          <li>ArrowHighVelocity</li>
+          <li>Flame</li>
+        </startWickOnDamageTaken>
+      </li>
+<!--       <li Class="TorannMagic.CompProperties_Summoned"></li> -->
+      <li Class="CompProperties_Lifespan">
+        <lifespanTicks>60000</lifespanTicks>
+      </li>
+    </comps>
+    <specialDisplayRadius>1.9</specialDisplayRadius>
+  </ThingDef>
+
+  <ThingDef ParentName="TM_BuildingBase">
+    <defName>TM_MiniMineBD_II</defName>
+    <thingClass>Building_TrapExplosive</thingClass>
+    <label>Mini Mine</label>
+    <description>A small landmine that is designed to go off on a hair-trigger and will explode if it is damaged in any way. It will also explode if an unaware pawn walks over it.</description>    
+    <graphicData>
+      <texPath>Spells/trapproximity</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+	  <drawSize>(0.8,0.8)</drawSize>
+    </graphicData>
+	<building>
+      <isTrap>true</isTrap>
+		<isInert>true</isInert>
+      <trapPeacefulWildAnimalsSpringChanceFactor>0.25</trapPeacefulWildAnimalsSpringChanceFactor>
+      <expandHomeArea>false</expandHomeArea>
+      <ai_chillDestination>false</ai_chillDestination>
+	</building>
+    <damageMultipliers>
+      <li>
+        <damageDef>TM_BarrelBombDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_MiningExplosiveDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_BreachingCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_ShapedCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_DemolishDD</damageDef>
+        <multiplier>1</multiplier>
+      </li>
+    </damageMultipliers>
+	<size>(1,1)</size>
+	<fillPercent>.1</fillPercent>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+	<tradeability>None</tradeability>
+    <pathCost>0</pathCost>
+    <!-- <constructEffect>ConstructDirt</constructEffect> -->
+    <tickerType>Normal</tickerType>
+    <drawerType>RealtimeOnly</drawerType>
+    <statBases>
+    <MaxHitPoints>1000</MaxHitPoints>
+ <!--        <WorkToBuild>200</WorkToBuild>
+      <TrapSpringChance>1.0</TrapSpringChance>
+      <Flammability>0</Flammability> -->
+    </statBases>
+    <selectable>true</selectable>
+	<clearBuildingArea>false</clearBuildingArea>
+    <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <drawPlaceWorkersWhileSelected>false</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>1.9</explosiveRadius>
+        <explosiveDamageType>TM_ExplosiveTrapDD</explosiveDamageType>
+		<damageAmountBase>12</damageAmountBase>
+        <explodeOnKilled>true</explodeOnKilled>
+        <startWickHitPointsPercent>0.999</startWickHitPointsPercent>
+        <wickTicks>5</wickTicks>
+        <startWickOnDamageTaken>
+          <li>Bullet</li>
+          <li>Arrow</li>
+          <li>Bomb</li>
+          <li>ArrowHighVelocity</li>
+          <li>Flame</li>
+        </startWickOnDamageTaken>
+      </li>
+<!--       <li Class="TorannMagic.CompProperties_Summoned"></li> -->
+      <li Class="CompProperties_Lifespan">
+        <lifespanTicks>60000</lifespanTicks>
+      </li>
+    </comps>
+    <specialDisplayRadius>1.9</specialDisplayRadius>
+  </ThingDef>
+
+  <ThingDef ParentName="TM_BuildingBase">
+    <defName>TM_MiniMineBD_III</defName>
+    <thingClass>Building_TrapExplosive</thingClass>
+    <label>Mini Mine</label>
+    <description>A small landmine that is designed to go off on a hair-trigger and will explode if it is damaged in any way. It will also explode if an unaware pawn walks over it.</description>    
+    <graphicData>
+      <texPath>Spells/trapproximity</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+	  <drawSize>(0.8,0.8)</drawSize>
+    </graphicData>
+	<building>
+      <isTrap>true</isTrap>
+		<isInert>true</isInert>
+      <trapPeacefulWildAnimalsSpringChanceFactor>0.25</trapPeacefulWildAnimalsSpringChanceFactor>
+      <expandHomeArea>false</expandHomeArea>
+      <ai_chillDestination>false</ai_chillDestination>
+	</building>
+    <damageMultipliers>
+      <li>
+        <damageDef>TM_BarrelBombDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_MiningExplosiveDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_BreachingCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_ShapedCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_DemolishDD</damageDef>
+        <multiplier>1</multiplier>
+      </li>
+    </damageMultipliers>
+	<size>(1,1)</size>
+	<fillPercent>.1</fillPercent>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+	<tradeability>None</tradeability>
+    <pathCost>0</pathCost>
+    <!-- <constructEffect>ConstructDirt</constructEffect> -->
+    <tickerType>Normal</tickerType>
+    <drawerType>RealtimeOnly</drawerType>
+    <statBases>
+    <MaxHitPoints>1000</MaxHitPoints>
+ <!--        <WorkToBuild>200</WorkToBuild>
+      <TrapSpringChance>1.0</TrapSpringChance>
+      <Flammability>0</Flammability> -->
+    </statBases>
+    <selectable>true</selectable>
+	<clearBuildingArea>false</clearBuildingArea>
+    <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <drawPlaceWorkersWhileSelected>false</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>1.9</explosiveRadius>
+        <explosiveDamageType>TM_ExplosiveTrapDD</explosiveDamageType>
+		<damageAmountBase>14</damageAmountBase>
+        <explodeOnKilled>true</explodeOnKilled>
+        <startWickHitPointsPercent>0.999</startWickHitPointsPercent>
+        <wickTicks>5</wickTicks>
+        <startWickOnDamageTaken>
+          <li>Bullet</li>
+          <li>Arrow</li>
+          <li>Bomb</li>
+          <li>ArrowHighVelocity</li>
+          <li>Flame</li>
+        </startWickOnDamageTaken>
+      </li>
+<!--       <li Class="TorannMagic.CompProperties_Summoned"></li> -->
+      <li Class="CompProperties_Lifespan">
+        <lifespanTicks>60000</lifespanTicks>
+      </li>
+    </comps>
+    <specialDisplayRadius>1.9</specialDisplayRadius>
+  </ThingDef>
+
+  <ThingDef ParentName="TM_BuildingBase">
+    <defName>TM_BarrelBombBD</defName>
+    <label>The Big One</label>
+    <description>A massive barrel filled with explosives. It will detonate if it is damaged in any way. The volatile explosives within discharge harmlessly after 24 hours.</description>    
+    <graphicData>
+      <texPath>Spells/barrel</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+	  <drawSize>(1.3,1.3)</drawSize>
+    </graphicData>
+	<building>
+		<isInert>true</isInert>
+      <expandHomeArea>false</expandHomeArea>
+      <ai_chillDestination>false</ai_chillDestination>
+	</building>
+    <damageMultipliers>
+      <li>
+        <damageDef>TM_BarrelBombDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_MiningExplosiveDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_BreachingCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_ShapedCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_DemolishDD</damageDef>
+        <multiplier>1</multiplier>
+      </li>
+    </damageMultipliers>
+	<size>(1,1)</size>
+	<fillPercent>.1</fillPercent>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+	<tradeability>None</tradeability>
+    <pathCost>0</pathCost>
+    <!-- <constructEffect>ConstructDirt</constructEffect> -->
+    <tickerType>Normal</tickerType>
+    <drawerType>RealtimeOnly</drawerType>
+    <statBases>
+    <MaxHitPoints>1000</MaxHitPoints>
+ <!--        <WorkToBuild>200</WorkToBuild>
+      <Flammability>0</Flammability> -->
+    </statBases>
+    <selectable>true</selectable>
+	<clearBuildingArea>false</clearBuildingArea>
+    <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <drawPlaceWorkersWhileSelected>false</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>7.0</explosiveRadius>
+        <explosiveDamageType>TM_BarrelBombDD</explosiveDamageType>
+		<damageAmountBase>55</damageAmountBase>
+        <startWickHitPointsPercent>0.999</startWickHitPointsPercent>
+        <explodeOnKilled>true</explodeOnKilled>
+        <wickTicks>30</wickTicks>
+        <startWickOnDamageTaken>
+          <li>Bullet</li>
+          <li>Arrow</li>
+          <li>Bomb</li>
+          <li>ArrowHighVelocity</li>
+          <li>Flame</li>
+        </startWickOnDamageTaken>
+      </li>
+<!--       <li Class="TorannMagic.CompProperties_Summoned"></li> -->
+      <li Class="CompProperties_Lifespan">
+        <lifespanTicks>60000</lifespanTicks>
+      </li>
+    </comps>
+    <specialDisplayRadius>7.0</specialDisplayRadius>
+  </ThingDef>
+
+  <ThingDef ParentName="TM_BuildingBase">
+    <defName>TM_ExplosiveTrapBD</defName>
+    <label>Explosive Trap</label>
+    <description>A trap that is designed to go off on a hair-trigger and will explode if it is damaged in any way. The trap is stable if left alone and can be safely walked around; the trap must be damaged to trigger detonation.</description>    
+    <graphicData>
+      <texPath>Spells/trapexplode2</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+	  <drawSize>(1.3,1.3)</drawSize>
+    </graphicData>
+	<building>
+		<isInert>true</isInert>
+      <expandHomeArea>false</expandHomeArea>
+      <ai_chillDestination>false</ai_chillDestination>
+	</building>
+    <damageMultipliers>
+      <li>
+        <damageDef>TM_BarrelBombDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_MiningExplosiveDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_BreachingCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_ShapedCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_DemolishDD</damageDef>
+        <multiplier>1</multiplier>
+      </li>
+    </damageMultipliers>
+	<size>(1,1)</size>
+	<fillPercent>.1</fillPercent>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+	<tradeability>None</tradeability>
+    <pathCost>0</pathCost>
+    <!-- <constructEffect>ConstructDirt</constructEffect> -->
+    <tickerType>Normal</tickerType>
+    <drawerType>RealtimeOnly</drawerType>
+    <statBases>
+    <MaxHitPoints>1000</MaxHitPoints>
+ <!--        <WorkToBuild>200</WorkToBuild>
+      <Flammability>0</Flammability> -->
+    </statBases>
+    <selectable>true</selectable>
+	<clearBuildingArea>false</clearBuildingArea>
+    <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <drawPlaceWorkersWhileSelected>false</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>4.0</explosiveRadius>
+        <explosiveDamageType>TM_ExplosiveTrapDD</explosiveDamageType>
+		<damageAmountBase>20</damageAmountBase>
+        <explodeOnKilled>true</explodeOnKilled>
+        <startWickHitPointsPercent>0.999</startWickHitPointsPercent>
+        <wickTicks>15</wickTicks>
+        <startWickOnDamageTaken>
+          <li>Bullet</li>
+          <li>Arrow</li>
+          <li>Bomb</li>
+          <li>ArrowHighVelocity</li>
+          <li>Flame</li>
+        </startWickOnDamageTaken>
+      </li>
+<!--       <li Class="TorannMagic.CompProperties_Summoned"></li> -->
+      <li Class="CompProperties_Lifespan">
+        <lifespanTicks>60000</lifespanTicks>
+      </li>
+    </comps>
+    <specialDisplayRadius>4.0</specialDisplayRadius>
+  </ThingDef>
+
+  <ThingDef ParentName="TM_BuildingBase">
+    <defName>TM_ExplosiveTrapBD_I</defName>
+    <label>Explosive Trap</label>
+    <description>A trap that is designed to go off on a hair-trigger and will explode if it is damaged in any way. The trap is stable if left alone and can be safely walked around; the trap must be damaged to trigger detonation.</description>    
+    <graphicData>
+      <texPath>Spells/trapexplode2</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+	  <drawSize>(1.3,1.3)</drawSize>
+    </graphicData>
+	<building>
+		<isInert>true</isInert>
+      <expandHomeArea>false</expandHomeArea>
+      <ai_chillDestination>false</ai_chillDestination>
+	</building>
+    <damageMultipliers>
+      <li>
+        <damageDef>TM_BarrelBombDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_MiningExplosiveDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_BreachingCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_ShapedCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_DemolishDD</damageDef>
+        <multiplier>1</multiplier>
+      </li>
+    </damageMultipliers>
+	<size>(1,1)</size>
+	<fillPercent>.1</fillPercent>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+	<tradeability>None</tradeability>
+    <pathCost>0</pathCost>
+    <!-- <constructEffect>ConstructDirt</constructEffect> -->
+    <tickerType>Normal</tickerType>
+    <drawerType>RealtimeOnly</drawerType>
+    <statBases>
+    <MaxHitPoints>1000</MaxHitPoints>
+ <!--        <WorkToBuild>200</WorkToBuild>
+      <Flammability>0</Flammability> -->
+    </statBases>
+    <selectable>true</selectable>
+	<clearBuildingArea>false</clearBuildingArea>
+    <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <drawPlaceWorkersWhileSelected>false</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>4.0</explosiveRadius>
+        <explosiveDamageType>TM_ExplosiveTrapDD</explosiveDamageType>
+		<damageAmountBase>24</damageAmountBase>
+        <explodeOnKilled>true</explodeOnKilled>
+        <startWickHitPointsPercent>0.999</startWickHitPointsPercent>
+        <wickTicks>15</wickTicks>
+        <startWickOnDamageTaken>
+          <li>Bullet</li>
+          <li>Arrow</li>
+          <li>Bomb</li>
+          <li>ArrowHighVelocity</li>
+          <li>Flame</li>
+        </startWickOnDamageTaken>
+      </li>
+<!--       <li Class="TorannMagic.CompProperties_Summoned"></li> -->
+      <li Class="CompProperties_Lifespan">
+        <lifespanTicks>60000</lifespanTicks>
+      </li>
+    </comps>
+    <specialDisplayRadius>4.0</specialDisplayRadius>
+  </ThingDef>
+
+  <ThingDef ParentName="TM_BuildingBase">
+    <defName>TM_ExplosiveTrapBD_II</defName>
+    <label>Explosive Trap</label>
+    <description>A trap that is designed to go off on a hair-trigger and will explode if it is damaged in any way. The trap is stable if left alone and can be safely walked around; the trap must be damaged to trigger detonation.</description>    
+    <graphicData>
+      <texPath>Spells/trapexplode2</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+	  <drawSize>(1.3,1.3)</drawSize>
+    </graphicData>
+	<building>
+		<isInert>true</isInert>
+      <expandHomeArea>false</expandHomeArea>
+      <ai_chillDestination>false</ai_chillDestination>
+	</building>
+    <damageMultipliers>
+      <li>
+        <damageDef>TM_BarrelBombDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_MiningExplosiveDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_BreachingCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_ShapedCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_DemolishDD</damageDef>
+        <multiplier>1</multiplier>
+      </li>
+    </damageMultipliers>
+	<size>(1,1)</size>
+	<fillPercent>.1</fillPercent>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+	<tradeability>None</tradeability>
+    <pathCost>0</pathCost>
+    <!-- <constructEffect>ConstructDirt</constructEffect> -->
+    <tickerType>Normal</tickerType>
+    <drawerType>RealtimeOnly</drawerType>
+    <statBases>
+    <MaxHitPoints>1000</MaxHitPoints>
+ <!--        <WorkToBuild>200</WorkToBuild>
+      <Flammability>0</Flammability> -->
+    </statBases>
+    <selectable>true</selectable>
+	<clearBuildingArea>false</clearBuildingArea>
+    <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <drawPlaceWorkersWhileSelected>false</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>4.0</explosiveRadius>
+        <explosiveDamageType>TM_ExplosiveTrapDD</explosiveDamageType>
+		<damageAmountBase>28</damageAmountBase>
+        <explodeOnKilled>true</explodeOnKilled>
+        <startWickHitPointsPercent>0.999</startWickHitPointsPercent>
+        <wickTicks>15</wickTicks>
+        <startWickOnDamageTaken>
+          <li>Bullet</li>
+          <li>Arrow</li>
+          <li>Bomb</li>
+          <li>ArrowHighVelocity</li>
+          <li>Flame</li>
+        </startWickOnDamageTaken>
+      </li>
+<!--       <li Class="TorannMagic.CompProperties_Summoned"></li> -->
+      <li Class="CompProperties_Lifespan">
+        <lifespanTicks>60000</lifespanTicks>
+      </li>
+    </comps>
+    <specialDisplayRadius>4.0</specialDisplayRadius>
+  </ThingDef>
+
+  <ThingDef ParentName="TM_BuildingBase">
+    <defName>TM_ExplosiveTrapBD_III</defName>
+    <label>Explosive Trap</label>
+    <description>A trap that is designed to go off on a hair-trigger and will explode if it is damaged in any way. The trap is stable if left alone and can be safely walked around; the trap must be damaged to trigger detonation.</description>    
+    <graphicData>
+      <texPath>Spells/trapexplode2</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+	  <drawSize>(1.3,1.3)</drawSize>
+    </graphicData>
+	<building>
+		<isInert>true</isInert>
+      <expandHomeArea>false</expandHomeArea>
+      <ai_chillDestination>false</ai_chillDestination>
+	</building>
+    <damageMultipliers>
+      <li>
+        <damageDef>TM_BarrelBombDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_MiningExplosiveDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_BreachingCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_ShapedCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_DemolishDD</damageDef>
+        <multiplier>1</multiplier>
+      </li>
+    </damageMultipliers>
+	<size>(1,1)</size>
+	<fillPercent>.1</fillPercent>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+	<tradeability>None</tradeability>
+    <pathCost>0</pathCost>
+    <!-- <constructEffect>ConstructDirt</constructEffect> -->
+    <tickerType>Normal</tickerType>
+    <drawerType>RealtimeOnly</drawerType>
+    <statBases>
+    <MaxHitPoints>1000</MaxHitPoints>
+ <!--        <WorkToBuild>200</WorkToBuild>
+      <Flammability>0</Flammability> -->
+    </statBases>
+    <selectable>true</selectable>
+	<clearBuildingArea>false</clearBuildingArea>
+    <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <drawPlaceWorkersWhileSelected>false</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>4.5</explosiveRadius>
+        <explosiveDamageType>TM_ExplosiveTrapDD</explosiveDamageType>
+		<damageAmountBase>32</damageAmountBase>
+        <explodeOnKilled>true</explodeOnKilled>
+        <startWickHitPointsPercent>0.999</startWickHitPointsPercent>
+        <wickTicks>15</wickTicks>
+        <startWickOnDamageTaken>
+          <li>Bullet</li>
+          <li>Arrow</li>
+          <li>Bomb</li>
+          <li>ArrowHighVelocity</li>
+          <li>Flame</li>
+        </startWickOnDamageTaken>
+      </li>
+<!--       <li Class="TorannMagic.CompProperties_Summoned"></li> -->
+      <li Class="CompProperties_Lifespan">
+        <lifespanTicks>60000</lifespanTicks>
+      </li>
+    </comps>
+    <specialDisplayRadius>4.5</specialDisplayRadius>
+  </ThingDef>
+
+  <ThingDef ParentName="TM_BuildingBase">
+    <defName>TM_FlameTrapBD</defName>
+    <label>Flame Trap</label>
+    <description>A trap that is designed to go off on a hair-trigger and will explode in an incendiary blaze if it is damaged in any way. The trap is stable if left alone and can be safely walked around; the trap must be damaged to trigger detonation.</description>    
+    <graphicData>
+      <texPath>Spells/trapfire</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+	  <drawSize>(1.3,1.3)</drawSize>
+    </graphicData>
+	<building>
+		<isInert>true</isInert>
+      <expandHomeArea>false</expandHomeArea>
+      <ai_chillDestination>false</ai_chillDestination>
+	</building>
+    <damageMultipliers>
+      <li>
+        <damageDef>TM_BarrelBombDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_MiningExplosiveDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_BreachingCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_ShapedCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_DemolishDD</damageDef>
+        <multiplier>1</multiplier>
+      </li>
+    </damageMultipliers>
+	<size>(1,1)</size>
+	<fillPercent>.1</fillPercent>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+	<tradeability>None</tradeability>
+    <pathCost>0</pathCost>
+    <!-- <constructEffect>ConstructDirt</constructEffect> -->
+    <tickerType>Normal</tickerType>
+    <drawerType>RealtimeOnly</drawerType>
+    <statBases>
+    <MaxHitPoints>1000</MaxHitPoints>
+ <!--        <WorkToBuild>200</WorkToBuild>
+      <Flammability>0</Flammability> -->
+    </statBases>
+    <selectable>true</selectable>
+	<clearBuildingArea>false</clearBuildingArea>
+    <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <drawPlaceWorkersWhileSelected>false</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>4.0</explosiveRadius>
+        <explosiveDamageType>Flame</explosiveDamageType>
+		<damageAmountBase>14</damageAmountBase>
+        <explodeOnKilled>true</explodeOnKilled>
+        <startWickHitPointsPercent>0.999</startWickHitPointsPercent>
+        <wickTicks>15</wickTicks>
+        <startWickOnDamageTaken>
+          <li>Bullet</li>
+          <li>Arrow</li>
+          <li>Bomb</li>
+          <li>ArrowHighVelocity</li>
+          <li>Flame</li>
+        </startWickOnDamageTaken>
+      </li>
+<!--       <li Class="TorannMagic.CompProperties_Summoned"></li> -->
+      <li Class="CompProperties_Lifespan">
+        <lifespanTicks>60000</lifespanTicks>
+      </li>
+    </comps>
+    <specialDisplayRadius>4.0</specialDisplayRadius>
+  </ThingDef>
+
+  <ThingDef ParentName="TM_BuildingBase">
+    <defName>TM_FlameTrapBD_I</defName>
+    <label>Flame Trap</label>
+    <description>A trap that is designed to go off on a hair-trigger and will explode in an incendiary blaze if it is damaged in any way. The trap is stable if left alone and can be safely walked around; the trap must be damaged to trigger detonation.</description>    
+    <graphicData>
+      <texPath>Spells/trapfire</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+	  <drawSize>(1.3,1.3)</drawSize>
+    </graphicData>
+	<building>
+		<isInert>true</isInert>
+      <expandHomeArea>false</expandHomeArea>
+      <ai_chillDestination>false</ai_chillDestination>
+	</building>
+    <damageMultipliers>
+      <li>
+        <damageDef>TM_BarrelBombDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_MiningExplosiveDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_BreachingCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_ShapedCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_DemolishDD</damageDef>
+        <multiplier>1</multiplier>
+      </li>
+    </damageMultipliers>
+	<size>(1,1)</size>
+	<fillPercent>.1</fillPercent>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+	<tradeability>None</tradeability>
+    <pathCost>0</pathCost>
+    <!-- <constructEffect>ConstructDirt</constructEffect> -->
+    <tickerType>Normal</tickerType>
+    <drawerType>RealtimeOnly</drawerType>
+    <statBases>
+    <MaxHitPoints>1000</MaxHitPoints>
+ <!--        <WorkToBuild>200</WorkToBuild>
+      <Flammability>0</Flammability> -->
+    </statBases>
+    <selectable>true</selectable>
+	<clearBuildingArea>false</clearBuildingArea>
+    <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <drawPlaceWorkersWhileSelected>false</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>4.0</explosiveRadius>
+        <explosiveDamageType>Flame</explosiveDamageType>
+		<damageAmountBase>18</damageAmountBase>
+        <explodeOnKilled>true</explodeOnKilled>
+        <startWickHitPointsPercent>0.999</startWickHitPointsPercent>
+        <wickTicks>15</wickTicks>
+        <startWickOnDamageTaken>
+          <li>Bullet</li>
+          <li>Arrow</li>
+          <li>Bomb</li>
+          <li>ArrowHighVelocity</li>
+          <li>Flame</li>
+        </startWickOnDamageTaken>
+      </li>
+<!--       <li Class="TorannMagic.CompProperties_Summoned"></li> -->
+      <li Class="CompProperties_Lifespan">
+        <lifespanTicks>60000</lifespanTicks>
+      </li>
+    </comps>
+    <specialDisplayRadius>4.0</specialDisplayRadius>
+  </ThingDef>
+
+  <ThingDef ParentName="TM_BuildingBase">
+    <defName>TM_FlameTrapBD_II</defName>
+    <label>Flame Trap</label>
+    <description>A trap that is designed to go off on a hair-trigger and will explode in an incendiary blaze if it is damaged in any way. The trap is stable if left alone and can be safely walked around; the trap must be damaged to trigger detonation.</description>    
+    <graphicData>
+      <texPath>Spells/trapfire</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+	  <drawSize>(1.3,1.3)</drawSize>
+    </graphicData>
+	<building>
+		<isInert>true</isInert>
+      <expandHomeArea>false</expandHomeArea>
+      <ai_chillDestination>false</ai_chillDestination>
+	</building>
+    <damageMultipliers>
+      <li>
+        <damageDef>TM_BarrelBombDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_MiningExplosiveDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_BreachingCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_ShapedCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_DemolishDD</damageDef>
+        <multiplier>1</multiplier>
+      </li>
+    </damageMultipliers>
+	<size>(1,1)</size>
+	<fillPercent>.1</fillPercent>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+	<tradeability>None</tradeability>
+    <pathCost>0</pathCost>
+    <!-- <constructEffect>ConstructDirt</constructEffect> -->
+    <tickerType>Normal</tickerType>
+    <drawerType>RealtimeOnly</drawerType>
+    <statBases>
+    <MaxHitPoints>1000</MaxHitPoints>
+ <!--        <WorkToBuild>200</WorkToBuild>
+      <Flammability>0</Flammability> -->
+    </statBases>
+    <selectable>true</selectable>
+	<clearBuildingArea>false</clearBuildingArea>
+    <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <drawPlaceWorkersWhileSelected>false</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>4.0</explosiveRadius>
+        <explosiveDamageType>Flame</explosiveDamageType>
+		<damageAmountBase>22</damageAmountBase>
+        <explodeOnKilled>true</explodeOnKilled>
+        <startWickHitPointsPercent>0.999</startWickHitPointsPercent>
+        <wickTicks>15</wickTicks>
+        <startWickOnDamageTaken>
+          <li>Bullet</li>
+          <li>Arrow</li>
+          <li>Bomb</li>
+          <li>ArrowHighVelocity</li>
+          <li>Flame</li>
+        </startWickOnDamageTaken>
+      </li>
+<!--       <li Class="TorannMagic.CompProperties_Summoned"></li> -->
+      <li Class="CompProperties_Lifespan">
+        <lifespanTicks>60000</lifespanTicks>
+      </li>
+    </comps>
+    <specialDisplayRadius>4.0</specialDisplayRadius>
+  </ThingDef>
+
+  <ThingDef ParentName="TM_BuildingBase">
+    <defName>TM_FlameTrapBD_III</defName>
+    <label>Flame Trap</label>
+    <description>A trap that is designed to go off on a hair-trigger and will explode in an incendiary blaze if it is damaged in any way. The trap is stable if left alone and can be safely walked around; the trap must be damaged to trigger detonation.</description>    
+    <graphicData>
+      <texPath>Spells/trapfire</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+	  <drawSize>(1.3,1.3)</drawSize>
+    </graphicData>
+	<building>
+		<isInert>true</isInert>
+      <expandHomeArea>false</expandHomeArea>
+      <ai_chillDestination>false</ai_chillDestination>
+	</building>
+    <damageMultipliers>
+      <li>
+        <damageDef>TM_BarrelBombDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_MiningExplosiveDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_BreachingCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_ShapedCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_DemolishDD</damageDef>
+        <multiplier>1</multiplier>
+      </li>
+    </damageMultipliers>
+	<size>(1,1)</size>
+	<fillPercent>.1</fillPercent>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+	<tradeability>None</tradeability>
+    <pathCost>0</pathCost>
+    <!-- <constructEffect>ConstructDirt</constructEffect> -->
+    <tickerType>Normal</tickerType>
+    <drawerType>RealtimeOnly</drawerType>
+    <statBases>
+    <MaxHitPoints>1000</MaxHitPoints>
+ <!--        <WorkToBuild>200</WorkToBuild>
+      <Flammability>0</Flammability> -->
+    </statBases>
+    <selectable>true</selectable>
+	<clearBuildingArea>false</clearBuildingArea>
+    <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <drawPlaceWorkersWhileSelected>false</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>4.5</explosiveRadius>
+        <explosiveDamageType>Flame</explosiveDamageType>
+		<damageAmountBase>26</damageAmountBase>
+        <explodeOnKilled>true</explodeOnKilled>
+        <startWickHitPointsPercent>0.999</startWickHitPointsPercent>
+        <wickTicks>15</wickTicks>
+        <startWickOnDamageTaken>
+          <li>Bullet</li>
+          <li>Arrow</li>
+          <li>Bomb</li>
+          <li>ArrowHighVelocity</li>
+          <li>Flame</li>
+        </startWickOnDamageTaken>
+      </li>
+<!--       <li Class="TorannMagic.CompProperties_Summoned"></li> -->
+      <li Class="CompProperties_Lifespan">
+        <lifespanTicks>60000</lifespanTicks>
+      </li>
+    </comps>
+    <specialDisplayRadius>4.5</specialDisplayRadius>
+  </ThingDef>
+
+  <ThingDef ParentName="TM_BuildingBase">
+    <defName>TM_StunTrapBD</defName>
+    <label>Stun Trap</label>
+    <description>A trap that is designed to go off on a hair-trigger and will explode in a flash of light if it is damaged in any way. The trap is stable if left alone and can be safely walked around; the trap must be damaged to trigger detonation.</description>    
+    <graphicData>
+      <texPath>Spells/trapstun</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+	  <drawSize>(1.3,1.3)</drawSize>
+    </graphicData>
+	<building>
+		<isInert>true</isInert>
+      <expandHomeArea>false</expandHomeArea>
+      <ai_chillDestination>false</ai_chillDestination>
+	</building>
+    <damageMultipliers>
+      <li>
+        <damageDef>TM_BarrelBombDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_MiningExplosiveDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_BreachingCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_ShapedCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_DemolishDD</damageDef>
+        <multiplier>1</multiplier>
+      </li>
+    </damageMultipliers>
+	<size>(1,1)</size>
+	<fillPercent>.1</fillPercent>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+	<tradeability>None</tradeability>
+    <pathCost>0</pathCost>
+    <!-- <constructEffect>ConstructDirt</constructEffect> -->
+    <tickerType>Normal</tickerType>
+    <drawerType>RealtimeOnly</drawerType>
+    <statBases>
+    <MaxHitPoints>1000</MaxHitPoints>
+ <!--        <WorkToBuild>200</WorkToBuild>
+      <Flammability>0</Flammability> -->
+    </statBases>
+    <selectable>true</selectable>
+	<clearBuildingArea>false</clearBuildingArea>
+    <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <drawPlaceWorkersWhileSelected>false</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>4.0</explosiveRadius>
+        <explosiveDamageType>Stun</explosiveDamageType>
+		<damageAmountBase>20</damageAmountBase>
+        <explodeOnKilled>true</explodeOnKilled>
+        <startWickHitPointsPercent>0.999</startWickHitPointsPercent>
+        <wickTicks>15</wickTicks>
+        <startWickOnDamageTaken>
+          <li>Bullet</li>
+          <li>Arrow</li>
+          <li>Bomb</li>
+          <li>ArrowHighVelocity</li>
+          <li>Flame</li>
+        </startWickOnDamageTaken>
+      </li>
+<!--       <li Class="TorannMagic.CompProperties_Summoned"></li> -->
+      <li Class="CompProperties_Lifespan">
+        <lifespanTicks>60000</lifespanTicks>
+      </li>
+    </comps>
+    <specialDisplayRadius>4.0</specialDisplayRadius>
+  </ThingDef>
+
+  <ThingDef ParentName="TM_BuildingBase">
+    <defName>TM_StunTrapBD_I</defName>
+    <label>Stun Trap</label>
+    <description>A trap that is designed to go off on a hair-trigger and will explode in a flash of light if it is damaged in any way. The trap is stable if left alone and can be safely walked around; the trap must be damaged to trigger detonation.</description>    
+    <graphicData>
+      <texPath>Spells/trapstun</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+	  <drawSize>(1.3,1.3)</drawSize>
+    </graphicData>
+	<building>
+		<isInert>true</isInert>
+      <expandHomeArea>false</expandHomeArea>
+      <ai_chillDestination>false</ai_chillDestination>
+	</building>
+    <damageMultipliers>
+      <li>
+        <damageDef>TM_BarrelBombDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_MiningExplosiveDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_BreachingCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_ShapedCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_DemolishDD</damageDef>
+        <multiplier>1</multiplier>
+      </li>
+    </damageMultipliers>
+	<size>(1,1)</size>
+	<fillPercent>.1</fillPercent>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+	<tradeability>None</tradeability>
+    <pathCost>0</pathCost>
+    <!-- <constructEffect>ConstructDirt</constructEffect> -->
+    <tickerType>Normal</tickerType>
+    <drawerType>RealtimeOnly</drawerType>
+    <statBases>
+    <MaxHitPoints>1000</MaxHitPoints>
+ <!--        <WorkToBuild>200</WorkToBuild>
+      <Flammability>0</Flammability> -->
+    </statBases>
+    <selectable>true</selectable>
+	<clearBuildingArea>false</clearBuildingArea>
+    <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <drawPlaceWorkersWhileSelected>false</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>4.0</explosiveRadius>
+        <explosiveDamageType>Stun</explosiveDamageType>
+		<damageAmountBase>23</damageAmountBase>
+        <explodeOnKilled>true</explodeOnKilled>
+        <startWickHitPointsPercent>0.999</startWickHitPointsPercent>
+        <wickTicks>15</wickTicks>
+        <startWickOnDamageTaken>
+          <li>Bullet</li>
+          <li>Arrow</li>
+          <li>Bomb</li>
+          <li>ArrowHighVelocity</li>
+          <li>Flame</li>
+        </startWickOnDamageTaken>
+      </li>
+<!--       <li Class="TorannMagic.CompProperties_Summoned"></li> -->
+      <li Class="CompProperties_Lifespan">
+        <lifespanTicks>60000</lifespanTicks>
+      </li>
+    </comps>
+    <specialDisplayRadius>4.0</specialDisplayRadius>
+  </ThingDef>
+
+  <ThingDef ParentName="TM_BuildingBase">
+    <defName>TM_StunTrapBD_II</defName>
+    <label>Stun Trap</label>
+    <description>A trap that is designed to go off on a hair-trigger and will explode in a flash of light if it is damaged in any way. The trap is stable if left alone and can be safely walked around; the trap must be damaged to trigger detonation.</description>    
+    <graphicData>
+      <texPath>Spells/trapstun</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+	  <drawSize>(1.3,1.3)</drawSize>
+    </graphicData>
+	<building>
+		<isInert>true</isInert>
+      <expandHomeArea>false</expandHomeArea>
+      <ai_chillDestination>false</ai_chillDestination>
+	</building>
+    <damageMultipliers>
+      <li>
+        <damageDef>TM_BarrelBombDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_MiningExplosiveDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_BreachingCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_ShapedCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_DemolishDD</damageDef>
+        <multiplier>1</multiplier>
+      </li>
+    </damageMultipliers>
+	<size>(1,1)</size>
+	<fillPercent>.1</fillPercent>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+	<tradeability>None</tradeability>
+    <pathCost>0</pathCost>
+    <!-- <constructEffect>ConstructDirt</constructEffect> -->
+    <tickerType>Normal</tickerType>
+    <drawerType>RealtimeOnly</drawerType>
+    <statBases>
+    <MaxHitPoints>1000</MaxHitPoints>
+ <!--        <WorkToBuild>200</WorkToBuild>
+      <Flammability>0</Flammability> -->
+    </statBases>
+    <selectable>true</selectable>
+	<clearBuildingArea>false</clearBuildingArea>
+    <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <drawPlaceWorkersWhileSelected>false</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>4.0</explosiveRadius>
+        <explosiveDamageType>Stun</explosiveDamageType>
+		<damageAmountBase>26</damageAmountBase>
+        <explodeOnKilled>true</explodeOnKilled>
+        <startWickHitPointsPercent>0.999</startWickHitPointsPercent>
+        <wickTicks>15</wickTicks>
+        <startWickOnDamageTaken>
+          <li>Bullet</li>
+          <li>Arrow</li>
+          <li>Bomb</li>
+          <li>ArrowHighVelocity</li>
+          <li>Flame</li>
+        </startWickOnDamageTaken>
+      </li>
+<!--       <li Class="TorannMagic.CompProperties_Summoned"></li> -->
+      <li Class="CompProperties_Lifespan">
+        <lifespanTicks>60000</lifespanTicks>
+      </li>
+    </comps>
+    <specialDisplayRadius>4.0</specialDisplayRadius>
+  </ThingDef>
+
+  <ThingDef ParentName="TM_BuildingBase">
+    <defName>TM_StunTrapBD_III</defName>
+    <label>Stun Trap</label>
+    <description>A trap that is designed to go off on a hair-trigger and will explode in a flash of light if it is damaged in any way. The trap is stable if left alone and can be safely walked around; the trap must be damaged to trigger detonation.</description>    
+    <graphicData>
+      <texPath>Spells/trapstun</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+	  <drawSize>(1.3,1.3)</drawSize>
+    </graphicData>
+	<building>
+		<isInert>true</isInert>
+      <expandHomeArea>false</expandHomeArea>
+      <ai_chillDestination>false</ai_chillDestination>
+	</building>
+    <damageMultipliers>
+      <li>
+        <damageDef>TM_BarrelBombDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_MiningExplosiveDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_BreachingCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_ShapedCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_DemolishDD</damageDef>
+        <multiplier>1</multiplier>
+      </li>
+    </damageMultipliers>
+	<size>(1,1)</size>
+	<fillPercent>.1</fillPercent>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+	<tradeability>None</tradeability>
+    <pathCost>0</pathCost>
+    <!-- <constructEffect>ConstructDirt</constructEffect> -->
+    <tickerType>Normal</tickerType>
+    <drawerType>RealtimeOnly</drawerType>
+    <statBases>
+    <MaxHitPoints>1000</MaxHitPoints>
+ <!--        <WorkToBuild>200</WorkToBuild>
+      <Flammability>0</Flammability> -->
+    </statBases>
+    <selectable>true</selectable>
+	<clearBuildingArea>false</clearBuildingArea>
+    <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <drawPlaceWorkersWhileSelected>false</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>4.5</explosiveRadius>
+        <explosiveDamageType>Stun</explosiveDamageType>
+		<damageAmountBase>30</damageAmountBase>
+        <explodeOnKilled>true</explodeOnKilled>
+        <startWickHitPointsPercent>0.999</startWickHitPointsPercent>
+        <wickTicks>15</wickTicks>
+        <startWickOnDamageTaken>
+          <li>Bullet</li>
+          <li>Arrow</li>
+          <li>Bomb</li>
+          <li>ArrowHighVelocity</li>
+          <li>Flame</li>
+        </startWickOnDamageTaken>
+      </li>
+<!--       <li Class="TorannMagic.CompProperties_Summoned"></li> -->
+      <li Class="CompProperties_Lifespan">
+        <lifespanTicks>60000</lifespanTicks>
+      </li>
+    </comps>
+    <specialDisplayRadius>4.5</specialDisplayRadius>
+  </ThingDef>
+
+  <ThingDef ParentName="TM_BuildingBase">
+    <defName>TM_MiningExplosiveBD</defName>
+    <label>Mining Explosive</label>
+    <description>A mining explosive. It's set to go off on a hair-trigger and will explode if damaged in any way. The explosion deals greatly increased damage to structures and terrain. It can be safely walked around; damage is required to detonate the charge.</description>    
+    <graphicData>
+      <texPath>Spells/pipebomb</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+	  <drawSize>(1,1)</drawSize>
+    </graphicData>
+	<building>
+		<isInert>true</isInert>
+      <expandHomeArea>false</expandHomeArea>
+      <ai_chillDestination>false</ai_chillDestination>
+	</building>
+    <damageMultipliers>
+      <li>
+        <damageDef>TM_BarrelBombDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_MiningExplosiveDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_BreachingCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_ShapedCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_DemolishDD</damageDef>
+        <multiplier>1</multiplier>
+      </li>
+    </damageMultipliers>
+	<size>(1,1)</size>
+	<fillPercent>.1</fillPercent>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+	<tradeability>None</tradeability>
+    <pathCost>0</pathCost>
+    <!-- <constructEffect>ConstructDirt</constructEffect> -->
+    <tickerType>Normal</tickerType>
+    <drawerType>RealtimeOnly</drawerType>
+    <statBases>
+    <MaxHitPoints>1000</MaxHitPoints>
+ <!--        <WorkToBuild>200</WorkToBuild>
+      <Flammability>0</Flammability> -->
+    </statBases>
+    <selectable>true</selectable>
+	<clearBuildingArea>false</clearBuildingArea>
+    <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <drawPlaceWorkersWhileSelected>false</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>4.0</explosiveRadius>
+        <explosiveDamageType>TM_MiningExplosiveDD</explosiveDamageType>
+		<damageAmountBase>12</damageAmountBase>
+        <explodeOnKilled>true</explodeOnKilled>
+        <startWickHitPointsPercent>0.999</startWickHitPointsPercent>
+        <wickTicks>15</wickTicks>
+        <startWickOnDamageTaken>
+          <li>Bullet</li>
+          <li>Arrow</li>
+          <li>Bomb</li>
+          <li>ArrowHighVelocity</li>
+          <li>Flame</li>
+        </startWickOnDamageTaken>
+      </li>
+<!--       <li Class="TorannMagic.CompProperties_Summoned"></li> -->
+      <li Class="CompProperties_Lifespan">
+        <lifespanTicks>60000</lifespanTicks>
+      </li>
+    </comps>
+    <specialDisplayRadius>4.0</specialDisplayRadius>
+  </ThingDef>
+
+  <ThingDef ParentName="TM_BuildingBase">
+    <defName>TM_MiningExplosiveBD_I</defName>
+    <label>Mining Explosive</label>
+    <description>A mining explosive. It's set to go off on a hair-trigger and will explode if damaged in any way. The explosion deals greatly increased damage to structures and terrain. It can be safely walked around; damage is required to detonate the charge.</description>    
+    <graphicData>
+      <texPath>Spells/pipebomb</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+	  <drawSize>(1,1)</drawSize>
+    </graphicData>
+	<building>
+		<isInert>true</isInert>
+      <expandHomeArea>false</expandHomeArea>
+      <ai_chillDestination>false</ai_chillDestination>
+	</building>
+    <damageMultipliers>
+      <li>
+        <damageDef>TM_BarrelBombDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_MiningExplosiveDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_BreachingCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_ShapedCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_DemolishDD</damageDef>
+        <multiplier>1</multiplier>
+      </li>
+    </damageMultipliers>
+	<size>(1,1)</size>
+	<fillPercent>.1</fillPercent>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+	<tradeability>None</tradeability>
+    <pathCost>0</pathCost>
+    <!-- <constructEffect>ConstructDirt</constructEffect> -->
+    <tickerType>Normal</tickerType>
+    <drawerType>RealtimeOnly</drawerType>
+    <statBases>
+    <MaxHitPoints>1000</MaxHitPoints>
+ <!--        <WorkToBuild>200</WorkToBuild>
+      <Flammability>0</Flammability> -->
+    </statBases>
+    <selectable>true</selectable>
+	<clearBuildingArea>false</clearBuildingArea>
+    <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <drawPlaceWorkersWhileSelected>false</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>4.0</explosiveRadius>
+        <explosiveDamageType>TM_MiningExplosiveDD</explosiveDamageType>
+		<damageAmountBase>14</damageAmountBase>
+        <explodeOnKilled>true</explodeOnKilled>
+        <startWickHitPointsPercent>0.999</startWickHitPointsPercent>
+        <wickTicks>15</wickTicks>
+        <startWickOnDamageTaken>
+          <li>Bullet</li>
+          <li>Arrow</li>
+          <li>Bomb</li>
+          <li>ArrowHighVelocity</li>
+          <li>Flame</li>
+        </startWickOnDamageTaken>
+      </li>
+<!--       <li Class="TorannMagic.CompProperties_Summoned"></li> -->
+      <li Class="CompProperties_Lifespan">
+        <lifespanTicks>60000</lifespanTicks>
+      </li>
+    </comps>
+    <specialDisplayRadius>4.0</specialDisplayRadius>
+  </ThingDef>
+
+  <ThingDef ParentName="TM_BuildingBase">
+    <defName>TM_MiningExplosiveBD_II</defName>
+    <label>Mining Explosive</label>
+    <description>A mining explosive. It's set to go off on a hair-trigger and will explode if damaged in any way. The explosion deals greatly increased damage to structures and terrain. It can be safely walked around; damage is required to detonate the charge.</description>    
+    <graphicData>
+      <texPath>Spells/pipebomb</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+	  <drawSize>(1,1)</drawSize>
+    </graphicData>
+	<building>
+		<isInert>true</isInert>
+      <expandHomeArea>false</expandHomeArea>
+      <ai_chillDestination>false</ai_chillDestination>
+	</building>
+    <damageMultipliers>
+      <li>
+        <damageDef>TM_BarrelBombDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_MiningExplosiveDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_BreachingCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_ShapedCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_DemolishDD</damageDef>
+        <multiplier>1</multiplier>
+      </li>
+    </damageMultipliers>
+	<size>(1,1)</size>
+	<fillPercent>.1</fillPercent>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+	<tradeability>None</tradeability>
+    <pathCost>0</pathCost>
+    <!-- <constructEffect>ConstructDirt</constructEffect> -->
+    <tickerType>Normal</tickerType>
+    <drawerType>RealtimeOnly</drawerType>
+    <statBases>
+    <MaxHitPoints>1000</MaxHitPoints>
+ <!--        <WorkToBuild>200</WorkToBuild>
+      <Flammability>0</Flammability> -->
+    </statBases>
+    <selectable>true</selectable>
+	<clearBuildingArea>false</clearBuildingArea>
+    <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <drawPlaceWorkersWhileSelected>false</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>4.0</explosiveRadius>
+        <explosiveDamageType>TM_MiningExplosiveDD</explosiveDamageType>
+		<damageAmountBase>16</damageAmountBase>
+        <explodeOnKilled>true</explodeOnKilled>
+        <startWickHitPointsPercent>0.999</startWickHitPointsPercent>
+        <wickTicks>15</wickTicks>
+        <startWickOnDamageTaken>
+          <li>Bullet</li>
+          <li>Arrow</li>
+          <li>Bomb</li>
+          <li>ArrowHighVelocity</li>
+          <li>Flame</li>
+        </startWickOnDamageTaken>
+      </li>
+<!--       <li Class="TorannMagic.CompProperties_Summoned"></li> -->
+      <li Class="CompProperties_Lifespan">
+        <lifespanTicks>60000</lifespanTicks>
+      </li>
+    </comps>
+    <specialDisplayRadius>4.0</specialDisplayRadius>
+  </ThingDef>
+
+  <ThingDef ParentName="TM_BuildingBase">
+    <defName>TM_MiningExplosiveBD_III</defName>
+    <label>Mining Explosive</label>
+    <description>A mining explosive. It's set to go off on a hair-trigger and will explode if damaged in any way. The explosion deals greatly increased damage to structures and terrain. It can be safely walked around; damage is required to detonate the charge.</description>    
+    <graphicData>
+      <texPath>Spells/pipebomb</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+	  <drawSize>(1,1)</drawSize>
+    </graphicData>
+	<building>
+		<isInert>true</isInert>
+      <expandHomeArea>false</expandHomeArea>
+      <ai_chillDestination>false</ai_chillDestination>
+	</building>
+    <damageMultipliers>
+      <li>
+        <damageDef>TM_BarrelBombDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_MiningExplosiveDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_BreachingCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_ShapedCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_DemolishDD</damageDef>
+        <multiplier>1</multiplier>
+      </li>
+    </damageMultipliers>
+	<size>(1,1)</size>
+	<fillPercent>.1</fillPercent>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+	<tradeability>None</tradeability>
+    <pathCost>0</pathCost>
+    <!-- <constructEffect>ConstructDirt</constructEffect> -->
+    <tickerType>Normal</tickerType>
+    <drawerType>RealtimeOnly</drawerType>
+    <statBases>
+    <MaxHitPoints>1000</MaxHitPoints>
+ <!--        <WorkToBuild>200</WorkToBuild>
+      <Flammability>0</Flammability> -->
+    </statBases>
+    <selectable>true</selectable>
+	<clearBuildingArea>false</clearBuildingArea>
+    <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <drawPlaceWorkersWhileSelected>false</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>4.5</explosiveRadius>
+        <explosiveDamageType>TM_MiningExplosiveDD</explosiveDamageType>
+		<damageAmountBase>18</damageAmountBase>
+        <explodeOnKilled>true</explodeOnKilled>
+        <startWickHitPointsPercent>0.999</startWickHitPointsPercent>
+        <wickTicks>15</wickTicks>
+        <startWickOnDamageTaken>
+          <li>Bullet</li>
+          <li>Arrow</li>
+          <li>Bomb</li>
+          <li>ArrowHighVelocity</li>
+          <li>Flame</li>
+        </startWickOnDamageTaken>
+      </li>
+<!--       <li Class="TorannMagic.CompProperties_Summoned"></li> -->
+      <li Class="CompProperties_Lifespan">
+        <lifespanTicks>60000</lifespanTicks>
+      </li>
+    </comps>
+    <specialDisplayRadius>4.5</specialDisplayRadius>
+  </ThingDef>
+
+  <ThingDef ParentName="TM_BuildingBase">
+    <defName>TM_ArchitectLightBD</defName>
+	<thingClass>TorannMagic.Building_TMMageLight</thingClass>
+    <label>Magelight</label>
+    <description>A magelight that provides light in a small area and lasts until deconstructed or destroyed. It is exceedingly fragile; if it is damaged in any way it will explode in a cloud of dust, stunning everything nearby for a short duration.</description>    
+    <graphicData>
+      <texPath>Spells/invis</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+	  <drawSize>(1,1)</drawSize>
+    </graphicData>
+	<building>
+		<isInert>true</isInert>
+      <expandHomeArea>false</expandHomeArea>
+      <ai_chillDestination>false</ai_chillDestination>
+	</building>
+    <damageMultipliers>
+      <li>
+        <damageDef>TM_BarrelBombDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_MiningExplosiveDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_BreachingCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_ShapedCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_DemolishDD</damageDef>
+        <multiplier>1</multiplier>
+      </li>
+    </damageMultipliers>
+	<size>(1,1)</size>
+	<fillPercent>.1</fillPercent>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+	<tradeability>None</tradeability>
+    <pathCost>0</pathCost>
+    <!-- <constructEffect>ConstructDirt</constructEffect> -->
+    <tickerType>Normal</tickerType>
+    <drawerType>RealtimeOnly</drawerType>
+    <statBases>
+    <MaxHitPoints>1000</MaxHitPoints>
+ <!--        <WorkToBuild>200</WorkToBuild>
+      <Flammability>0</Flammability> -->
+    </statBases>
+    <selectable>true</selectable>
+	<clearBuildingArea>false</clearBuildingArea>
+    <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <drawPlaceWorkersWhileSelected>false</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>4.5</explosiveRadius>
+        <explosiveDamageType>Stun</explosiveDamageType>
+		<damageAmountBase>30</damageAmountBase>
+        <explodeOnKilled>true</explodeOnKilled>
+        <startWickHitPointsPercent>0.999</startWickHitPointsPercent>
+        <wickTicks>15</wickTicks>
+        <startWickOnDamageTaken>
+          <li>Bullet</li>
+          <li>Arrow</li>
+          <li>Bomb</li>
+          <li>ArrowHighVelocity</li>
+          <li>Flame</li>
+        </startWickOnDamageTaken>
+      </li>
+<!--       <li Class="TorannMagic.CompProperties_Summoned"></li> -->
+      <li Class="CompProperties_Glower">
+        <glowRadius>12.0</glowRadius>
+        <glowColor>(252,255,204,1)</glowColor>
+      </li>
+    </comps>
+    <specialDisplayRadius>4.5</specialDisplayRadius>
+  </ThingDef>
+
+  <ThingDef ParentName="TM_BuildingBase">
+    <defName>TM_LuckyLanternBD</defName>
+	<thingClass>TorannMagic.Building_TMMageLight</thingClass>
+    <label>Lucky Lantern</label>
+    <description>A lantern created by a miner. It's exceptionally fragile and will explode in a cloud of dust if damaged, stunning everything in the immediate area.</description>    
+    <graphicData>
+      <texPath>Spells/invis</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+	  <drawSize>(1,1)</drawSize>
+    </graphicData>
+	<building>
+		<isInert>true</isInert>
+      <expandHomeArea>false</expandHomeArea>
+      <ai_chillDestination>false</ai_chillDestination>
+	</building>
+    <damageMultipliers>
+      <li>
+        <damageDef>TM_BarrelBombDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_MiningExplosiveDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_BreachingCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_ShapedCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_DemolishDD</damageDef>
+        <multiplier>1</multiplier>
+      </li>
+    </damageMultipliers>
+	<size>(1,1)</size>
+	<fillPercent>.1</fillPercent>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+	<tradeability>None</tradeability>
+    <pathCost>0</pathCost>
+    <!-- <constructEffect>ConstructDirt</constructEffect> -->
+    <tickerType>Normal</tickerType>
+    <drawerType>RealtimeOnly</drawerType>
+    <statBases>
+    <MaxHitPoints>1000</MaxHitPoints>
+ <!--        <WorkToBuild>200</WorkToBuild>
+      <Flammability>0</Flammability> -->
+    </statBases>
+    <selectable>true</selectable>
+	<clearBuildingArea>false</clearBuildingArea>
+    <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <drawPlaceWorkersWhileSelected>false</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>4.0</explosiveRadius>
+        <explosiveDamageType>Stun</explosiveDamageType>
+		<damageAmountBase>20</damageAmountBase>
+        <explodeOnKilled>true</explodeOnKilled>
+        <startWickHitPointsPercent>0.999</startWickHitPointsPercent>
+        <wickTicks>15</wickTicks>
+        <startWickOnDamageTaken>
+          <li>Bullet</li>
+          <li>Arrow</li>
+          <li>Bomb</li>
+          <li>ArrowHighVelocity</li>
+          <li>Flame</li>
+        </startWickOnDamageTaken>
+      </li>
+<!--       <li Class="TorannMagic.CompProperties_Summoned"></li> -->
+      <li Class="CompProperties_Glower">
+        <glowRadius>10.0</glowRadius>
+        <glowColor>(252,255,204,1)</glowColor>
+      </li>
+    </comps>
+    <specialDisplayRadius>4.0</specialDisplayRadius>
+  </ThingDef>
+
+  <ThingDef ParentName="TM_BuildingBase">
+    <defName>TM_LuckyLanternBD_I</defName>
+	<thingClass>TorannMagic.Building_TMMageLight</thingClass>
+    <label>Lucky Lantern</label>
+    <description>A lantern created by a Miner. It's exceptionally fragile and will explode in a cloud of dust if damaged, stunning everything in the immediate area.</description>    
+    <graphicData>
+      <texPath>Spells/invis</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+	  <drawSize>(1,1)</drawSize>
+    </graphicData>
+	<building>
+		<isInert>true</isInert>
+      <expandHomeArea>false</expandHomeArea>
+      <ai_chillDestination>false</ai_chillDestination>
+	</building>
+    <damageMultipliers>
+      <li>
+        <damageDef>TM_BarrelBombDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_MiningExplosiveDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_BreachingCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_ShapedCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_DemolishDD</damageDef>
+        <multiplier>1</multiplier>
+      </li>
+    </damageMultipliers>
+	<size>(1,1)</size>
+	<fillPercent>.1</fillPercent>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+	<tradeability>None</tradeability>
+    <pathCost>0</pathCost>
+    <!-- <constructEffect>ConstructDirt</constructEffect> -->
+    <tickerType>Normal</tickerType>
+    <drawerType>RealtimeOnly</drawerType>
+    <statBases>
+    <MaxHitPoints>1000</MaxHitPoints>
+ <!--        <WorkToBuild>200</WorkToBuild>
+      <Flammability>0</Flammability> -->
+    </statBases>
+    <selectable>true</selectable>
+	<clearBuildingArea>false</clearBuildingArea>
+    <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <drawPlaceWorkersWhileSelected>false</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>4.0</explosiveRadius>
+        <explosiveDamageType>Stun</explosiveDamageType>
+		<damageAmountBase>22</damageAmountBase>
+        <explodeOnKilled>true</explodeOnKilled>
+        <startWickHitPointsPercent>0.999</startWickHitPointsPercent>
+        <wickTicks>15</wickTicks>
+        <startWickOnDamageTaken>
+          <li>Bullet</li>
+          <li>Arrow</li>
+          <li>Bomb</li>
+          <li>ArrowHighVelocity</li>
+          <li>Flame</li>
+        </startWickOnDamageTaken>
+      </li>
+<!--       <li Class="TorannMagic.CompProperties_Summoned"></li> -->
+      <li Class="CompProperties_Glower">
+        <glowRadius>10.0</glowRadius>
+        <glowColor>(252,255,204,1)</glowColor>
+      </li>
+      <li Class="CompProperties_Lifespan">
+        <lifespanTicks>60000</lifespanTicks>
+      </li>
+    </comps>
+    <specialDisplayRadius>4.0</specialDisplayRadius>
+  </ThingDef>
+
+  <ThingDef ParentName="TM_BuildingBase">
+    <defName>TM_LuckyLanternBD_II</defName>
+	<thingClass>TorannMagic.Building_TMMageLight</thingClass>
+    <label>Lucky Lantern</label>
+    <description>A lantern created by a Miner. It's exceptionally fragile and will explode in a cloud of dust if damaged, stunning everything in the immediate area.</description>    
+    <graphicData>
+      <texPath>Spells/invis</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+	  <drawSize>(1,1)</drawSize>
+    </graphicData>
+	<building>
+		<isInert>true</isInert>
+      <expandHomeArea>false</expandHomeArea>
+      <ai_chillDestination>false</ai_chillDestination>
+	</building>
+    <damageMultipliers>
+      <li>
+        <damageDef>TM_BarrelBombDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_MiningExplosiveDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_BreachingCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_ShapedCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_DemolishDD</damageDef>
+        <multiplier>1</multiplier>
+      </li>
+    </damageMultipliers>
+	<size>(1,1)</size>
+	<fillPercent>.1</fillPercent>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+	<tradeability>None</tradeability>
+    <pathCost>0</pathCost>
+    <!-- <constructEffect>ConstructDirt</constructEffect> -->
+    <tickerType>Normal</tickerType>
+    <drawerType>RealtimeOnly</drawerType>
+    <statBases>
+    <MaxHitPoints>1000</MaxHitPoints>
+ <!--        <WorkToBuild>200</WorkToBuild>
+      <Flammability>0</Flammability> -->
+    </statBases>
+    <selectable>true</selectable>
+	<clearBuildingArea>false</clearBuildingArea>
+    <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <drawPlaceWorkersWhileSelected>false</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>4.0</explosiveRadius>
+        <explosiveDamageType>Stun</explosiveDamageType>
+		<damageAmountBase>24</damageAmountBase>
+        <explodeOnKilled>true</explodeOnKilled>
+        <startWickHitPointsPercent>0.999</startWickHitPointsPercent>
+        <wickTicks>15</wickTicks>
+        <startWickOnDamageTaken>
+          <li>Bullet</li>
+          <li>Arrow</li>
+          <li>Bomb</li>
+          <li>ArrowHighVelocity</li>
+          <li>Flame</li>
+        </startWickOnDamageTaken>
+      </li>
+<!--       <li Class="TorannMagic.CompProperties_Summoned"></li> -->
+      <li Class="CompProperties_Glower">
+        <glowRadius>10.0</glowRadius>
+        <glowColor>(252,255,204,1)</glowColor>
+      </li>
+      <li Class="CompProperties_Lifespan">
+        <lifespanTicks>60000</lifespanTicks>
+      </li>
+    </comps>
+    <specialDisplayRadius>4.0</specialDisplayRadius>
+  </ThingDef>
+
+  <ThingDef ParentName="TM_BuildingBase">
+    <defName>TM_LuckyLanternBD_III</defName>
+	<thingClass>TorannMagic.Building_TMMageLight</thingClass>
+    <label>Lucky Lantern</label>
+    <description>A lantern created by a Miner. It's exceptionally fragile and will explode in a cloud of dust if damaged, stunning everything in the immediate area.</description>    
+    <graphicData>
+      <texPath>Spells/invis</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+	  <drawSize>(1,1)</drawSize>
+    </graphicData>
+	<building>
+		<isInert>true</isInert>
+      <expandHomeArea>false</expandHomeArea>
+      <ai_chillDestination>false</ai_chillDestination>
+	</building>
+    <damageMultipliers>
+      <li>
+        <damageDef>TM_BarrelBombDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_MiningExplosiveDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_BreachingCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_ShapedCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_DemolishDD</damageDef>
+        <multiplier>1</multiplier>
+      </li>
+    </damageMultipliers>
+	<size>(1,1)</size>
+	<fillPercent>.1</fillPercent>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+	<tradeability>None</tradeability>
+    <pathCost>0</pathCost>
+    <!-- <constructEffect>ConstructDirt</constructEffect> -->
+    <tickerType>Normal</tickerType>
+    <drawerType>RealtimeOnly</drawerType>
+    <statBases>
+    <MaxHitPoints>1000</MaxHitPoints>
+ <!--        <WorkToBuild>200</WorkToBuild>
+      <Flammability>0</Flammability> -->
+    </statBases>
+    <selectable>true</selectable>
+	<clearBuildingArea>false</clearBuildingArea>
+    <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <drawPlaceWorkersWhileSelected>false</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>4.5</explosiveRadius>
+        <explosiveDamageType>Stun</explosiveDamageType>
+		<damageAmountBase>26</damageAmountBase>
+        <explodeOnKilled>true</explodeOnKilled>
+        <startWickHitPointsPercent>0.999</startWickHitPointsPercent>
+        <wickTicks>15</wickTicks>
+        <startWickOnDamageTaken>
+          <li>Bullet</li>
+          <li>Arrow</li>
+          <li>Bomb</li>
+          <li>ArrowHighVelocity</li>
+          <li>Flame</li>
+        </startWickOnDamageTaken>
+      </li>
+<!--       <li Class="TorannMagic.CompProperties_Summoned"></li> -->
+      <li Class="CompProperties_Glower">
+        <glowRadius>12.0</glowRadius>
+        <glowColor>(252,255,204,1)</glowColor>
+      </li>
+      <li Class="CompProperties_Lifespan">
+        <lifespanTicks>60000</lifespanTicks>
+      </li>
+    </comps>
+    <specialDisplayRadius>4.5</specialDisplayRadius>
+  </ThingDef>
+
+  <ThingDef ParentName="TM_BuildingBase">
+    <defName>TM_HealingRockBD</defName>
+    <thingClass>TorannMagic.Building_TMTotem_Healing</thingClass>
+    <label>Healing Rock</label>
+    <description>A rock chiseled in an arcane pattern. It heals nearby allies periodically.</description>    
+    <graphicData>
+      <texPath>Spells/magelight4</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+	  <drawSize>(.55,.55)</drawSize>
+    </graphicData>
+	<building>
+		<isInert>true</isInert>
+      <expandHomeArea>false</expandHomeArea>
+      <ai_chillDestination>false</ai_chillDestination>
+	</building>
+    <damageMultipliers>
+      <li>
+        <damageDef>TM_BarrelBombDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_MiningExplosiveDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_BreachingCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_ShapedCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_DemolishDD</damageDef>
+        <multiplier>1</multiplier>
+      </li>
+    </damageMultipliers>
+	<size>(1,1)</size>
+	<fillPercent>.1</fillPercent>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+	<tradeability>None</tradeability>
+    <pathCost>0</pathCost>
+    <!-- <constructEffect>ConstructDirt</constructEffect> -->
+    <tickerType>Normal</tickerType>
+    <drawerType>RealtimeOnly</drawerType>
+    <statBases>
+    <MaxHitPoints>100</MaxHitPoints>
+ <!--        <WorkToBuild>200</WorkToBuild>
+      <Flammability>0</Flammability> -->
+    </statBases>
+    <selectable>true</selectable>
+	<clearBuildingArea>false</clearBuildingArea>
+    <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <drawPlaceWorkersWhileSelected>false</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Glower">
+        <glowRadius>4</glowRadius>
+        <glowColor>(60,201,60,1)</glowColor>
+      </li>
+<!--       <li Class="TorannMagic.CompProperties_Summoned"></li> -->
+      <li Class="CompProperties_Lifespan">
+        <lifespanTicks>15000</lifespanTicks>
+        <expireEffect>RaisedRock_Collapse</expireEffect>
+      </li>
+    </comps>
+    <specialDisplayRadius>20.0</specialDisplayRadius>
+  </ThingDef>
+
+  <ThingDef ParentName="TM_BuildingBase">
+    <defName>TM_LightningRuneBD</defName>
+    <thingClass>TorannMagic.Building_TMTotem_Lightning</thingClass>
+    <label>Lightning Rune</label>
+    <description>A rock chiseled in an arcane pattern. It deals damage to nearby enemies periodically.</description>    
+    <graphicData>
+      <texPath>Spells/magelight</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+	  <drawSize>(.7,.7)</drawSize>
+    </graphicData>
+	<building>
+		<isInert>true</isInert>
+      <expandHomeArea>false</expandHomeArea>
+      <ai_chillDestination>false</ai_chillDestination>
+	</building>
+    <damageMultipliers>
+      <li>
+        <damageDef>TM_BarrelBombDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_MiningExplosiveDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_BreachingCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_ShapedCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_DemolishDD</damageDef>
+        <multiplier>1</multiplier>
+      </li>
+    </damageMultipliers>
+	<size>(1,1)</size>
+	<fillPercent>.1</fillPercent>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+	<tradeability>None</tradeability>
+    <pathCost>0</pathCost>
+    <!-- <constructEffect>ConstructDirt</constructEffect> -->
+    <tickerType>Normal</tickerType>
+    <drawerType>RealtimeOnly</drawerType>
+    <statBases>
+    <MaxHitPoints>100</MaxHitPoints>
+ <!--        <WorkToBuild>200</WorkToBuild>
+      <Flammability>0</Flammability> -->
+    </statBases>
+    <selectable>true</selectable>
+	<clearBuildingArea>false</clearBuildingArea>
+    <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <drawPlaceWorkersWhileSelected>false</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Glower">
+        <glowRadius>4</glowRadius>
+        <glowColor>(252,255,204,1)</glowColor>
+      </li>
+<!--       <li Class="TorannMagic.CompProperties_Summoned"></li> -->
+      <li Class="CompProperties_Lifespan">
+        <lifespanTicks>15000</lifespanTicks>
+        <expireEffect>RaisedRock_Collapse</expireEffect>
+      </li>
+    </comps>
+    <specialDisplayRadius>39.0</specialDisplayRadius>
+  </ThingDef>
+
+  <ThingDef ParentName="TM_BuildingBase">
+    <defName>TM_StructureSupportBD</defName>
+    <label>makeshift column</label>
+    <description>A column that's been quickly constructed from some materials lying around. It's of makeshift construction and is fairly fragile.</description>    
+    <graphicData>
+      <texPath>Spells/column</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+	  <drawSize>(1.2,1.2)</drawSize>
+    </graphicData>
+    <holdsRoof>true</holdsRoof>
+	<building>
+		<isInert>true</isInert>
+      <expandHomeArea>false</expandHomeArea>
+      <ai_chillDestination>false</ai_chillDestination>
+	</building>
+	<size>(1,1)</size>
+	<fillPercent>.1</fillPercent>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+	<tradeability>None</tradeability>
+    <pathCost>0</pathCost>
+    <!-- <constructEffect>ConstructDirt</constructEffect> -->
+    <tickerType>Normal</tickerType>
+    <drawerType>RealtimeOnly</drawerType>
+    <statBases>
+    <MaxHitPoints>1</MaxHitPoints>
+ <!--        <WorkToBuild>1</WorkToBuild>
+      <Flammability>0</Flammability> -->
+    </statBases>
+    <selectable>true</selectable>
+	<clearBuildingArea>false</clearBuildingArea>
+    <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <drawPlaceWorkersWhileSelected>false</drawPlaceWorkersWhileSelected>
+    <comps>
+    </comps>
+    <specialDisplayRadius>6.9</specialDisplayRadius>
+  </ThingDef>
+
+  <ThingDef ParentName="TM_BuildingBase">
+    <defName>TM_UnstableSingularityBD</defName>
+	<thingClass>TorannMagic.Building_TMMageLight</thingClass>
+    <label>Unstable Singularity</label>
+    <description>A cold, chaotic singularity that cannot exist for long.</description>    
+    <graphicData>
+      <texPath>Spells/invis</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+	  <drawSize>(1.3,1.3)</drawSize>
+    </graphicData>
+	<building>
+		<isInert>true</isInert>
+      <expandHomeArea>false</expandHomeArea>
+      <ai_chillDestination>false</ai_chillDestination>
+	  <deconstructible>false</deconstructible>
+	</building>
+    <damageMultipliers>
+      <li>
+        <damageDef>TM_BarrelBombDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_MiningExplosiveDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_BreachingCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_ShapedCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_DemolishDD</damageDef>
+        <multiplier>1</multiplier>
+      </li>
+    </damageMultipliers>
+	<size>(1,1)</size>
+	<fillPercent>.1</fillPercent>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+	<tradeability>None</tradeability>
+    <pathCost>0</pathCost>
+    <!-- <constructEffect>ConstructDirt</constructEffect> -->
+    <tickerType>Normal</tickerType>
+    <drawerType>RealtimeOnly</drawerType>
+    <statBases>
+    <MaxHitPoints>1000</MaxHitPoints>
+ <!--        <WorkToBuild>200</WorkToBuild>
+      <Flammability>0</Flammability> -->
+    </statBases>
+    <selectable>true</selectable>
+	<clearBuildingArea>false</clearBuildingArea>
+    <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+    <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <drawPlaceWorkersWhileSelected>false</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>3.5</explosiveRadius>
+        <explosiveDamageType>Bomb</explosiveDamageType>
+		<damageAmountBase>10</damageAmountBase>
+        <explodeOnKilled>true</explodeOnKilled>
+      </li>
+      <li Class="CompProperties_Lifespan">
+        <lifespanTicks>300</lifespanTicks>
+      </li>
+      <li Class="CompProperties_Glower">
+        <glowRadius>4</glowRadius>
+        <glowColor>(62,183,201,1)</glowColor>
+      </li>
+
+    </comps>
+    <specialDisplayRadius>3.5</specialDisplayRadius>
+  </ThingDef>
+
+  <ThingDef ParentName="TM_BuildingBase">
+    <defName>TM_DestabilizeBD</defName>
+	<thingClass>TorannMagic.Building_TMMageLight</thingClass>
+    <label>Unstable Singularity</label>
+    <description>A cold, chaotic singularity that cannot exist for long.</description>    
+    <graphicData>
+      <texPath>Spells/invis</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+	  <drawSize>(1.3,1.3)</drawSize>
+    </graphicData>
+	<building>
+		<isInert>true</isInert>
+      <expandHomeArea>false</expandHomeArea>
+      <ai_chillDestination>false</ai_chillDestination>
+	  <deconstructible>false</deconstructible>
+	</building>
+    <damageMultipliers>
+      <li>
+        <damageDef>TM_BarrelBombDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_MiningExplosiveDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_BreachingCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_ShapedCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_DemolishDD</damageDef>
+        <multiplier>1</multiplier>
+      </li>
+    </damageMultipliers>
+	<size>(1,1)</size>
+	<fillPercent>.1</fillPercent>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+	<tradeability>None</tradeability>
+    <pathCost>0</pathCost>
+    <!-- <constructEffect>ConstructDirt</constructEffect> -->
+    <tickerType>Normal</tickerType>
+    <drawerType>RealtimeOnly</drawerType>
+    <statBases>
+    <MaxHitPoints>1000</MaxHitPoints>
+ <!--        <WorkToBuild>200</WorkToBuild>
+      <Flammability>0</Flammability> -->
+    </statBases>
+    <selectable>true</selectable>
+	<clearBuildingArea>false</clearBuildingArea>
+    <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+    <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <drawPlaceWorkersWhileSelected>false</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>3.5</explosiveRadius>
+        <explosiveDamageType>Bomb</explosiveDamageType>
+		<damageAmountBase>10</damageAmountBase>
+        <explodeOnKilled>true</explodeOnKilled>
+      </li>
+      <li Class="CompProperties_Lifespan">
+        <lifespanTicks>60</lifespanTicks>
+      </li>
+      <li Class="CompProperties_Glower">
+        <glowRadius>4</glowRadius>
+        <glowColor>(62,183,201,1)</glowColor>
+      </li>
+    </comps>
+    <specialDisplayRadius>3.5</specialDisplayRadius>
+  </ThingDef>
+
+  <ThingDef ParentName="TM_BuildingBase">
+    <defName>TM_DestabilizeBD_I</defName>
+	<thingClass>TorannMagic.Building_TMMageLight</thingClass>
+    <label>Unstable Singularity</label>
+    <description>A cold, chaotic singularity that cannot exist for long.</description>    
+    <graphicData>
+      <texPath>Spells/invis</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+	  <drawSize>(1.3,1.3)</drawSize>
+    </graphicData>
+	<building>
+		<isInert>true</isInert>
+      <expandHomeArea>false</expandHomeArea>
+      <ai_chillDestination>false</ai_chillDestination>
+	  <deconstructible>false</deconstructible>
+	</building>
+    <damageMultipliers>
+      <li>
+        <damageDef>TM_BarrelBombDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_MiningExplosiveDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_BreachingCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_ShapedCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_DemolishDD</damageDef>
+        <multiplier>1</multiplier>
+      </li>
+    </damageMultipliers>
+	<size>(1,1)</size>
+	<fillPercent>.1</fillPercent>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+	<tradeability>None</tradeability>
+    <pathCost>0</pathCost>
+    <!-- <constructEffect>ConstructDirt</constructEffect> -->
+    <tickerType>Normal</tickerType>
+    <drawerType>RealtimeOnly</drawerType>
+    <statBases>
+    <MaxHitPoints>1000</MaxHitPoints>
+ <!--        <WorkToBuild>200</WorkToBuild>
+      <Flammability>0</Flammability> -->
+    </statBases>
+    <selectable>true</selectable>
+	<clearBuildingArea>false</clearBuildingArea>
+    <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+    <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <drawPlaceWorkersWhileSelected>false</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>3.5</explosiveRadius>
+        <explosiveDamageType>Bomb</explosiveDamageType>
+		<damageAmountBase>11</damageAmountBase>
+        <explodeOnKilled>true</explodeOnKilled>
+      </li>
+      <li Class="CompProperties_Lifespan">
+        <lifespanTicks>60</lifespanTicks>
+      </li>
+      <li Class="CompProperties_Glower">
+        <glowRadius>4</glowRadius>
+        <glowColor>(62,183,201,1)</glowColor>
+      </li>
+    </comps>
+    <specialDisplayRadius>3.5</specialDisplayRadius>
+  </ThingDef>
+
+  <ThingDef ParentName="TM_BuildingBase">
+    <defName>TM_DestabilizeBD_II</defName>
+	<thingClass>TorannMagic.Building_TMMageLight</thingClass>
+    <label>Unstable Singularity</label>
+    <description>A cold, chaotic singularity that cannot exist for long.</description>    
+    <graphicData>
+      <texPath>Spells/invis</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+	  <drawSize>(1.3,1.3)</drawSize>
+    </graphicData>
+	<building>
+		<isInert>true</isInert>
+      <expandHomeArea>false</expandHomeArea>
+      <ai_chillDestination>false</ai_chillDestination>
+	  <deconstructible>false</deconstructible>
+	</building>
+    <damageMultipliers>
+      <li>
+        <damageDef>TM_BarrelBombDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_MiningExplosiveDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_BreachingCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_ShapedCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_DemolishDD</damageDef>
+        <multiplier>1</multiplier>
+      </li>
+    </damageMultipliers>
+	<size>(1,1)</size>
+	<fillPercent>.1</fillPercent>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+	<tradeability>None</tradeability>
+    <pathCost>0</pathCost>
+    <!-- <constructEffect>ConstructDirt</constructEffect> -->
+    <tickerType>Normal</tickerType>
+    <drawerType>RealtimeOnly</drawerType>
+    <statBases>
+    <MaxHitPoints>1000</MaxHitPoints>
+ <!--        <WorkToBuild>200</WorkToBuild>
+      <Flammability>0</Flammability> -->
+    </statBases>
+    <selectable>true</selectable>
+	<clearBuildingArea>false</clearBuildingArea>
+    <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+    <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <drawPlaceWorkersWhileSelected>false</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>3.5</explosiveRadius>
+        <explosiveDamageType>Bomb</explosiveDamageType>
+		<damageAmountBase>12</damageAmountBase>
+        <explodeOnKilled>true</explodeOnKilled>
+      </li>
+      <li Class="CompProperties_Lifespan">
+        <lifespanTicks>60</lifespanTicks>
+      </li>
+      <li Class="CompProperties_Glower">
+        <glowRadius>4</glowRadius>
+        <glowColor>(62,183,201,1)</glowColor>
+      </li>
+    </comps>
+    <specialDisplayRadius>3.5</specialDisplayRadius>
+  </ThingDef>
+
+  <ThingDef ParentName="TM_BuildingBase">
+    <defName>TM_DestabilizeBD_III</defName>
+	<thingClass>TorannMagic.Building_TMMageLight</thingClass>
+    <label>Unstable Singularity</label>
+    <description>A cold, chaotic singularity that cannot exist for long.</description>    
+    <graphicData>
+      <texPath>Spells/invis</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+	  <drawSize>(1.3,1.3)</drawSize>
+    </graphicData>
+	<building>
+		<isInert>true</isInert>
+      <expandHomeArea>false</expandHomeArea>
+      <ai_chillDestination>false</ai_chillDestination>
+	  <deconstructible>false</deconstructible>
+	</building>
+    <damageMultipliers>
+      <li>
+        <damageDef>TM_BarrelBombDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_MiningExplosiveDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_BreachingCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_ShapedCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_DemolishDD</damageDef>
+        <multiplier>1</multiplier>
+      </li>
+    </damageMultipliers>
+	<size>(1,1)</size>
+	<fillPercent>.1</fillPercent>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+	<tradeability>None</tradeability>
+    <pathCost>0</pathCost>
+    <!-- <constructEffect>ConstructDirt</constructEffect> -->
+    <tickerType>Normal</tickerType>
+    <drawerType>RealtimeOnly</drawerType>
+    <statBases>
+    <MaxHitPoints>1000</MaxHitPoints>
+ <!--        <WorkToBuild>200</WorkToBuild>
+      <Flammability>0</Flammability> -->
+    </statBases>
+    <selectable>true</selectable>
+	<clearBuildingArea>false</clearBuildingArea>
+    <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+    <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <drawPlaceWorkersWhileSelected>false</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>3.5</explosiveRadius>
+        <explosiveDamageType>Bomb</explosiveDamageType>
+		<damageAmountBase>13</damageAmountBase>
+        <explodeOnKilled>true</explodeOnKilled>
+      </li>
+      <li Class="CompProperties_Lifespan">
+        <lifespanTicks>60</lifespanTicks>
+      </li>
+      <li Class="CompProperties_Glower">
+        <glowRadius>4</glowRadius>
+        <glowColor>(62,183,201,1)</glowColor>
+      </li>
+
+    </comps>
+    <specialDisplayRadius>3.5</specialDisplayRadius>
+  </ThingDef>
+
+  <ThingDef ParentName="PoisonTrapBase">
+    <defName>TM_AmbusherTrapBD</defName>
+    <label>Poison Trap</label>
+    <description>A poison trap. It will explode if an unaware pawn walks over it, coating the area with a noxious gas. Directly adjacent Poison Traps will detonate together, increasing the toxicity of the gas. The trap is not triggered by damage.</description>
+    <graphicData>
+      <texPath>Spells/trappoison</texPath>
+	  <drawSize>(1.3,1.3)</drawSize>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <statBases>
+      <MaxHitPoints>1000</MaxHitPoints>
+      <TrapSpringChance>1.0</TrapSpringChance>
+      <WorkToBuild>1</WorkToBuild>
+    </statBases>
+	<building>
+		<isInert>true</isInert>
+      <expandHomeArea>false</expandHomeArea>
+      <ai_chillDestination>false</ai_chillDestination>
+	  <deconstructible>true</deconstructible>
+	</building>
+    <damageMultipliers>
+      <li>
+        <damageDef>TM_BarrelBombDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_MiningExplosiveDD</damageDef>
+        <multiplier>.05</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_BreachingCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_ShapedCharge</damageDef>
+        <multiplier>.1</multiplier>
+      </li>
+      <li>
+        <damageDef>TM_DemolishDD</damageDef>
+        <multiplier>1</multiplier>
+      </li>
+    </damageMultipliers>
+    <comps>
+<!--       <li Class="TorannMagic.CompProperties_Summoned"></li> -->
+      <li Class="CompProperties_Lifespan">
+        <lifespanTicks>60000</lifespanTicks>
+      </li>
+    </comps>
+  </ThingDef>
+
+  <ThingDef ParentName="TM_BuildingBase">
+    <defName>TM_WeakSupportBD</defName>
+    <thingClass>Building_TrapExplosive</thingClass>
+    <label>collapsing column</label>
+    <description>A column that's been quickly constructed from some materials lying around. On top of its makeshift construction, it seems to have been purposely weakened and designed to fall apart -- someone walking near it might just knock it over.</description>    
+    <graphicData>
+      <texPath>Spells/column3</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+	  <drawSize>(1.2,1.2)</drawSize>
+    </graphicData>
+    <holdsRoof>true</holdsRoof>
+	<building>
+		<isInert>true</isInert>
+      <expandHomeArea>false</expandHomeArea>
+      <ai_chillDestination>false</ai_chillDestination>
+	</building>
+	<size>(1,1)</size>
+	<fillPercent>.1</fillPercent>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+	<tradeability>None</tradeability>
+    <pathCost>0</pathCost>
+    <!-- <constructEffect>ConstructDirt</constructEffect> -->
+    <tickerType>Normal</tickerType>
+    <drawerType>RealtimeOnly</drawerType>
+    <statBases>
+    <MaxHitPoints>1</MaxHitPoints>
+ <!--        <WorkToBuild>1</WorkToBuild>
+      <Flammability>0</Flammability> -->
+    </statBases>
+    <selectable>true</selectable>
+	<clearBuildingArea>false</clearBuildingArea>
+    <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <drawPlaceWorkersWhileSelected>false</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>1.9</explosiveRadius>
+        <explosiveDamageType>TM_ExplosiveTrapDD</explosiveDamageType>
+        <wickTicks>0</wickTicks>
+		<damageAmountBase>2</damageAmountBase>
+        <explodeOnKilled>true</explodeOnKilled>
+      </li>
+    </comps>
+    <specialDisplayRadius>6.9</specialDisplayRadius>
+  </ThingDef>
+
+  <ThingDef ParentName="TM_BuildingBase">
+    <defName>TM_ForageBD</defName>
+    <thingClass>Building</thingClass>
+    <label>Forage</label>
+    <description>Foraging for food.</description>    
+    <graphicData>
+      <texPath>Spells/invis</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+	  <drawSize>(0.8,0.8)</drawSize>
+    </graphicData>
+    <costList>
+      <RawBerries>80</RawBerries>
+    </costList>
+	<building>
+      <expandHomeArea>false</expandHomeArea>
+      <ai_chillDestination>false</ai_chillDestination>
+	</building>
+    <damageMultipliers>
+    </damageMultipliers>
+	<size>(1,1)</size>
+	<fillPercent>.1</fillPercent>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+	<tradeability>None</tradeability>
+    <pathCost>0</pathCost>
+    <!-- <constructEffect>ConstructDirt</constructEffect> -->
+    <tickerType>Normal</tickerType>
+    <drawerType>RealtimeOnly</drawerType>
+    <statBases>
+    <MaxHitPoints>1</MaxHitPoints>
+ <!--        <WorkToBuild>1</WorkToBuild>
+      <Flammability>0</Flammability> -->
+    </statBases>
+    <selectable>false</selectable>
+	<clearBuildingArea>false</clearBuildingArea>
+    <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+    <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>1</resourcesFractionWhenDeconstructed>
+    <drawPlaceWorkersWhileSelected>false</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Lifespan">
+        <lifespanTicks>0</lifespanTicks>
+      </li>
+    </comps>
+  </ThingDef>
+
+  <ThingDef ParentName="BuildingBase">
+    <defName>TM_MicroTurretBD</defName>
+    <label>micro-turret</label>
+    <description>A micro-turret with a built-in power source. It has a cheap design, which allows it to be mass-produced and disposable, while still providing good cover-fire for the discerning engineer. It shoots faster than a normal turret, but does less damage.</description>
+    <thingClass>Building_TurretGun</thingClass>
+    <drawerType>MapMeshAndRealTime</drawerType>
+    <graphicData>
+      <texPath>Things/Building/Security/TurretMini_Base</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+      <damageData>
+        <rect>(0.2,0.2,0.6,0.6)</rect>
+      </damageData>
+      <shadowData>
+        <volume>(0.27,0.25,0.27)</volume>
+        <offset>(0,0,0)</offset>
+      </shadowData>
+    </graphicData>
+    <uiIconPath>Things/Building/Security/TurretMini_MenuIcon</uiIconPath>
+    <uiIconScale>0.90</uiIconScale>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <altitudeLayer>Building</altitudeLayer>
+    <stealable>false</stealable>
+    <rotatable>false</rotatable>
+    <thingCategories>
+      <li>BuildingsSecurity</li>
+    </thingCategories>
+    <statBases>
+      <MaxHitPoints>50</MaxHitPoints>
+      <Flammability>0.7</Flammability>
+      <WorkToBuild>1800</WorkToBuild>
+      <Mass>8</Mass>
+      <Beauty>-20</Beauty>
+      <ShootingAccuracyTurret>0.96</ShootingAccuracyTurret>
+    </statBases>
+    <tickerType>Normal</tickerType>
+    <comps>
+      <li Class="CompProperties_Lifespan">
+        <lifespanTicks>6000</lifespanTicks>
+      </li>
+    </comps>
+    <passability>PassThroughOnly</passability>
+    <pathCost>50</pathCost>
+    <fillPercent>0.4</fillPercent>
+    <hasTooltip>true</hasTooltip>
+    <stuffCategories>
+    </stuffCategories>
+    <costList>
+    </costList>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <constructionSkillPrerequisite>5</constructionSkillPrerequisite>
+    <building>
+      <combatPower>45</combatPower>   <!-- same as a scavenger -->
+      <ai_combatDangerous>true</ai_combatDangerous>
+      <turretGunDef>Gun_MiniTurret</turretGunDef>
+      <turretBurstCooldownTime>0.8</turretBurstCooldownTime>
+    </building>
+    <placeWorkers>
+      <li>PlaceWorker_TurretTop</li>
+      <li>PlaceWorker_ShowTurretRadius</li>
+    </placeWorkers>
+    <designationHotKey>Misc2</designationHotKey>
+    <researchPrerequisites>
+      <li>GunTurrets</li>
+    </researchPrerequisites>
+  </ThingDef>
+
+  <ThingDef ParentName="BaseBullet">
+    <defName>Bullet_MicroTurret</defName>
+    <label>mini-turret bullet</label>
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>4</damageAmountBase>
+      <speed>80</speed>
+    </projectile>
+  </ThingDef>
+
+  <ThingDef ParentName="TM_BuildingBase">
+    <defName>TM_SupplyDropBD</defName>
+    <thingClass>Building</thingClass>
+    <label>Supply Drop</label>
+    <description>Dropping Supplies!</description>    
+    <graphicData>
+      <texPath>Spells/invis</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+	  <drawSize>(0.8,0.8)</drawSize>
+    </graphicData>
+    <costList>
+      <DefensePylon>6</DefensePylon>
+      <TM_Trap_Lightning>1</TM_Trap_Lightning>
+      <TM_ManaMine>1</TM_ManaMine>
+      <TM_PoisonTrap>1</TM_PoisonTrap>
+      <TM_ProximityChargeBD>1</TM_ProximityChargeBD>
+    </costList>
+	<building>
+      <expandHomeArea>false</expandHomeArea>
+      <ai_chillDestination>false</ai_chillDestination>
+	</building>
+    <damageMultipliers>
+    </damageMultipliers>
+	<size>(1,1)</size>
+	<fillPercent>.1</fillPercent>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+	<tradeability>None</tradeability>
+    <pathCost>0</pathCost>
+    <!-- <constructEffect>ConstructDirt</constructEffect> -->
+    <tickerType>Normal</tickerType>
+    <drawerType>RealtimeOnly</drawerType>
+    <statBases>
+    <MaxHitPoints>1</MaxHitPoints>
+ <!--        <WorkToBuild>1</WorkToBuild>
+      <Flammability>0</Flammability> -->
+    </statBases>
+    <selectable>false</selectable>
+	<clearBuildingArea>false</clearBuildingArea>
+    <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+    <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>1</resourcesFractionWhenDeconstructed>
+    <drawPlaceWorkersWhileSelected>false</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Lifespan">
+        <lifespanTicks>0</lifespanTicks>
+      </li>
+    </comps>
+  </ThingDef>
+
+  <ThingDef ParentName="TM_BuildingBase">
+    <defName>TM_ArcaneMinefieldBD</defName>
+    <thingClass>Building</thingClass>
+    <label>Arcane Minefield</label>
+    <description>Channeling destructive magic to create an arcane minefield.</description>    
+    <graphicData>
+      <texPath>Spells/invis</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+	  <drawSize>(0.8,0.8)</drawSize>
+    </graphicData>
+    <costList>
+      <TM_ManaMine>6</TM_ManaMine>
+    </costList>
+	<building>
+      <expandHomeArea>false</expandHomeArea>
+      <ai_chillDestination>false</ai_chillDestination>
+	</building>
+    <damageMultipliers>
+    </damageMultipliers>
+	<size>(1,1)</size>
+	<fillPercent>.1</fillPercent>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+	<tradeability>None</tradeability>
+    <pathCost>0</pathCost>
+    <!-- <constructEffect>ConstructDirt</constructEffect> -->
+    <tickerType>Normal</tickerType>
+    <drawerType>RealtimeOnly</drawerType>
+    <statBases>
+    <MaxHitPoints>1</MaxHitPoints>
+ <!--        <WorkToBuild>1</WorkToBuild>
+      <Flammability>0</Flammability> -->
+    </statBases>
+    <selectable>false</selectable>
+	<clearBuildingArea>false</clearBuildingArea>
+    <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+    <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>1</resourcesFractionWhenDeconstructed>
+    <drawPlaceWorkersWhileSelected>false</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Lifespan">
+        <lifespanTicks>0</lifespanTicks>
+      </li>
+    </comps>
+  </ThingDef>
+
+  <ThingDef ParentName="TM_BuildingBase">
+    <defName>TM_CreateSuppliesBD</defName>
+    <thingClass>Building</thingClass>
+    <label>Create Supplies</label>
+    <description>Creating Supplies!</description>    
+    <graphicData>
+      <texPath>Spells/invis</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawRotated>false</drawRotated>
+      <allowFlip>false</allowFlip>
+      <damageData>
+        <rect>(0.2,0,0.6,0.1)</rect>
+      </damageData>
+	  <drawSize>(0.8,0.8)</drawSize>
+    </graphicData>
+    <costList>
+      <WoodLog>60</WoodLog>
+      <Steel>40</Steel>
+      <BlocksSandstone>40</BlocksSandstone>
+      <BlocksLimestone>40</BlocksLimestone>
+      <BlocksSlate>40</BlocksSlate>
+      <BlocksMarble>40</BlocksMarble>
+      <BlocksGranite>40</BlocksGranite>
+    </costList>
+	<building>
+      <expandHomeArea>false</expandHomeArea>
+      <ai_chillDestination>false</ai_chillDestination>
+	</building>
+    <damageMultipliers>
+    </damageMultipliers>
+	<size>(1,1)</size>
+	<fillPercent>.1</fillPercent>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+	<tradeability>None</tradeability>
+    <pathCost>0</pathCost>
+    <!-- <constructEffect>ConstructDirt</constructEffect> -->
+    <tickerType>Normal</tickerType>
+    <drawerType>RealtimeOnly</drawerType>
+    <statBases>
+    <MaxHitPoints>1</MaxHitPoints>
+ <!--        <WorkToBuild>1</WorkToBuild>
+      <Flammability>0</Flammability> -->
+    </statBases>
+    <selectable>false</selectable>
+	<clearBuildingArea>false</clearBuildingArea>
+    <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+    <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+    <resourcesFractionWhenDeconstructed>1</resourcesFractionWhenDeconstructed>
+    <drawPlaceWorkersWhileSelected>false</drawPlaceWorkersWhileSelected>
+    <comps>
+      <li Class="CompProperties_Lifespan">
+        <lifespanTicks>0</lifespanTicks>
+      </li>
+    </comps>
+  </ThingDef>
+
+  <ThingDef ParentName="BuildingBase" Name="DirtWall">
+    <defName>TM_ArchitectWallBD</defName>
+    <label>arcane wall</label>
+    <description>A magical translucent wall capable of holding a roof.</description>
+    <thingClass>Building</thingClass>
+    <category>Building</category>
+    <graphicData>
+        <texPath>Things/Building/Linked/Wall_Blueprint_Atlas</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <linkType>CornerFiller</linkType>
+      <linkFlags>
+        <li>Wall</li>
+        <li>Rock</li>
+      </linkFlags>
+      <damageData>
+        <cornerTL>Damage/Corner</cornerTL>
+        <cornerTR>Damage/Corner</cornerTR>
+        <cornerBL>Damage/Corner</cornerBL>
+        <cornerBR>Damage/Corner</cornerBR>
+        <edgeTop>Damage/Edge</edgeTop>
+        <edgeBot>Damage/Edge</edgeBot>
+        <edgeLeft>Damage/Edge</edgeLeft>
+        <edgeRight>Damage/Edge</edgeRight>
+      </damageData>
+	  <color>(114, 96, 86)</color>
+    </graphicData>
+    <uiIconPath>Things/Building/Linked/WallSmooth_MenuIcon</uiIconPath>
+	  <uiIconColor>(114, 96, 86)</uiIconColor>
+    <statBases>
+	    <Beauty>0</Beauty>
+      <MaxHitPoints>350</MaxHitPoints>
+      <WorkToBuild>300</WorkToBuild>
+      <Flammability>0</Flammability>
+    </statBases>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Impassable</passability>
+    <blockWind>true</blockWind>
+    <castEdgeShadows>true</castEdgeShadows>
+    <fillPercent>1</fillPercent>
+    <coversFloor>true</coversFloor>
+    <placingDraggableDimensions>1</placingDraggableDimensions>
+    <tickerType>Never</tickerType>
+    <rotatable>false</rotatable>
+    <selectable>true</selectable>
+    <neverMultiSelect>true</neverMultiSelect>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <holdsRoof>true</holdsRoof>
+    <staticSunShadowHeight>1.0</staticSunShadowHeight>
+    <blockLight>true</blockLight>
+    <canOverlapZones>false</canOverlapZones>
+    <building>
+      <isInert>true</isInert>
+      <ai_chillDestination>false</ai_chillDestination>
+      <blueprintGraphicData>
+        <texPath>Things/Building/Linked/Wall_Blueprint_Atlas</texPath>
+      </blueprintGraphicData>
+    </building>
+    <damageMultipliers>
+      <li>
+        <damageDef>Bomb</damageDef>
+        <multiplier>2</multiplier>
+      </li>
+    </damageMultipliers>
+    <constructEffect>ConstructDirt</constructEffect>
+    <repairEffect>ConstructDirt</repairEffect>
+  </ThingDef>
+
+  <ThingDef ParentName="BuildingBase" Name="TempWall">
+    <defName>TM_ArchitectWallTempBD</defName>
+    <label>arcane wall</label>
+    <description>A magical translucent wall capable of holding a roof.</description>
+    <thingClass>Building</thingClass>
+    <category>Building</category>
+    <graphicData>
+        <texPath>Things/Building/Linked/Wall_Blueprint_Atlas</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <linkType>CornerFiller</linkType>
+      <linkFlags>
+        <li>Wall</li>
+        <li>Rock</li>
+      </linkFlags>
+      <damageData>
+        <cornerTL>Damage/Corner</cornerTL>
+        <cornerTR>Damage/Corner</cornerTR>
+        <cornerBL>Damage/Corner</cornerBL>
+        <cornerBR>Damage/Corner</cornerBR>
+        <edgeTop>Damage/Edge</edgeTop>
+        <edgeBot>Damage/Edge</edgeBot>
+        <edgeLeft>Damage/Edge</edgeLeft>
+        <edgeRight>Damage/Edge</edgeRight>
+      </damageData>
+	  <color>(114, 96, 86)</color>
+    </graphicData>
+    <uiIconPath>Things/Building/Linked/WallSmooth_MenuIcon</uiIconPath>
+	  <uiIconColor>(114, 96, 86)</uiIconColor>
+    <statBases>
+	    <Beauty>0</Beauty>
+      <MaxHitPoints>350</MaxHitPoints>
+      <WorkToBuild>300</WorkToBuild>
+      <Flammability>0</Flammability>
+    </statBases>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Impassable</passability>
+    <blockWind>true</blockWind>
+    <castEdgeShadows>true</castEdgeShadows>
+    <fillPercent>1</fillPercent>
+    <coversFloor>true</coversFloor>
+    <placingDraggableDimensions>1</placingDraggableDimensions>
+    <tickerType>Never</tickerType>
+    <rotatable>false</rotatable>
+    <selectable>true</selectable>
+    <neverMultiSelect>true</neverMultiSelect>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <holdsRoof>true</holdsRoof>
+    <staticSunShadowHeight>1.0</staticSunShadowHeight>
+    <blockLight>true</blockLight>
+    <canOverlapZones>false</canOverlapZones>
+    <building>
+      <isInert>true</isInert>
+      <ai_chillDestination>false</ai_chillDestination>
+      <blueprintGraphicData>
+        <texPath>Things/Building/Linked/Wall_Blueprint_Atlas</texPath>
+      </blueprintGraphicData>
+    </building>
+    <damageMultipliers>
+      <li>
+        <damageDef>Bomb</damageDef>
+        <multiplier>2</multiplier>
+      </li>
+    </damageMultipliers>
+    <constructEffect>ConstructDirt</constructEffect>
+    <repairEffect>ConstructDirt</repairEffect>
+    <comps>
+      <li Class="CompProperties_Lifespan">
+        <lifespanTicks>15000</lifespanTicks>
+      </li>
+    </comps>
+  </ThingDef>
+
+  <ThingDef ParentName="BuildingBase" Name="Architect_DoorBase" Abstract="True">
+    <thingClass>Building_Door</thingClass>
+    <category>Building</category>
+    <altitudeLayer>DoorMoveable</altitudeLayer>
+    <fillPercent>1</fillPercent>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <MaxHitPoints>200</MaxHitPoints>
+      <Flammability>1.0</Flammability>
+    </statBases>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <selectable>true</selectable>
+    <tickerType>Normal</tickerType>
+    <rotatable>false</rotatable>
+    <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <holdsRoof>true</holdsRoof>
+    <staticSunShadowHeight>1.0</staticSunShadowHeight>
+    <blockLight>true</blockLight>
+    <drawerType>RealtimeOnly</drawerType>
+    <building>
+			<isInert>true</isInert>
+			<canPlaceOverWall>true</canPlaceOverWall>
+      <soundDoorOpenPowered>Door_OpenPowered</soundDoorOpenPowered>
+      <soundDoorClosePowered>Door_ClosePowered</soundDoorClosePowered>
+      <soundDoorOpenManual>Door_OpenManual</soundDoorOpenManual>
+      <soundDoorCloseManual>Door_CloseManual</soundDoorCloseManual>
+      <blueprintClass>Blueprint_Door</blueprintClass>
+      <blueprintGraphicData>
+        <texPath>Things/Building/Door/Door_Blueprint</texPath>
+      </blueprintGraphicData>
+      <ai_chillDestination>false</ai_chillDestination>
+    </building>
+    <comps>
+      <li Class="CompProperties_Forbiddable"/>
+    </comps>
+		<placeWorkers>
+			<li>PlaceWorker_DoorLearnOpeningSpeed</li>
+		</placeWorkers>
+    <constructEffect>ConstructDirt</constructEffect>
+    <repairEffect>ConstructDirt</repairEffect>
+  </ThingDef>
+
+  <ThingDef ParentName="Architect_DoorBase">
+    <defName>TM_ArchitectDoorBD</defName>
+    <label>door</label>
+    <description>Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of.</description>
+    <statBases>
+    <MaxHitPoints>200</MaxHitPoints>
+    <WorkToBuild>400</WorkToBuild>
+    <Flammability>0</Flammability>
+    <Beauty>0</Beauty>
+    </statBases>
+    <graphicData>
+    <texPath>Things/Building/Door/DoorSimple_Mover</texPath>
+    <graphicClass>Graphic_Single</graphicClass>
+    <damageData>
+      <enabled>false</enabled>
+    </damageData>
+    <color>(114, 96, 86)</color>
+    </graphicData>
+    <uiIconPath>Things/Building/Door/DoorSimple_MenuIcon</uiIconPath>
+    <uiIconColor>(114, 96, 86)</uiIconColor>
+  </ThingDef>
+
+</Defs>

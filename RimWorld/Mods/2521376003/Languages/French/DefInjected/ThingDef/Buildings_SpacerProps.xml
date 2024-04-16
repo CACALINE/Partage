@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+	<!-- EN: data console -->
+	<VFEPD_DataConsole.label>console de données</VFEPD_DataConsole.label>
+	<!-- EN: An advanced data console accepting several different types of file formatting. -->
+	<VFEPD_DataConsole.description>Une console de données avancée qui accepte plusieurs types de formats de fichiers.</VFEPD_DataConsole.description>
+
+	<!-- EN: data conveyor -->
+	<VFEPD_DataConveyor.label>convoyeur de données</VFEPD_DataConveyor.label>
+	<!-- EN: A large box holding cables and pipes for data transfer. -->
+	<VFEPD_DataConveyor.description>Une grande boîte contenant des câbles et des tubes pour le transfert de données.</VFEPD_DataConveyor.description>
+
+	<!-- EN: display screen -->
+	<VFEPD_DisplayScreen.label>affichage visuel</VFEPD_DisplayScreen.label>
+	<!-- EN: A large data display screen. -->
+	<VFEPD_DisplayScreen.description>Un grand écran d'affichage de données.</VFEPD_DisplayScreen.description>
+
+	<!-- EN: display table -->
+	<VFEPD_DisplayTable.label>table d'affichage</VFEPD_DisplayTable.label>
+	<!-- EN: A large size display screen mounted on a large table. -->
+	<VFEPD_DisplayTable.description>Un grand écran monté sur une grande table.</VFEPD_DisplayTable.description>
+
+	<!-- EN: long command console -->
+	<VFEPD_LongCommandConsole.label>console de commande</VFEPD_LongCommandConsole.label>
+	<!-- EN: A long console with several different command modules. -->
+	<VFEPD_LongCommandConsole.description>Une longue console avec plusieurs modules de contrôle différents.</VFEPD_LongCommandConsole.description>
+
+	<!-- EN: planning screen -->
+	<VFEPD_PlanningScreen.label>écran de planification</VFEPD_PlanningScreen.label>
+	<!-- EN: A glass screen, ideal for planning out combat scenarios. -->
+	<VFEPD_PlanningScreen.description>Un écran en verre, idéal pour planifier des scénarios de combat.</VFEPD_PlanningScreen.description>
+
+	<!-- EN: planning table -->
+	<VFEPD_PlanningTable.label>table de planification</VFEPD_PlanningTable.label>
+	<!-- EN: A large size planning screen mounted on a large table. -->
+	<VFEPD_PlanningTable.description>Un grand écran de planification monté sur une grande table.</VFEPD_PlanningTable.description>
+
+	<!-- EN: triple display dashboard -->
+	<VFEPD_TripleDisplay.label>panneau triple écran</VFEPD_TripleDisplay.label>
+	<!-- EN: A large dashboard with several display screens, for up-to-date information on all mod releases. -->
+	<VFEPD_TripleDisplay.description>Un grand tableau de bord avec plusieurs écrans d'affichage, pour obtenir des informations à jour sur toute l'actualité.</VFEPD_TripleDisplay.description>
+
+	<!-- EN: spacer container -->
+	<VFEPD_SpacerContainer.label>conteneur spatial</VFEPD_SpacerContainer.label>
+	<!-- EN: A medium sized, triple sealed, password protected box. -->
+	<VFEPD_SpacerContainer.description>Une boîte moyenne, triple scellée et protégée par mot de passe.</VFEPD_SpacerContainer.description>
+
+	<!-- EN: spacer container large -->
+	<VFEPD_SpacerContainerLarge.label>grand conteneur spatial</VFEPD_SpacerContainerLarge.label>
+	<!-- EN: A large sized, triple sealed, password protected box. -->
+	<VFEPD_SpacerContainerLarge.description>Une grande boîte, triple scellée et protégée par mot de passe.</VFEPD_SpacerContainerLarge.description>
+
+	<!-- EN: spacer container stack -->
+	<VFEPD_SpacerContainerStack.label>pile de conteneurs spatiaux</VFEPD_SpacerContainerStack.label>
+	<!-- EN: A large stack of different sized, triple sealed, password protected boxes. -->
+	<VFEPD_SpacerContainerStack.description>Une grande pile de boîtes de différentes tailles, triple scellées et protégées par mot de passe.</VFEPD_SpacerContainerStack.description>
+
+	<!-- EN: advanced storage device -->
+	<VFEPD_SpacerStorage.label>périphérique de stockage avancé</VFEPD_SpacerStorage.label>
+	<!-- EN: A large, multi-chamber advanced storage device. -->
+	<VFEPD_SpacerStorage.description>Un excellent périphérique de stockage multi-caméras avancé.</VFEPD_SpacerStorage.description>
+
+	<!-- EN: switch panel -->
+	<VFEPD_SwitchPanel.label>Panneau de commutation</VFEPD_SwitchPanel.label>
+	<!-- EN: A medium sized panel containing varius levers and switches. -->
+	<VFEPD_SwitchPanel.description>Un panneau de taille moyenne contenant divers leviers et interrupteurs.</VFEPD_SwitchPanel.description>
+
+	<!-- EN: server rack -->
+	<VFEPD_ServerRack.label>rack de serveur</VFEPD_ServerRack.label>
+	<!-- EN: A large server rack, containing multiple hard drives and advanced computer components. -->
+	<VFEPD_ServerRack.description>Un grand rack de serveurs, contenant plusieurs disques durs et des composants informatiques avancés.</VFEPD_ServerRack.description>
+
+	<!-- EN: sensor platform -->
+	<VFEPD_SensorPlatform.label>plate-forme de capteur</VFEPD_SensorPlatform.label>
+	<!-- EN: A small platform containing a variety of sensors. -->
+	<VFEPD_SensorPlatform.description>Une petite plate-forme contenant une variété de capteurs.</VFEPD_SensorPlatform.description>
+
+	<!-- EN: personal console -->
+	<VFEPD_PersonalConsole.label>console personnelle</VFEPD_PersonalConsole.label>
+	<!-- EN: A small, futuristic personal communications console. -->
+	<VFEPD_PersonalConsole.description>Une petite console de communication personnelle futuriste.</VFEPD_PersonalConsole.description>
+
+
+</LanguageData>

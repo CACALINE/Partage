@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+	<!-- industrial radio -->
+	<Radio_Industrial.label>radio industrielle</Radio_Industrial.label>
+	<!-- An old device from a bygone era, it is able to pick up radio waves and play them back. Even on the rimworlds, there is often an old transmitter or lone radio station broadcasting something. -->
+	<Radio_Industrial.description>Ancien appareil d'une époque révolue, il est capable de capter les ondes radio et de les reproduire. Il y a souvent un vieil émetteur ou une station de radio solitaire qui diffuse quelque chose.</Radio_Industrial.description>
+	<!-- longwave radio -->
+	<Radio_Spacer.label>radio à ondes longues</Radio_Spacer.label>
+	<!-- A high tech radio reciever that is able to pick up very faint signals and play them back at crystal clear quality. -->
+	<Radio_Spacer.description>Un récepteur radio de haute technologie capable de capter des signaux très faibles et de les reproduire avec une qualité cristalline.</Radio_Spacer.description>
+	<!-- arcade machine -->
+	<Joy_Arcade.label>arcade</Joy_Arcade.label>
+	<!-- A tall cabinet that holds a small cathode ray display and control panel for playing a variety of pre-installed games. -->
+	<Joy_Arcade.description>Une grande armoire contenant un petit écran à rayons cathodiques et un panneau de commande pour jouer à une variété de jeux préinstallés.</Joy_Arcade.description>
+	<!-- old computer -->
+	<Joy_InudstrialComputer.label>ordinateur ancien</Joy_InudstrialComputer.label>
+	<!-- A desktop computer based off an old design, very inefficient and prone to crashing. Gives a minor boost to learning after use. -->
+	<Joy_InudstrialComputer.description>Un bureau basé sur un design ancien, très inefficace et sujet aux accidents. Donne un petit coup de pouce à l'apprentissage après utilisation.</Joy_InudstrialComputer.description>
+	<!-- modern computer -->
+	<Joy_ModernComputer.label>ordinateur moderne</Joy_ModernComputer.label>
+	<!-- A high tech computer with utilising an LCD monitor and better performance parts that are less prone to crashing. Gives a boost to learning after use. -->
+	<Joy_ModernComputer.description>Un ordinateur de haute technologie qui utilise un écran LCD et des pièces plus performantes qui sont moins sujettes à la casse. Donne un coup de pouce à l'apprentissage après utilisation.</Joy_ModernComputer.description>
+	<!-- piano -->
+	<Joy_Piano.label>piano moderne</Joy_Piano.label>
+	<!-- A large playable piano for practising on, quite enjoyable and it is a great way to develop artistic talent. -->
+	<Joy_Piano.description>Un excellent piano à pratiquer, très agréable et c'est un excellent moyen de développer le talent artistique.</Joy_Piano.description>
+	<!-- roulette table -->
+	<Joy_RouletteTable.label>table de roulette</Joy_RouletteTable.label>
+	<!-- A soft-topped bounded table with a wheel for playing roulette, a good way to train your social skills and luck. -->
+	<Joy_RouletteTable.description>Une table délimitée avec une roue pour jouer à la roulette, un bon moyen d'entraîner vos compétences sociales et votre chance.</Joy_RouletteTable.description>
+	<!-- darts board -->
+	<Joy_DartsBoard.label>Jeu de fléchettes</Joy_DartsBoard.label>
+	<!-- A popular game among rimworlds involving throwing darts at a circular target, It's relaxing, and trains shooting skills at a higher rate than horseshoes or hoopstone. -->
+	<Joy_DartsBoard.description>Un jeu populaire sur Rimworld, il consiste à lancer des fléchettes sur une cible circulaire, est relaxant et entraîne des compétences de tir à un rythme plus élevé que les fers à cheval ou le cerceau.</Joy_DartsBoard.description>
+	<!-- punching bag -->
+	<Joy_PunchingBag.label>sac de frappe</Joy_PunchingBag.label>
+	<!-- A fabric filled punching bag to let out anger on. Can be quite calming and helps to train melee ability. -->
+	<Joy_PunchingBag.description>Un sac de frappe rempli de tissu pour libérer la colère. C'est assez relaxant et aide à entraîner les compétences de combat rapproché.</Joy_PunchingBag.description>
+
+	<!-- Spacer -->
+	<!-- ultrascreen television -->
+	<UltrascreenTV.label>télévision à écran géant</UltrascreenTV.label>
+	<!-- A huge, curved, ultra-tech television. Viewers feel as if they are part of the action themselves. Very entertaining. Capable of picking up signal from the core worlds. -->
+	<UltrascreenTV.description>Une énorme télévision incurvée. Les spectateurs ont l'impression de faire eux-mêmes partie de l'action. Très divertissant.</UltrascreenTV.description>
+</LanguageData>

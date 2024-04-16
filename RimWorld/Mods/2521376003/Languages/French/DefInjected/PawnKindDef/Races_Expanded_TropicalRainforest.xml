@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Tous les vanilla animals expanded.-->
+  <!-- Gorilla -->
+
+<!-- gorilla -->
+  <AEXP_Gorilla.label>gorille</AEXP_Gorilla.label>
+<!-- gorilles -->
+  <AEXP_Gorilla.labelPlural>gorilles</AEXP_Gorilla.labelPlural>
+<!-- gorilla -->
+  <AEXP_Gorilla.lifeStages.0.label>bébé gorille</AEXP_Gorilla.lifeStages.0.label>
+<!-- gorilles -->
+  <AEXP_Gorilla.lifeStages.0.labelPlural>bébés gorille</AEXP_Gorilla.lifeStages.0.labelPlural>
+<!-- male gorilla -->
+  <AEXP_Gorilla.lifeStages.0.labelMale>bébé gorille</AEXP_Gorilla.lifeStages.0.labelMale>
+<!-- male gorilles -->
+  <AEXP_Gorilla.lifeStages.0.labelMalePlural>bébés gorille</AEXP_Gorilla.lifeStages.0.labelMalePlural>
+<!-- female gorilla -->
+  <AEXP_Gorilla.lifeStages.0.labelFemale>bébé gorille</AEXP_Gorilla.lifeStages.0.labelFemale>
+<!-- female gorilles -->
+  <AEXP_Gorilla.lifeStages.0.labelFemalePlural>bébés gorille</AEXP_Gorilla.lifeStages.0.labelFemalePlural>
+<!-- gorilla -->
+  <AEXP_Gorilla.lifeStages.1.label>gorille</AEXP_Gorilla.lifeStages.1.label>
+<!-- gorilles -->
+  <AEXP_Gorilla.lifeStages.1.labelPlural>gorilles</AEXP_Gorilla.lifeStages.1.labelPlural>
+<!-- male gorilla -->
+  <AEXP_Gorilla.lifeStages.1.labelMale>gorille</AEXP_Gorilla.lifeStages.1.labelMale>
+<!-- male gorilles -->
+  <AEXP_Gorilla.lifeStages.1.labelMalePlural>gorilles</AEXP_Gorilla.lifeStages.1.labelMalePlural>
+<!-- female gorilla -->
+  <AEXP_Gorilla.lifeStages.1.labelFemale>gorille</AEXP_Gorilla.lifeStages.1.labelFemale>
+<!-- female gorilles -->
+  <AEXP_Gorilla.lifeStages.1.labelFemalePlural>gorilles</AEXP_Gorilla.lifeStages.1.labelFemalePlural>
+<!-- gorilla -->
+  <AEXP_Gorilla.lifeStages.2.label>gorille</AEXP_Gorilla.lifeStages.2.label>
+<!-- gorilles -->
+  <AEXP_Gorilla.lifeStages.2.labelPlural>gorilles</AEXP_Gorilla.lifeStages.2.labelPlural>
+<!-- male gorilla -->
+  <AEXP_Gorilla.lifeStages.2.labelMale>gorille</AEXP_Gorilla.lifeStages.2.labelMale>
+<!-- male gorilles -->
+  <AEXP_Gorilla.lifeStages.2.labelMalePlural>gorilles</AEXP_Gorilla.lifeStages.2.labelMalePlural>
+<!-- female gorilla -->
+  <AEXP_Gorilla.lifeStages.2.labelFemale>gorille</AEXP_Gorilla.lifeStages.2.labelFemale>
+<!-- female gorilles -->
+  <AEXP_Gorilla.lifeStages.2.labelFemalePlural>gorilles</AEXP_Gorilla.lifeStages.2.labelFemalePlural>
+<!-- male gorilla -->
+  <AEXP_Gorilla.labelMale>gorille</AEXP_Gorilla.labelMale>
+<!-- male gorilles -->
+  <AEXP_Gorilla.labelMalePlural>gorilles</AEXP_Gorilla.labelMalePlural>
+<!-- female gorilla -->
+  <AEXP_Gorilla.labelFemale>gorille</AEXP_Gorilla.labelFemale>
+<!-- female gorilles -->
+  <AEXP_Gorilla.labelFemalePlural>gorilles</AEXP_Gorilla.labelFemalePlural>
+
+
+  <!-- Jaguar -->
+
+<!-- jaguar -->
+  <AEXP_Jaguar.label>jaguar</AEXP_Jaguar.label>
+<!-- jaguars -->
+  <AEXP_Jaguar.labelPlural>jaguars</AEXP_Jaguar.labelPlural>
+<!-- jaguar -->
+  <AEXP_Jaguar.lifeStages.0.label>jaguar</AEXP_Jaguar.lifeStages.0.label>
+<!-- jaguar -->
+  <AEXP_Jaguar.lifeStages.0.labelPlural>jaguar</AEXP_Jaguar.lifeStages.0.labelPlural>
+<!-- male jaguar -->
+  <AEXP_Jaguar.lifeStages.0.labelMale>jaguar</AEXP_Jaguar.lifeStages.0.labelMale>
+<!-- male jaguars -->
+  <AEXP_Jaguar.lifeStages.0.labelMalePlural>jaguar</AEXP_Jaguar.lifeStages.0.labelMalePlural>
+<!-- female jaguar -->
+  <AEXP_Jaguar.lifeStages.0.labelFemale>jaguar</AEXP_Jaguar.lifeStages.0.labelFemale>
+<!-- female jaguars -->
+  <AEXP_Jaguar.lifeStages.0.labelFemalePlural>cachorras de jaguar</AEXP_Jaguar.lifeStages.0.labelFemalePlural>
+<!-- jaguar -->
+  <AEXP_Jaguar.lifeStages.1.label>jaguar</AEXP_Jaguar.lifeStages.1.label>
+<!-- jaguar -->
+  <AEXP_Jaguar.lifeStages.1.labelPlural>jaguars</AEXP_Jaguar.lifeStages.1.labelPlural>
+<!-- male jaguar -->
+  <AEXP_Jaguar.lifeStages.1.labelMale>jaguar</AEXP_Jaguar.lifeStages.1.labelMale>
+<!-- male jaguars -->
+  <AEXP_Jaguar.lifeStages.1.labelMalePlural>jaguars</AEXP_Jaguar.lifeStages.1.labelMalePlural>
+<!-- female jaguar -->
+  <AEXP_Jaguar.lifeStages.1.labelFemale>jaguar</AEXP_Jaguar.lifeStages.1.labelFemale>
+<!-- female jaguars -->
+  <AEXP_Jaguar.lifeStages.1.labelFemalePlural>jaguars</AEXP_Jaguar.lifeStages.1.labelFemalePlural>
+<!-- jaguar -->
+  <AEXP_Jaguar.lifeStages.2.label>jaguar</AEXP_Jaguar.lifeStages.2.label>
+<!-- jaguar -->
+  <AEXP_Jaguar.lifeStages.2.labelPlural>jaguars</AEXP_Jaguar.lifeStages.2.labelPlural>
+<!-- male jaguar -->
+  <AEXP_Jaguar.lifeStages.2.labelMale>jaguar</AEXP_Jaguar.lifeStages.2.labelMale>
+<!-- male jaguars -->
+  <AEXP_Jaguar.lifeStages.2.labelMalePlural>jaguars</AEXP_Jaguar.lifeStages.2.labelMalePlural>
+<!-- female jaguar -->
+  <AEXP_Jaguar.lifeStages.2.labelFemale>jaguar</AEXP_Jaguar.lifeStages.2.labelFemale>
+<!-- female jaguars -->
+  <AEXP_Jaguar.lifeStages.2.labelFemalePlural>jaguars</AEXP_Jaguar.lifeStages.2.labelFemalePlural>
+<!-- male jaguar -->
+  <AEXP_Jaguar.labelMale>jaguar</AEXP_Jaguar.labelMale>
+<!-- male jaguars -->
+  <AEXP_Jaguar.labelMalePlural>jaguars</AEXP_Jaguar.labelMalePlural>
+<!-- female jaguar -->
+  <AEXP_Jaguar.labelFemale>jaguar</AEXP_Jaguar.labelFemale>
+<!-- female jaguars -->
+  <AEXP_Jaguar.labelFemalePlural>jaguars</AEXP_Jaguar.labelFemalePlural>
+
+
+
+  <!-- Lemur -->
+
+<!-- lemur -->
+  <AEXP_Lemur.label>lémurien</AEXP_Lemur.label>
+<!-- lemurs -->
+  <AEXP_Lemur.labelPlural>lémuriens</AEXP_Lemur.labelPlural>
+<!-- lemur -->
+  <AEXP_Lemur.lifeStages.0.label>bébé lémurien</AEXP_Lemur.lifeStages.0.label>
+<!-- lemur -->
+  <AEXP_Lemur.lifeStages.0.labelPlural>bébés lémurien</AEXP_Lemur.lifeStages.0.labelPlural>
+<!-- male lemur -->
+  <AEXP_Lemur.lifeStages.0.labelMale>bébé lémurien</AEXP_Lemur.lifeStages.0.labelMale>
+<!-- male lemurs -->
+  <AEXP_Lemur.lifeStages.0.labelMalePlural>bébés lémurien</AEXP_Lemur.lifeStages.0.labelMalePlural>
+<!-- female lemur -->
+  <AEXP_Lemur.lifeStages.0.labelFemale>bébé lémurien</AEXP_Lemur.lifeStages.0.labelFemale>
+<!-- female lemurs -->
+  <AEXP_Lemur.lifeStages.0.labelFemalePlural>bébés lémurien</AEXP_Lemur.lifeStages.0.labelFemalePlural>
+<!-- lemur -->
+  <AEXP_Lemur.lifeStages.1.label>lémurien</AEXP_Lemur.lifeStages.1.label>
+<!-- lemur -->
+  <AEXP_Lemur.lifeStages.1.labelPlural>lémuriens</AEXP_Lemur.lifeStages.1.labelPlural>
+<!-- male lemur -->
+  <AEXP_Lemur.lifeStages.1.labelMale>lémurien</AEXP_Lemur.lifeStages.1.labelMale>
+<!-- male lemurs -->
+  <AEXP_Lemur.lifeStages.1.labelMalePlural>lémuriens</AEXP_Lemur.lifeStages.1.labelMalePlural>
+<!-- female lemur -->
+  <AEXP_Lemur.lifeStages.1.labelFemale>lémurien</AEXP_Lemur.lifeStages.1.labelFemale>
+<!-- female lemurs -->
+  <AEXP_Lemur.lifeStages.1.labelFemalePlural>lémuriens</AEXP_Lemur.lifeStages.1.labelFemalePlural>
+<!-- lemur -->
+  <AEXP_Lemur.lifeStages.2.label>lémurien</AEXP_Lemur.lifeStages.2.label>
+<!-- lemur -->
+  <AEXP_Lemur.lifeStages.2.labelPlural>lémuriens</AEXP_Lemur.lifeStages.2.labelPlural>
+<!-- male lemur -->
+  <AEXP_Lemur.lifeStages.2.labelMale>lémurien</AEXP_Lemur.lifeStages.2.labelMale>
+<!-- male lemurs -->
+  <AEXP_Lemur.lifeStages.2.labelMalePlural>lémuriens</AEXP_Lemur.lifeStages.2.labelMalePlural>
+<!-- female lemur -->
+  <AEXP_Lemur.lifeStages.2.labelFemale>lémurien</AEXP_Lemur.lifeStages.2.labelFemale>
+<!-- female lemurs -->
+  <AEXP_Lemur.lifeStages.2.labelFemalePlural>lémuriens</AEXP_Lemur.lifeStages.2.labelFemalePlural>
+<!-- male lemur -->
+  <AEXP_Lemur.labelMale>lémurien</AEXP_Lemur.labelMale>
+<!-- male lemurs -->
+  <AEXP_Lemur.labelMalePlural>lémuriens</AEXP_Lemur.labelMalePlural>
+<!-- female lemur -->
+  <AEXP_Lemur.labelFemale>lémurien</AEXP_Lemur.labelFemale>
+<!-- female lemurs -->
+  <AEXP_Lemur.labelFemalePlural>lémuriens</AEXP_Lemur.labelFemalePlural>
+
+
+
+
+  <!-- mandrilll -->
+
+<!-- mandrilll -->
+  <AEXP_Mandrill.label>mandrill</AEXP_Mandrill.label>
+<!-- mandrillls -->
+  <AEXP_Mandrill.labelPlural>mandrillls</AEXP_Mandrill.labelPlural>
+<!-- mandrilll -->
+  <AEXP_Mandrill.lifeStages.0.label>bébé mandrill</AEXP_Mandrill.lifeStages.0.label>
+<!-- mandrilll -->
+  <AEXP_Mandrill.lifeStages.0.labelPlural>bébés mandrills</AEXP_Mandrill.lifeStages.0.labelPlural>
+<!-- male mandrilll -->
+  <AEXP_Mandrill.lifeStages.0.labelMale>bébé mandrill</AEXP_Mandrill.lifeStages.0.labelMale>
+<!-- male mandrillls -->
+  <AEXP_Mandrill.lifeStages.0.labelMalePlural>bébés mandrills</AEXP_Mandrill.lifeStages.0.labelMalePlural>
+<!-- female mandrilll -->
+  <AEXP_Mandrill.lifeStages.0.labelFemale>bébé mandrill</AEXP_Mandrill.lifeStages.0.labelFemale>
+<!-- female mandrillls -->
+  <AEXP_Mandrill.lifeStages.0.labelFemalePlural>bébés mandrills</AEXP_Mandrill.lifeStages.0.labelFemalePlural>
+<!-- mandrilll -->
+  <AEXP_Mandrill.lifeStages.1.label>mandrill</AEXP_Mandrill.lifeStages.1.label>
+<!-- mandrilll -->
+  <AEXP_Mandrill.lifeStages.1.labelPlural>mandrillls</AEXP_Mandrill.lifeStages.1.labelPlural>
+<!-- male mandrilll -->
+  <AEXP_Mandrill.lifeStages.1.labelMale>mandrill</AEXP_Mandrill.lifeStages.1.labelMale>
+<!-- male mandrillls -->
+  <AEXP_Mandrill.lifeStages.1.labelMalePlural>mandrillls</AEXP_Mandrill.lifeStages.1.labelMalePlural>
+<!-- female mandrilll -->
+  <AEXP_Mandrill.lifeStages.1.labelFemale>mandrill</AEXP_Mandrill.lifeStages.1.labelFemale>
+<!-- female mandrillls -->
+  <AEXP_Mandrill.lifeStages.1.labelFemalePlural>mandrillls</AEXP_Mandrill.lifeStages.1.labelFemalePlural>
+<!-- mandrilll -->
+  <AEXP_Mandrill.lifeStages.2.label>mandrill</AEXP_Mandrill.lifeStages.2.label>
+<!-- mandrilll -->
+  <AEXP_Mandrill.lifeStages.2.labelPlural>mandrillls</AEXP_Mandrill.lifeStages.2.labelPlural>
+<!-- male mandrilll -->
+  <AEXP_Mandrill.lifeStages.2.labelMale>mandrill</AEXP_Mandrill.lifeStages.2.labelMale>
+<!-- male mandrillls -->
+  <AEXP_Mandrill.lifeStages.2.labelMalePlural>mandrillls</AEXP_Mandrill.lifeStages.2.labelMalePlural>
+<!-- female mandrilll -->
+  <AEXP_Mandrill.lifeStages.2.labelFemale>mandrill</AEXP_Mandrill.lifeStages.2.labelFemale>
+<!-- female mandrillls -->
+  <AEXP_Mandrill.lifeStages.2.labelFemalePlural>mandrillls</AEXP_Mandrill.lifeStages.2.labelFemalePlural>
+<!-- male mandrilll -->
+  <AEXP_Mandrill.labelMale>mandrill</AEXP_Mandrill.labelMale>
+<!-- male mandrillls -->
+  <AEXP_Mandrill.labelMalePlural>mandrillls</AEXP_Mandrill.labelMalePlural>
+<!-- female mandrilll -->
+  <AEXP_Mandrill.labelFemale>mandrill</AEXP_Mandrill.labelFemale>
+<!-- female mandrillls -->
+  <AEXP_Mandrill.labelFemalePlural>mandrillls</AEXP_Mandrill.labelFemalePlural>
+
+
+
+  <!-- Tapir -->
+
+<!-- tapir -->
+  <AEXP_Tapir.label>tapir</AEXP_Tapir.label>
+<!-- tapirs -->
+  <AEXP_Tapir.labelPlural>tapirs</AEXP_Tapir.labelPlural>
+<!-- tapir -->
+  <AEXP_Tapir.lifeStages.0.label>bébé tapir</AEXP_Tapir.lifeStages.0.label>
+<!-- tapir -->
+  <AEXP_Tapir.lifeStages.0.labelPlural>bébés tapir</AEXP_Tapir.lifeStages.0.labelPlural>
+<!-- male tapir -->
+  <AEXP_Tapir.lifeStages.0.labelMale>bébé tapir</AEXP_Tapir.lifeStages.0.labelMale>
+<!-- male tapirs -->
+  <AEXP_Tapir.lifeStages.0.labelMalePlural>bébés tapir</AEXP_Tapir.lifeStages.0.labelMalePlural>
+<!-- female tapir -->
+  <AEXP_Tapir.lifeStages.0.labelFemale>bébé tapir</AEXP_Tapir.lifeStages.0.labelFemale>
+<!-- female tapirs -->
+  <AEXP_Tapir.lifeStages.0.labelFemalePlural>bébés tapir</AEXP_Tapir.lifeStages.0.labelFemalePlural>
+<!-- tapir -->
+  <AEXP_Tapir.lifeStages.1.label>tapir</AEXP_Tapir.lifeStages.1.label>
+<!-- tapir -->
+  <AEXP_Tapir.lifeStages.1.labelPlural>tapirs</AEXP_Tapir.lifeStages.1.labelPlural>
+<!-- male tapir -->
+  <AEXP_Tapir.lifeStages.1.labelMale>tapir</AEXP_Tapir.lifeStages.1.labelMale>
+<!-- male tapirs -->
+  <AEXP_Tapir.lifeStages.1.labelMalePlural>tapirs</AEXP_Tapir.lifeStages.1.labelMalePlural>
+<!-- female tapir -->
+  <AEXP_Tapir.lifeStages.1.labelFemale>tapir</AEXP_Tapir.lifeStages.1.labelFemale>
+<!-- female tapirs -->
+  <AEXP_Tapir.lifeStages.1.labelFemalePlural>tapirs</AEXP_Tapir.lifeStages.1.labelFemalePlural>
+<!-- tapir -->
+  <AEXP_Tapir.lifeStages.2.label>tapir</AEXP_Tapir.lifeStages.2.label>
+<!-- tapir -->
+  <AEXP_Tapir.lifeStages.2.labelPlural>tapirs</AEXP_Tapir.lifeStages.2.labelPlural>
+<!-- male tapir -->
+  <AEXP_Tapir.lifeStages.2.labelMale>tapir</AEXP_Tapir.lifeStages.2.labelMale>
+<!-- male tapirs -->
+  <AEXP_Tapir.lifeStages.2.labelMalePlural>tapirs</AEXP_Tapir.lifeStages.2.labelMalePlural>
+<!-- female tapir -->
+  <AEXP_Tapir.lifeStages.2.labelFemale>tapir</AEXP_Tapir.lifeStages.2.labelFemale>
+<!-- female tapirs -->
+  <AEXP_Tapir.lifeStages.2.labelFemalePlural>tapirs</AEXP_Tapir.lifeStages.2.labelFemalePlural>
+<!-- male tapir -->
+  <AEXP_Tapir.labelMale>tapir</AEXP_Tapir.labelMale>
+<!-- male tapirs -->
+  <AEXP_Tapir.labelMalePlural>tapirs</AEXP_Tapir.labelMalePlural>
+<!-- female tapir -->
+  <AEXP_Tapir.labelFemale>tapir</AEXP_Tapir.labelFemale>
+<!-- female tapirs -->
+  <AEXP_Tapir.labelFemalePlural>tapirs</AEXP_Tapir.labelFemalePlural>
+
+
+  <!-- Tiger -->
+
+<!-- tiger -->
+  <AEXP_Tiger.label>tigre</AEXP_Tiger.label>
+<!-- tigers -->
+  <AEXP_Tiger.labelPlural>tigres</AEXP_Tiger.labelPlural>
+<!-- tiger -->
+  <AEXP_Tiger.lifeStages.0.label>tigre</AEXP_Tiger.lifeStages.0.label>
+<!-- tiger -->
+  <AEXP_Tiger.lifeStages.0.labelPlural>de tigre</AEXP_Tiger.lifeStages.0.labelPlural>
+<!-- male tiger -->
+  <AEXP_Tiger.lifeStages.0.labelMale>cachorro de tigre</AEXP_Tiger.lifeStages.0.labelMale>
+<!-- male tigers -->
+  <AEXP_Tiger.lifeStages.0.labelMalePlural>tigre</AEXP_Tiger.lifeStages.0.labelMalePlural>
+<!-- female tiger -->
+  <AEXP_Tiger.lifeStages.0.labelFemale>tigre</AEXP_Tiger.lifeStages.0.labelFemale>
+<!-- female tigers -->
+  <AEXP_Tiger.lifeStages.0.labelFemalePlural>tigre</AEXP_Tiger.lifeStages.0.labelFemalePlural>
+<!-- tiger -->
+  <AEXP_Tiger.lifeStages.1.label>tigre</AEXP_Tiger.lifeStages.1.label>
+<!-- tiger -->
+  <AEXP_Tiger.lifeStages.1.labelPlural>tigres</AEXP_Tiger.lifeStages.1.labelPlural>
+<!-- male tiger -->
+  <AEXP_Tiger.lifeStages.1.labelMale>tigre</AEXP_Tiger.lifeStages.1.labelMale>
+<!-- male tigers -->
+  <AEXP_Tiger.lifeStages.1.labelMalePlural>tigres</AEXP_Tiger.lifeStages.1.labelMalePlural>
+<!-- female tiger -->
+  <AEXP_Tiger.lifeStages.1.labelFemale>tigre</AEXP_Tiger.lifeStages.1.labelFemale>
+<!-- female tigers -->
+  <AEXP_Tiger.lifeStages.1.labelFemalePlural>tigres</AEXP_Tiger.lifeStages.1.labelFemalePlural>
+<!-- tiger -->
+  <AEXP_Tiger.lifeStages.2.label>tigre</AEXP_Tiger.lifeStages.2.label>
+<!-- tiger -->
+  <AEXP_Tiger.lifeStages.2.labelPlural>tigres</AEXP_Tiger.lifeStages.2.labelPlural>
+<!-- male tiger -->
+  <AEXP_Tiger.lifeStages.2.labelMale>tigre</AEXP_Tiger.lifeStages.2.labelMale>
+<!-- male tigers -->
+  <AEXP_Tiger.lifeStages.2.labelMalePlural>tigres</AEXP_Tiger.lifeStages.2.labelMalePlural>
+<!-- female tiger -->
+  <AEXP_Tiger.lifeStages.2.labelFemale>tigre</AEXP_Tiger.lifeStages.2.labelFemale>
+<!-- female tigers -->
+  <AEXP_Tiger.lifeStages.2.labelFemalePlural>tigres</AEXP_Tiger.lifeStages.2.labelFemalePlural>
+<!-- male tiger -->
+  <AEXP_Tiger.labelMale>tigre</AEXP_Tiger.labelMale>
+<!-- male tigers -->
+  <AEXP_Tiger.labelMalePlural>tigres</AEXP_Tiger.labelMalePlural>
+<!-- female tiger -->
+  <AEXP_Tiger.labelFemale>tigre</AEXP_Tiger.labelFemale>
+<!-- female tigers -->
+  <AEXP_Tiger.labelFemalePlural>tigres</AEXP_Tiger.labelFemalePlural>
+
+
+
+</LanguageData>

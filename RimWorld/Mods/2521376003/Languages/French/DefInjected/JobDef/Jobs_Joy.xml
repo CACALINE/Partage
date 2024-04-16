@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+<!-- playing roulette. -->
+<Play_Roulette.reportString>joue à la roulette.</Play_Roulette.reportString>
+<!-- playing arcade game. -->
+<Play_Arcade.reportString>joue à un jeu d'arcade.</Play_Arcade.reportString>
+<!-- playing darts. -->
+<Play_DartsBoard.reportString>joue aux fléchettes.</Play_DartsBoard.reportString>
+<!-- using punching bag. -->
+<Play_PunchingBag.reportString>utilise le sac de frappe.</Play_PunchingBag.reportString>
+<!-- using computer. -->
+<Play_ComputerIndustrial.reportString>utilise l'ordinateur.</Play_ComputerIndustrial.reportString>
+<!-- using computer. -->
+<Play_ComputerModern.reportString>utilise l'ordinateur.</Play_ComputerModern.reportString>
+<!-- EN: playing piano. -->
+<Play_Piano.reportString>joue du piano.</Play_Piano.reportString>
+
+</LanguageData>

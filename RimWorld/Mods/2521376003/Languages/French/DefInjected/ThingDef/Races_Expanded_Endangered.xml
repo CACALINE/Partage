@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Tous les vanilla animals expanded.-->
+  <!-- EN: black-footed ferret -->
+  <AEXP_BlackFootedFerret.label>furet à pattes noires</AEXP_BlackFootedFerret.label>
+  <!-- EN: A small, nocturnal member of the weasel family that feeds on other, smaller mammals. It has a long body and yellowish-brown fur with a blackish wash of fur on its back, and a black mask around its eyes.\n\n&lt;color=#33d733&gt;Real World Conservation Status:&lt;/color&gt; Endangered. Black-footed ferrets are the most endangered mammals in North America, and they were thought extinct in 1976. A small group was rediscovered in 1981, bred in captivity and carefully released. As of 2020, fewer than 500 black-footed ferrets live in the wild at 17 reintroduction sites —a population well below the 3,000 needed to fully recover the species. -->
+  <AEXP_BlackFootedFerret.description>Ppetit membre nocturne de la famille des belettes qui se nourrit d'autres petits mammifères. Il a un corps allongé et une fourrure brun jaunâtre avec une tache de fourrure noire sur le dos et un masque noir autour des yeux. \n\n&lt;color=#33d733&gt; État de conservation: &lt;/color&gt; En danger. Les furets à pattes noires sont les mammifères les plus menacés d'Amérique du Nord. On pense qu'ils ont disparu en 1976. Un petit groupe a été redécouvert en 1981, élevé en captivité et soigneusement relâché. En 2020, moins de 500 furets à pattes noires vivent à l'état sauvage dans 17 sites de réintroduction, une population bien inférieure aux 3000 individus nécessaires au rétablissement complet de l'espèce.</AEXP_BlackFootedFerret.description>
+  <!-- EN: left claw -->
+  <AEXP_BlackFootedFerret.tools.left_claw.label>patte gauche</AEXP_BlackFootedFerret.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_BlackFootedFerret.tools.right_claw.label>patte droite</AEXP_BlackFootedFerret.tools.right_claw.label>
+  <!-- EN: head -->
+  <AEXP_BlackFootedFerret.tools.head.label>tête</AEXP_BlackFootedFerret.tools.head.label>
+
+  <Corpse_AEXP_BlackFootedFerret.label>cadavre de furet à pattes noires</Corpse_AEXP_BlackFootedFerret.label>
+  <Corpse_AEXP_BlackFootedFerret.description>Le corps sans vie d'un furet à pattes noires.</Corpse_AEXP_BlackFootedFerret.description>
+  <Meat_AEXP_BlackFootedFerret.label>viande de furet à pattes noires</Meat_AEXP_BlackFootedFerret.label>
+  <Meat_AEXP_BlackFootedFerret.description>Viande crue dépecée. Peut être cuit ou consommé cru.</Meat_AEXP_BlackFootedFerret.description>
+
+  <!-- EN: black rhinoceros -->
+  <AEXP_BlackRhino.label>rhinocéros noir</AEXP_BlackRhino.label>
+  <!-- EN: A huge herbivorous mammal with a temperamental disposition. Black rhinos differ from their white relatives in their slightly smaller size and in lip shape. The black rhino has a pointed upper lip, while whites have a squared lip, a difference related to the animals' diets: Black rhinos are browsers that get most of their sustenance from eating from bushes.\n\n&lt;color=#33d733&gt;Real World Conservation Status:&lt;/color&gt; Critically endangered. Three of the seven subspecies of black rhino have become extinct since 1850  and one is on the brink of extinction. As of 2020, thanks to the persistent efforts of conservation programmes across Africa, black rhino numbers have risen to a current population of between 5,366 and 5,627 individuals. -->
+  <AEXP_BlackRhino.description>Un énorme mammifère herbivore capricieux. Les rhinocéros noirs diffèrent de leurs parents blancs par leur taille légèrement plus petite et la forme de leurs lèvres. Le rhinocéros noir a une lèvre supérieure pointue, tandis que le rhinocéros blanc a une lèvre carrée, une différence liée au régime alimentaire des animaux: Le rhinocéros noir est un animal herbivore qui se nourrit principalement d'arbustes.\n\n&lt;color=#33d733&gt;Etat de conservation:&lt;/color&gt; Menacé d'extinction. Trois des sept sous-espèces de rhinocéros noirs ont disparu depuis 1850 et une est au bord de l'extinction. En 2020, grâce aux efforts persistants des programmes de conservation à travers l'Afrique, le nombre de rhinocéros noirs est passé à une population actuelle comprise entre 5 366 et 5 627 individus.</AEXP_BlackRhino.description>
+  <!-- EN: horn -->
+  <AEXP_BlackRhino.tools.horn-0.label>cuerno</AEXP_BlackRhino.tools.horn-0.label>
+  <!-- EN: horn -->
+  <AEXP_BlackRhino.tools.horn-1.label>cuerno</AEXP_BlackRhino.tools.horn-1.label>
+  <!-- EN: head -->
+  <AEXP_BlackRhino.tools.head.label>tête</AEXP_BlackRhino.tools.head.label>
+
+  <Corpse_AEXP_BlackRhino.label>cadavre de rhinocéros noir</Corpse_AEXP_BlackRhino.label>
+  <Corpse_AEXP_BlackRhino.description>Le corps sans vie d'un rhinocéros noir.</Corpse_AEXP_BlackRhino.description>
+
+  <!-- EN: bonobo -->
+  <AEXP_Bonobo.label>bonobo</AEXP_Bonobo.label>
+  <!-- EN: The bonobo is a great ape, a smaller relative of the chimpanzee with a rounder skull and flatter face. Bonobos have longer legs, shorter arms, and a narrower trunk. Bonobos exhibit remarkably different social behavior from chimpanzees, with an emphasis on peacemaking, and sex as a tool to manage and diffuse tension.\n\n&lt;color=#33d733&gt;Real World Conservation Status:&lt;/color&gt; Endangered. Populations have declined rapidly over the last 30 years, but there are no reliable estimates for current bonobo numbers. Their habitat inside the Democratic Republic of the Congo is often threatened by political instability. -->
+  <AEXP_Bonobo.description>Le bonobo est un grand singe, un parent plus petit du chimpanzé avec un crâne plus rond et un visage plus plat. Les bonobos ont des jambes plus longues, des bras plus courts et un tronc plus étroit. Le comportement social des bonobos est très différent de celui des chimpanzés, avec un accent sur l'établissement de la paix et du sexe comme un outil pour gérer et désamorcer les tensions.\n\n&lt;color=#33d733&gt;Etat de conservation:&lt;/color&gt; En danger. Les populations ont diminué rapidement au cours des 30 dernières années, mais il n'y a pas d'estimations fiables du nombre actuel de bonobos. Leur habitat en République démocratique du Congo est souvent menacé par l'instabilité politique.</AEXP_Bonobo.description>
+  <!-- EN: left fist -->
+  <AEXP_Bonobo.tools.left_fist.label>poing gauche</AEXP_Bonobo.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <AEXP_Bonobo.tools.right_fist.label>poing droit</AEXP_Bonobo.tools.right_fist.label>
+  <!-- EN: head -->
+  <AEXP_Bonobo.tools.head.label>tête</AEXP_Bonobo.tools.head.label>
+
+  <Corpse_AEXP_Bonobo.label>cadavre de bonobo</Corpse_AEXP_Bonobo.label>
+  <Corpse_AEXP_Bonobo.description>Le corps sans vie d'un bonobo.</Corpse_AEXP_Bonobo.description>
+
+  <!-- EN: moa -->
+  <AEXP_Moa.label>moa</AEXP_Moa.label>
+  <!-- EN: moa -->
+  <AEXP_Moa.description>Un très grand oiseau herbivore incapable de voler originaire des îles de l'Ancienne Terre en Nouvelle-Zélande. Les Moas n'ont même pas les ailes résiduelles que possèdent tous les autres ratites. Les Moas se nourrissent d'un certain nombre d'espèces et de parties de plantes, y compris des brindilles et des feuilles fibreuses prélevées sur des arbres bas et des arbustes.\n\n&lt;color=#33d733&gt;Etat de conservation:&lt;/color&gt; Récemment éteint. Le moa était l'herbivore dominant en Nouvelle-Zélande avant l'arrivée des humains. Les Polynésiens sont arrivés quelque temps avant 1300, et tous les genres de moa ont rapidement disparu par la chasse et, dans une moindre mesure, par la réduction de l'habitat due au défrichement. En 1445, tous les moa étaient éteints.</AEXP_Moa.description>
+  <!-- EN: claws -->
+  <AEXP_Moa.tools.claws.label>griffe</AEXP_Moa.tools.claws.label>
+  <!-- EN: beak -->
+  <AEXP_Moa.tools.beak.label>bec</AEXP_Moa.tools.beak.label>
+  <!-- EN: head -->
+  <AEXP_Moa.tools.head.label>tête</AEXP_Moa.tools.head.label>
+
+  <Corpse_AEXP_Moa.label>cadavre de moa</Corpse_AEXP_Moa.label>
+  <Corpse_AEXP_Moa.description>Le corps sans vie d'un moa.</Corpse_AEXP_Moa.description>
+
+  <!-- EN: giant panda -->
+  <AEXP_Panda.label>panda</AEXP_Panda.label>
+  <!-- EN: The panda, with its distinctive and luxuriant black and white fur, is a herviborous bear adapted to life in bamboo forests. The average giant panda eats as much as 9 to 14 kg of bamboo shoots a day to compensate for the limited energy content of its diet. Pandas are generally less agressive than other bear species.\n\n&lt;color=#33d733&gt;Real World Conservation Status:&lt;/color&gt; Vulnerable. Recently upgraded from endangered status (as of 2020), wild panda numbers are finally rebounding after years of decline. Habitat loss is their main threat. -->
+  <AEXP_Panda.description>Le panda, avec sa fourrure noire et blanche luxuriante caractéristique, est un ours herbivore adapté à la vie dans les forêts de bambous. Le panda géant mange en moyenne 9 à 14 kg de pousses de bambou par jour pour compenser le contenu énergétique limité de son alimentation. Les pandas sont généralement moins agressifs que les autres espèces d'ours.\n\n&lt;color=#33d733&gt;Etat de conservation:&lt;/color&gt; Vulnérable. Le nombre de pandas sauvages, récemment mis en danger (à partir de 2020), il se rétablit après des années de déclin. La perte d'habitat est leur principale menace.</AEXP_Panda.description>
+  <!-- EN: left claw -->
+  <AEXP_Panda.tools.left_claw.label>patte gauche</AEXP_Panda.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_Panda.tools.right_claw.label>patte droite</AEXP_Panda.tools.right_claw.label>
+  <!-- EN: head -->
+  <AEXP_Panda.tools.head.label>tête</AEXP_Panda.tools.head.label>
+
+  <Corpse_AEXP_Panda.label>cadavre de panda</Corpse_AEXP_Panda.label>
+  <Corpse_AEXP_Panda.description>Le corps sans vie d'un panda.</Corpse_AEXP_Panda.description>
+
+  <!-- EN: quagga -->
+  <AEXP_Quagga.label>quagga</AEXP_Quagga.label>
+  <!-- EN: The quagga is a subspecies of the plains zebra. It is distinguished from other zebras by its limited pattern of primarily brown and white stripes, mainly on the front part of the body. The rear is brown and without stripes, and appears more horse-like.\n\n&lt;color=#33d733&gt;Real World Conservation Status:&lt;/color&gt; Recently Extinct. Quaggas became extinct late in the 19th century due to overhunting by Afrikaners. The Quagga Project was started in 1987 in South Africa to create a quagga-like zebra population by selectively breeding for a reduced stripe pattern from plains zebra stock, with the eventual aim of introducing them to the quagga's former range. -->
+  <AEXP_Quagga.description>Le quagga est une sous-espèce du zèbre des plaines. Il se distingue des autres zèbres par son motif limité de rayures principalement brunes et blanches, en particulier sur le devant du corps.  Le dos est marron et sans rayures et ressemble plus à un cheval.\n\n&lt;color=#33d733&gt;Etat de conservation:&lt;/color&gt;Récemment éteint. Les quaggas ont disparu à la fin du 19e siècle en raison de la chasse excessive des Afrikaners. Le projet Quagga a été lancé en 1987 en Afrique du Sud pour créer une population de zèbres ressemblant à des quaggas à travers l'élevage sélectif de zèbres de plaine avec un motif de rayures réduit, dans le but ultime de les introduire dans l'ancienne zone où vivaient autrefois les quaggas.</AEXP_Quagga.description>
+  <!-- EN: head -->
+  <AEXP_Quagga.tools.head.label>tête</AEXP_Quagga.tools.head.label>
+  <!-- EN: left hoof -->
+  <AEXP_Quagga.tools.left_hoof.label>sabot gauche</AEXP_Quagga.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <AEXP_Quagga.tools.right_hoof.label>sabot droit</AEXP_Quagga.tools.right_hoof.label>
+
+  <Corpse_AEXP_Quagga.label>cadavre de quagga</Corpse_AEXP_Quagga.label>
+  <Corpse_AEXP_Quagga.description>Le corps sans vie d'un quagga.</Corpse_AEXP_Quagga.description>
+
+  <!-- EN: rockhopper penguin -->
+  <AEXP_RockhopperPenguin.label>gorfou sauteur</AEXP_RockhopperPenguin.label>
+  <!-- EN: Much smaller in size than the emperor penguin, rockhopper penguins weigh less than 10 pounds. They were named for their distinctive hopping movements over the rocky hills and cliffs where they live and breed.\n\n&lt;color=#33d733&gt;Real World Conservation Status:&lt;/color&gt; Vulnerable. In the last 30 years, it is estimated that the population of rockhoppers has fallen by nearly 25%—and now climate change could place them at even greater risk. -->
+  <AEXP_RockhopperPenguin.description>Bien plus petit que le manchot empereur, le manchot sauterelle pèse moins de 3 kilos. Ils tirent leur nom de leurs mouvements de saut caractéristiques sur les collines et les falaises où ils vivent et se reproduisent.\n\n&lt;color=#33d733&gt;Etat de conservation:&lt;/color&gt; Vulnérable. Au cours des 30 dernières années, on estime que la population de sauterelles a diminué de près de 25%, et maintenant le changement climatique pourrait les exposer à un risque encore plus grand</AEXP_RockhopperPenguin.description>
+  <!-- EN: claws -->
+  <AEXP_RockhopperPenguin.tools.claws.label>griffes</AEXP_RockhopperPenguin.tools.claws.label>
+  <!-- EN: beak -->
+  <AEXP_RockhopperPenguin.tools.beak.label>bec</AEXP_RockhopperPenguin.tools.beak.label>
+  <!-- EN: head -->
+  <AEXP_RockhopperPenguin.tools.head.label>tête</AEXP_RockhopperPenguin.tools.head.label>
+
+  <Corpse_AEXP_RockhopperPenguin.label>cadavre de gorfou sauteur</Corpse_AEXP_RockhopperPenguin.label>
+  <Corpse_AEXP_RockhopperPenguin.description>Le corps sans vie d'un gorfou sauteur.</Corpse_AEXP_RockhopperPenguin.description>
+
+  <!-- EN: tasmanian devil -->
+  <AEXP_TasmanianDevil.label>diable de tasmanie</AEXP_TasmanianDevil.label>
+  <!-- EN: A carnivorous marsupial characterised by its stocky and muscular build, black fur, pungent odour, extremely loud and disturbing screech, keen sense of smell, and ferocity when feeding.\n\n&lt;color=#33d733&gt;Real World Conservation Status:&lt;/color&gt; Endangered. Experts estimate that the devil has suffered a more than 80% decline in its population since the mid-1990s. It is estimated that fewer than 25,000 Tasmanian devils still live in the wild. -->
+  <AEXP_TasmanianDevil.description>Un marsupial carnivore caractérisé par sa corpulence trapue et musclée, sa fourrure noire, son odeur piquante, son hurlement extrêmement fort et obsédant, leur sens aigu de l'odorat et leur férocité lorsqu'ils se nourrissent.\n\n&lt;color=#33d733&gt;Etat de conservation:&lt;/color&gt;En danger. Les experts estiment que le diable de Tasmanie a subi une diminution de plus de 80% de sa population depuis le milieu des années 1990. On estime que moins de 25000 diables de Tasmanie vivent encore à l'état sauvage.</AEXP_TasmanianDevil.description>
+  <!-- EN: left claw -->
+  <AEXP_TasmanianDevil.tools.left_claw.label>patte gauche</AEXP_TasmanianDevil.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_TasmanianDevil.tools.right_claw.label>patte droite</AEXP_TasmanianDevil.tools.right_claw.label>
+  <!-- EN: head -->
+  <AEXP_TasmanianDevil.tools.head.label>tête</AEXP_TasmanianDevil.tools.head.label>
+
+  <Corpse_AEXP_TasmanianDevil.label>cadavre de Diable de tasmanie</Corpse_AEXP_TasmanianDevil.label>
+  <Corpse_AEXP_TasmanianDevil.description>Le corps sans vie d'un Diable de tasmanie.</Corpse_AEXP_TasmanianDevil.description>
+  <Meat_AEXP_TasmanianDevil.label>viande de Diable de tasmanie</Meat_AEXP_TasmanianDevil.label>
+  <Meat_AEXP_TasmanianDevil.description>Viande crue dépecée. Peut être cuit ou consommé cru.</Meat_AEXP_TasmanianDevil.description>
+
+  <!-- EN: thylacine -->
+  <AEXP_Thylacine.label>loup marsupial</AEXP_Thylacine.label>
+  <!-- EN: Commonly known as the Tasmanian tiger because of its striped lower back, the Thylacine is a shy and nocturnal carnivorous predator, with the general appearance of a medium-to-large-size dog, except for its stiff tail and abdominal pouch similar to a kangaroo's.\n\n&lt;color=#33d733&gt;Real World Conservation Status:&lt;/color&gt; Recently Extinct. The last known thylacine died from exposure at the Beaumaris Zoo in Hobart in 1936. While it is estimated there were around 5000 thylacines in Tasmania at the time of European settlement, excessive hunting, combined with factors such as habitat destruction and introduced disease, led to the rapid extinction of the species. -->
+  <AEXP_Thylacine.description>Communément appelé tigre de Tasmanie pour son bas du dos rayé, le thylacine est un prédateur carnivore timide et nocturne, avec l'apparence générale d'un chien de taille moyenne à grande, sauf pour sa queue raide et sa poche abdominale en forme de kangourou.\n\n&lt;color=#33d733&gt;Etat de conservation:&lt;/color&gt; Récemment éteint. Le dernier thylacine connu est mort d'une exposition au zoo de Beaumaris (Hobart) en 1936. Bien que l'on estime qu'il y avait quelque 5 000 thylacines en Tasmanie au moment de la colonisation européenne, la chasse excessive, combinée à des facteurs tels que la destruction de l'habitat et l'introduction de maladies, a conduit à l'extinction rapide de l'espèce.</AEXP_Thylacine.description>
+  <!-- EN: left claw -->
+  <AEXP_Thylacine.tools.left_claw.label>patte gauche</AEXP_Thylacine.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_Thylacine.tools.right_claw.label>patte droite</AEXP_Thylacine.tools.right_claw.label>
+  <!-- EN: head -->
+  <AEXP_Thylacine.tools.head.label>tête</AEXP_Thylacine.tools.head.label>
+
+  <Corpse_AEXP_Thylacine.label>cadavre de loup marsupial</Corpse_AEXP_Thylacine.label>
+  <Corpse_AEXP_Thylacine.description>Le corps sans vie d'un loup marsupial.</Corpse_AEXP_Thylacine.description>
+  <Meat_AEXP_Thylacine.label>viande de loup marsupial</Meat_AEXP_Thylacine.label>
+  <Meat_AEXP_Thylacine.description>Viande crue dépecée. Peut être cuit ou consommé cru.</Meat_AEXP_Thylacine.description>
+
+  <!-- EN: african wild dog -->
+  <AEXP_AfricanWildDog.label>chien sauvage africain</AEXP_AfricanWildDog.label>
+  <!-- EN: A large canine, distinguished from dogs and wolves by dentition highly specialised for a hypercarnivorous diet, and a lack of dewclaws. The African wild dog is a highly social animal, living in packs. Like most wild canines, they prefer to stay as far away from humans as possible.\n\n&lt;color=#33d733&gt;Real World Conservation Status:&lt;/color&gt; Endangered. The African wild dog is primarily threatened by habitat fragmentation, which results in human–wildlife conflict, transmission of infectious diseases and high mortality rates. It is estimated that about 6,600 adults survive as of 2020. -->
+  <AEXP_AfricanWildDog.description>Un grand canidé, qui se distingue des chiens et des loups par sa dentition hautement spécialisée pour un régime hypercarnivore, et par l'absence de ergots. Le chien sauvage africain est un animal très social qui vit en meute. Comme la plupart des canidés sauvages, il préfère rester aussi loin que possible des humains.\n\n&lt;color=#33d733&gt;Etat de conservation:&lt;/color&gt; En danger. Le chien sauvage d'Afrique est surtout menacé par la fragmentation de son habitat, qui provoque des conflits entre l'homme et la faune, la transmission de maladies infectieuses et un taux de mortalité élevé. On estime que 6600 adultes survivront en 2020.</AEXP_AfricanWildDog.description>
+  <!-- EN: left claw -->
+  <AEXP_AfricanWildDog.tools.left_claw.label>patte gauche</AEXP_AfricanWildDog.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_AfricanWildDog.tools.right_claw.label>patte droite</AEXP_AfricanWildDog.tools.right_claw.label>
+  <!-- EN: head -->
+  <AEXP_AfricanWildDog.tools.head.label>tête</AEXP_AfricanWildDog.tools.head.label>
+
+  <Corpse_AEXP_AfricanWildDog.label>cadavre de chien sauvage africain</Corpse_AEXP_AfricanWildDog.label>
+  <Corpse_AEXP_AfricanWildDog.description>Le corps sans vie d'un chien sauvage africain.</Corpse_AEXP_AfricanWildDog.description>
+
+  <!-- EN: giant pangolin -->
+  <AEXP_Pangolin.label>pangolin</AEXP_Pangolin.label>
+  <!-- EN: Sometimes known as scaly anteaters, pangolins are mammals with large, protective keratin scales covering their skin. Pangolins are nocturnal, and their diet consists of mainly ants and termites, which they capture using their long tongues. They tend to be solitary animals, meeting only to mate.\n\n&lt;color=#33d733&gt;Real World Conservation Status:&lt;/color&gt; Endangered. The giant pangolin is threatened by habitat destruction and deforestation, and hunting for the bushmeat trade. Pangolins have become the most heavily trafficked wild mammal in the world. -->
+  <AEXP_Pangolin.description>Parfois connus sous le nom de fourmiliers squameux, les pangolins sont des mammifères dotés de grandes écailles de kératine protectrices qui recouvrent leur peau. Les pangolins sont nocturnes et leur alimentation se compose principalement de fourmis et de termites, qu'ils capturent avec leurs longues langues. Ce sont généralement des animaux solitaires qui ne se réunissent que pour s'accoupler.\n\n&lt;color=#33d733&gt;Etat de conservation:&lt;/color&gt; En danger. Le pangolin géant est menacé par la destruction de son habitat et la déforestation, ainsi que par la chasse pour le commerce des aliments pour animaux sauvages. Le pangolin est devenu le mammifère sauvage le plus victime de la traite au monde.</AEXP_Pangolin.description>
+  <!-- EN: left claw -->
+  <AEXP_Pangolin.tools.left_claw.label>patte gauche</AEXP_Pangolin.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <AEXP_Pangolin.tools.right_claw.label>patte droite</AEXP_Pangolin.tools.right_claw.label>
+  <!-- EN: head -->
+  <AEXP_Pangolin.tools.head.label>tête</AEXP_Pangolin.tools.head.label>
+
+  <Corpse_AEXP_Gorilla.label>cadavre de pangolin</Corpse_AEXP_Gorilla.label>
+  <Corpse_AEXP_Gorilla.description>Le corps sans vie d'un pangolin.</Corpse_AEXP_Gorilla.description>
+  <Meat_AEXP_Gorilla.label>viande de pangolin</Meat_AEXP_Gorilla.label>
+  <Meat_AEXP_Gorilla.description>Viande crue dépecée. Peut être cuit ou consommé cru.</Meat_AEXP_Gorilla.description>
+
+
+</LanguageData>

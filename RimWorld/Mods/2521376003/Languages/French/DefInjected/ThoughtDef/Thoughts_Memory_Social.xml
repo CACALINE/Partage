@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR vanilla social interactions expanded.-->
+  <VSIE_SharingBurden.stages.0.label>Partager son fardeau</VSIE_SharingBurden.stages.0.label>
+  <VSIE_SharingBurden.stages.0.description>Ça faisait du bien de partager enfin mes sentiments avec un ami.</VSIE_SharingBurden.stages.0.description>
+
+  <VSIE_VentedOnMe.stages.0.label>A écouté son ami</VSIE_VentedOnMe.stages.0.label>
+  <VSIE_VentedOnMe.stages.0.description>Mon ami m'a confié ses pensées.</VSIE_VentedOnMe.stages.0.description>
+
+  <VSIE_JealouslyMyPartnerDatedSomeoneElse.stages.0.label>Jaloux</VSIE_JealouslyMyPartnerDatedSomeoneElse.stages.0.label>
+  <VSIE_JealouslyMyPartnerDatedSomeoneElse.stages.0.description>Je suis jaloux. Mon partenaire a eu un rendez-vous avec quelqu'un d'autre!</VSIE_JealouslyMyPartnerDatedSomeoneElse.stages.0.description>
+
+  <VSIE_SocialEnvironment.stages.0.label>Bonne réputation</VSIE_SocialEnvironment.stages.0.label>
+  <VSIE_SocialEnvironment.stages.0.description>Je suis aimé et respecté ici. Ces gens ont besoin de moi.</VSIE_SocialEnvironment.stages.0.description>
+  <VSIE_SocialEnvironment.stages.1.label>Mauvaise réputation</VSIE_SocialEnvironment.stages.1.label>
+  <VSIE_SocialEnvironment.stages.1.description>Je ne m'amuse pas ici. Personne ne semble me respecter!</VSIE_SocialEnvironment.stages.1.description>
+
+
+</LanguageData>

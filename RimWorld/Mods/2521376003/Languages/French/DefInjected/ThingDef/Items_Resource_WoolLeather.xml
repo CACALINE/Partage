@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+<!--<Traduction FR Tous les vanilla animals expanded.-->
+  <!-- Tundra -->
+  <!-- musk ox wool -->
+  <AEXP_MuskOxWool.label>laine de boeuf musqué</AEXP_MuskOxWool.label>
+  <!-- The inner wool of the muskox, originally known in Inuktitut as Qiviuq. Stronger and warmer than sheep's wool, and softer than cashmere wool. -->
+  <AEXP_MuskOxWool.description>La laine intérieure du boeuf musqué, connue à l'origine en inuktitut sous le nom de Qiviuq. Plus solide et plus chaud que la laine de mouton et plus doux que la laine de cachemire.</AEXP_MuskOxWool.description>
+  <!-- musk ox wool -->
+  <AEXP_MuskOxWool.stuffProps.stuffAdjective>laine de boeuf musqué</AEXP_MuskOxWool.stuffProps.stuffAdjective>
+
+  <!-- Tropical Rain Forest -->
+  <!-- tiger leather -->
+  <AEXP_Leather_Tiger.label>cuir de tigre</AEXP_Leather_Tiger.label>
+  <!-- Tigers were often the target of poachers in old Earth due to their luxurious pelts, a fact that almost drove them to extinction. With the near lawlessness of the Rim, tiger leather is seen as another exotic commodity to trade between settlements. -->
+  <AEXP_Leather_Tiger.description>Les tigres étaient souvent la cible des braconniers sur la Terre ancienne en raison de leur fourrure luxueuse, un fait qui a presque conduit à leur extinction. Avec la structure presque anarchique des planètes du bord, le cuir de tigre est considéré simplement comme un autre produit exotique à échanger entre colonies.</AEXP_Leather_Tiger.description>
+  <!-- tiger leather -->
+  <AEXP_Leather_Tiger.stuffProps.stuffAdjective>cuir de tigre</AEXP_Leather_Tiger.stuffProps.stuffAdjective>
+
+  <!-- Ice Sheet -->
+  <!-- pinniped leather -->
+  <AEXP_Leather_Pinniped.label>cuir de pinnipède</AEXP_Leather_Pinniped.label>
+  <!-- Tanned and dried leather from a Pinniped. It is of average strength but insulates well against heat. -->
+  <AEXP_Leather_Pinniped.description>Cuir tanné et séché d'un pinnipède. Il est de résistance moyenne mais isole bien contre la chaleur.</AEXP_Leather_Pinniped.description>
+  <!-- pinniped leather -->
+  <AEXP_Leather_Tiger.stuffProps.stuffAdjective>cuir de pinnipède</AEXP_Leather_Tiger.stuffProps.stuffAdjective>
+
+  <!-- Desert -->
+  <!-- lion pelt -->
+  <AEXP_Leather_Lion.label>fourrure de lion</AEXP_Leather_Lion.label>
+  <!-- A strong, luxurious leather of the leader of the animal kingdom. Often sought after by urbworld philanthropists. -->
+  <AEXP_Leather_Lion.description>Un cuir solide et luxueux du chef du règne animal. Souvent recherché par les philanthropes d'urbworld.</AEXP_Leather_Lion.description>
+  <!-- lion pelt -->
+  <AEXP_Leather_Lion.stuffProps.stuffAdjective>fourrure de lion</AEXP_Leather_Lion.stuffProps.stuffAdjective>
+
+  <!-- Australia-->
+  <!-- platypus leather -->
+  <AEXP_Leather_Platypus.label>cuir d'ornithorynque</AEXP_Leather_Platypus.label>
+  <!-- Platypus fur was considered a valuable commodity in the days of old Terra, a fact that almost drove the Platypus to extinction. Luckily, the animal was protected and thrived again. -->
+  <AEXP_Leather_Platypus.description>La fourrure d'ornithorynque était considérée comme une denrée précieuse à l'époque de l'ancienne Terre, un fait qui a presque conduit l'ornithorynque à l'extinction. Heureusement, l'animal a été protégé et a prospéré à nouveau.</AEXP_Leather_Platypus.description>
+  <!-- platypus leather -->
+  <AEXP_Leather_Platypus.stuffProps.stuffAdjective>cuir d'ornithorynque</AEXP_Leather_Platypus.stuffProps.stuffAdjective>
+
+  <!-- AridShrubland-->
+  <!-- hippopotamus leather -->
+  <AEXP_Leather_Hippopotamus.label>cuir d'hippopotame</AEXP_Leather_Hippopotamus.label>
+  <!-- A thick leather of a hippopotamus. Not only it's extremely durable, but it also provides considerable heat insulation. -->
+  <AEXP_Leather_Hippopotamus.description>Un cuir épais d'hippopotame. Non seulement il est extrêmement durable, mais il fournit également une isolation thermique considérable.</AEXP_Leather_Hippopotamus.description>
+  <!-- hippopotamus leather -->
+  <AEXP_Leather_Hippopotamus.stuffProps.stuffAdjective>cuir d'hippopotame</AEXP_Leather_Hippopotamus.stuffProps.stuffAdjective>
+
+  <!-- wildebeest pelt -->
+  <AEXP_Leather_Wildebeest.label>cuir de gnou</AEXP_Leather_Wildebeest.label>
+  <!-- A thick but crumbly wildebeest fur and leather. Whilst it provides some degree of damage protection, the overall longevity of the item decreases. -->
+  <AEXP_Leather_Wildebeest.description>Le cuir épais mais friable d'un gnou. Bien qu'il offre un certain degré de protection contre les dommages, la longévité globale de l'objet diminue.</AEXP_Leather_Wildebeest.description>
+  <!-- wildebeest pelt -->
+  <AEXP_Leather_Wildebeest.stuffProps.stuffAdjective>cuir de gnou</AEXP_Leather_Wildebeest.stuffProps.stuffAdjective>
+
+  <!-- Extreme Desert-->
+  <!-- camel wool -->
+  <WoolCamel.label>laine de chameau</WoolCamel.label>
+  <!-- Camel's wool. It provides good insulation from heat. -->
+  <WoolCamel.description>Laine de chameau. Fournit une bonne isolation thermique.</WoolCamel.description>
+  <!-- camel wool -->
+  <WoolCamel.stuffProps.stuffAdjective>laine de chameau</WoolCamel.stuffProps.stuffAdjective>
+
+</LanguageData>

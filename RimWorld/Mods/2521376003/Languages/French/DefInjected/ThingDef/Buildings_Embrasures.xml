@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--Traduction FR 021 Seamless Embrasures-->
+	<O21_Embrasure_Letterbox.label>Embrasure (fente)</O21_Embrasure_Letterbox.label>
+	<O21_Embrasure_Letterbox.description>Une embrasure infranchissable. Capable de retenir un toit, les armes peuvent être tirées à travers.</O21_Embrasure_Letterbox.description>
+	
+	<O21_Embrasure_Hole.label>Embrasure (trou)</O21_Embrasure_Hole.label>
+	<O21_Embrasure_Hole.description>Une embrasure infranchissable. Capable de retenir un toit, les armes peuvent être tirées à travers.</O21_Embrasure_Hole.description>
+</LanguageData>

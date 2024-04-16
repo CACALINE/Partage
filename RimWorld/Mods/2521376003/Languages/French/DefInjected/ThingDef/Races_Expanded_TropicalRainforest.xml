@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+<!--<Traduction FR Tous les vanilla animals expanded.-->
+  <!-- gorilla -->
+  <AEXP_Gorilla.label>gorille</AEXP_Gorilla.label>
+  <!-- These ground-dwelling herbivorous apes are the largest living primates, and they are the next closest living relatives to humans after the chimpanzees and bonobos. Like all the great apes, the arms of the gorilla are longer than its legs. Gorillas are usually surprisingly shy, though they may show aggression by beating their chests and charging if their social group is threatened. -->
+  <AEXP_Gorilla.description>Ces singes herbivores terrestres sont les plus grands primates et les plus proches des humains, après les chimpanzés et les bonobos. Comme tous les grands singes, les bras du gorille sont plus longs que ses pattes. Alors que les gorilles sont normalement étonnamment timides, ils peuvent montrer de l'agressivité, se battre dans la poitrine et se charger, si leur groupe social est menacé.</AEXP_Gorilla.description>
+  <!-- left fist -->
+  <AEXP_Gorilla.tools.left_fist.label>poing gauche</AEXP_Gorilla.tools.left_fist.label>
+  <!-- right fist -->
+  <AEXP_Gorilla.tools.right_fist.label>poing droit</AEXP_Gorilla.tools.right_fist.label>
+  <!-- head -->
+  <AEXP_Gorilla.tools.head.label>tête</AEXP_Gorilla.tools.head.label>
+
+  <Corpse_AEXP_Gorilla.label>cadavre de gorille</Corpse_AEXP_Gorilla.label>
+  <Corpse_AEXP_Gorilla.description>Le corps sans vie d'un gorille.</Corpse_AEXP_Gorilla.description>
+  <AEXP_Gorilla.race.meatLabel>viande de primate</AEXP_Gorilla.race.meatLabel>
+
+  <!-- jaguar -->
+  <AEXP_Jaguar.label>jaguar</AEXP_Jaguar.label>
+  <!-- A large felid species and the only existing member of the Panthera native to the Americas in old Earth. This spotted cat closely resembles the leopard, but is usually larger and sturdier. The jaguar enjoys swimming and is largely a solitary, opportunistic, stalk-and-ambush predator at the top of the food chain. -->
+  <AEXP_Jaguar.description>Une grande espèce de félidés, et le seul membre du genre Panthera originaire des Amériques de la Terre ancienne. Ce chat tacheté ressemble au léopard, mais est généralement plus gros et plus robuste. Les jaguars aiment nager et sont en grande partie des prédateurs haut de gamme, solitaires et opportunistes, traquant et monopolisant leurs proies.</AEXP_Jaguar.description>
+  <!-- left claw -->
+  <AEXP_Jaguar.tools.left_claw.label>griffe gauche</AEXP_Jaguar.tools.left_claw.label>
+  <!-- right claw -->
+  <AEXP_Jaguar.tools.right_claw.label>griffe droit</AEXP_Jaguar.tools.right_claw.label>
+  <!-- head -->
+  <AEXP_Jaguar.tools.head.label>tête</AEXP_Jaguar.tools.head.label>
+
+  <Corpse_AEXP_Jaguar.label>cadavre de jaguar</Corpse_AEXP_Jaguar.label>
+  <Corpse_AEXP_Jaguar.description>Le corps sans vie d'un jaguar.</Corpse_AEXP_Jaguar.description>
+  <Meat_AEXP_Jaguar.label>viande de jaguar</Meat_AEXP_Jaguar.label>
+  <Meat_AEXP_Jaguar.description>viande crue coupée en quartiers. Peut être cuit ou consommé cru.</Meat_AEXP_Jaguar.description>
+
+  <!-- lemur -->
+  <AEXP_Lemur.label>lémurien</AEXP_Lemur.label>
+  <!-- A small primate, lemurs are arboreal, and usually nocturnal. They have a pointed snout, large eyes, and a long tail. Although they are social creatures, they have traditionally been regarded as being less intelligent than other primates, since they don't exhibit behaviours of tool use in the wild. -->
+  <AEXP_Lemur.description>Petits primates, les lémuriens sont arboricoles et généralement nocturnes. Ils ont un museau pointu, de grands yeux et une longue queue. Bien qu'ils soient des créatures sociales, ils ont traditionnellement été considérés comme moins intelligents que les autres primates, ne présentant aucun comportement d'utilisation d'outils dans la nature.</AEXP_Lemur.description>
+  <!-- left fist -->
+  <AEXP_Lemur.tools.left_fist.label>poing gauche</AEXP_Lemur.tools.left_fist.label>
+  <!-- right fist -->
+  <AEXP_Lemur.tools.right_fist.label>poing droit</AEXP_Lemur.tools.right_fist.label>
+  <!-- head -->
+  <AEXP_Lemur.tools.head.label>tête</AEXP_Lemur.tools.head.label>
+
+  <Corpse_AEXP_Lemur.label>cadavre de lémurien</Corpse_AEXP_Lemur.label>
+  <Corpse_AEXP_Lemur.description>Le corps sans vie d'un lémurien.</Corpse_AEXP_Lemur.description>
+ 
+  <!-- mandrill -->
+  <AEXP_Mandrill.label>mandrill</AEXP_Mandrill.label>
+  <!-- Mandrills are one of the largest of all monkeys. They are shy and reclusive primates that live only in rain forests. Mandrills are extremely colorful, perhaps more so than any other mammal. They are easily identifiable by the blue and red skin on their faces and their brightly hued rumps. -->
+  <AEXP_Mandrill.description>Les mandrills sont l'un des plus grands singes. Ce sont des primates timides et reclus qui vivent seuls dans la jungle. Les babouins sont extrêmement colorés, peut-être plus que tout autre mammifère. Ils sont facilement identifiables par leur peau rouge et le bleu de leurs visages, et leurs croupes aux couleurs vives.</AEXP_Mandrill.description>
+  <!-- left fist -->
+  <AEXP_Mandrill.tools.left_fist.label>poing gauche</AEXP_Mandrill.tools.left_fist.label>
+  <!-- right fist -->
+  <AEXP_Mandrill.tools.right_fist.label>poing droit</AEXP_Mandrill.tools.right_fist.label>
+  <!-- head -->
+  <AEXP_Mandrill.tools.head.label>tête</AEXP_Mandrill.tools.head.label>
+
+  <Corpse_AEXP_Mandrill.label>cadavre de mandrill</Corpse_AEXP_Mandrill.label>
+  <Corpse_AEXP_Mandrill.description>Le corps sans vie d'un mandrill.</Corpse_AEXP_Mandrill.description>
+
+  <!-- tapir -->
+  <AEXP_Tapir.label>tapir</AEXP_Tapir.label>
+  <!-- A large, herbivorous mammal, similar in shape to a pig, with a short nose trunk, tapirs inhabit jungle and forest regions. -->
+  <AEXP_Tapir.description>Grand mammifère herbivore, en forme de cochon, avec un petit nez de trompe. Les tapirs habitent les jungles et les régions boisées.</AEXP_Tapir.description>
+  <!-- head -->
+  <AEXP_Tapir.tools.head.label>tête</AEXP_Tapir.tools.head.label>
+
+  <Corpse_AEXP_Tapir.label>cadavre de tapir</Corpse_AEXP_Tapir.label>
+  <Corpse_AEXP_Tapir.description>Le corps sans vie d'un tapir.</Corpse_AEXP_Tapir.description>
+
+  <!-- tiger -->
+  <AEXP_Tiger.label>tigre</AEXP_Tiger.label>
+  <!-- The tiger is the largest species among the big cats. It is most recognisable for its dark vertical stripes on reddish-orange fur with a lighter underside. It is an apex predator, territorial and generally solitary. In the wild, tigers mostly feed on large and medium-sized mammals. -->
+  <AEXP_Tiger.description>Le tigre est la plus grande espèce parmi les grands félins. Il est surtout connu pour ses rayures verticales sombres sur son pelage rouge-orange, avec un ventre blanchâtre. C'est un super prédateur, territorial et généralement solitaire. Dans la nature, les tigres se nourrissent principalement de mammifères de taille moyenne et grande.</AEXP_Tiger.description>
+  <!-- left claw -->
+  <AEXP_Tiger.tools.left_claw.label>griffe gauche</AEXP_Tiger.tools.left_claw.label>
+  <!-- right claw -->
+  <AEXP_Tiger.tools.right_claw.label>griffe droit</AEXP_Tiger.tools.right_claw.label>
+  <!-- head -->
+  <AEXP_Tiger.tools.head.label>tête</AEXP_Tiger.tools.head.label>
+
+  <Corpse_AEXP_Tiger.label>cadavre de tigre</Corpse_AEXP_Tiger.label>
+  <Corpse_AEXP_Tiger.description>Le corps sans vie d'un tigre.</Corpse_AEXP_Tiger.description>
+  <Meat_AEXP_Tiger.label>viande de tigre</Meat_AEXP_Tiger.label>
+  <Meat_AEXP_Tiger.description>viande crue coupée en quartiers. Peut être cuit ou consommé cru.</Meat_AEXP_Tiger.description>
+
+</LanguageData>

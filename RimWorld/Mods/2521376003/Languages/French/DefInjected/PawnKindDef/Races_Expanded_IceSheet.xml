@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Tous les vanilla animals expanded.-->
+  <!-- Penguin -->
+
+  <!-- penguin -->
+  <AEXP_Penguin.label>manchot</AEXP_Penguin.label>
+  <!-- penguins -->
+  <AEXP_Penguin.labelPlural>manchots</AEXP_Penguin.labelPlural>
+  <!-- penguin -->
+  <AEXP_Penguin.lifeStages.0.label>poussin manchot</AEXP_Penguin.lifeStages.0.label>
+  <!-- penguins -->
+  <AEXP_Penguin.lifeStages.0.labelPlural>poussins manchot</AEXP_Penguin.lifeStages.0.labelPlural>
+  <!-- penguin -->
+  <AEXP_Penguin.lifeStages.0.labelMale>poussin manchot</AEXP_Penguin.lifeStages.0.labelMale>
+  <!-- penguins -->
+  <AEXP_Penguin.lifeStages.0.labelMalePlural>poussins manchot</AEXP_Penguin.lifeStages.0.labelMalePlural>
+  <!-- penguin -->
+  <AEXP_Penguin.lifeStages.0.labelFemale>poussin manchot</AEXP_Penguin.lifeStages.0.labelFemale>
+  <!-- penguins -->
+  <AEXP_Penguin.lifeStages.0.labelFemalePlural>poussins manchot</AEXP_Penguin.lifeStages.0.labelFemalePlural>
+  <!-- penguin -->
+  <AEXP_Penguin.lifeStages.1.label>manchot</AEXP_Penguin.lifeStages.1.label>
+  <!-- penguins -->
+  <AEXP_Penguin.lifeStages.1.labelPlural>manchots</AEXP_Penguin.lifeStages.1.labelPlural>
+  <!-- penguin -->
+  <AEXP_Penguin.lifeStages.1.labelMale>manchot</AEXP_Penguin.lifeStages.1.labelMale>
+  <!-- penguins -->
+  <AEXP_Penguin.lifeStages.1.labelMalePlural>manchots</AEXP_Penguin.lifeStages.1.labelMalePlural>
+  <!-- penguin -->
+  <AEXP_Penguin.lifeStages.1.labelFemale>manchot</AEXP_Penguin.lifeStages.1.labelFemale>
+  <!-- penguins -->
+  <AEXP_Penguin.lifeStages.1.labelFemalePlural>manchots</AEXP_Penguin.lifeStages.1.labelFemalePlural>
+  <!-- penguin -->
+  <AEXP_Penguin.lifeStages.2.label>manchot</AEXP_Penguin.lifeStages.2.label>
+  <!-- penguins -->
+  <AEXP_Penguin.lifeStages.2.labelPlural>manchots</AEXP_Penguin.lifeStages.2.labelPlural>
+  <!-- penguin -->
+  <AEXP_Penguin.lifeStages.2.labelMale>manchot</AEXP_Penguin.lifeStages.2.labelMale>
+  <!-- penguins -->
+  <AEXP_Penguin.lifeStages.2.labelMalePlural>manchots</AEXP_Penguin.lifeStages.2.labelMalePlural>
+  <!-- penguin -->
+  <AEXP_Penguin.lifeStages.2.labelFemale>manchot</AEXP_Penguin.lifeStages.2.labelFemale>
+  <!-- penguins -->
+  <AEXP_Penguin.lifeStages.2.labelFemalePlural>manchots</AEXP_Penguin.lifeStages.2.labelFemalePlural>
+  <!-- penguin -->
+  <AEXP_Penguin.labelMale>manchot</AEXP_Penguin.labelMale>
+  <!-- penguins -->
+  <AEXP_Penguin.labelMalePlural>manchots</AEXP_Penguin.labelMalePlural>
+  <!-- penguin -->
+  <AEXP_Penguin.labelFemale>manchot</AEXP_Penguin.labelFemale>
+  <!-- penguins -->
+  <AEXP_Penguin.labelFemalePlural>manchots</AEXP_Penguin.labelFemalePlural>
+
+
+  <!-- Seal -->
+
+  <!-- seal -->
+  <AEXP_Seal.label>phoque</AEXP_Seal.label>
+  <!-- seals -->
+  <AEXP_Seal.labelPlural>phoques</AEXP_Seal.labelPlural>
+  <!-- seal -->
+  <AEXP_Seal.lifeStages.0.label>bébé phoque</AEXP_Seal.lifeStages.0.label>
+  <!-- seal -->
+  <AEXP_Seal.lifeStages.0.labelPlural>bébés phoques</AEXP_Seal.lifeStages.0.labelPlural>
+  <!-- seal -->
+  <AEXP_Seal.lifeStages.0.labelMale>bébé phoque</AEXP_Seal.lifeStages.0.labelMale>
+  <!-- seals -->
+  <AEXP_Seal.lifeStages.0.labelMalePlural>bébés phoques</AEXP_Seal.lifeStages.0.labelMalePlural>
+  <!-- seal -->
+  <AEXP_Seal.lifeStages.0.labelFemale>bébé phoque</AEXP_Seal.lifeStages.0.labelFemale>
+  <!-- seals -->
+  <AEXP_Seal.lifeStages.0.labelFemalePlural>bébés phoques</AEXP_Seal.lifeStages.0.labelFemalePlural>
+  <!-- seal -->
+  <AEXP_Seal.lifeStages.1.label>phoque</AEXP_Seal.lifeStages.1.label>
+  <!-- seal -->
+  <AEXP_Seal.lifeStages.1.labelPlural>phoques</AEXP_Seal.lifeStages.1.labelPlural>
+  <!-- seal -->
+  <AEXP_Seal.lifeStages.1.labelMale>phoque</AEXP_Seal.lifeStages.1.labelMale>
+  <!-- seals -->
+  <AEXP_Seal.lifeStages.1.labelMalePlural>phoques</AEXP_Seal.lifeStages.1.labelMalePlural>
+  <!-- seal -->
+  <AEXP_Seal.lifeStages.1.labelFemale>phoque</AEXP_Seal.lifeStages.1.labelFemale>
+  <!-- seals -->
+  <AEXP_Seal.lifeStages.1.labelFemalePlural>phoques</AEXP_Seal.lifeStages.1.labelFemalePlural>
+  <!-- seal -->
+  <AEXP_Seal.lifeStages.2.label>phoque</AEXP_Seal.lifeStages.2.label>
+  <!-- seal -->
+  <AEXP_Seal.lifeStages.2.labelPlural>phoques</AEXP_Seal.lifeStages.2.labelPlural>
+  <!-- seal -->
+  <AEXP_Seal.lifeStages.2.labelMale>phoque</AEXP_Seal.lifeStages.2.labelMale>
+  <!-- seals -->
+  <AEXP_Seal.lifeStages.2.labelMalePlural>phoques</AEXP_Seal.lifeStages.2.labelMalePlural>
+  <!-- seal -->
+  <AEXP_Seal.lifeStages.2.labelFemale>phoque</AEXP_Seal.lifeStages.2.labelFemale>
+  <!-- seals -->
+  <AEXP_Seal.lifeStages.2.labelFemalePlural>phoques</AEXP_Seal.lifeStages.2.labelFemalePlural>
+  <!-- seal -->
+  <AEXP_Seal.labelMale>phoque</AEXP_Seal.labelMale>
+  <!-- seals -->
+  <AEXP_Seal.labelMalePlural>phoques</AEXP_Seal.labelMalePlural>
+  <!-- seal -->
+  <AEXP_Seal.labelFemale>phoque</AEXP_Seal.labelFemale>
+  <!-- seals -->
+  <AEXP_Seal.labelFemalePlural>phoques</AEXP_Seal.labelFemalePlural>
+
+
+
+
+  <!-- Walrus -->
+
+<!-- walrus -->
+  <AEXP_Walrus.label>morse</AEXP_Walrus.label>
+<!-- walruss -->
+  <AEXP_Walrus.labelPlural>morses</AEXP_Walrus.labelPlural>
+<!-- walrus -->
+  <AEXP_Walrus.lifeStages.0.label>bébé morse</AEXP_Walrus.lifeStages.0.label>
+<!-- walrus -->
+  <AEXP_Walrus.lifeStages.0.labelPlural>bébés morse</AEXP_Walrus.lifeStages.0.labelPlural>
+<!-- walrus -->
+  <AEXP_Walrus.lifeStages.0.labelMale>bébé morse</AEXP_Walrus.lifeStages.0.labelMale>
+<!-- walruss -->
+  <AEXP_Walrus.lifeStages.0.labelMalePlural>bébés morse</AEXP_Walrus.lifeStages.0.labelMalePlural>
+<!-- walrus -->
+  <AEXP_Walrus.lifeStages.0.labelFemale>bébé morse</AEXP_Walrus.lifeStages.0.labelFemale>
+<!-- walruss -->
+  <AEXP_Walrus.lifeStages.0.labelFemalePlural>bébés morse</AEXP_Walrus.lifeStages.0.labelFemalePlural>
+<!-- walrus -->
+  <AEXP_Walrus.lifeStages.1.label>morse</AEXP_Walrus.lifeStages.1.label>
+<!-- walrus -->
+  <AEXP_Walrus.lifeStages.1.labelPlural>morses</AEXP_Walrus.lifeStages.1.labelPlural>
+<!-- walrus -->
+  <AEXP_Walrus.lifeStages.1.labelMale>morse</AEXP_Walrus.lifeStages.1.labelMale>
+<!-- walruss -->
+  <AEXP_Walrus.lifeStages.1.labelMalePlural>morses</AEXP_Walrus.lifeStages.1.labelMalePlural>
+<!-- walrus -->
+  <AEXP_Walrus.lifeStages.1.labelFemale>morse</AEXP_Walrus.lifeStages.1.labelFemale>
+<!-- walruss -->
+  <AEXP_Walrus.lifeStages.1.labelFemalePlural>morses</AEXP_Walrus.lifeStages.1.labelFemalePlural>
+<!-- walrus -->
+  <AEXP_Walrus.lifeStages.2.label>morse</AEXP_Walrus.lifeStages.2.label>
+<!-- walrus -->
+  <AEXP_Walrus.lifeStages.2.labelPlural>morses</AEXP_Walrus.lifeStages.2.labelPlural>
+<!-- walru -->
+  <AEXP_Walrus.lifeStages.2.labelMale>morse</AEXP_Walrus.lifeStages.2.labelMale>
+<!-- walruss -->
+  <AEXP_Walrus.lifeStages.2.labelMalePlural>morses</AEXP_Walrus.lifeStages.2.labelMalePlural>
+<!-- walrus -->
+  <AEXP_Walrus.lifeStages.2.labelFemale>morse</AEXP_Walrus.lifeStages.2.labelFemale>
+<!-- walruss -->
+  <AEXP_Walrus.lifeStages.2.labelFemalePlural>morses</AEXP_Walrus.lifeStages.2.labelFemalePlural>
+<!-- walrus -->
+  <AEXP_Walrus.labelMale>morse</AEXP_Walrus.labelMale>
+<!-- walruss -->
+  <AEXP_Walrus.labelMalePlural>morses</AEXP_Walrus.labelMalePlural>
+<!-- walrus -->
+  <AEXP_Walrus.labelFemale>morse</AEXP_Walrus.labelFemale>
+<!-- walruss -->
+  <AEXP_Walrus.labelFemalePlural>morses</AEXP_Walrus.labelFemalePlural>
+
+
+
+
+</LanguageData>

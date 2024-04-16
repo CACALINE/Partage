@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+	<!-- Drug Cabinet -->
+	<!-- drug cabinet -->
+	<VFE_DrugCabinet.label>cabinet médical</VFE_DrugCabinet.label>
+	<!-- Increases work speed when placed near a drug lab. One workbench links up to two drug cabinets. -->
+	<VFE_DrugCabinet.description>Augmente la vitesse de travail lorsqu'il est placé à proximité d'un laboratoire pharmaceutique. Un établi relie jusqu'à deux armoires à médicaments.</VFE_DrugCabinet.description>
+	<!-- Machining Cabinet -->
+	<!-- machining cabinet -->
+	<VFE_MachiningCabinet.label>armoire d'usinage</VFE_MachiningCabinet.label>
+	<!-- Increases work speed when placed near a machining table. One workbench links up to two machining cabinets. -->
+	<VFE_MachiningCabinet.description>Augmente la vitesse de travail lorsqu'il est placé à proximité d'une table d'usinage. Un établi relie jusqu'à deux armoires de mécanique.</VFE_MachiningCabinet.description>
+	<!-- Smithy Cabinet -->
+	<!-- smithing cabinet -->
+	<VFE_SmithyCabinet.label>armoire de forgeron</VFE_SmithyCabinet.label>
+	<!-- Increases work speed when placed near a smithy. One workbench links up to two smithy cabinets. -->
+	<VFE_SmithyCabinet.description>Augmente la vitesse de travail lorsqu'il est placé à proximité d'une forge. Un établi relie jusqu'à deux armoires de forgeron.</VFE_SmithyCabinet.description>
+	<!-- Kitchen Sink Cabinet -->
+	<!-- kitchen sink cabinet -->
+	<VFE_KitchenSinkCabinet.label>évier de cuisine</VFE_KitchenSinkCabinet.label>
+	<!-- Increases work speed when placed nearby a cooking stove. -->
+	<VFE_KitchenSinkCabinet.description>Augmente la vitesse de travail lorsqu'il est placé à proximité d'une cuisine.</VFE_KitchenSinkCabinet.description>
+	<!-- Tailor Cabinet -->
+	<!-- tailor cabinet -->
+	<VFE_TailorCabinet.label>cabinet de couture</VFE_TailorCabinet.label>
+	<!-- Increases work speed when placed near a tailoring table. One workbench links up to two tailor cabinets. -->
+	<VFE_TailorCabinet.description>Augmente la vitesse de travail lorsqu'il est placé près d'une table de couture. Un établi connecte jusqu'à deux armoires de couture.</VFE_TailorCabinet.description>
+	<!-- Fabrication Cabinet -->
+	<!-- fabrication cabinet -->
+	<VFE_FabricationCabinet.label>armoire de fabrication</VFE_FabricationCabinet.label>
+	<!-- Increases work speed when placed near a fabrication bench. One workbench can link up to two fabrication cabinets. -->
+	<VFE_FabricationCabinet.description>Augmente la vitesse de travail lorsqu'il est placé près d'une table de construction. Un établi connecte jusqu'à deux armoires de fabrication.</VFE_FabricationCabinet.description>
+</LanguageData>

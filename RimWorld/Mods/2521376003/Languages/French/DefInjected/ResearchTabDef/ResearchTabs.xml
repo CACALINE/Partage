@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR vanilla apparel expanded.-->
+  <VanillaExpanded.label>Vanilla Expanded</VanillaExpanded.label>
+
+  <!--<Traduction FR tous les vanilla furniture expanded.-->
+  <VanillaExpanded.label>Vanilla Expanded</VanillaExpanded.label>
+
+  <!-- EN: Props -->
+  <VFE_PropsandDecor_Tab.label>Accessoires</VFE_PropsandDecor_Tab.label>
+</LanguageData>

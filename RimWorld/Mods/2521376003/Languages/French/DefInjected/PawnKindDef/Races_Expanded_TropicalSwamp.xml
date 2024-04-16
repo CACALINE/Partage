@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Tous les vanilla animals expanded.-->
+  <!-- Alligator -->
+
+  <!-- alligator -->
+  <AEXP_Alligator.label>alligator</AEXP_Alligator.label>
+  <!-- alligators -->
+  <AEXP_Alligator.labelPlural>alligators</AEXP_Alligator.labelPlural>
+  <!-- alligator -->
+  <AEXP_Alligator.lifeStages.0.label>bébé alligator</AEXP_Alligator.lifeStages.0.label>
+  <!-- alligator -->
+  <AEXP_Alligator.lifeStages.0.labelPlural>bébés alligator</AEXP_Alligator.lifeStages.0.labelPlural>
+  <!-- male alligator -->
+  <AEXP_Alligator.lifeStages.0.labelMale>bébé alligator</AEXP_Alligator.lifeStages.0.labelMale>
+  <!-- male alligators -->
+  <AEXP_Alligator.lifeStages.0.labelMalePlural>bébés alligator</AEXP_Alligator.lifeStages.0.labelMalePlural>
+  <!-- female alligator -->
+  <AEXP_Alligator.lifeStages.0.labelFemale>bébé alligator</AEXP_Alligator.lifeStages.0.labelFemale>
+  <!-- female alligators -->
+  <AEXP_Alligator.lifeStages.0.labelFemalePlural>bébés alligator</AEXP_Alligator.lifeStages.0.labelFemalePlural>
+  <!-- alligator -->
+  <AEXP_Alligator.lifeStages.1.label>alligator</AEXP_Alligator.lifeStages.1.label>
+  <!-- alligator -->
+  <AEXP_Alligator.lifeStages.1.labelPlural>alligators</AEXP_Alligator.lifeStages.1.labelPlural>
+  <!-- male alligator -->
+  <AEXP_Alligator.lifeStages.1.labelMale>alligator</AEXP_Alligator.lifeStages.1.labelMale>
+  <!-- male alligators -->
+  <AEXP_Alligator.lifeStages.1.labelMalePlural>alligators</AEXP_Alligator.lifeStages.1.labelMalePlural>
+  <!-- female alligator -->
+  <AEXP_Alligator.lifeStages.1.labelFemale>alligator</AEXP_Alligator.lifeStages.1.labelFemale>
+  <!-- female alligators -->
+  <AEXP_Alligator.lifeStages.1.labelFemalePlural>alligators</AEXP_Alligator.lifeStages.1.labelFemalePlural>
+  <!-- alligator -->
+  <AEXP_Alligator.lifeStages.2.label>alligator</AEXP_Alligator.lifeStages.2.label>
+  <!-- alligator -->
+  <AEXP_Alligator.lifeStages.2.labelPlural>alligators</AEXP_Alligator.lifeStages.2.labelPlural>
+  <!-- male alligator -->
+  <AEXP_Alligator.lifeStages.2.labelMale>alligator</AEXP_Alligator.lifeStages.2.labelMale>
+  <!-- male alligators -->
+  <AEXP_Alligator.lifeStages.2.labelMalePlural>alligators</AEXP_Alligator.lifeStages.2.labelMalePlural>
+  <!-- female alligator -->
+  <AEXP_Alligator.lifeStages.2.labelFemale>alligator</AEXP_Alligator.lifeStages.2.labelFemale>
+  <!-- female alligators -->
+  <AEXP_Alligator.lifeStages.2.labelFemalePlural>alligators</AEXP_Alligator.lifeStages.2.labelFemalePlural>
+  <!-- male alligator -->
+  <AEXP_Alligator.labelMale>alligator</AEXP_Alligator.labelMale>
+  <!-- male alligators -->
+  <AEXP_Alligator.labelMalePlural>alligators</AEXP_Alligator.labelMalePlural>
+  <!-- female alligator -->
+  <AEXP_Alligator.labelFemale>alligator</AEXP_Alligator.labelFemale>
+  <!-- female alligators -->
+  <AEXP_Alligator.labelFemalePlural>alligators</AEXP_Alligator.labelFemalePlural>
+
+
+  <!-- Anaconda -->
+
+  <!-- anaconda -->
+  <AEXP_Anaconda.label>anaconda</AEXP_Anaconda.label>
+  <!-- anacondas -->
+  <AEXP_Anaconda.labelPlural>anacondas</AEXP_Anaconda.labelPlural>
+  <!-- anaconda -->
+  <AEXP_Anaconda.lifeStages.0.label>bébé anaconda</AEXP_Anaconda.lifeStages.0.label>
+  <!-- anaconda -->
+  <AEXP_Anaconda.lifeStages.0.labelPlural>bébés anaconda</AEXP_Anaconda.lifeStages.0.labelPlural>
+  <!-- male anaconda -->
+  <AEXP_Anaconda.lifeStages.0.labelMale>bébé anaconda</AEXP_Anaconda.lifeStages.0.labelMale>
+  <!-- male anacondas -->
+  <AEXP_Anaconda.lifeStages.0.labelMalePlural>bébés anaconda</AEXP_Anaconda.lifeStages.0.labelMalePlural>
+  <!-- female anaconda -->
+  <AEXP_Anaconda.lifeStages.0.labelFemale>bébé anaconda</AEXP_Anaconda.lifeStages.0.labelFemale>
+  <!-- female anacondas -->
+  <AEXP_Anaconda.lifeStages.0.labelFemalePlural>bébés anaconda</AEXP_Anaconda.lifeStages.0.labelFemalePlural>
+  <!-- anaconda -->
+  <AEXP_Anaconda.lifeStages.1.label>anaconda</AEXP_Anaconda.lifeStages.1.label>
+  <!-- anaconda -->
+  <AEXP_Anaconda.lifeStages.1.labelPlural>anacondas</AEXP_Anaconda.lifeStages.1.labelPlural>
+  <!-- male anaconda -->
+  <AEXP_Anaconda.lifeStages.1.labelMale>anaconda</AEXP_Anaconda.lifeStages.1.labelMale>
+  <!-- male anacondas -->
+  <AEXP_Anaconda.lifeStages.1.labelMalePlural>anacondas</AEXP_Anaconda.lifeStages.1.labelMalePlural>
+  <!-- female anaconda -->
+  <AEXP_Anaconda.lifeStages.1.labelFemale>anaconda</AEXP_Anaconda.lifeStages.1.labelFemale>
+  <!-- female anacondas -->
+  <AEXP_Anaconda.lifeStages.1.labelFemalePlural>anacondas</AEXP_Anaconda.lifeStages.1.labelFemalePlural>
+  <!-- anaconda -->
+  <AEXP_Anaconda.lifeStages.2.label>anaconda</AEXP_Anaconda.lifeStages.2.label>
+  <!-- anaconda -->
+  <AEXP_Anaconda.lifeStages.2.labelPlural>anacondas</AEXP_Anaconda.lifeStages.2.labelPlural>
+  <!-- male anaconda -->
+  <AEXP_Anaconda.lifeStages.2.labelMale>anaconda</AEXP_Anaconda.lifeStages.2.labelMale>
+  <!-- male anacondas -->
+  <AEXP_Anaconda.lifeStages.2.labelMalePlural>anacondas</AEXP_Anaconda.lifeStages.2.labelMalePlural>
+  <!-- female anaconda -->
+  <AEXP_Anaconda.lifeStages.2.labelFemale>anaconda</AEXP_Anaconda.lifeStages.2.labelFemale>
+  <!-- female anacondas -->
+  <AEXP_Anaconda.lifeStages.2.labelFemalePlural>anacondas</AEXP_Anaconda.lifeStages.2.labelFemalePlural>
+  <!-- male anaconda -->
+  <AEXP_Anaconda.labelMale>anaconda</AEXP_Anaconda.labelMale>
+  <!-- male anacondas -->
+  <AEXP_Anaconda.labelMalePlural>anacondas</AEXP_Anaconda.labelMalePlural>
+  <!-- female anaconda -->
+  <AEXP_Anaconda.labelFemale>anaconda</AEXP_Anaconda.labelFemale>
+  <!-- female anacondas -->
+  <AEXP_Anaconda.labelFemalePlural>anacondas</AEXP_Anaconda.labelFemalePlural>
+
+
+  <!-- Indian Elephant -->
+
+<!-- indian elephant -->
+  <AEXP_IndianElephant.label>éléphant indien</AEXP_IndianElephant.label>
+<!-- indian elephants -->
+  <AEXP_IndianElephant.labelPlural>éléphants indiens</AEXP_IndianElephant.labelPlural>
+<!-- indian elephant calf -->
+  <AEXP_IndianElephant.lifeStages.0.label>bébé éléphant indien</AEXP_IndianElephant.lifeStages.0.label>
+<!-- indian elephant calfs -->
+  <AEXP_IndianElephant.lifeStages.0.labelPlural>bébés éléphant indien</AEXP_IndianElephant.lifeStages.0.labelPlural>
+<!-- male indian elephant calf -->
+  <AEXP_IndianElephant.lifeStages.0.labelMale>bébé éléphant indien</AEXP_IndianElephant.lifeStages.0.labelMale>
+<!-- male indian elephant calfs -->
+  <AEXP_IndianElephant.lifeStages.0.labelMalePlural>bébés éléphant indien</AEXP_IndianElephant.lifeStages.0.labelMalePlural>
+<!-- female indian elephant calf -->
+  <AEXP_IndianElephant.lifeStages.0.labelFemale>bébé éléphant indien</AEXP_IndianElephant.lifeStages.0.labelFemale>
+<!-- female indian elephant calfs -->
+  <AEXP_IndianElephant.lifeStages.0.labelFemalePlural>bébés éléphant indien</AEXP_IndianElephant.lifeStages.0.labelFemalePlural>
+<!-- indian elephant -->
+  <AEXP_IndianElephant.lifeStages.1.label>éléphant indien</AEXP_IndianElephant.lifeStages.1.label>
+<!-- indian elephant -->
+  <AEXP_IndianElephant.lifeStages.1.labelPlural>éléphants indiens</AEXP_IndianElephant.lifeStages.1.labelPlural>
+<!-- male indian elephant -->
+  <AEXP_IndianElephant.lifeStages.1.labelMale>éléphant indien</AEXP_IndianElephant.lifeStages.1.labelMale>
+<!-- male indian elephants -->
+  <AEXP_IndianElephant.lifeStages.1.labelMalePlural>éléphants indiens</AEXP_IndianElephant.lifeStages.1.labelMalePlural>
+<!-- female indian elephant -->
+  <AEXP_IndianElephant.lifeStages.1.labelFemale>éléphant indien</AEXP_IndianElephant.lifeStages.1.labelFemale>
+<!-- female indian elephants -->
+  <AEXP_IndianElephant.lifeStages.1.labelFemalePlural>éléphants indiens</AEXP_IndianElephant.lifeStages.1.labelFemalePlural>
+<!-- indian elephant -->
+  <AEXP_IndianElephant.lifeStages.2.label>éléphant indien</AEXP_IndianElephant.lifeStages.2.label>
+<!-- indian elephant -->
+  <AEXP_IndianElephant.lifeStages.2.labelPlural>éléphants indiens</AEXP_IndianElephant.lifeStages.2.labelPlural>
+<!-- male indian elephant -->
+  <AEXP_IndianElephant.lifeStages.2.labelMale>éléphant indien</AEXP_IndianElephant.lifeStages.2.labelMale>
+<!-- male indian elephants -->
+  <AEXP_IndianElephant.lifeStages.2.labelMalePlural>éléphants indiens</AEXP_IndianElephant.lifeStages.2.labelMalePlural>
+<!-- female indian elephant -->
+  <AEXP_IndianElephant.lifeStages.2.labelFemale>éléphant indien</AEXP_IndianElephant.lifeStages.2.labelFemale>
+<!-- female indian elephants -->
+  <AEXP_IndianElephant.lifeStages.2.labelFemalePlural>éléphants indiens</AEXP_IndianElephant.lifeStages.2.labelFemalePlural>
+<!-- male indian elephant -->
+  <AEXP_IndianElephant.labelMale>éléphant indien</AEXP_IndianElephant.labelMale>
+<!-- male indian elephants -->
+  <AEXP_IndianElephant.labelMalePlural>éléphant indien</AEXP_IndianElephant.labelMalePlural>
+<!-- female indian elephant -->
+  <AEXP_IndianElephant.labelFemale>éléphant indien</AEXP_IndianElephant.labelFemale>
+<!-- female indian elephants -->
+  <AEXP_IndianElephant.labelFemalePlural>éléphants indiens</AEXP_IndianElephant.labelFemalePlural>
+
+
+
+</LanguageData>

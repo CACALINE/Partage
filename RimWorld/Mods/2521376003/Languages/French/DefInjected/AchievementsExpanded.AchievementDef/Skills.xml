@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Vanilla Achivements Expanded.-->
+  <sharpshooter.label>Tireur d'élite</sharpshooter.label>
+  <sharpshooter.description>Faire en sorte qu'un colon atteigne le niveau 20 en tir</sharpshooter.description>
+  
+  <mrPresident.label>Monsieur le Président</mrPresident.label>
+  <mrPresident.description>Faire en sorte qu'un colon atteigne le niveau 20 en Social</mrPresident.description>
+  
+  <conanTheBarbarian.label>Conan le Barbare</conanTheBarbarian.label>
+  <conanTheBarbarian.description>Faire en sorte qu'un colon atteigne le niveau 20 en mêlée</conanTheBarbarian.description>
+  
+</LanguageData>

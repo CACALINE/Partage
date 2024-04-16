@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--suppress ALL -->
+<LanguageData>
+	<!--Traduction FR Hospitality-->
+	<Recruiter.label>Sympathiser avec les invités</Recruiter.label>
+	<Recruiter.verb>se fait des amis</Recruiter.verb>
+	<Recruiter.gerund>sympathise avec</Recruiter.gerund>
+
+	<Diplomat.label>Divertir les invités</Diplomat.label>
+	<Diplomat.verb>Recruter</Diplomat.verb>
+	<Diplomat.gerund>recrute</Diplomat.gerund>
+	
+	<!--<Traduction FR locks.-->
+  <Locks_Flick.label>verrouiller/déverrouiller la porte</Locks_Flick.label>
+  <Locks_Flick.verb>verrouiller/déverrouiller</Locks_Flick.verb>
+  <Locks_Flick.gerund>verrouillage/déverrouillage</Locks_Flick.gerund>
+
+  <!--<Traduction FR tous les vanilla furniture expanded.-->
+  <!-- Power-->
+  <!-- EN: works at gas powered crematorium -->
+  <VPE_DoBillsGasCrematorium.label>travailler au crématorium à gaz</VPE_DoBillsGasCrematorium.label>
+  <!-- EN: work at gas powered crematorium -->
+  <VPE_DoBillsGasCrematorium.verb>travailler au crématorium à gaz</VPE_DoBillsGasCrematorium.verb>
+  <!-- EN: working at gas powered crematorium -->
+  <VPE_DoBillsGasCrematorium.gerund>travaille au crématorium à gaz</VPE_DoBillsGasCrematorium.gerund>
+
+    <!-- EN: burn at gas powered crematorium -->
+  <VPE_BurnGasCrematorium.label>brûler au crématorium à gaz</VPE_BurnGasCrematorium.label>
+  <!-- EN: burn at -->
+  <VPE_BurnGasCrematorium.verb>brûler au</VPE_BurnGasCrematorium.verb>
+  <!-- EN: burning at -->
+  <VPE_BurnGasCrematorium.gerund>brûle au</VPE_BurnGasCrematorium.gerund>
+
+  <!-- EN: works at gas smelter -->
+  <VPE_DoBillsGasSmelter.label>travailler dans une fonderie de gaz</VPE_DoBillsGasSmelter.label>
+  <!-- EN: work at gas smelter  -->
+  <VPE_DoBillsGasSmelter.verb>travailler dans une fonderie de gaz</VPE_DoBillsGasSmelter.verb>
+  <!-- EN: working at gas smelter -->
+  <VPE_DoBillsGasSmelter.gerund>travaille dans une fonderie de gaz</VPE_DoBillsGasSmelter.gerund>
+
+  <!-- EN: cook meals at stove -->
+  <VPE_DoBillsGasStove.label>préparer un repas dans la cuisine</VPE_DoBillsGasStove.label>
+  <!-- EN: cook -->
+  <VPE_DoBillsGasStove.verb>cuisiner/VPE_DoBillsGasStove.verb>
+  <!-- EN: cooking at -->
+  <VPE_DoBillsGasStove.gerund>cuisine à</VPE_DoBillsGasStove.gerund>
+
+  <!-- EN: drill at gas excavator -->
+  <VPE_WorkAtGasExcavator.label>forer à l'excavatrice à gas</VPE_WorkAtGasExcavator.label>
+  <!-- EN: excavate with gas excavator -->
+  <VPE_WorkAtGasExcavator.verb>forer à l'excavatrice à gas</VPE_WorkAtGasExcavator.verb>
+  <!-- EN: excavating with gas excavator -->
+  <VPE_WorkAtGasExcavator.gerund>fore à l'excavatrice à gas</VPE_WorkAtGasExcavator.gerund>
+
+  <!-- EN: plug hole -->
+  <VPE_WorkGiverPluggingHole.label>boucher le trou</VPE_WorkGiverPluggingHole.label>
+  <!-- EN: fill -->
+  <VPE_WorkGiverPluggingHole.verb>boucher</VPE_WorkGiverPluggingHole.verb>
+  <!-- EN: filling -->
+  <VPE_WorkGiverPluggingHole.gerund>bouche</VPE_WorkGiverPluggingHole.gerund>
+
+  <!-- EN: plug pond -->
+  <VPE_WorkGiverPluggingPond.label>boucher l'étang</VPE_WorkGiverPluggingPond.label>
+  <!-- EN: fill -->
+  <VPE_WorkGiverPluggingPond.verb>boucher</VPE_WorkGiverPluggingPond.verb>
+  <!-- EN: filling -->
+  <VPE_WorkGiverPluggingPond.gerund>bouche</VPE_WorkGiverPluggingPond.gerund>
+
+  <!-- EN: make weapons -->
+  <VPE_DoBillsGasSmithy.label>faire des armes</VPE_DoBillsGasSmithy.label>
+  <!-- EN: smith -->
+  <VPE_DoBillsGasSmithy.verb>forger</VPE_DoBillsGasSmithy.verb>
+  <!-- EN: smithing at -->
+  <VPE_DoBillsGasSmithy.gerund>forge à</VPE_DoBillsGasSmithy.gerund>
+
+  <!-- EN: work at refinery -->
+  <VPE_DoBillsGasRefinery.label>travailler dans une raffinerie</VPE_DoBillsGasRefinery.label>
+  <!-- EN: refine chemicals -->
+  <VPE_DoBillsGasRefinery.verb>travailler dans une raffinerie</VPE_DoBillsGasRefinery.verb>
+  <!-- EN: refining chemicals at -->
+  <VPE_DoBillsGasRefinery.gerund>raffine des produits chimiques dans</VPE_DoBillsGasRefinery.gerund>
+
+  <!--Security-->
+  <!-- rearm traps -->
+  <VFES_ConstructRearmTrap.label>réarmer les pièges</VFES_ConstructRearmTrap.label>
+  <!-- rearm -->
+  <VFES_ConstructRearmTrap.verb>réarmer</VFES_ConstructRearmTrap.verb>
+  <!-- rearming -->
+  <VFES_ConstructRearmTrap.gerund>réarme</VFES_ConstructRearmTrap.gerund>
+
+  <!-- rearm traps -->
+  <VFES_RearmTrap.label>réarmer les pièges</VFES_RearmTrap.label>
+  <!-- rearm -->
+  <VFES_RearmTrap.verb>réarmer</VFES_RearmTrap.verb>
+  <!-- rearming -->
+  <VFES_RearmTrap.gerund>réarme</VFES_RearmTrap.gerund>
+  
+  <!--Traduction FR quarry 1.1-->
+  <QRY_MineQuarry.label>travaux dans la carrière</QRY_MineQuarry.label>
+  <QRY_MineQuarry.verb>travailler dans la</QRY_MineQuarry.verb>
+  <QRY_MineQuarry.gerund>travailler dans la</QRY_MineQuarry.gerund>
+  
+  <!--<Traduction FR children, school and learning.-->
+  <School_Study.label>étude</School_Study.label>
+  <School_Study.verb>étude</School_Study.verb>
+  <School_Study.gerund>étudiant à</School_Study.gerund>
+  
+  <School_Teach.label>enseigner</School_Teach.label>
+  <School_Teach.verb>enseigner</School_Teach.verb>
+  <School_Teach.gerund>l'enseignement à</School_Teach.gerund>
+  
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR vanilla social interactions expanded.-->
+    <VSIE_MealTogether.label>Dîner romantique</VSIE_MealTogether.label>
+    <VSIE_MovieNight.label>Soirée film</VSIE_MovieNight.label>
+    <VSIE_BuildingSnowmen.label>Construire un bonhomme de neige</VSIE_BuildingSnowmen.label>
+    <VSIE_ViewingArtTogether.label>S'émerveiller devant l'art ensemble</VSIE_ViewingArtTogether.label>
+    <VSIE_Skygazing.label>Observation du ciel</VSIE_Skygazing.label>
+    <VSIE_GoingForAWalk.label>Aller se promener</VSIE_GoingForAWalk.label>
+    <VSIE_GrabbingBeer.label>Prendre une bière</VSIE_GrabbingBeer.label>
+    <VSIE_Funeral.label>Funérailles</VSIE_Funeral.label>
+    <VSIE_OutdoorParty.label>Fête en plein air</VSIE_OutdoorParty.label>
+    <VSIE_BingeParty.label>Grosse fête</VSIE_BingeParty.label>
+
+</LanguageData>

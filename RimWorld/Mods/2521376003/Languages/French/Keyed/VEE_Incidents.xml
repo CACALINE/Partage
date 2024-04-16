@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+<!--<Traduction FR vanilla events expanded.-->
+    <!-- Animal transport pod crash -->
+    <LetterLabelAnimalPodCrash>Accident d'une nacelle de transport d'animaux</LetterLabelAnimalPodCrash>
+    <AnimalPodCrash>Une caisse contenant un {PAWN_kind} appelé {PAWN_nameDef} s'écrase dans un module de transport à proximité. Si elle survit au crash, elle sera gravement blessée.
+
+S'il est sauvé, il peut librement rejoindre la colonie ou retourner vivre dans la nature .</AnimalPodCrash>
+
+    <AJLabel>L'animal secouru rejoint</AJLabel>
+    <AJLetter>L'animal que vous avez sauvé rejoint la colonie.</AJLetter>
+    <ADJLabel>L'animal sauvé ne veut pas rejoindre la colonie.</ADJLabel>
+    <ADJLetter>L'animal que vous avez sauvé ne rejoint pas la colonie.</ADJLetter>
+    <!-- Traitor -->
+    <TraitorLabel>Traître !</TraitorLabel>
+    <Traitor>Un colon nommé {PAWN_nameDef}, que vous avez accepté dans vos rangs, s'avère être un agent ennemi de {PAWN_factionName}.
+
+Vous pouvez le capturer à des fins de recrutement ou d'esclavage.</Traitor>
+
+    <!-- Space Battle -->
+    <SpaceBattleLabel>Bataille spatiale</SpaceBattleLabel>
+    <SpaceBattle>Plusieurs vaisseaux spatiaux massifs se sont engagés dans des combats sur l’orbite de la planète. Les tirs manqués et les débris peuvent toucher le sol dans la région. Cela peut entraîner des incendies massifs.</SpaceBattle>
+
+    <!-- Shuttle Crash -->
+    <ShuttleCrashLabel>Accident de la navette</ShuttleCrashLabel>
+    <ShuttleCrash>Une navette planétaire s'écrase à proximité. Si l'équipage survit à l'impact, il sera gravement blessé. Le vaisseau écrasé peut être déconstruit pour en tirer des ressources utiles.
+
+L'équipage n'est affilié à aucune faction, ce qui signifie qu'il peut être sauvé et vous rejoindre librement, ou capturé à des fins de recrutement ou d'esclavage.</ShuttleCrash>
+
+    <!-- Earthquake -->
+    <EarthquakeLabel>Tremblement de terre</EarthquakeLabel>
+    <Earthquake>Des changements dans la croûte de la planète ont provoqué un tremblement de terre localisé à petite échelle. Certaines structures peuvent être endommagées et les toits peuvent s'effondrer.</Earthquake>
+
+    <!-- Cargo pods (weapons) -->
+    <CPWLabel>Capsules de cargaison (armes)</CPWLabel>
+    <CPW>Vous avez détecté un groupe de capsules cargo s'écrasant à proximité.
+
+Peut-être trouverez-vous quelque chose d'utile dans les décombres.</CPW>
+
+    <!-- Cargo pods (apparel) -->
+    <CPALabel>Capsules de cargaison (vêtements)</CPALabel>
+    <CPA>Vous avez détecté un groupe de capsules cargo s'écrasant à proximité.
+
+Peut-être que vous trouverez quelque chose d'utile dans les décombres.</CPA>
+
+    <!-- Caravan animals wander in -->
+    <CAWILabel>Les animaux de la caravane errant</CAWILabel>
+    <CAWI>Un groupe de {PAWN_kind}, abandonnés ou perdus, erre. 
+
+Ils semblent avoir appartenu à une caravane, car ils portent toujours des sacs contenant des objets de valeur. Vous pouvez récupérer ces objets si vous les apprivoisez ou les tuez. Sinon, ils quitteront la zone au bout de quelques jours.</CAWI>
+
+    <!-- Crop sprout -->
+    <CSLabel>Germe de culture</CSLabel>
+    <CS1>Un grand champ de</CS1>
+    <CS2>a germé à proximité. Si tu attends qu'il pousse, tu pourras récolter beaucoup de nourriture ! Si tu ne la récoltes pas, elle va lentement pourrir et disparaître.</CS2>
+
+    <!-- Battle animals wander in -->
+    <BAWILabel>Les animaux de combat errant</BAWILabel>
+    <BAWI>Un groupe de {0}, abandonnés ou perdus, erre. 
+
+Ils semblent habitués au contact humain et rejoignent la colonie.</BAWI>
+
+    <!-- wild men wander in -->
+    <WMWILabel>Des hommes sauvages errant</WMWILabel>
+    <WMWI>Une petite tribu pré-néolithique d'hommes sauvages s'y promène. Vous pouvez tenter de les apprivoiser.</WMWI>
+
+    <!-- Hunting party -->
+    <HPLabel>Groupe de chasse</HPLabel>
+    <HP>Un groupe de chasseurs de {0} est de passage dans la région. Ils vont chasser ici pendant quelques heures, puis repartir.</HP>
+
+    <VEE_Decay>En décomposition à cause de la sécheresse .</VEE_Decay>
+    <VEE_DroughtGui>Fertilité ajustée en raison de la sécheresse : {0}</VEE_DroughtGui>
+</LanguageData>

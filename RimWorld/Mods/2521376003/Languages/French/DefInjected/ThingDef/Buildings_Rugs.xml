@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+	<!-- small rug -->
+	<VFE_RugSmall.label>petit tapis</VFE_RugSmall.label>
+	<!-- A small size floor covering textile, decorated with artistic embroidery. -->
+	<VFE_RugSmall.description>Un petit tapis élaboré pour recouvrir une partie du sol décorée de broderies artistiques.</VFE_RugSmall.description>
+
+	<!-- large rug -->
+	<VFE_RugLarge.label>tapis moyen</VFE_RugLarge.label>
+	<!-- A large size floor covering textile, decorated with artistic embroidery. -->
+	<VFE_RugLarge.description>Un tissu de revêtement de sol surdimensionné orné de broderies artistiques.</VFE_RugLarge.description>
+
+	<!-- grand rug -->
+	<VFE_RugGrand.label>grand tapis</VFE_RugGrand.label>
+	<!-- A huge floor covering textile that dominates a room, decorated with artistic embroidery. -->
+	<VFE_RugGrand.description>Un immense tissu pour recouvrir le sol qui domine une pièce décorée de broderies artistiques.</VFE_RugGrand.description>
+
+	<!-- unfinished rug -->
+	<UnfinishedRug.label>tapis inachevé</UnfinishedRug.label>
+
+</LanguageData>

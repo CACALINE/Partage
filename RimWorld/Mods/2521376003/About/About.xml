@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ModMetaData>
+	<name>Traductions Mods En Français</name>
+	<author>NimeBeer</author>
+	<supportedVersions>
+		<li>1.2</li>
+		<li>1.3</li>
+		<li>1.4</li>
+	</supportedVersions>
+	<packageId>NimeBeer.TraductionModsFR</packageId>
+	<description><![CDATA[<color=#5AA9D6><size=20><b>			Compatible 1.2,1.3,1.4</b></size></color>
+	
+<color=#5AA9D6><size=18><b>Il existe un Discord ainsi qu'un Google Doc répertoriant les Mods traduits.
+Pour nous soutenir n'hésitez pas à mettre une évaluation au Mod ainsi qu'un commentaire :)</b></size></color>
+	
+	
+<color=#B82010><size=24><b>ATTENTION</b></size></color>
+Nous vous conseillons de ne pas rajouter ce Mod durant une partie existante, sous peine de voir certaines traductions de Mods inexactes ou inexistantes.
+
+Nous vous conseillons de ne pas enlever ce Mod durant une partie existante, sous peine d'avoir des problèmes de traductions si vous remettez le Mod en place pour cette partie en cours.
+
+Nous vous rappelons que certains Mods ne peuvent pas être traduits à 100% car nous n'avons pas le noyau central du Mod.
+
+Nous vous conseillons de charger ce Mod en dernier de votre liste de Mods pour éviter certains problèmes.
+
+
+<color=#5AA9D6><size=20>Description</size></color>
+Ce Mod a pour but de proposer et rassembler des traductions Françaises de différents Mods "venant de mes propres traductions ou d'autres traducteurs" afin d'avoir une meilleure compréhension des différents Mods et d'avoir une meilleure centralisation des traductions.
+
+En aucun cas le but étant de s'approprier les traductions des autres. Ils seront bien évidemment mentionnés avec leurs liens SteamWorkshop.
+
+
+<color=#5AA9D6><size=20>Liste des Mods traduits</size></color>
+Nous vous mettons à disposition une liste "lien ci-dessous" des différents Mods traduits (par moi-même ou d'autres traducteurs qui seront mentionnés) afin de vous permettre de voir si un de vos Mods favoris a été traduits, si cela n'est pas le cas nous vous invitons à nous le proposer sur le Discord dans la Section "demande" sous la catégorie "Rapport Trad Mods".
+
+Liste Mods traduits FR : https://docs.google.com/document/d/1JhEsqLfVlAEkUzh53c7463GY1D-KT7r7tUPIFvWQZ70/edit?usp=sharing
+
+
+<color=#5AA9D6><size=20>Aides & Discord</size></color>
+Afin d'améliorer la qualité des traductions et/ou faire remonter des traductions incorrectes ou inexistantes, nous vous proposons de rejoindre le Discord (lien ci-dessous) et de poster la traduction incorrecte ou inexistante dans la Section "incorrecte" sous la catégorie "Rapport Trad Mods" avec une capture d'écran et si possible le nom du Mod en question.
+
+Discord : https://discord.gg/6bxH9N5CNT
+
+
+<color=#5AA9D6><size=20>Recommandation d'autres Mods Français</size></color>
+Nous tenons à mettre en avant certains Mods Français qui sont essentiels à nos yeux.
+
+  *LanguageWorker_French Mod "Auteur du Mod : b606"
+
+
+<color=#5AA9D6><size=20>Remerciements</size></color>
+Nous tenons à remercier tous les traducteurs pour leurs boulots incroyables et nous permettre d'apprécier les Mods à leur juste valeur ! N'hésitez pas à aller voir le SteamWorkshop du traducteur en question et à lui laisser une petite évaluation et un petit commentaire pour le soutenir :)
+
+
+<color=#5AA9D6><size=20>Traduction</size></color>
+Français(French)
+
+
+
+
+
+
+
+
+
+]]></description>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+		<li>brrainz.harmony</li>
+		<li>brrainz.achtung</li>
+		<li>EdB.PrepareCarefully</li>
+		<li>Orion.Hospitality</li>
+		<li>Jaxe.Bubbles</li>
+		<li>Mlie.PrisonerArena</li>
+		<li>Jaxe.RimHUD</li>
+		<li>Mlie.SeasonalWeather</li>
+		<li>VanillaExpanded.VAEAS</li>
+		<li>VanillaExpanded.VAET</li>
+		<li>VanillaExpanded.VAETF</li>
+		<li>VanillaExpanded.VAEAU</li>
+		<li>VanillaExpanded.VAETS</li>
+		<li>VanillaExpanded.VAETR</li>
+		<li>VanillaExpanded.VAEIS</li>
+		<li>VanillaExpanded.VAEED</li>
+		<li>VanillaExpanded.VAED</li>
+		<li>VanillaExpanded.VAECD</li>
+		<li>VanillaExpanded.VAEBF</li>
+		<li>VanillaExpanded.VAEEndAndExt</li>
+		<li>avius.locks</li>
+		<li>VanillaExpanded.VAPPE</li>
+		<li>VanillaExpanded.VEE</li>
+		<li>Ogliss.Toastehs.Veinminer</li>
+		<li>VanillaExpanded.VFECore</li>
+		<li>VanillaExpanded.VFEArt</li>
+		<li>VanillaExpanded.VFEMedical</li>
+		<li>VanillaExpanded.VFEProduction</li>
+		<li>VanillaExpanded.VFEFarming</li>
+		<li>VanillaExpanded.VFESpacer</li>
+		<li>VanillaExpanded.VFESecurity</li>
+		<li>VanillaExpanded.VFEPower</li>
+		<li>VanillaExpanded.VFEPropsandDecor</li>
+		<li>brrainz.zombieland</li>
+	    <li>VanillaExpanded.VanillaSocialInteractionsExpanded</li>
+		<li>avilmask.AnimalControls</li>
+		<li>OskarPotocki.VanillaFactionsExpanded.Core</li>
+		<li>Ogliss.TheWhiteCrayon.Quarry</li>
+		<li>EdB.PrepareCarefully.UnofficialPatch</li>
+		<li>Dylan.CSL</li>
+		<li>FrozenSnowFox.ComplexJobs</li>
+		<li>FrozenSnowFox.ComplexJobsLegacy</li>
+		<li>JangoDsoul.SimpleStorage</li>
+		<li>ketaros.storages</li>
+		<li>sfish.nuclearenergy</li>
+		<li>DerekBickley.ForceFields</li>
+		<li>DerekBickley.PrisonWalls</li>
+		<li>DerekBickley.PrisonBed</li>
+		<li>Taelim.VEEmbrasures</li>
+		<li>neronix17.embrasures</li>
+		<li>vanillaexpanded.achievements</li>
+	</loadAfter>
+	  <customData IgnoreIfNoMatchingField="True"></customData>
+</ModMetaData>

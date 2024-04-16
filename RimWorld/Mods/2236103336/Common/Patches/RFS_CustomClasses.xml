@@ -1,0 +1,3592 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Patch>
+  <Operation Class="PatchOperationAdd">
+    <xpath>*/TorannMagic.TM_CustomClassDef[defName = "TM_CustomClasses"]/customClasses</xpath>
+	<value>		
+		
+		  <!-- Custom Class - the Red Mage -->
+		  <li>		  
+			<classTrait>TM_RedMage</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff></classHediff>			
+			<classTexturePath>redmagetexture</classTexturePath>
+			<classIconPath>redmageicon</classIconPath>		
+			<classIconColor>(0.88,0.15,0.16)</classIconColor>		
+			<tornScript></tornScript>						
+			<fullScript>BookOfRedMage</fullScript>
+			
+			<classMageAbilities>
+				<li>TM_Heal</li>
+				<li>TM_EnchantWeapon</li>
+				<li>TM_Thunderbolt</li>
+				<li>TM_DispelB</li>
+				<li>TM_Dispel_I</li>
+				<li>TM_Dispel_II</li>
+				<li>TM_Dispel_III</li>
+				<li>TM_NullZoneB</li>
+				<li>TM_NullZone_I</li>
+				<li>TM_NullZone_II</li>
+				<li>TM_NullZone_III</li>
+				<li>TM_Explosion</li>
+			</classMageAbilities>
+			<learnableSpells>								
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+				<li>TM_ChannelingB</li>
+				<li>TM_Channeling_I</li>
+				<li>TM_Channeling_II</li>
+				<li>TM_Channeling_III</li>
+				<li>TM_CoupeB</li>
+				<li>TM_Coupe_I</li>
+				<li>TM_Coupe_II</li>
+				<li>TM_Coupe_III</li>
+				<li>TM_FlecheB</li>
+				<li>TM_Fleche_I</li>
+				<li>TM_Fleche_II</li>
+				<li>TM_Fleche_III</li>
+				<li>TM_EngagementB</li>
+				<li>TM_Engagement_I</li>
+				<li>TM_Engagement_II</li>
+				<li>TM_Engagement_III</li>
+				<li>TM_ParryingStanceB</li>
+				<li>TM_ParryingStance_I</li>
+				<li>TM_ParryingStance_II</li>
+				<li>TM_ParryingStance_III</li>
+			</classFighterAbilities>
+			<learnableSkills>								
+			</learnableSkills>
+			
+			<isMage>true</isMage>							
+			<isFighter>true</isFighter>
+            		<maxMageLevel>210</maxMageLevel>
+            		<maxFighterLevel>210</maxFighterLevel>		
+													
+			<isNecromancer>false</isNecromancer>			
+			<isUndead>false</isUndead>						
+															
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>	
+		  </li>
+		  <!-- Custom Class - the Ninja -->
+		  <li>		  
+			<classTrait>TM_Ninja</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff></classHediff>								
+			<classTexturePath>ninjatexture</classTexturePath>
+			<classIconPath>ninjaicon</classIconPath>				
+			<tornScript></tornScript>						
+			<fullScript>BookOfNinja</fullScript>			
+			
+			<classMageAbilities>							
+				<li>TM_ShadowCloneB</li>
+				<li>TM_ShadowClone_I</li>
+				<li>TM_ShadowClone_II</li>
+				<li>TM_ShadowClone_III</li>
+				<li>TM_ShadowShurikenB</li>
+				<li>TM_ShadowShuriken_I</li>
+				<li>TM_ShadowShuriken_II</li>
+				<li>TM_ShadowShuriken_III</li>
+				<li>TM_Hyoton</li>
+				<li>TM_Hyoton_I</li>
+				<li>TM_Hyoton_II</li>
+				<li>TM_Hyoton_III</li>
+				<li>TM_Katon</li>
+				<li>TM_Katon_I</li>
+				<li>TM_Katon_II</li>
+				<li>TM_Katon_III</li>
+				<li>TM_Ketsuekiton</li>
+				<li>TM_Ketsuekiton_I</li>
+				<li>TM_Ketsuekiton_II</li>
+				<li>TM_Ketsuekiton_III</li>
+			</classMageAbilities>
+			<learnableSpells>					
+			</learnableSpells>								
+			
+			<classFighterAbilities>					
+				<li>TM_ShadowStrike</li>
+				<li>TM_Garrote</li>
+				<li>TM_Garrote_I</li>
+				<li>TM_Garrote_II</li>
+				<li>TM_Garrote_III</li>
+				<li>TM_ImpalingStrikeB</li>
+				<li>TM_ImpalingStrike_I</li>
+				<li>TM_ImpalingStrike_II</li>
+				<li>TM_ImpalingStrike_III</li>
+				<li>TM_VenomStrikeB</li>
+				<li>TM_VenomStrike_I</li>
+				<li>TM_VenomStrike_II</li>
+				<li>TM_VenomStrike_III</li>
+				<li>TM_VeilOfShadows</li>
+				<li>TM_AssassinateB</li>
+				<li>TM_Assassinate_I</li>
+				<li>TM_Assassinate_II</li>
+				<li>TM_Assassinate_III</li>
+			</classFighterAbilities>
+			<learnableSkills>								
+			</learnableSkills>
+			
+			<isMage>true</isMage>							
+			<isFighter>true</isFighter>						
+															
+			<isNecromancer>false</isNecromancer>			
+			<isUndead>false</isUndead>						
+															
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>
+		  <!-- Custom Class - the Elemental Gunner -->
+		  <li>		  
+			<classTrait>TM_ElementalGunner</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff></classHediff>									
+			<classTexturePath>elegunnertexture</classTexturePath>
+			<classIconPath>elegunnericon</classIconPath>		
+			<classIconColor>(.73,.87,0.98)</classIconColor>		
+			<tornScript></tornScript>						
+			<fullScript>BookOfElementalGunner</fullScript>			
+			
+			<classMageAbilities>							
+				<li>TM_TechnoWeapon</li>
+				<li>TM_TechnoBit</li>
+				<li>TM_NanoStimulant</li>
+			</classMageAbilities>
+			<learnableSpells>								
+			</learnableSpells>								
+			
+			<classFighterAbilities>						
+				<li>TM_IgnitionShotB</li>
+				<li>TM_IgnitionShot_I</li>
+				<li>TM_IgnitionShot_II</li>
+				<li>TM_IgnitionShot_III</li>
+				<li>TM_FrostShotB</li>
+				<li>TM_FrostShot_I</li>
+				<li>TM_FrostShot_II</li>
+				<li>TM_FrostShot_III</li>
+				<li>TM_LightningShotB</li>
+				<li>TM_LightningShot_I</li>
+				<li>TM_LightningShot_II</li>
+				<li>TM_LightningShot_III</li>
+				<li>TM_LucentShotB</li>
+				<li>TM_LucentShot_I</li>
+				<li>TM_LucentShot_II</li>
+				<li>TM_LucentShot_III</li>
+				<li>TM_PistolSpec</li>
+				<li>TM_PistolWhip</li>
+			</classFighterAbilities>
+			<learnableSkills>								
+			</learnableSkills>
+			
+			<isMage>true</isMage>							
+			<isFighter>true</isFighter>						
+															
+			<isNecromancer>false</isNecromancer>			
+			<isUndead>false</isUndead>						
+															
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>
+		  <!-- Custom Class - the Bombardier -->
+		  <li>		  
+			<classTrait>TM_Bombardier</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff></classHediff>								
+			<classTexturePath>bombtexture</classTexturePath>
+			<classIconPath>bombicon</classIconPath>				
+			<tornScript></tornScript>						
+			<fullScript>BookOfBombardier</fullScript>		
+			
+			<classMageAbilities>							
+			</classMageAbilities>
+			<learnableSpells>								
+			</learnableSpells>								
+			
+			<classFighterAbilities>				
+				<li>TM_MiniBombB</li>
+				<li>TM_MiniBomb_I</li>
+				<li>TM_MiniBomb_II</li>
+				<li>TM_MiniBomb_III</li>
+				<li>TM_ClearingChargeB</li>
+				<li>TM_ClearingCharge_I</li>
+				<li>TM_ClearingCharge_II</li>
+				<li>TM_ClearingCharge_III</li>
+				<li>TM_IgnitionChargeB</li>
+				<li>TM_IgnitionCharge_I</li>
+				<li>TM_IgnitionCharge_II</li>
+				<li>TM_IgnitionCharge_III</li>
+				<li>TM_FlashChargeB</li>
+				<li>TM_FlashCharge_I</li>
+				<li>TM_FlashCharge_II</li>
+				<li>TM_FlashCharge_III</li>
+				<li>TM_EMPChargeB</li>
+				<li>TM_EMPCharge_I</li>
+				<li>TM_EMPCharge_II</li>
+				<li>TM_EMPCharge_III</li>
+				<li>TM_SiegeExplosiveB</li>
+				<li>TM_SiegeExplosive_I</li>
+				<li>TM_SiegeExplosive_II</li>
+				<li>TM_SiegeExplosive_III</li>
+				<li>TM_CarpetBombB</li>
+				<li>TM_CarpetBomb_I</li>
+				<li>TM_CarpetBomb_II</li>
+				<li>TM_CarpetBomb_III</li>
+			</classFighterAbilities>
+			<learnableSkills>								
+			</learnableSkills>
+			
+			<isMage>false</isMage>							
+			<isFighter>true</isFighter>						
+															
+			<isNecromancer>false</isNecromancer>			
+			<isUndead>false</isUndead>						
+													
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>
+
+		  <!-- Custom Class - the Railbreaker -->
+		  <li>		  
+			<classTrait>TM_Railbreaker</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff>TM_RailbreakerHD</classHediff>								
+			<classTexturePath>railbreakertexture</classTexturePath>
+			<classIconPath>railbreakericon</classIconPath>		
+			<classIconColor>(.95,.46,0.06)</classIconColor>		
+			<tornScript></tornScript>						
+			<fullScript>BookOfRailbreaker</fullScript>			
+			
+			<classMageAbilities>							
+			</classMageAbilities>
+			<learnableSpells>								
+			</learnableSpells>								
+			
+			<classFighterAbilities>							
+				<li>TM_ExplosiveEntrance</li>
+				<li>TM_BackdraftB</li>
+				<li>TM_Backdraft_I</li>
+				<li>TM_Backdraft_II</li>
+				<li>TM_Backdraft_III</li>
+				<li>TM_StrikeZoneB</li>
+				<li>TM_StrikeZone_I</li>
+				<li>TM_StrikeZone_II</li>
+				<li>TM_StrikeZone_III</li>
+				<li>TM_InfernoBreakerB</li>
+				<li>TM_InfernoBreaker_I</li>
+				<li>TM_InfernoBreaker_II</li>
+				<li>TM_InfernoBreaker_III</li>
+				<li>TM_RedpointB</li>
+				<li>TM_Redpoint_I</li>
+				<li>TM_Redpoint_II</li>
+				<li>TM_Redpoint_III</li>
+				<li>TM_BlitzChargeB</li>
+				<li>TM_BlitzCharge_I</li>
+				<li>TM_BlitzCharge_II</li>
+				<li>TM_BlitzCharge_III</li>
+				<li>TM_BlastShieldB</li>
+				<li>TM_BlastShield_I</li>
+				<li>TM_BlastShield_II</li>
+				<li>TM_BlastShield_III</li>
+			</classFighterAbilities>
+			<learnableSkills>								
+			</learnableSkills>
+			
+			<isMage>false</isMage>						
+			<isFighter>true</isFighter>						
+													
+			<isNecromancer>false</isNecromancer>			
+			<isUndead>false</isUndead>						
+													
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>
+		  </li>
+		  <!-- Custom Class - the Samurai -->
+		  <li>		  
+			<classTrait>TM_Samurai</classTrait>
+			<traitDegree>4</traitDegree>					
+			<classHediff></classHediff>									
+			<classTexturePath>samuraitexture</classTexturePath>
+			<classIconPath>samuraiicon</classIconPath>		
+			<classIconColor>(1,0.09,0.39)</classIconColor>	
+			<tornScript></tornScript>					
+			<fullScript>BookOfSamurai</fullScript>			
+			
+			<classMageAbilities>							
+			</classMageAbilities>
+			<learnableSpells>								
+			</learnableSpells>								
+			
+			<classFighterAbilities>							
+				<li>TM_BladeArt</li>
+				<li>TM_IaiB</li>
+				<li>TM_Iai_I</li>
+				<li>TM_Iai_II</li>
+				<li>TM_Iai_III</li>
+				<li>TM_Iai_IV</li>
+				<li>TM_Iai_V</li>
+				<li>TM_Iai_VI</li>
+				<li>TM_Iai_VII</li>
+				<li>TM_Iai_VIII</li>
+				<li>TM_Iai_IX</li>
+				<li>TM_IntentB</li>
+				<li>TM_Intent_I</li>
+				<li>TM_Intent_II</li>
+				<li>TM_Intent_III</li>
+				<li>TM_FlowB</li>
+				<li>TM_Flow_I</li>
+				<li>TM_Flow_II</li>
+				<li>TM_Flow_III</li>
+				<li>TM_LunarArcB</li>
+				<li>TM_LunarArc_I</li>
+				<li>TM_LunarArc_II</li>
+				<li>TM_LunarArc_III</li>
+				<li>TM_LunarArc_IV</li>
+				<li>TM_LunarArc_V</li>
+				<li>TM_LunarArc_VI</li>
+				<li>TM_LunarArc_VII</li>
+				<li>TM_LunarArc_VIII</li>
+				<li>TM_LunarArc_IX</li>
+				<li>TM_YukikazeB</li>
+				<li>TM_Yukikaze_I</li>
+				<li>TM_Yukikaze_II</li>
+				<li>TM_Yukikaze_III</li>
+				<li>TM_Yukikaze_IV</li>
+				<li>TM_Yukikaze_V</li>
+				<li>TM_Yukikaze_VI</li>
+				<li>TM_Yukikaze_VII</li>
+				<li>TM_Yukikaze_VIII</li>
+				<li>TM_Yukikaze_IX</li>
+			</classFighterAbilities>
+			<learnableSkills>								
+			</learnableSkills>
+			
+			<isMage>false</isMage>							
+			<isFighter>true</isFighter>						
+															
+			<isNecromancer>false</isNecromancer>			
+			<isUndead>false</isUndead>						
+															
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>	
+		  </li>
+		  <!-- Custom Class - the Gadgeteer -->
+		  <li>		  
+			<classTrait>TM_Gadgeteer</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff></classHediff>								
+			<classTexturePath>wrenchtexture</classTexturePath> 
+			<classIconPath>wrenchicon</classIconPath>		
+			<classIconColor>(1,0.95,.9)</classIconColor>		
+			<tornScript></tornScript>						
+			<fullScript>BookOfGadgeteer</fullScript>			
+			
+			<classMageAbilities>							
+			</classMageAbilities>
+			<learnableSpells>								
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+				<li>TM_ScanB</li>
+				<li>TM_Scan_I</li>
+				<li>TM_Scan_II</li>
+				<li>TM_Scan_III</li>	
+				<li>TM_HydratedWaterB</li>
+				<li>TM_HydratedWater_I</li>
+				<li>TM_HydratedWater_II</li>
+				<li>TM_HydratedWater_III</li>
+				<li>TM_PocketSandB</li>
+				<li>TM_PocketSand_I</li>
+				<li>TM_PocketSand_II</li>
+				<li>TM_PocketSand_III</li>
+				<li>TM_SpareBatteriesB</li>
+				<li>TM_SpareBatteries_I</li>
+				<li>TM_SpareBatteries_II</li>
+				<li>TM_SpareBatteries_III</li>
+				<li>TM_AutoSpannerB</li>
+				<li>TM_AutoSpanner_I</li>
+				<li>TM_AutoSpanner_II</li>
+				<li>TM_AutoSpanner_III</li>
+				<li>TM_MysteriousAmuletB</li>
+				<li>TM_MysteriousAmulet_I</li>
+				<li>TM_MysteriousAmulet_II</li>
+				<li>TM_MysteriousAmulet_III</li>
+				<li>TM_CloakingDeviceB</li>
+				<li>TM_CloakingDevice_I</li>
+				<li>TM_CloakingDevice_II</li>
+				<li>TM_CloakingDevice_III</li>
+				<li>TM_DisposableGogglesB</li>
+				<li>TM_DisposableGoggles_I</li>
+				<li>TM_DisposableGoggles_II</li>
+				<li>TM_DisposableGoggles_III</li>
+				<li>TM_RocketBootsB</li>
+				<li>TM_RocketBoots_I</li>
+				<li>TM_RocketBoots_II</li>
+				<li>TM_RocketBoots_III</li>
+				<li>TM_JetpackB</li>
+				<li>TM_Jetpack_I</li>
+				<li>TM_Jetpack_II</li>
+				<li>TM_Jetpack_III</li>
+				<li>TM_InflatableWallB</li>
+				<li>TM_InflatableWall_I</li>
+				<li>TM_InflatableWall_II</li>
+				<li>TM_InflatableWall_III</li>
+				<li>TM_BiotechBramblesB</li>
+				<li>TM_BiotechBrambles_I</li>
+				<li>TM_BiotechBrambles_II</li>
+				<li>TM_BiotechBrambles_III</li>
+				<li>TM_HaywireSnowmakerB</li>
+				<li>TM_HaywireSnowmaker_I</li>
+				<li>TM_HaywireSnowmaker_II</li>
+				<li>TM_HaywireSnowmaker_III</li>
+				<li>TM_TaserB</li>
+				<li>TM_Taser_I</li>
+				<li>TM_Taser_II</li>
+				<li>TM_Taser_III</li>
+			</classFighterAbilities>
+			<learnableSkills>
+				<li>SkillOf_OldHeadlight</li>							
+			</learnableSkills>
+			
+			<isMage>false</isMage>						
+			<isFighter>true</isFighter>						
+															
+			<isNecromancer>false</isNecromancer>			
+			<isUndead>false</isUndead>						
+															
+			<isAndroid>false</isAndroid>				
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>
+		  <!-- Custom Class - the Wind Mage -->
+		  <li>		  
+			<classTrait>TM_WindMage</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff></classHediff>								
+			<classTexturePath>windmagetexture</classTexturePath> 
+			<classIconPath>windmageicon</classIconPath>		
+			<classIconColor>(0.53,0.91,0.76)</classIconColor>	
+			<tornScript>Torn_BookOfWindMage</tornScript>						
+			<fullScript>BookOfWindMage</fullScript>			
+			
+			<classMageAbilities>
+				<li>TM_AdvancedFlightB</li>
+				<li>TM_AdvancedFlight_I</li>
+				<li>TM_AdvancedFlight_II</li>
+				<li>TM_AdvancedFlight_III</li>	
+				<li>TM_GustB</li>
+				<li>TM_Gust_I</li>
+				<li>TM_Gust_II</li>
+				<li>TM_Gust_III</li>
+				<li>TM_StifleB</li>
+				<li>TM_Stifle_I</li>
+				<li>TM_Stifle_II</li>
+				<li>TM_Stifle_III</li>
+				<li>TM_UpdraftB</li>
+				<li>TM_Updraft_I</li>
+				<li>TM_Updraft_II</li>
+				<li>TM_Updraft_III</li>
+				<li>TM_WindstepB</li>
+				<li>TM_Windstep_I</li>
+				<li>TM_Windstep_II</li>
+				<li>TM_Windstep_III</li>
+				<li>TM_GaleB</li>
+				<li>TM_Gale_I</li>
+				<li>TM_Gale_II</li>
+				<li>TM_Gale_III</li>
+			</classMageAbilities>
+			<learnableSpells>							
+			</learnableSpells>								
+			
+			<classFighterAbilities>						
+			</classFighterAbilities>
+			<learnableSkills>			
+			</learnableSkills>
+			
+			<isMage>true</isMage>							
+			<isFighter>false</isFighter>					
+														
+			<isNecromancer>false</isNecromancer>		
+			<isUndead>false</isUndead>					
+															
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>
+		  <!-- Custom Class - the Medic -->
+		  <li>		  
+			<classTrait>TM_Medic</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff></classHediff>									
+			<classTexturePath>medictexture</classTexturePath>
+			<classIconPath>medicicon</classIconPath>		
+			<classIconColor>(.5,0.83,1.0)</classIconColor>		
+			<tornScript></tornScript>						
+			<fullScript>BookOfMedic</fullScript>			
+			
+			<classMageAbilities>							
+			</classMageAbilities>
+			<learnableSpells>								
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+				<li>TM_Medigel1B</li>
+				<li>TM_Medigel1_I</li>
+				<li>TM_Medigel1_II</li>
+				<li>TM_Medigel1_III</li>
+				<li>TM_Emergency1B</li>
+				<li>TM_Emergency1_I</li>
+				<li>TM_Emergency1_II</li>
+				<li>TM_Emergency1_III</li>
+				<li>TM_CombatDrugPainB</li>
+				<li>TM_CombatDrugPain_I</li>
+				<li>TM_CombatDrugPain_II</li>
+				<li>TM_CombatDrugPain_III</li>
+				<li>TM_CombatDrugMovingB</li>
+				<li>TM_CombatDrugMoving_I</li>
+				<li>TM_CombatDrugMoving_II</li>
+				<li>TM_CombatDrugMoving_III</li>
+				<li>TM_CombatDrugAwarenessB</li>
+				<li>TM_CombatDrugAwareness_I</li>
+				<li>TM_CombatDrugAwareness_II</li>
+				<li>TM_CombatDrugAwareness_III</li>
+				<li>TM_CombatDrugAccuracyB</li>
+				<li>TM_CombatDrugAccuracy_I</li>
+				<li>TM_CombatDrugAccuracy_II</li>
+				<li>TM_CombatDrugAccuracy_III</li>
+				<li>TM_BoosterShotB</li>
+				<li>TM_BoosterShot_I</li>
+				<li>TM_BoosterShot_II</li>
+				<li>TM_BoosterShot_III</li>
+				<li>TM_AntidepressantsB</li>
+				<li>TM_Antidepressants_I</li>
+				<li>TM_Antidepressants_II</li>
+				<li>TM_Antidepressants_III</li>
+				<li>TM_ThermoPillsB</li>
+				<li>TM_ThermoPills_I</li>
+				<li>TM_ThermoPills_II</li>
+				<li>TM_ThermoPills_III</li>
+				<li>TM_BloodTransfusionB</li>
+				<li>TM_BloodTransfusion_I</li>
+				<li>TM_BloodTransfusion_II</li>
+				<li>TM_BloodTransfusion_III</li>
+				<li>TM_AntitoxinB</li>
+				<li>TM_Antitoxin_I</li>
+				<li>TM_Antitoxin_II</li>
+				<li>TM_Antitoxin_III</li>
+			</classFighterAbilities>
+			<learnableSkills>								
+			</learnableSkills>
+			
+			<isMage>false</isMage>							
+			<isFighter>true</isFighter>						
+														
+			<isNecromancer>false</isNecromancer>		
+			<isUndead>false</isUndead>						
+															
+			<isAndroid>false</isAndroid>				
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>
+		  <!-- Custom Class - the Chroma Mage -->
+		  <li>		  
+			<classTrait>TM_ChromaMage</classTrait>		
+			<traitDegree>4</traitDegree>					
+			<classHediff></classHediff>									
+			<classTexturePath>chromamagetexture2</classTexturePath>
+			<classIconPath>chromamageicon2</classIconPath>				
+			<tornScript>Torn_BookOfChromaMage</tornScript>			
+			<fullScript></fullScript>			
+			
+			<classMageAbilities>							
+				<li>TM_Fireball</li>
+				<li>TM_Soothe</li>
+				<li>TM_Soothe_I</li>
+				<li>TM_Soothe_II</li>
+				<li>TM_Soothe_III</li>
+				<li>TM_LightningCloud</li>
+				<li>TM_SummonElemental</li>
+				<li>TM_Transmutate</li>
+				<li>TM_LightSkip</li>
+				<li>TM_Shield</li>
+				<li>TM_Shield_I</li>
+				<li>TM_Shield_II</li>
+				<li>TM_Shield_III</li>
+				<li>TM_CureDisease</li>
+				<li>TM_Purify</li>
+				<li>TM_Stoneskin</li>
+				<li>TM_SoulBond</li>
+				<li>TM_RaiseUndead</li>
+				<li>TM_MagicMissile</li>
+				<li>TM_MagicMissile_I</li>
+				<li>TM_MagicMissile_II</li>
+				<li>TM_MagicMissile_III</li>
+				<li>TM_AccelerateTime</li>
+			</classMageAbilities>
+			<learnableSpells>								
+			</learnableSpells>								
+			
+			<classFighterAbilities>							
+			</classFighterAbilities>
+			<learnableSkills>							
+			</learnableSkills>
+			
+			<isMage>true</isMage>							
+			<isFighter>false</isFighter>						
+			<maxMageLevel>30</maxMageLevel>      
+															
+			<isNecromancer>true</isNecromancer>			
+			<isUndead>false</isUndead>						
+													
+			<isAndroid>false</isAndroid>				
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>
+		  <!-- Custom Class - the Harbinger -->
+		  <li>		  
+			<classTrait>TM_Harbinger</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff></classHediff>							
+			<classTexturePath>harbingertexture</classTexturePath>
+			<classIconPath>harbingericon</classIconPath>		
+			<classIconColor>(1,0.09,0.39)</classIconColor>			
+			<tornScript>Torn_BookOfHarbinger</tornScript>					
+			<fullScript>BookOfHarbinger</fullScript>			
+			
+			<classMageAbilities>							
+				<li>TM_InfuriateB</li>
+				<li>TM_Infuriate_I</li>
+				<li>TM_Infuriate_II</li>
+				<li>TM_Infuriate_III</li>
+				<li>TM_PutridBileB</li>
+				<li>TM_PutridBile_I</li>
+				<li>TM_PutridBile_II</li>
+				<li>TM_PutridBile_III</li>
+				<li>TM_ShadowFettersB</li>
+				<li>TM_ShadowFetters_I</li>
+				<li>TM_ShadowFetters_II</li>
+				<li>TM_ShadowFetters_III</li>
+				<li>TM_ParanoiaB</li>
+				<li>TM_Paranoia_I</li>
+				<li>TM_Paranoia_II</li>
+				<li>TM_Paranoia_III</li>
+				<li>TM_BloodCurseB</li>
+				<li>TM_BloodCurse_I</li>
+				<li>TM_BloodCurse_II</li>
+				<li>TM_BloodCurse_III</li>
+				<li>TM_RendSoulB</li>
+				<li>TM_RendSoul_I</li>
+				<li>TM_RendSoul_II</li>
+				<li>TM_RendSoul_III</li>
+				<li>TM_WailOfDoomB</li>
+				<li>TM_WailOfDoom_I</li>
+				<li>TM_WailOfDoom_II</li>
+				<li>TM_WailOfDoom_III</li>
+			</classMageAbilities>
+			<learnableSpells>
+			</learnableSpells>								
+			<classFighterAbilities>							
+			</classFighterAbilities>
+			<learnableSkills>								
+			</learnableSkills>
+			
+			<isMage>true</isMage>							
+			<isFighter>false</isFighter>						
+															
+			<isNecromancer>false</isNecromancer>			
+			<isUndead>false</isUndead>						
+															
+			<isAndroid>false</isAndroid>				
+			<isAdvancedClass>false</isAdvancedClass>	
+		  </li>
+		  <!-- Custom Class - the Reaper -->
+		  <li>		  
+			<classTrait>TM_Reaper</classTrait>			
+			<traitDegree>4</traitDegree>				
+			<classHediff></classHediff>							
+			<classTexturePath>reapertexture</classTexturePath>
+			<classIconPath>reapericon</classIconPath>		
+			<classIconColor>(.31,.79,.565)</classIconColor>	
+			<tornScript></tornScript>					
+			<fullScript>BookOfReaper</fullScript>			
+			
+			<classMageAbilities>
+				<li>TM_ShadowWalk</li>
+				<li>TM_DarkFlightB</li>
+				<li>TM_DarkFlight_I</li>
+				<li>TM_DarkFlight_II</li>
+				<li>TM_DarkFlight_III</li>
+				<li>TM_InfuriateB</li>
+				<li>TM_Infuriate_I</li>
+				<li>TM_Infuriate_II</li>
+				<li>TM_Infuriate_III</li>
+			</classMageAbilities>
+				
+			<learnableSpells>								
+			</learnableSpells>								
+			
+			<classFighterAbilities>						
+				<li>TM_Possess</li>
+				<li>TM_SomnolenceB</li>
+				<li>TM_Somnolence_I</li>
+				<li>TM_Somnolence_II</li>
+				<li>TM_Somnolence_III</li>
+				<li>TM_DementiaB</li>
+				<li>TM_Dementia_I</li>
+				<li>TM_Dementia_II</li>
+				<li>TM_Dementia_III</li>
+				<li>TM_MaliceB</li>
+				<li>TM_Malice_I</li>
+				<li>TM_Malice_II</li>
+				<li>TM_Malice_III</li>
+			</classFighterAbilities>
+			<learnableSkills>								
+			</learnableSkills>
+			
+			<isMage>true</isMage>							
+			<isFighter>true</isFighter>						
+														
+			<isNecromancer>false</isNecromancer>			
+			<isUndead>false</isUndead>						
+														
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>
+		  <!-- Custom Class - the Berserker -->
+ 		  <li>		  
+			<classTrait>TM_Berserker</classTrait>				
+			<traitDegree>4</traitDegree>												
+			<classHediff>TM_HateHD</classHediff>								
+			<classTexturePath>berserkertexture2</classTexturePath>
+			<classIconPath>berserkericon2</classIconPath>		
+			<classIconColor>(.85,.75,0.48)</classIconColor>
+			<tornScript></tornScript>						
+			<fullScript>BookOfBerserker</fullScript>	
+			
+			<classMageAbilities>							
+			</classMageAbilities>
+			<learnableSpells>								
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+				<li>TM_LifeSteal</li>
+				<li>TM_Cleave</li>
+				<li>TM_ThrillOfBattleB</li>
+				<li>TM_ThrillOfBattle_I</li>
+				<li>TM_ThrillOfBattle_II</li>
+				<li>TM_ThrillOfBattle_III</li>
+				<li>TM_BerserkB</li>
+				<li>TM_Berserk_I</li>
+				<li>TM_Berserk_II</li>
+				<li>TM_Berserk_III</li>
+				<li>TM_HasteB</li>
+				<li>TM_Haste_I</li>
+				<li>TM_Haste_II</li>
+				<li>TM_Haste_III</li>
+				<li>TM_RecklessChargeB</li>
+				<li>TM_RecklessCharge_I</li>
+				<li>TM_RecklessCharge_II</li>
+				<li>TM_RecklessCharge_III</li>
+			</classFighterAbilities>
+			<learnableSkills>								
+			</learnableSkills>
+			
+			<isMage>false</isMage>							
+			<isFighter>true</isFighter>					
+			<isNecromancer>false</isNecromancer>			
+			<isUndead>false</isUndead>										
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>
+		  <!-- Custom Class - the Scion -->
+ 		  <li>		  
+			<classTrait>TM_Scion</classTrait>				
+			<traitDegree>4</traitDegree>													
+			<classHediff></classHediff>							
+			<classTexturePath>sciontexture</classTexturePath>
+			<classIconPath>scionicon</classIconPath>		
+			<classIconColor>(.85,.75,0.48)</classIconColor>		
+			<tornScript></tornScript>						
+			<fullScript>BookOfScion</fullScript>	
+			
+			<classMageAbilities>							
+			</classMageAbilities>
+			<learnableSpells>								
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+				<li>TM_QilinStanceB</li>
+				<li>TM_QilinStance_I</li>
+				<li>TM_QilinStance_II</li>
+				<li>TM_QilinStance_III</li>
+				<li>TM_TurtleStanceB</li>
+				<li>TM_TurtleStance_I</li>
+				<li>TM_TurtleStance_II</li>
+				<li>TM_TurtleStance_III</li>
+				<li>TM_PhoenixStanceB</li>
+				<li>TM_PhoenixStance_I</li>
+				<li>TM_PhoenixStance_II</li>
+				<li>TM_PhoenixStance_III</li>
+				<li>TM_DragonStanceB</li>
+				<li>TM_DragonStance_I</li>
+				<li>TM_DragonStance_II</li>
+				<li>TM_DragonStance_III</li>
+				<li>TM_AscendedStanceB</li>
+				<li>TM_AscendedStance_I</li>
+				<li>TM_AscendedStance_II</li>
+				<li>TM_AscendedStance_III</li>
+				<li>TM_CancelStanceB</li>
+				<li>TM_CancelStance_I</li>
+			</classFighterAbilities>
+			<learnableSkills>								
+			</learnableSkills>
+			
+			<isMage>false</isMage>							
+			<isFighter>true</isFighter>					
+			<isNecromancer>false</isNecromancer>			
+			<isUndead>false</isUndead>										
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>
+
+		  <!-- Custom Class - the Plaguedoctor -->
+ 		  <li>		  
+			<classTrait>TM_Plaguedoctor</classTrait>				
+			<traitDegree>4</traitDegree>													
+			<classHediff></classHediff>									
+			<classTexturePath>plaguedoctortexture</classTexturePath>
+			<classIconPath>plaguedoctoricon</classIconPath>		
+			<classIconColor>(.3,0,.6)</classIconColor>		
+			<tornScript></tornScript>						
+			<fullScript>BookOfPlaguedoctor</fullScript>	
+			
+			<classMageAbilities>							
+			</classMageAbilities>
+			<learnableSpells>								
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+				<li>TM_ExperimentalIncisionB</li>
+				<li>TM_ExperimentalIncision_I</li>
+				<li>TM_ExperimentalIncision_II</li>
+				<li>TM_ExperimentalIncision_III</li>
+				<li>TM_InvoluntaryInoculationB</li>
+				<li>TM_InvoluntaryInoculation_I</li>
+				<li>TM_InvoluntaryInoculation_II</li>
+				<li>TM_InvoluntaryInoculation_III</li>
+				<li>TM_CallousSurgeryB</li>
+				<li>TM_CallousSurgery_I</li>
+				<li>TM_CallousSurgery_II</li>
+				<li>TM_CallousSurgery_III</li>
+				<li>TM_VileTransfusionB</li>
+				<li>TM_VileTransfusion_I</li>
+				<li>TM_VileTransfusion_II</li>
+				<li>TM_VileTransfusion_III</li>
+				<li>TM_BloodlettingB</li>
+				<li>TM_Bloodletting_I</li>
+				<li>TM_Bloodletting_II</li>
+				<li>TM_Bloodletting_III</li>
+				<li>TM_PlagueKnifeB</li>
+				<li>TM_PlagueKnife_I</li>
+				<li>TM_PlagueKnife_II</li>
+				<li>TM_PlagueKnife_III</li>
+				<li>TM_GleefulButcheryB</li>
+				<li>TM_GleefulButchery_I</li>
+				<li>TM_GleefulButchery_II</li>
+				<li>TM_GleefulButchery_III</li>
+				<li>TM_FetidFumesB</li>
+				<li>TM_FetidFumes_I</li>
+				<li>TM_FetidFumes_II</li>
+				<li>TM_FetidFumes_III</li>
+				<li>TM_ProperDisposalB</li>
+				<li>TM_ProperDisposal_I</li>
+				<li>TM_ProperDisposal_II</li>
+				<li>TM_ProperDisposal_III</li>
+			</classFighterAbilities>
+			<learnableSkills>								
+			</learnableSkills>
+			
+			<isMage>false</isMage>							
+			<isFighter>true</isFighter>					
+			<isNecromancer>false</isNecromancer>			
+			<isUndead>false</isUndead>										
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>
+		  <!-- Custom Class - the Cleric -->
+		  <li>		  
+			<classTrait>TM_Cleric</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff></classHediff>								
+			<classTexturePath>clerictexture</classTexturePath> 
+			<classIconPath>clericicon</classIconPath>		
+			<classIconColor>(.85,.75,0.48)</classIconColor>	
+			<tornScript>Torn_BookOfCleric</tornScript>						
+			<fullScript>BookOfCleric</fullScript>			
+			
+			<classMageAbilities>
+				<li>TM_FastHeal</li>
+				<li>TM_SapB</li>
+				<li>TM_Sap_I</li>
+				<li>TM_Sap_II</li>
+				<li>TM_Sap_III</li>
+				<li>TM_LumenShotB</li>
+				<li>TM_LumenShot_I</li>
+				<li>TM_LumenShot_II</li>
+				<li>TM_LumenShot_III</li>
+				<li>TM_GreaterDispelB</li>
+				<li>TM_GreaterDispel_I</li>
+				<li>TM_GreaterDispel_II</li>
+				<li>TM_GreaterDispel_III</li>
+				<li>TM_MindShockB</li>
+				<li>TM_MindShock_I</li>
+				<li>TM_MindShock_II</li>
+				<li>TM_MindShock_III</li>
+				<li>TM_ProtectB</li>
+				<li>TM_Protect_I</li>
+				<li>TM_Protect_II</li>
+				<li>TM_Protect_III</li>
+				<li>TM_HolyWrath</li>				
+			</classMageAbilities>
+			<learnableSpells>
+				<li>SpellOf_HolyWrath</li>
+				<li>SpellOf_ShieldOther</li>							
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+			</classFighterAbilities>
+			<learnableSkills>								
+			</learnableSkills>
+			
+			<isMage>true</isMage>						
+			<isFighter>false</isFighter>						
+															
+			<isNecromancer>false</isNecromancer>			
+			<isUndead>false</isUndead>						
+															
+			<isAndroid>false</isAndroid>				
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>
+
+		  <!-- Custom Class - the Arbormancer -->
+		  <li>		  
+			<classTrait>TM_Arbormancer</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff></classHediff>								
+			<classTexturePath>arbormancertexture</classTexturePath>
+			<classIconPath>arbormancericon</classIconPath>		
+			<classIconColor>(0.11,0.66,0.02)</classIconColor>		
+			<tornScript>Torn_BookOfArbormancer</tornScript>						
+			<fullScript>BookOfArbormancer</fullScript>			
+			
+			<classMageAbilities>
+				<li>TM_VerdantTraversalB</li>
+				<li>TM_VerdantTraversal_I</li>
+				<li>TM_VerdantTraversal_II</li>
+				<li>TM_VerdantTraversal_III</li>
+				<li>TM_ElementalOrigin</li>
+				<li>TM_Healberry</li>
+				<li>TM_Honeytrap</li>
+				<li>TM_BloodsoakB</li>
+				<li>TM_Bloodsoak_I</li>
+				<li>TM_Bloodsoak_II</li>
+				<li>TM_Bloodsoak_III</li>
+				<li>TM_CombustB</li>
+				<li>TM_Combust_I</li>
+				<li>TM_Combust_II</li>
+				<li>TM_Combust_III</li>
+			</classMageAbilities>
+			<learnableSpells>						
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+			</classFighterAbilities>
+			<learnableSkills>								
+			</learnableSkills>
+			
+			<isMage>true</isMage>						
+			<isFighter>false</isFighter>						
+															
+			<isNecromancer>false</isNecromancer>			
+			<isUndead>false</isUndead>						
+															
+			<isAndroid>false</isAndroid>				
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>
+
+		  <!-- Custom Class - the Chainwarden -->
+		  <li>		  
+			<classTrait>TM_Chainwarden</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff></classHediff>								
+			<classTexturePath>chaintexture</classTexturePath>
+			<classIconPath>chainicon</classIconPath>		
+			<classIconColor>(0.85,0.51,0.161)</classIconColor>		
+			<tornScript></tornScript>						
+			<fullScript>BookOfChainwarden</fullScript>			
+			
+			<classMageAbilities>			
+			</classMageAbilities>
+			<learnableSpells>						
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+				<li>TM_ChainStrikeB</li>
+				<li>TM_ChainStrike_I</li>
+				<li>TM_ChainStrike_II</li>
+				<li>TM_ChainStrike_III</li>
+				<li>TM_ChainDashB</li>
+				<li>TM_ChainDash_I</li>
+				<li>TM_ChainDash_II</li>
+				<li>TM_ChainDash_III</li>
+				<li>TM_ChainClimb</li>
+				<li>TM_ChainClimb_I</li>
+				<li>TM_ChainClimb_II</li>
+				<li>TM_ChainClimb_III</li>
+				<li>TM_CondemnB</li>
+				<li>TM_Condemn_I</li>
+				<li>TM_Condemn_II</li>
+				<li>TM_Condemn_III</li>
+				<li>TM_ChainJailB</li>
+				<li>TM_ChainJail_I</li>
+				<li>TM_ChainJail_II</li>
+				<li>TM_ChainJail_III</li>
+				<li>TM_ChainWardB</li>
+				<li>TM_ChainWard_I</li>
+				<li>TM_ChainWard_II</li>
+				<li>TM_ChainWard_III</li>
+			</classFighterAbilities>
+			<learnableSkills>								
+			</learnableSkills>
+			
+			<isMage>false</isMage>						
+			<isFighter>true</isFighter>						
+															
+			<isNecromancer>false</isNecromancer>			
+			<isUndead>false</isUndead>						
+															
+			<isAndroid>false</isAndroid>				
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>
+
+		  <!-- Custom Class - the Ambusher -->
+		  <li>		  
+			<classTrait>TM_Ambusher</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff></classHediff>								
+			<classTexturePath>ambushertexture</classTexturePath>
+			<classIconPath>ambushericon</classIconPath>		
+			<classIconColor>(.33,0.43,.69)</classIconColor>		
+			<tornScript></tornScript>						
+			<fullScript>BookOfAmbusher</fullScript>			
+			
+			<classMageAbilities>			
+			</classMageAbilities>
+			<learnableSpells>						
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+				<li>TM_DeathsCharge</li>
+				<li>TM_DeathsCharge_I</li>
+				<li>TM_DeathsCharge_II</li>
+				<li>TM_DeathsCharge_III</li>
+				<li>TM_Eviscerate</li>
+				<li>TM_Eviscerate_I</li>
+				<li>TM_Eviscerate_II</li>
+				<li>TM_Eviscerate_III</li>
+				<li>TM_ExplosiveTrap</li>
+				<li>TM_ExplosiveTrap_I</li>
+				<li>TM_ExplosiveTrap_II</li>
+				<li>TM_ExplosiveTrap_III</li>
+				<li>TM_FlameTrap</li>
+				<li>TM_FlameTrap_I</li>
+				<li>TM_FlameTrap_II</li>
+				<li>TM_FlameTrap_III</li>
+				<li>TM_StunTrap</li>
+				<li>TM_StunTrap_I</li>
+				<li>TM_StunTrap_II</li>
+				<li>TM_StunTrap_III</li>
+				<li>TM_MiniMine</li>
+				<li>TM_MiniMine_I</li>
+				<li>TM_MiniMine_II</li>
+				<li>TM_MiniMine_III</li>
+				<li>TM_Firestarter</li>
+				<li>TM_Firestarter_I</li>
+				<li>TM_Firestarter_II</li>
+				<li>TM_Firestarter_III</li>
+			</classFighterAbilities>
+			<learnableSkills>								
+			</learnableSkills>
+			
+			<isMage>false</isMage>						
+			<isFighter>true</isFighter>						
+															
+			<isNecromancer>false</isNecromancer>			
+			<isUndead>false</isUndead>						
+															
+			<isAndroid>false</isAndroid>				
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>
+
+		  <!-- Custom Class - the Saboteur -->
+		  <li>		  
+			<classTrait>TM_Saboteur</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff></classHediff>								
+			<classTexturePath>saboteurtexture</classTexturePath>
+			<classIconPath>saboteuricon</classIconPath>				
+			<tornScript></tornScript>						
+			<fullScript>BookOfSaboteur</fullScript>			
+			
+			<classMageAbilities>			
+			</classMageAbilities>
+			<learnableSpells>						
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+				<li>TM_DisguiseKit</li>
+				<li>TM_StickyBombsB</li>
+				<li>TM_StickyBombs_I</li>
+				<li>TM_StickyBombs_II</li>
+				<li>TM_StickyBombs_III</li>
+				<li>TM_C45ExplosivesB</li>
+				<li>TM_C45Explosives_I</li>
+				<li>TM_C45Explosives_II</li>
+				<li>TM_C45Explosives_III</li>
+				<li>TM_FlashbangB</li>
+				<li>TM_Flashbang_I</li>
+				<li>TM_Flashbang_II</li>
+				<li>TM_Flashbang_III</li>
+				<li>TM_CloakingDeviceB</li>
+				<li>TM_CloakingDevice_I</li>
+				<li>TM_CloakingDevice_II</li>
+				<li>TM_CloakingDevice_III</li>
+				<li>TM_JetpackB</li>
+				<li>TM_Jetpack_I</li>
+				<li>TM_Jetpack_II</li>
+				<li>TM_Jetpack_III</li>
+				<li>TM_TaserB</li>
+				<li>TM_Taser_I</li>
+				<li>TM_Taser_II</li>
+				<li>TM_Taser_III</li>
+				<li>TM_ExplosiveTrap</li>
+				<li>TM_ExplosiveTrap_I</li>
+				<li>TM_ExplosiveTrap_II</li>
+				<li>TM_ExplosiveTrap_III</li>
+			</classFighterAbilities>
+			<learnableSkills>							
+			</learnableSkills>
+			
+			<isMage>false</isMage>						
+			<isFighter>true</isFighter>						
+															
+			<isNecromancer>false</isNecromancer>			
+			<isUndead>false</isUndead>						
+															
+			<isAndroid>false</isAndroid>				
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>
+
+		  <!-- Custom Class - the Keeper -->
+		  <li>		  
+			<classTrait>TM_Keeper</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff></classHediff>								
+			<classTexturePath>keepertexture</classTexturePath> 
+			<classIconPath>keepericon</classIconPath>		
+			<classIconColor>(0.6,0.415,0.68)</classIconColor>	
+			<tornScript>Torn_BookOfKeeper</tornScript>						
+			<fullScript>BookOfKeeper</fullScript>			
+			
+			<classMageAbilities>						
+				<li>TM_Sentinel</li>
+				<li>TM_Encase</li>
+				<li>TM_Encase_I</li>
+				<li>TM_Encase_II</li>
+				<li>TM_Encase_III</li>
+				<li>TM_ArcaneWallB</li>
+				<li>TM_ArcaneWall_I</li>
+				<li>TM_ArcaneWall_II</li>
+				<li>TM_ArcaneWall_III</li>
+				<li>TM_SummonExplosive</li>
+				<li>TM_SummonPylon</li>
+				<li>TM_EssenceChanneling</li>
+				<li>TM_Fortify</li>
+				<li>TM_Fortify_I</li>
+				<li>TM_Fortify_II</li>
+				<li>TM_Fortify_III</li>
+				<li>TM_Totems</li>
+			</classMageAbilities>
+			<learnableSpells>						
+			</learnableSpells>								
+			
+			<classFighterAbilities>						
+			</classFighterAbilities>
+			<learnableSkills>					
+			</learnableSkills>
+			
+			<isMage>true</isMage>							
+			<isFighter>false</isFighter>					
+														
+			<isNecromancer>false</isNecromancer>		
+			<isUndead>false</isUndead>					
+															
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>
+
+		  <!-- Custom Class - the Pridestalker -->
+		  <li>		  
+			<classTrait>TM_Pridestalker</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff></classHediff>								
+			<classTexturePath>pridestalkertexture</classTexturePath> 
+			<classIconPath>pridestalkericon</classIconPath>		
+			<classIconColor>(0.67,0.81,0.45)</classIconColor>	
+			<tornScript></tornScript>						
+			<fullScript>BookOfPridestalker</fullScript>			
+			
+			<classMageAbilities>						
+				<li>TM_Polymorph</li>
+				<li>TM_Polymorph_I</li>
+				<li>TM_Polymorph_II</li>
+				<li>TM_Polymorph_III</li>
+				<li>TM_StalkersGazeB</li>
+				<li>TM_StalkersGaze_I</li>
+				<li>TM_StalkersGaze_II</li>
+				<li>TM_StalkersGaze_III</li>
+				<li>TM_SpiritWolves</li>
+				<li>TM_SpiritWolves_I</li>
+				<li>TM_SpiritWolves_II</li>
+				<li>TM_SpiritWolves_III</li>
+				<li>TM_Shapeshift</li>
+				<li>TM_SummonPoppi</li>
+			</classMageAbilities>
+			<learnableSpells>
+				<li>SpellOf_Shapeshift</li>
+				<li>SpellOf_SummonPoppi</li>							
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+				<li>TM_BowTraining</li>	
+				<li>TM_LesserAnimalBond</li>		
+				<li>TM_PhysicalShapeshiftB</li>
+				<li>TM_PhysicalShapeshift_I</li>
+				<li>TM_PhysicalShapeshift_II</li>
+				<li>TM_PhysicalShapeshift_III</li>
+				<li>TM_BarbedArrow</li>
+				<li>TM_BarbedArrow_I</li>
+				<li>TM_BarbedArrow_II</li>
+				<li>TM_BarbedArrow_III</li>
+				<li>TM_ArrowStorm</li>
+				<li>TM_ArrowStorm_I</li>
+				<li>TM_ArrowStorm_II</li>
+				<li>TM_ArrowStorm_III</li>
+				<li>TM_ClarionCallB</li>
+				<li>TM_ClarionCall_I</li>
+				<li>TM_ClarionCall_II</li>
+				<li>TM_ClarionCall_III</li>
+			</classFighterAbilities>
+			<learnableSkills>				
+			</learnableSkills>
+			
+			<isMage>true</isMage>							
+			<isFighter>true</isFighter>					
+														
+			<isNecromancer>false</isNecromancer>		
+			<isUndead>false</isUndead>					
+															
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>
+
+		  <!-- Custom Class - the Starseeker -->
+		  <li>		  
+			<classTrait>TM_Starseeker</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff>TM_NaturalTalentHD</classHediff>								
+			<classTexturePath>starseekertexture</classTexturePath> 
+			<classIconPath>starseekericon</classIconPath>		
+			<classIconColor>(0.53,0.91,0.76)</classIconColor>	
+			<tornScript></tornScript>						
+			<fullScript></fullScript>			
+			
+			<classMageAbilities>						
+				<li>TM_Lightshow</li>
+				<li>TM_Dazzle</li>
+				<li>TM_Impact</li>
+				<li>TM_Decimate</li>
+				<li>TM_Obliterate</li>
+				<li>TM_PartyTrick</li>
+				<li>TM_MaybeHand</li>
+				<li>TM_MageHand</li>
+				<li>TM_Beckon</li>
+				<li>TM_VoidCall</li>
+				<li>TM_OldWivesChant</li>
+				<li>TM_LesserWard</li>
+				<li>TM_WardAgainstHarm</li>
+				<li>TM_GreaterWard</li>
+				<li>TM_OmniWard</li>
+				<li>TM_LesserLesserFirebolt</li>
+				<li>TM_LesserFirebolt</li>
+				<li>TM_ConjureFlame</li>
+				<li>TM_Perdition</li>
+				<li>TM_Cataclysm</li>
+				<li>TM_ExpiredSnowball</li>
+				<li>TM_ChillyBreeze</li>
+				<li>TM_Freeze</li>
+				<li>TM_Avalanche</li>
+				<li>TM_Whiteout</li>
+				<li>TM_StaticShock</li>
+				<li>TM_StaticBolt</li>
+				<li>TM_ForkedLightning</li>
+				<li>TM_LightningRod</li>
+				<li>TM_Cloudburst</li>
+				<li>TM_Daydream</li>
+				<li>TM_StrikeAPose</li>
+				<li>TM_ArcaneAwareness</li>
+				<li>TM_EtherFlux</li>
+				<li>TM_ArchmagesAbsolution</li>
+			</classMageAbilities>
+			<learnableSpells>						
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+			</classFighterAbilities>
+			<learnableSkills>					
+			</learnableSkills>
+			
+			<isMage>true</isMage>							
+			<isFighter>false</isFighter>
+            		<maxMageLevel>200</maxMageLevel>					
+														
+			<isNecromancer>false</isNecromancer>		
+			<isUndead>false</isUndead>					
+															
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>
+
+		  <!-- Custom Class - the Aspirant -->
+		  <li>		  
+			<classTrait>TM_Aspirant</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff>TM_NaturalTalentHD</classHediff>								
+			<classTexturePath>aspiranttexture</classTexturePath>
+			<classIconPath>aspiranticon</classIconPath>		
+			<classIconColor>(0.96,0.80,0.49)</classIconColor>		
+			<tornScript></tornScript>						
+			<fullScript></fullScript>			
+			
+			<classMageAbilities>						
+			</classMageAbilities>
+			<learnableSpells>						
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+				<li>TM_Thwack</li>
+				<li>TM_AwkwardSlash</li>
+				<li>TM_QuickSlash</li>
+				<li>TM_DecaSlash</li>
+				<li>TM_HundredBlades</li>
+				<li>TM_TentativeStep</li>
+				<li>TM_HastyDash</li>
+				<li>TM_StepThrust</li>
+				<li>TM_LightningThrust</li>
+				<li>TM_SpatialRift</li>
+				<li>TM_PebbleToss</li>
+				<li>TM_SpinningJavelin</li>
+				<li>TM_FieryJavelin</li>
+				<li>TM_FlameBarrage</li>
+				<li>TM_PillarOfFlame</li>
+				<li>TM_KindWords</li>
+				<li>TM_Praise</li>
+				<li>TM_Acclaim</li>
+				<li>TM_Motivate</li>
+				<li>TM_Cheer</li>
+				<li>TM_MeanWords</li>
+				<li>TM_Berate</li>
+				<li>TM_Lambaste</li>
+				<li>TM_Castigate</li>
+				<li>TM_BellowingWarcry</li>
+				<li>TM_TinyBandAid</li>
+				<li>TM_LesserHealingPotion</li>
+				<li>TM_HealingPotion</li>
+				<li>TM_GreaterHealingPotion</li>
+				<li>TM_MysticPotion</li>
+				<li>TM_FetalPose</li>
+				<li>TM_ArmBlock</li>
+				<li>TM_DefensiveStance</li>
+				<li>TM_VeteransStance</li>
+				<li>TM_DefiantStance</li>
+			</classFighterAbilities>
+			<learnableSkills>					
+			</learnableSkills>
+			
+			<isMage>false</isMage>							
+			<isFighter>true</isFighter>
+            		<maxFighterLevel>200</maxFighterLevel>  				
+														
+			<isNecromancer>false</isNecromancer>		
+			<isUndead>false</isUndead>					
+															
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>
+
+		  <!-- Custom Class - the Hawkeye -->
+		  <li>		  
+			<classTrait>TM_Hawkeye</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff></classHediff>						
+			<classTexturePath>hawkeyetexture</classTexturePath>
+			<classIconPath>hawkeyeicon</classIconPath>		
+			<classIconColor>(0.38,0.47,0.28)</classIconColor>		
+			<tornScript></tornScript>						
+			<fullScript>BookOfHawkeye</fullScript>	
+			
+			<classMageAbilities>
+			</classMageAbilities>
+			<learnableSpells>								
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+				<li>TM_BowTraining</li>
+				<li>TM_BarbedArrow</li>
+				<li>TM_BarbedArrow_I</li>
+				<li>TM_BarbedArrow_II</li>
+				<li>TM_BarbedArrow_III</li>
+				<li>TM_PoisonArrow</li>
+				<li>TM_PoisonArrow_I</li>
+				<li>TM_PoisonArrow_II</li>
+				<li>TM_PoisonArrow_III</li>
+				<li>TM_FireArrow</li>
+				<li>TM_FireArrow_I</li>
+				<li>TM_FireArrow_II</li>
+				<li>TM_FireArrow_III</li>
+				<li>TM_ArcingArrow</li>
+				<li>TM_ArcingArrow_I</li>
+				<li>TM_ArcingArrow_II</li>
+				<li>TM_ArcingArrow_III</li>
+				<li>TM_ChokingGas</li>
+				<li>TM_ChokingGas_I</li>
+				<li>TM_ChokingGas_II</li>
+				<li>TM_ChokingGas_III</li>
+				<li>TM_NeedlingShot</li>
+				<li>TM_NeedlingShot_I</li>
+				<li>TM_NeedlingShot_II</li>
+				<li>TM_NeedlingShot_III</li>
+				<li>TM_CalledShot</li>
+				<li>TM_CalledShot_I</li>
+				<li>TM_CalledShot_II</li>
+				<li>TM_CalledShot_III</li>
+				<li>TM_Multishot</li>
+				<li>TM_Multishot_I</li>
+				<li>TM_Multishot_II</li>
+				<li>TM_Multishot_III</li>
+				<li>TM_Barrage</li>
+				<li>TM_Barrage_I</li>
+				<li>TM_Barrage_II</li>
+				<li>TM_Barrage_III</li>
+			</classFighterAbilities>
+			<learnableSkills>								
+			</learnableSkills>
+			
+			<isMage>false</isMage>							
+			<isFighter>true</isFighter>					
+													
+			<isNecromancer>false</isNecromancer>			
+			<isUndead>false</isUndead>						
+															
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>	
+		  </li>
+
+		  <!-- Custom Class - the Atronach -->
+		  <li>		  
+			<classTrait>TM_Atronach</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff>TM_AtronachHD</classHediff>								
+			<classTexturePath>atronachtexture</classTexturePath> 
+			<classIconPath>atronachicon</classIconPath>		
+			<classIconColor>(0.44,0.21,0.40)</classIconColor>	
+			<tornScript></tornScript>						
+			<fullScript></fullScript>			
+			
+			<classMageAbilities>
+				<li>TM_ManaDrain</li>
+				<li>TM_ManaDrain_I</li>
+				<li>TM_ManaDrain_II</li>
+				<li>TM_ManaDrain_III</li>
+				<li>TM_AtronachsTouch</li>
+				<li>TM_AtronachsTouch_I</li>
+				<li>TM_AtronachsTouch_II</li>
+				<li>TM_AtronachsTouch_III</li>
+				<li>TM_GrimRitual</li>
+				<li>TM_GrimRitual_I</li>
+				<li>TM_GrimRitual_II</li>
+				<li>TM_GrimRitual_III</li>
+				<li>TM_OverloadMana</li>
+				<li>TM_OverloadMana_I</li>
+				<li>TM_OverloadMana_II</li>
+				<li>TM_OverloadMana_III</li>
+				<li>TM_Cleanse</li>
+				<li>TM_Cleanse_I</li>
+				<li>TM_Cleanse_II</li>
+				<li>TM_Cleanse_III</li>
+				<li>TM_CurseOfTheAtronach</li>
+				<li>TM_CurseOfTheAtronach_I</li>
+				<li>TM_CurseOfTheAtronach_II</li>
+				<li>TM_CurseOfTheAtronach_III</li>
+				<li>TM_AtronachsShadowstep</li>
+				<li>TM_AtronachsShadowstep_I</li>
+				<li>TM_AtronachsShadowstep_II</li>
+				<li>TM_AtronachsShadowstep_III</li>
+				<li>TM_EldritchBarrage</li>
+				<li>TM_EldritchBarrage_I</li>
+				<li>TM_EldritchBarrage_II</li>
+				<li>TM_EldritchBarrage_III</li>
+			</classMageAbilities>
+			<learnableSpells>				
+			</learnableSpells>								
+			
+			<classFighterAbilities>						
+			</classFighterAbilities>
+			<learnableSkills>					
+			</learnableSkills>
+			
+			<isMage>true</isMage>							
+			<isFighter>false</isFighter>					
+														
+			<isNecromancer>false</isNecromancer>		
+			<isUndead>false</isUndead>					
+															
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>
+
+		  <!-- Custom Class - the Support Specialist -->
+		  <li>		  
+			<classTrait>TM_SupportSpecialist</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff></classHediff>								
+			<classTexturePath>supportspecialisttexture</classTexturePath>
+			<classIconPath>supportspecialisticon2</classIconPath>			
+			<tornScript></tornScript>								
+			<fullScript>BookOfSupportSpecialist</fullScript>			
+			
+			<classMageAbilities>						
+			</classMageAbilities>
+			<learnableSpells>						
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+				<li>TM_Scattershot</li>
+				<li>TM_Scattershot_I</li>
+				<li>TM_Scattershot_II</li>
+				<li>TM_Scattershot_III</li>
+				<li>TM_PointBlank</li>
+				<li>TM_PointBlank_I</li>
+				<li>TM_PointBlank_II</li>
+				<li>TM_PointBlank_III</li>
+				<li>TM_FlashpowderShells</li>
+				<li>TM_FlashpowderShells_I</li>
+				<li>TM_FlashpowderShells_II</li>
+				<li>TM_FlashpowderShells_III</li>
+				<li>TM_DragonsBreathShells</li>
+				<li>TM_DragonsBreathShells_I</li>
+				<li>TM_DragonsBreathShells_II</li>
+				<li>TM_DragonsBreathShells_III</li>
+				<li>TM_HiExplosiveShells</li>
+				<li>TM_HiExplosiveShells_I</li>
+				<li>TM_HiExplosiveShells_II</li>
+				<li>TM_HiExplosiveShells_III</li>
+				<li>TM_Emergency1B</li>
+				<li>TM_Emergency1_I</li>
+				<li>TM_Emergency1_II</li>
+				<li>TM_Emergency1_III</li>
+				<li>TM_StimShot</li>
+				<li>TM_StimShot_I</li>
+				<li>TM_StimShot_II</li>
+				<li>TM_StimShot_III</li>
+				<li>TM_BoosterShotB</li>
+				<li>TM_BoosterShot_I</li>
+				<li>TM_BoosterShot_II</li>
+				<li>TM_BoosterShot_III</li>
+				<li>TM_InflatableWallB</li>
+				<li>TM_InflatableWall_I</li>
+				<li>TM_InflatableWall_II</li>
+				<li>TM_InflatableWall_III</li>
+			</classFighterAbilities>
+			<learnableSkills>					
+			</learnableSkills>
+			
+			<isMage>false</isMage>							
+			<isFighter>true</isFighter>				
+														
+			<isNecromancer>false</isNecromancer>		
+			<isUndead>false</isUndead>					
+															
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>
+
+		  <!-- Custom Class - the Scrapper -->
+		  <li>		  
+			<classTrait>TM_Scrapper</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff>TM_ScrapperHD</classHediff>								
+			<classTexturePath>scrappertexture</classTexturePath>
+			<classIconPath>scrappericon</classIconPath>		
+			<classIconColor>(.85,.75,0.48)</classIconColor>		
+			<tornScript></tornScript>								
+			<fullScript>BookOfScrapper</fullScript>			
+			
+			<classMageAbilities>						
+			</classMageAbilities>
+			<learnableSpells>						
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+				<li>TM_BrawlingBlock</li>
+				<li>TM_BrawlingBlock_I</li>
+				<li>TM_BrawlingBlock_II</li>
+				<li>TM_BrawlingBlock_III</li>
+				<li>TM_Jab</li>
+				<li>TM_Jab_I</li>
+				<li>TM_Jab_II</li>
+				<li>TM_Jab_III</li>
+				<li>TM_LeftHook</li>
+				<li>TM_LeftHook_I</li>
+				<li>TM_LeftHook_II</li>
+				<li>TM_LeftHook_III</li>
+				<li>TM_Uppercut</li>
+				<li>TM_Uppercut_I</li>
+				<li>TM_Uppercut_II</li>
+				<li>TM_Uppercut_III</li>
+				<li>TM_BodySlam</li>
+				<li>TM_BodySlam_I</li>
+				<li>TM_BodySlam_II</li>
+				<li>TM_BodySlam_III</li>
+				<li>TM_Headbutt</li>
+				<li>TM_Headbutt_I</li>
+				<li>TM_Headbutt_II</li>
+				<li>TM_Headbutt_III</li>
+				<li>TM_Haymaker</li>
+				<li>TM_Haymaker_I</li>
+				<li>TM_Haymaker_II</li>
+				<li>TM_Haymaker_III</li>
+				<li>TM_CrushingBlow</li>
+				<li>TM_CrushingBlow_I</li>
+				<li>TM_CrushingBlow_II</li>
+				<li>TM_CrushingBlow_III</li>
+				<li>TM_RockThrow</li>
+				<li>TM_RockThrow_I</li>
+				<li>TM_RockThrow_II</li>
+				<li>TM_RockThrow_III</li>
+				<li>TM_SuckerPunch</li>
+				<li>TM_SuckerPunch_I</li>
+				<li>TM_SuckerPunch_II</li>
+				<li>TM_SuckerPunch_III</li>
+				<li>TM_Takedown</li>
+				<li>TM_Takedown_I</li>
+				<li>TM_Takedown_II</li>
+				<li>TM_Takedown_III</li>
+				<li>TM_FalkenPunch</li>
+				<li>TM_FalkenPunch_I</li>
+				<li>TM_FalkenPunch_II</li>
+				<li>TM_FalkenPunch_III</li>
+			</classFighterAbilities>
+			<learnableSkills>					
+			</learnableSkills>
+			
+			<isMage>false</isMage>							
+			<isFighter>true</isFighter>				
+														
+			<isNecromancer>false</isNecromancer>		
+			<isUndead>false</isUndead>					
+															
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>
+
+		  <!-- Custom Class - the Oracle -->
+		  <li>		  
+			<classTrait>TM_Oracle</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff></classHediff>								
+			<classTexturePath>oracletexture2</classTexturePath>
+			<classIconPath>oracleicon2</classIconPath>			
+			<tornScript>Torn_BookOfOracle</tornScript>								
+			<fullScript>BookOfOracle</fullScript>			
+			
+			<classMageAbilities>
+				<li>TM_AstralFlames</li>
+				<li>TM_AstralFlames_I</li>
+				<li>TM_AstralFlames_II</li>
+				<li>TM_AstralFlames_III</li>
+				<li>TM_BlackStar</li>
+				<li>TM_BlackStar_I</li>
+				<li>TM_BlackStar_II</li>
+				<li>TM_BlackStar_III</li>
+				<li>TM_HeavenlySeal</li>
+				<li>TM_HeavenlySeal_I</li>
+				<li>TM_HeavenlySeal_II</li>
+				<li>TM_HeavenlySeal_III</li>
+				<li>TM_Horoscope</li>
+				<li>TM_Horoscope_I</li>
+				<li>TM_Horoscope_II</li>
+				<li>TM_Horoscope_III</li>
+				<li>TM_Divination</li>
+				<li>TM_Divination_I</li>
+				<li>TM_Divination_II</li>
+				<li>TM_Divination_III</li>
+				<li>TM_CelestialGuidance</li>		
+			</classMageAbilities>
+			<learnableSpells>
+				<li>SpellOf_PlanetaryForce</li>					
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+			</classFighterAbilities>
+			<learnableSkills>					
+			</learnableSkills>
+			
+			<isMage>true</isMage>							
+			<isFighter>false</isFighter>				
+														
+			<isNecromancer>false</isNecromancer>		
+			<isUndead>false</isUndead>					
+															
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>
+
+		  <!-- Custom Class - the Mystic -->
+		  <li>		  
+			<classTrait>TM_Mystic</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff>TM_ChiHD</classHediff>								
+			<classTexturePath>mystictexture</classTexturePath>
+			<classIconPath>mysticicon</classIconPath>		
+			<tornScript></tornScript>								
+			<fullScript>BookOfMystic</fullScript>			
+			
+			<classMageAbilities>						
+			</classMageAbilities>
+			<learnableSpells>						
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+				<li>TM_Ohajiki</li>
+				<li>TM_Ohajiki_I</li>
+				<li>TM_Ohajiki_II</li>
+				<li>TM_Ohajiki_III</li>
+				<li>TM_Shizukesa</li>
+				<li>TM_Shizukesa_I</li>
+				<li>TM_Shizukesa_II</li>
+				<li>TM_Shizukesa_III</li>
+				<li>TM_Exorcise</li>
+				<li>TM_Exorcise_I</li>
+				<li>TM_Exorcise_II</li>
+				<li>TM_Exorcise_III</li>
+				<li>TM_SmellingSalts</li>
+				<li>TM_SmellingSalts_I</li>
+				<li>TM_SmellingSalts_II</li>
+				<li>TM_SmellingSalts_III</li>
+				<li>TM_WardAgainstEvil</li>
+				<li>TM_WardAgainstEvil_I</li>
+				<li>TM_WardAgainstEvil_II</li>
+				<li>TM_WardAgainstEvil_III</li>
+				<li>TM_SealOfPurging</li>
+				<li>TM_SealOfPurging_I</li>
+				<li>TM_SealOfPurging_II</li>
+				<li>TM_SealOfPurging_III</li>
+				<li>TM_ExplosiveSeal</li>
+				<li>TM_ExplosiveSeal_I</li>
+				<li>TM_ExplosiveSeal_II</li>
+				<li>TM_ExplosiveSeal_III</li>
+				<li>TM_Absolution</li>
+				<li>TM_Absolution_I</li>
+				<li>TM_Absolution_II</li>
+				<li>TM_Absolution_III</li>
+				<li>TM_Meditate</li>
+			</classFighterAbilities>
+			<learnableSkills>
+				<li>SkillOf_OfudaStorm</li>		
+			</learnableSkills>
+			
+			<isMage>false</isMage>							
+			<isFighter>true</isFighter>				
+														
+			<isNecromancer>false</isNecromancer>		
+			<isUndead>false</isUndead>					
+															
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>
+
+		  <!-- Custom Class - the Spellbreaker -->
+		  <li>		  
+			<classTrait>TM_Spellbreaker</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff></classHediff>								
+			<classTexturePath>spellbreakerPsiMark</classTexturePath>
+			<classIconPath>spellbreakericon</classIconPath>		
+			<classIconColor>(0.86,0.71,0.364)</classIconColor>	
+			<tornScript></tornScript>								
+			<fullScript>BookOfSpellbreaker</fullScript>			
+			
+			<classMageAbilities>						
+			</classMageAbilities>
+			<learnableSpells>						
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+				<li>TM_VowOfSilence</li>
+				<li>TM_VowOfSilence_I</li>
+				<li>TM_VowOfSilence_II</li>
+				<li>TM_VowOfSilence_III</li>
+				<li>TM_DisarmingBlow</li>
+				<li>TM_DisarmingBlow_I</li>
+				<li>TM_DisarmingBlow_II</li>
+				<li>TM_DisarmingBlow_III</li>
+				<li>TM_CheapShot</li>
+				<li>TM_CheapShot_I</li>
+				<li>TM_CheapShot_II</li>
+				<li>TM_CheapShot_III</li>
+				<li>TM_MagebaneTether</li>
+				<li>TM_MagebaneTether_I</li>
+				<li>TM_MagebaneTether_II</li>
+				<li>TM_MagebaneTether_III</li>
+				<li>TM_Reposition</li>
+				<li>TM_Reposition_I</li>
+				<li>TM_Reposition_II</li>
+				<li>TM_Reposition_III</li>
+				<li>TM_DistractingDaggers</li>
+				<li>TM_DistractingDaggers_I</li>
+				<li>TM_DistractingDaggers_II</li>
+				<li>TM_DistractingDaggers_III</li>
+				<li>TM_EnergySurge</li>
+				<li>TM_EnergySurge_I</li>
+				<li>TM_EnergySurge_II</li>
+				<li>TM_EnergySurge_III</li>
+				<li>TM_ExpelEnergy</li>
+				<li>TM_ExpelEnergy_I</li>
+				<li>TM_ExpelEnergy_II</li>
+				<li>TM_ExpelEnergy_III</li>
+			</classFighterAbilities>
+			<learnableSkills>	
+			</learnableSkills>
+			
+			<isMage>false</isMage>							
+			<isFighter>true</isFighter>				
+														
+			<isNecromancer>false</isNecromancer>		
+			<isUndead>false</isUndead>					
+															
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>
+
+		  <!-- Custom Class - the Duskbringer -->
+		  <li>		  
+			<classTrait>TM_Duskbringer</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff></classHediff>						
+			<classTexturePath>duskbringertexture</classTexturePath>
+			<classIconPath>duskbringericon</classIconPath>			
+			<tornScript></tornScript>						
+			<fullScript>BookOfDuskbringer</fullScript>
+			
+			<classMageAbilities>				
+				<li>TM_FleetingLight</li>
+				<li>TM_FleetingLight_I</li>
+				<li>TM_FleetingLight_II</li>
+				<li>TM_FleetingLight_III</li>
+				<li>TM_Radiance</li>
+				<li>TM_Radiance_I</li>
+				<li>TM_Radiance_II</li>
+				<li>TM_Radiance_III</li>
+				<li>TM_Refulgence</li>
+				<li>TM_Refulgence_I</li>
+				<li>TM_Refulgence_II</li>
+				<li>TM_Refulgence_III</li>
+				<li>TM_Daybreak</li>
+				<li>TM_Daybreak_I</li>
+				<li>TM_Daybreak_II</li>
+				<li>TM_Daybreak_III</li>
+			</classMageAbilities>
+			<learnableSpells>								
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+				<li>TM_AuraOfLight</li>
+				<li>TM_WreathOfDarkness</li>
+				<li>TM_Twilight</li>
+				<li>TM_Duskstep</li>
+				<li>TM_Duskstep_I</li>
+				<li>TM_Duskstep_II</li>
+				<li>TM_Duskstep_III</li>
+				<li>TM_Eclipse</li>
+				<li>TM_Eclipse_I</li>
+				<li>TM_Eclipse_II</li>
+				<li>TM_Eclipse_III</li>
+				<li>TM_Umbra</li>
+				<li>TM_Umbra_I</li>
+				<li>TM_Umbra_II</li>
+				<li>TM_Umbra_III</li>
+				<li>TM_Nightfall</li>
+				<li>TM_Nightfall_I</li>
+				<li>TM_Nightfall_II</li>
+				<li>TM_Nightfall_III</li>
+			</classFighterAbilities>
+			<learnableSkills>								
+			</learnableSkills>
+			
+			<isMage>true</isMage>							
+			<isFighter>true</isFighter>		
+													
+			<isNecromancer>false</isNecromancer>			
+			<isUndead>false</isUndead>						
+															
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>	
+		  </li>
+
+		  <!-- Custom Class - the Thunderblessed -->
+		  <li>		  
+			<classTrait>TM_Thunderblessed</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff>TM_ThunderblessedHD</classHediff>								
+			<classTexturePath>thundertexture</classTexturePath>
+			<classIconPath>thundericon</classIconPath>		
+			<classIconColor>(0.41,0.05,0.48)</classIconColor>	
+			<tornScript></tornScript>								
+			<fullScript>BookOfThunderblessed</fullScript>			
+			
+			<classMageAbilities>						
+			</classMageAbilities>
+			<learnableSpells>						
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+				<li>TM_Discharge</li>
+				<li>TM_Discharge_I</li>
+				<li>TM_Discharge_II</li>
+				<li>TM_Discharge_III</li>
+				<li>TM_Levinflight</li>
+				<li>TM_Levinflight_I</li>
+				<li>TM_Levinflight_II</li>
+				<li>TM_Levinflight_III</li>
+				<li>TM_ThunderCall</li>
+				<li>TM_ThunderCall_I</li>
+				<li>TM_ThunderCall_II</li>
+				<li>TM_ThunderCall_III</li>
+				<li>TM_Fulmination</li>
+				<li>TM_Fulmination_I</li>
+				<li>TM_Fulmination_II</li>
+				<li>TM_Fulmination_III</li>
+				<li>TM_ThunderAegis</li>
+				<li>TM_ThunderAegis_I</li>
+				<li>TM_ThunderAegis_II</li>
+				<li>TM_ThunderAegis_III</li>
+			</classFighterAbilities>
+			<learnableSkills>	
+			</learnableSkills>
+			
+			<isMage>false</isMage>							
+			<isFighter>true</isFighter>				
+														
+			<isNecromancer>false</isNecromancer>		
+			<isUndead>false</isUndead>					
+															
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>
+
+		  <!-- Custom Class - the Deadeye -->
+		  <li>		  
+			<classTrait>TM_Deadeye</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff></classHediff>						
+			<classTexturePath>deadeyetexture</classTexturePath>
+			<classIconPath>deadeyeicon</classIconPath>		
+			<classIconColor>(.82,0.773,.78)</classIconColor>		
+			<tornScript></tornScript>						
+			<fullScript>BookOfDeadeye</fullScript>
+			
+			<classMageAbilities>
+				<li>TM_ThreeRoundBurst</li>
+				<li>TM_ThreeRoundBurst_I</li>
+				<li>TM_ThreeRoundBurst_II</li>
+				<li>TM_ThreeRoundBurst_III</li>
+				<li>TM_GhostShot</li>
+				<li>TM_GhostShot_I</li>
+				<li>TM_GhostShot_II</li>
+				<li>TM_GhostShot_III</li>
+				<li>TM_TargetMarker</li>
+				<li>TM_TargetMarker_I</li>
+				<li>TM_TargetMarker_II</li>
+				<li>TM_TargetMarker_III</li>
+				<li>TM_PolaricShot</li>
+			</classMageAbilities>
+			<learnableSpells>								
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+				<li>TM_Kneel</li>
+				<li>TM_Kneel_I</li>
+				<li>TM_Kneel_II</li>
+				<li>TM_Kneel_III</li>
+				<li>TM_FreeAction</li>
+				<li>TM_FreeAction_I</li>
+				<li>TM_DrainShot</li>
+				<li>TM_DrainShot_I</li>
+				<li>TM_DrainShot_II</li>
+				<li>TM_DrainShot_III</li>
+				<li>TM_Hipfire</li>
+				<li>TM_Hipfire_I</li>
+				<li>TM_Hipfire_II</li>
+				<li>TM_Hipfire_III</li>
+				<li>TM_Unload</li>
+				<li>TM_Unload_I</li>
+				<li>TM_Unload_II</li>
+				<li>TM_Unload_III</li>	
+				<li>TM_DeathsJudgmentD</li>
+				<li>TM_DeathsJudgmentD_I</li>
+				<li>TM_DeathsJudgmentD_II</li>
+				<li>TM_DeathsJudgmentD_III</li>
+			</classFighterAbilities>
+			<learnableSkills>								
+			</learnableSkills>
+			
+			<isMage>true</isMage>							
+			<isFighter>true</isFighter>		
+													
+			<isNecromancer>false</isNecromancer>			
+			<isUndead>false</isUndead>						
+															
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>	
+		  </li>
+
+		  <!-- Custom Class - the Spellthief -->
+		  <li>		  
+			<classTrait>TM_Spellthief</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff></classHediff>								
+			<classTexturePath>spellthieftexture</classTexturePath>
+			<classIconPath>spellthieficon</classIconPath>		
+			<classIconColor>(.89,0.46,1.0)</classIconColor>		
+			<tornScript></tornScript>						
+			<fullScript>BookOfSpellthief</fullScript>			
+			
+			<classMageAbilities>
+				<li>TM_IllusionOfPain</li>
+				<li>TM_IllusionOfPain_I</li>
+				<li>TM_IllusionOfPain_II</li>
+				<li>TM_IllusionOfPain_III</li>
+				<li>TM_ArcaneOverload</li>
+				<li>TM_ArcaneOverload_I</li>
+				<li>TM_ArcaneOverload_II</li>
+				<li>TM_ArcaneOverload_III</li>
+				<li>TM_Shadowblade</li>
+				<li>TM_Shadowblade_I</li>
+				<li>TM_Shadowblade_II</li>
+				<li>TM_Shadowblade_III</li>
+				<li>TM_Blackout</li>
+				<li>TM_Blackout_I</li>
+				<li>TM_Blackout_II</li>
+				<li>TM_Blackout_III</li>
+				<li>TM_Distortion</li>
+				<li>TM_Distortion_I</li>
+				<li>TM_Distortion_II</li>
+				<li>TM_Distortion_III</li>						
+			</classMageAbilities>
+			<learnableSpells>					
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+				<li>TM_Spellsteal</li>
+				<li>TM_Absorb</li>
+				<li>TM_Absorb_I</li>
+				<li>TM_Absorb_II</li>
+				<li>TM_Absorb_III</li>
+				<li>TM_Tease</li>
+				<li>TM_Tease_I</li>
+				<li>TM_Tease_II</li>
+				<li>TM_Tease_III</li>
+				<li>TM_ShadowCloak</li>
+			</classFighterAbilities>
+			<learnableSkills>								
+			</learnableSkills>
+			
+			<isMage>true</isMage>							
+			<isFighter>true</isFighter>						
+															
+			<isNecromancer>false</isNecromancer>			
+			<isUndead>false</isUndead>						
+															
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>
+
+		  <!-- Custom Class - the Dragoon -->
+		  <li>		  
+			<classTrait>TM_Dragoon</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff></classHediff>								
+			<classTexturePath>dragoontexture</classTexturePath>
+			<classIconPath>dragoonicon</classIconPath>		
+			<classIconColor>(1,0.09,0.39)</classIconColor>		
+			<tornScript></tornScript>						
+			<fullScript>BookOfDragoon</fullScript>		
+			
+			<classMageAbilities>						
+			</classMageAbilities>
+			<learnableSpells>						
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+				<li>TM_Jump</li>
+				<li>TM_Jump_I</li>
+				<li>TM_Jump_II</li>
+				<li>TM_Jump_III</li>
+				<li>TM_SpineshatterDive</li>
+				<li>TM_SpineshatterDive_I</li>
+				<li>TM_SpineshatterDive_II</li>
+				<li>TM_SpineshatterDive_III</li>
+				<li>TM_DragonfireDive</li>
+				<li>TM_DragonfireDive_I</li>
+				<li>TM_DragonfireDive_II</li>
+				<li>TM_DragonfireDive_III</li>
+				<li>TM_SpiralDive</li>
+				<li>TM_SpiralDive_I</li>
+				<li>TM_SpiralDive_II</li>
+				<li>TM_SpiralDive_III</li>
+				<li>TM_MirageDive</li>
+				<li>TM_MirageDive_I</li>
+				<li>TM_MirageDive_II</li>
+				<li>TM_MirageDive_III</li>
+				<li>TM_SonicThrust</li>
+				<li>TM_SonicThrust_I</li>
+				<li>TM_SonicThrust_II</li>
+				<li>TM_SonicThrust_III</li>
+				<li>TM_Disembowel</li>
+				<li>TM_Disembowel_I</li>
+				<li>TM_Disembowel_II</li>
+				<li>TM_Disembowel_III</li>
+				<li>TM_Geirskogul</li>
+				<li>TM_Geirskogul_I</li>
+				<li>TM_Geirskogul_II</li>
+				<li>TM_Geirskogul_III</li>
+			</classFighterAbilities>
+			<learnableSkills>	
+			</learnableSkills>
+			
+			<isMage>false</isMage>							
+			<isFighter>true</isFighter>				
+														
+			<isNecromancer>false</isNecromancer>		
+			<isUndead>false</isUndead>					
+															
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>
+
+		  <!-- Custom Class - the Black Mage -->
+		  <li>		  
+			<classTrait>TM_BlackMage</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff></classHediff>						
+			<classTexturePath>blackmagetexture</classTexturePath>
+			<classIconPath>blackmageicon</classIconPath>		
+			<classIconColor>(.52,0,0)</classIconColor>		
+			<tornScript>Torn_BookOfBlackMage</tornScript>						
+			<fullScript>BookOfBlackMage</fullScript>
+			
+			<classMageAbilities>
+				<li>TM_BlackBlizzard</li>
+				<li>TM_BlackBlizzard_I</li>
+				<li>TM_BlackBlizzard_II</li>
+				<li>TM_BlackBlizzard_III</li>
+				<li>TM_BlackFire</li>
+				<li>TM_BlackFire_I</li>
+				<li>TM_BlackFire_II</li>
+				<li>TM_BlackFire_III</li>
+				<li>TM_BlackThunder</li>
+				<li>TM_BlackThunder_I</li>
+				<li>TM_BlackThunder_II</li>
+				<li>TM_BlackThunder_III</li>
+				<li>TM_Blizzaga</li>
+				<li>TM_Blizzaga_I</li>
+				<li>TM_Blizzaga_II</li>
+				<li>TM_Blizzaga_III</li>
+				<li>TM_Firaga</li>
+				<li>TM_Firaga_I</li>
+				<li>TM_Firaga_II</li>
+				<li>TM_Firaga_III</li>
+				<li>TM_Thundaga</li>
+				<li>TM_Thundaga_I</li>
+				<li>TM_Thundaga_II</li>
+				<li>TM_Thundaga_III</li>
+				<li>TM_Flare</li>
+				<li>TM_Flare_I</li>
+				<li>TM_Flare_II</li>
+				<li>TM_Flare_III</li>
+				<li>TM_UmbralSoul</li>
+				<li>TM_UmbralSoul_I</li>
+				<li>TM_UmbralSoul_II</li>
+				<li>TM_UmbralSoul_III</li>
+			</classMageAbilities>
+			<learnableSpells>								
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+			</classFighterAbilities>
+			<learnableSkills>								
+			</learnableSkills>
+			
+			<isMage>true</isMage>							
+			<isFighter>false</isFighter>	
+													
+			<isNecromancer>false</isNecromancer>			
+			<isUndead>false</isUndead>						
+															
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>	
+		  </li>
+
+		  <!-- Custom Class - the Scholar -->
+		  <li>		  
+			<classTrait>TM_Scholar</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff>TM_LightCapacitanceHD</classHediff>						
+			<classTexturePath>scholartexture</classTexturePath>
+			<classIconPath>scholaricon</classIconPath>		
+			<classIconColor>(.85,.75,0.48)</classIconColor>		
+			<tornScript>Torn_BookOfScholar</tornScript>						
+			<fullScript>BookOfScholar</fullScript>
+			
+			<classMageAbilities>
+				<li>TM_Adloquium</li>
+				<li>TM_Adloquium_I</li>
+				<li>TM_Adloquium_II</li>
+				<li>TM_Adloquium_III</li>
+				<li>TM_DeploymentTactics</li>
+				<li>TM_DeploymentTactics_I</li>
+				<li>TM_DeploymentTactics_II</li>
+				<li>TM_DeploymentTactics_III</li>
+				<li>TM_SacredShield</li>
+				<li>TM_Luminosity</li>
+				<li>TM_Bio</li>
+				<li>TM_Broil</li>
+				<li>TM_Broil_I</li>
+				<li>TM_Broil_II</li>
+				<li>TM_Broil_III</li>
+				<li>TM_ChainStratagem</li>
+				<li>TM_ChainStratagem_I</li>
+				<li>TM_ChainStratagem_II</li>
+				<li>TM_ChainStratagem_III</li>
+				<li>TM_SummonSeraph</li>
+			</classMageAbilities>
+			<learnableSpells>							
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+			</classFighterAbilities>
+			<learnableSkills>								
+			</learnableSkills>
+			
+			<isMage>true</isMage>							
+			<isFighter>false</isFighter>	
+													
+			<isNecromancer>false</isNecromancer>			
+			<isUndead>false</isUndead>						
+															
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>	
+		  </li>
+
+		  <!-- Custom Class - the Gunbreaker -->
+		  <li>		  
+			<classTrait>TM_Gunbreaker</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff>TM_CartridgeHD</classHediff>
+			<showHediffOnGizmo>true</showHediffOnGizmo>							
+			<classTexturePath>gunbreakertexture</classTexturePath>
+			<classIconPath>gunbreakericon</classIconPath>		
+			<classIconColor>(.85,.75,0.48)</classIconColor>
+			<tornScript></tornScript>								
+			<fullScript>BookOfGunbreaker</fullScript>		
+			
+			<classMageAbilities>						
+			</classMageAbilities>
+			<learnableSpells>						
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+				<li>TM_Reload</li>
+				<li>TM_DangerZone</li>
+				<li>TM_DangerZone_I</li>
+				<li>TM_DangerZone_II</li>
+				<li>TM_DangerZone_III</li>
+				<li>TM_BrutalShell</li>
+				<li>TM_BrutalShell_I</li>
+				<li>TM_BrutalShell_II</li>
+				<li>TM_BrutalShell_III</li>
+				<li>TM_RoughDivide</li>
+				<li>TM_RoughDivide_I</li>
+				<li>TM_RoughDivide_II</li>
+				<li>TM_RoughDivide_III</li>
+				<li>TM_SonicBreak</li>
+				<li>TM_SonicBreak_I</li>
+				<li>TM_SonicBreak_II</li>
+				<li>TM_SonicBreak_III</li>
+				<li>TM_BowShock</li>
+				<li>TM_BowShock_I</li>
+				<li>TM_BowShock_II</li>
+				<li>TM_BowShock_III</li>
+				<li>TM_JugularRip</li>
+				<li>TM_JugularRip_I</li>
+				<li>TM_JugularRip_II</li>
+				<li>TM_JugularRip_III</li>
+				<li>TM_Nebula</li>
+				<li>TM_Nebula_I</li>
+				<li>TM_Nebula_II</li>
+				<li>TM_Nebula_III</li>
+			</classFighterAbilities>
+			<learnableSkills>	
+			</learnableSkills>
+			
+			<isMage>false</isMage>							
+			<isFighter>true</isFighter>				
+														
+			<isNecromancer>false</isNecromancer>		
+			<isUndead>false</isUndead>					
+															
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>
+
+		  <!-- Custom Class - the Gunner -->
+		  <li>		  
+			<classTrait>TM_Gunner</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff></classHediff>								
+			<classTexturePath>gunnertexture</classTexturePath>
+			<classIconPath>elegunnericon</classIconPath>		
+			<classIconColor>(.73,.87,0.98)</classIconColor>	
+			<tornScript></tornScript>								
+			<fullScript>BookOfGunner</fullScript>		
+			
+			<classMageAbilities>						
+			</classMageAbilities>
+			<learnableSpells>						
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+				<li>TM_HotShot</li>
+				<li>TM_HotShot_I</li>
+				<li>TM_HotShot_II</li>
+				<li>TM_HotShot_III</li>
+				<li>TM_HeatBlast</li>
+				<li>TM_GaussRound</li>
+				<li>TM_Drill</li>
+				<li>TM_Drill_I</li>
+				<li>TM_Drill_II</li>
+				<li>TM_Drill_III</li>
+				<li>TM_DrillMk2</li>
+				<li>TM_DrillMk3</li>
+				<li>TM_DrillMk4</li>
+				<li>TM_DrillMk5</li>
+				<li>TM_Reassemble</li>
+				<li>TM_Reassemble_I</li>
+				<li>TM_Reassemble_II</li>
+				<li>TM_Reassemble_III</li>
+			</classFighterAbilities>
+			<learnableSkills>	
+			</learnableSkills>
+			
+			<isMage>false</isMage>							
+			<isFighter>true</isFighter>				
+														
+			<isNecromancer>false</isNecromancer>		
+			<isUndead>false</isUndead>					
+															
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>
+
+		  <!-- Custom Class - the Warrior -->
+		  <li>		  
+			<classTrait>TM_Warrior</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff>TM_ChiHD</classHediff>								
+			<classTexturePath>warriortexture</classTexturePath>
+			<classIconPath>warrioricon</classIconPath>		
+			<classIconColor>(.85,.75,0.48)</classIconColor>
+			<tornScript></tornScript>								
+			<fullScript>BookOfWarrior</fullScript>		
+			
+			<classMageAbilities>						
+			</classMageAbilities>
+			<learnableSpells>						
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+				<li>TM_Fortitude</li>
+				<li>TM_Tomahawk</li>
+				<li>TM_Tomahawk_I</li>
+				<li>TM_Tomahawk_II</li>
+				<li>TM_Tomahawk_III</li>
+				<li>TM_StormsEye</li>
+				<li>TM_StormsEye_I</li>
+				<li>TM_StormsEye_II</li>
+				<li>TM_StormsEye_III</li>
+				<li>TM_Holmgang</li>
+				<li>TM_Holmgang_I</li>
+				<li>TM_Holmgang_II</li>
+				<li>TM_Holmgang_III</li>
+				<li>TM_Equilibrium</li>
+				<li>TM_Equilibrium_I</li>
+				<li>TM_Equilibrium_II</li>
+				<li>TM_Equilibrium_III</li>
+				<li>TM_RawIntuition</li>
+				<li>TM_RawIntuition_I</li>
+				<li>TM_RawIntuition_II</li>
+				<li>TM_RawIntuition_III</li>
+				<li>TM_FellCleave</li>
+				<li>TM_FellCleave_I</li>
+				<li>TM_FellCleave_II</li>
+				<li>TM_FellCleave_III</li>
+				<li>TM_Upheaval</li>
+				<li>TM_Upheaval_I</li>
+				<li>TM_Upheaval_II</li>
+				<li>TM_Upheaval_III</li>
+			</classFighterAbilities>
+			<learnableSkills>	
+			</learnableSkills>
+			
+			<isMage>false</isMage>							
+			<isFighter>true</isFighter>				
+														
+			<isNecromancer>false</isNecromancer>		
+			<isUndead>false</isUndead>					
+															
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>
+
+		  <!-- Custom Class - the Nomad -->
+		  <li>		  
+			<classTrait>TM_Nomad</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff>TM_ChiHD</classHediff>								
+			<classTexturePath>nomadtexture</classTexturePath>
+			<classIconPath>nomadicon</classIconPath>		
+			<classIconColor>(0.65,0.32,0.29)</classIconColor>	
+			<tornScript></tornScript>								
+			<fullScript>BookOfNomad</fullScript>		
+			
+			<classMageAbilities>						
+			</classMageAbilities>
+			<learnableSpells>						
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+				<li>TM_HookShot</li>
+				<li>TM_HookShot_I</li>
+				<li>TM_HookShot_II</li>
+				<li>TM_HookShot_III</li>
+				<li>TM_SandStrike</li>
+				<li>TM_SandStrike_I</li>
+				<li>TM_SandStrike_II</li>
+				<li>TM_SandStrike_III</li>
+				<li>TM_NomadsGrit</li>
+				<li>TM_NomadsGrit_I</li>
+				<li>TM_NomadsGrit_II</li>
+				<li>TM_NomadsGrit_III</li>
+				<li>TM_HailOfBlades</li>
+				<li>TM_HailOfBlades_I</li>
+				<li>TM_HailOfBlades_II</li>
+				<li>TM_HailOfBlades_III</li>
+				<li>TM_BroadheadArrow</li>
+				<li>TM_BroadheadArrow_I</li>
+				<li>TM_BroadheadArrow_II</li>
+				<li>TM_BroadheadArrow_III</li>
+				<li>TM_ShadowShot</li>
+				<li>TM_ShadowShot_I</li>
+				<li>TM_ShadowShot_II</li>
+				<li>TM_ShadowShot_III</li>
+				<li>TM_SunShot</li>
+				<li>TM_SunShot_I</li>
+				<li>TM_SunShot_II</li>
+				<li>TM_SunShot_III</li>
+				<li>TM_GustArrow</li>
+				<li>TM_GustArrow_I</li>
+				<li>TM_GustArrow_II</li>
+				<li>TM_GustArrow_III</li>
+			</classFighterAbilities>
+			<learnableSkills>	
+			</learnableSkills>
+			
+			<isMage>false</isMage>							
+			<isFighter>true</isFighter>				
+														
+			<isNecromancer>false</isNecromancer>		
+			<isUndead>false</isUndead>					
+															
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>
+
+		  <!-- Custom Class - the Guardian -->
+		  <li>		  
+			<classTrait>TM_Guardian</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff></classHediff>								
+			<classTexturePath>guardiantexture</classTexturePath>
+			<classIconPath>guardianicon</classIconPath>		
+			<classIconColor>(.58,0.83,0.89)</classIconColor>			
+			<tornScript></tornScript>						
+			<fullScript>BookOfGuardian</fullScript>			
+			
+			<classMageAbilities>							
+				<li>TM_SwordOath</li>
+				<li>TM_SwordOath_I</li>
+				<li>TM_SwordOath_II</li>
+				<li>TM_SwordOath_III</li>
+				<li>TM_GlacialHeart</li>
+				<li>TM_GlacialHeart_I</li>
+				<li>TM_GlacialHeart_II</li>
+				<li>TM_GlacialHeart_III</li>
+				<li>TM_Bulwark</li>
+				<li>TM_Bulwark_I</li>
+				<li>TM_Bulwark_II</li>
+				<li>TM_Bulwark_III</li>
+				<li>TM_OverwhelmG</li>
+			</classMageAbilities>
+			<learnableSpells>
+				<li>SpellOf_ShieldOther</li>					
+			</learnableSpells>								
+			
+			<classFighterAbilities>					
+				<li>TM_Intervene</li>
+				<li>TM_Intervene_I</li>
+				<li>TM_Intervene_II</li>
+				<li>TM_Intervene_III</li>
+				<li>TM_Clemency</li>
+				<li>TM_Clemency_I</li>
+				<li>TM_Clemency_II</li>
+				<li>TM_Clemency_III</li>
+				<li>TM_SentinelG</li>
+				<li>TM_SentinelG_I</li>
+				<li>TM_SentinelG_II</li>
+				<li>TM_SentinelG_III</li>
+				<li>TM_Atonement</li>
+				<li>TM_Atonement_I</li>
+				<li>TM_Atonement_II</li>
+				<li>TM_Atonement_III</li>
+				<li>TM_DivineVeil</li>
+			</classFighterAbilities>
+			<learnableSkills>								
+			</learnableSkills>
+			
+			<isMage>true</isMage>							
+			<isFighter>true</isFighter>						
+															
+			<isNecromancer>false</isNecromancer>			
+			<isUndead>false</isUndead>						
+															
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>
+
+		  <!-- Custom Class - the Holosmith -->
+		  <li>		  
+			<classTrait>TM_Holosmith</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff></classHediff>								
+			<classTexturePath>holoPsiMark</classTexturePath>
+			<classIconPath>holoicon</classIconPath>		
+			<classIconColor>(1,0.75,0.082)</classIconColor>	
+			<tornScript></tornScript>								
+			<fullScript>BookOfHolosmith</fullScript>		
+			
+			<classMageAbilities>						
+			</classMageAbilities>
+			<learnableSpells>						
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+				<li>TM_EngagePhotonForge</li>
+				<li>TM_EngagePhotonForge_I</li>
+				<li>TM_EngagePhotonForge_II</li>
+				<li>TM_EngagePhotonForge_III</li>
+				<li>TM_FlashCutter</li>
+				<li>TM_FlashCutter_I</li>
+				<li>TM_FlashCutter_II</li>
+				<li>TM_FlashCutter_III</li>
+				<li>TM_HoloLeap</li>
+				<li>TM_HoloLeap_I</li>
+				<li>TM_HoloLeap_II</li>
+				<li>TM_HoloLeap_III</li>
+				<li>TM_CoronaBurst</li>
+				<li>TM_CoronaBurst_I</li>
+				<li>TM_CoronaBurst_II</li>
+				<li>TM_CoronaBurst_III</li>
+				<li>TM_PhotonBlitz</li>
+				<li>TM_PhotonBlitz_I</li>
+				<li>TM_PhotonBlitz_II</li>
+				<li>TM_PhotonBlitz_III</li>
+				<li>TM_HolographicShockwave</li>
+				<li>TM_HolographicShockwave_I</li>
+				<li>TM_HolographicShockwave_II</li>
+				<li>TM_HolographicShockwave_III</li>
+				<li>TM_LaserDisk</li>
+				<li>TM_LaserDisk_I</li>
+				<li>TM_LaserDisk_II</li>
+				<li>TM_LaserDisk_III</li>
+			</classFighterAbilities>
+			<learnableSkills>	
+			</learnableSkills>
+			
+			<isMage>false</isMage>							
+			<isFighter>true</isFighter>				
+														
+			<isNecromancer>false</isNecromancer>		
+			<isUndead>false</isUndead>					
+															
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>
+
+		  <!-- Custom Class - the Troubadour -->
+		  <li>		  
+			<classTrait>TM_Troubadour</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff></classHediff>									
+			<classTexturePath>troubadourtexture</classTexturePath>
+			<classIconPath>troubadouricon</classIconPath>		
+			<classIconColor>(.85,.75,0.48)</classIconColor>		
+			<tornScript>Torn_BookOfTroubadour</tornScript>						
+			<fullScript>BookOfTroubadour</fullScript>			
+			
+			<classMageAbilities>
+				<li>TM_PitchPerfect</li>
+				<li>TM_PitchPerfect_I</li>
+				<li>TM_PitchPerfect_II</li>
+				<li>TM_PitchPerfect_III</li>
+				<li>TM_Shadowbite</li>
+				<li>TM_Shadowbite_I</li>
+				<li>TM_Shadowbite_II</li>
+				<li>TM_Shadowbite_III</li>
+				<li>TM_RainOfDeath</li>
+				<li>TM_RainOfDeath_I</li>
+				<li>TM_RainOfDeath_II</li>
+				<li>TM_RainOfDeath_III</li>
+				<li>TM_Serenade</li>
+				<li>TM_Serenade_I</li>
+				<li>TM_Serenade_II</li>
+				<li>TM_Serenade_III</li>
+			</classMageAbilities>
+			<learnableSpells>
+				<li>SpellOf_Discord</li>
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+				<li>TM_ArmysPaeon</li>
+				<li>TM_ArmysPaeon_I</li>
+				<li>TM_ArmysPaeon_II</li>
+				<li>TM_ArmysPaeon_III</li>
+				<li>TM_MagesBallad</li>
+				<li>TM_MagesBallad_I</li>
+				<li>TM_MagesBallad_II</li>
+				<li>TM_MagesBallad_III</li>
+				<li>TM_WanderersMinuet</li>
+				<li>TM_WanderersMinuet_I</li>
+				<li>TM_WanderersMinuet_II</li>
+				<li>TM_WanderersMinuet_III</li>
+				<li>TM_NaturesMinne</li>
+				<li>TM_NaturesMinne_I</li>
+				<li>TM_NaturesMinne_II</li>
+				<li>TM_NaturesMinne_III</li>						
+			</classFighterAbilities>
+			<learnableSkills>								
+			</learnableSkills>
+			
+			<isMage>true</isMage>						
+			<isFighter>true</isFighter>						
+														
+			<isNecromancer>false</isNecromancer>			
+			<isUndead>false</isUndead>						
+															
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>  
+
+		  <!-- Custom Class - the Gambler -->
+		  <li>		  
+			<classTrait>TM_Gambler</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff>TM_ChiHD</classHediff>									
+			<classTexturePath>dicetexture</classTexturePath>
+			<classIconPath>diceicon</classIconPath>			
+			<tornScript></tornScript>						
+			<fullScript>BookOfGambler</fullScript>			
+			
+			<classMageAbilities>
+				<li>TM_TheEwer</li>
+				<li>TM_TheEwer_I</li>
+				<li>TM_TheEwer_II</li>
+				<li>TM_TheEwer_III</li>	
+				<li>TM_LadyOfCrowns</li>	
+				<li>TM_HoldEm</li>
+				<li>TM_HoldEm_I</li>
+				<li>TM_HoldEm_II</li>
+				<li>TM_HoldEm_III</li>
+				<li>TM_SleightOfHand</li>
+				<li>TM_SleightOfHand_I</li>
+				<li>TM_SleightOfHand_II</li>
+				<li>TM_SleightOfHand_III</li>
+			</classMageAbilities>
+			<learnableSpells>
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+				<li>TM_Draw</li>
+				<li>TM_TheSpire</li>
+				<li>TM_TheSpire_I</li>
+				<li>TM_TheSpire_II</li>
+				<li>TM_TheSpire_III</li>	
+				<li>TM_Joker</li>
+				<li>TM_Joker_I</li>
+				<li>TM_Joker_II</li>
+				<li>TM_Joker_III</li>
+				<li>TM_VoidCard</li>
+				<li>TM_VoidCard_I</li>
+				<li>TM_VoidCard_II</li>
+				<li>TM_VoidCard_III</li>	
+				<li>TM_TheBole</li>
+				<li>TM_TheBole_I</li>
+				<li>TM_TheBole_II</li>
+				<li>TM_TheBole_III</li>	
+				<li>TM_LordOfCrowns</li>
+				<li>TM_LordOfCrowns_I</li>
+				<li>TM_LordOfCrowns_II</li>
+				<li>TM_LordOfCrowns_III</li>			
+			</classFighterAbilities>
+			<learnableSkills>								
+			</learnableSkills>
+			
+			<isMage>true</isMage>						
+			<isFighter>true</isFighter>						
+														
+			<isNecromancer>false</isNecromancer>			
+			<isUndead>false</isUndead>						
+															
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>  
+
+		  <!-- Custom Class - the Chef -->
+		  <li>		  
+			<classTrait>TM_Chef</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff></classHediff>								
+			<classTexturePath>cheftexture</classTexturePath>
+			<classIconPath>cheficon</classIconPath>		
+			<tornScript></tornScript>								
+			<fullScript>BookOfChef</fullScript>		
+			
+			<classMageAbilities>						
+			</classMageAbilities>
+			<learnableSpells>						
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+				<li>TM_HomeCooking</li>
+				<li>TM_HomeCooking_I</li>
+				<li>TM_HomeCooking_II</li>
+				<li>TM_HomeCooking_III</li>
+				<li>TM_MedicinalCooking</li>
+				<li>TM_MedicinalCooking_I</li>
+				<li>TM_MedicinalCooking_II</li>
+				<li>TM_MedicinalCooking_III</li>
+				<li>TM_HunterRoast</li>
+				<li>TM_HunterRoast_I</li>
+				<li>TM_HunterRoast_II</li>
+				<li>TM_HunterRoast_III</li>
+				<li>TM_FreshRoastedCoffee</li>
+				<li>TM_FreshRoastedCoffee_I</li>
+				<li>TM_FreshRoastedCoffee_II</li>
+				<li>TM_FreshRoastedCoffee_III</li>
+				<li>TM_SichuanSpice</li>
+				<li>TM_SichuanSpice_I</li>
+				<li>TM_SichuanSpice_II</li>
+				<li>TM_SichuanSpice_III</li>
+				<li>TM_KnifeToss</li>
+				<li>TM_KnifeToss_I</li>
+				<li>TM_KnifeToss_II</li>
+				<li>TM_KnifeToss_III</li>
+				<li>TM_SlowCooker</li>
+				<li>TM_SlowCooker_I</li>
+				<li>TM_SlowCooker_II</li>
+				<li>TM_SlowCooker_III</li>
+			</classFighterAbilities>
+			<learnableSkills>	
+			</learnableSkills>
+			
+			<isMage>false</isMage>							
+			<isFighter>true</isFighter>				
+														
+			<isNecromancer>false</isNecromancer>		
+			<isUndead>false</isUndead>					
+															
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>
+
+		  <!-- Custom Class - the Miner -->
+		  <li>		  
+			<classTrait>TM_Miner</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff></classHediff>								
+			<classTexturePath>minertexture</classTexturePath>
+			<classIconPath>minericon</classIconPath>		
+			<tornScript></tornScript>								
+			<fullScript>BookOfMiner</fullScript>		
+			
+			<classMageAbilities>						
+			</classMageAbilities>
+			<learnableSpells>						
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+				<li>TM_BrazenProspector</li>
+				<li>TM_BrazenProspector_I</li>
+				<li>TM_BrazenProspector_II</li>
+				<li>TM_BrazenProspector_III</li>
+				<li>TM_LuckyLantern</li>
+				<li>TM_LuckyLantern_I</li>
+				<li>TM_LuckyLantern_II</li>
+				<li>TM_LuckyLantern_III</li>
+				<li>TM_MiningExplosive</li>
+				<li>TM_MiningExplosive_I</li>
+				<li>TM_MiningExplosive_II</li>
+				<li>TM_MiningExplosive_III</li>
+				<li>TM_StructureSupport</li>
+				<li>TM_StructureSupport_I</li>
+				<li>TM_StructureSupport_II</li>
+				<li>TM_StructureSupport_III</li>
+				<li>TM_Firestarter</li>
+				<li>TM_Firestarter_I</li>
+				<li>TM_Firestarter_II</li>
+				<li>TM_Firestarter_III</li>
+				<li>TM_PickClean</li>
+				<li>TM_PickClean_I</li>
+				<li>TM_PickClean_II</li>
+				<li>TM_PickClean_III</li>
+				<li>TM_CalidStrike</li>
+				<li>TM_CalidStrike_I</li>
+				<li>TM_CalidStrike_II</li>
+				<li>TM_CalidStrike_III</li>
+			</classFighterAbilities>
+			<learnableSkills>	
+			</learnableSkills>
+			
+			<isMage>false</isMage>							
+			<isFighter>true</isFighter>				
+														
+			<isNecromancer>false</isNecromancer>		
+			<isUndead>false</isUndead>					
+															
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>
+
+		  <!-- Custom Class - the Striker -->
+		  <li>		  
+			<classTrait>TM_Striker</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff>TM_ChiHD</classHediff>								
+			<classTexturePath>strikertexture</classTexturePath>
+			<classIconPath>strikericon</classIconPath>		
+			<tornScript></tornScript>								
+			<fullScript>BookOfStriker</fullScript>		
+			
+			<classMageAbilities>						
+			</classMageAbilities>
+			<learnableSpells>						
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+				<li>TM_MartialSpirit</li>
+				<li>TM_MartialSpirit_I</li>
+				<li>TM_MartialSpirit_II</li>
+				<li>TM_MartialSpirit_III</li>
+				<li>TM_DemolisherStrike</li>
+				<li>TM_DemolisherStrike_I</li>
+				<li>TM_DemolisherStrike_II</li>
+				<li>TM_DemolisherStrike_III</li>
+				<li>TM_FlameUprising</li>
+				<li>TM_FlameUprising_I</li>
+				<li>TM_FlameUprising_II</li>
+				<li>TM_FlameUprising_III</li>
+				<li>TM_LightningKick</li>
+				<li>TM_LightningKick_I</li>
+				<li>TM_LightningKick_II</li>
+				<li>TM_LightningKick_III</li>
+				<li>TM_Thunderclap</li>
+				<li>TM_Thunderclap_I</li>
+				<li>TM_Thunderclap_II</li>
+				<li>TM_Thunderclap_III</li>
+				<li>TM_DestructionWave</li>
+				<li>TM_DestructionWave_I</li>
+				<li>TM_DestructionWave_II</li>
+				<li>TM_DestructionWave_III</li>
+				<li>TM_Brotherhood</li>
+				<li>TM_Brotherhood_I</li>
+				<li>TM_Brotherhood_II</li>
+				<li>TM_Brotherhood_III</li>
+			</classFighterAbilities>
+			<learnableSkills>	
+			</learnableSkills>
+			
+			<isMage>false</isMage>							
+			<isFighter>true</isFighter>				
+														
+			<isNecromancer>false</isNecromancer>		
+			<isUndead>false</isUndead>					
+															
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>
+
+		  <!-- Custom Class - the Rune Knight -->
+		  <li>		  
+			<classTrait>TM_RuneKnight</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff>TM_RuneKnightHediff</classHediff>
+			<showHediffOnGizmo>true</showHediffOnGizmo>								
+			<classTexturePath>runeknighttexture</classTexturePath>
+			<classIconPath>runeknighticon</classIconPath>		
+			<classIconColor>(0.44,0.43,0.89)</classIconColor>		
+			<tornScript>Torn_BookOfRuneKnight</tornScript>						
+			<fullScript>BookOfRuneKnight</fullScript>			
+			
+			<classMageAbilities>
+				<li>TM_CreateRune</li>
+				<li>TM_CreateRune_I</li>
+				<li>TM_CreateRune_II</li>
+				<li>TM_CreateRune_III</li>
+				<li>TM_Blinkstep</li>
+				<li>TM_Blinkstep_I</li>
+				<li>TM_Blinkstep_II</li>
+				<li>TM_Blinkstep_III</li>
+				<li>TM_ChainsOfLight</li>
+				<li>TM_ChainsOfLight_I</li>
+				<li>TM_ChainsOfLight_II</li>
+				<li>TM_ChainsOfLight_III</li>
+				<li>TM_Bestow</li>
+				<li>TM_Bestow_I</li>
+				<li>TM_Bestow_II</li>
+				<li>TM_Bestow_III</li>
+				<li>TM_Drain</li>
+				<li>TM_Drain_I</li>
+				<li>TM_Drain_II</li>
+				<li>TM_Drain_III</li>
+				<li>TM_BlessingOfFury</li>
+				<li>TM_BlessingOfFury_I</li>
+				<li>TM_BlessingOfFury_II</li>
+				<li>TM_BlessingOfFury_III</li>
+				<li>TM_BlessingOfLight</li>
+				<li>TM_BlessingOfCourage</li>
+				<li>TM_BlessingOfCourage_I</li>
+				<li>TM_BlessingOfCourage_II</li>
+				<li>TM_BlessingOfCourage_III</li>
+				<li>TM_OrbOfLight</li>
+				<li>TM_OrbOfLight_I</li>
+				<li>TM_OrbOfLight_II</li>
+				<li>TM_OrbOfLight_III</li>
+			</classMageAbilities>
+			<learnableSpells>
+			</learnableSpells>								
+			
+			<classFighterAbilities>						
+			</classFighterAbilities>
+			<learnableSkills>								
+			</learnableSkills>
+			
+			<isMage>true</isMage>						
+			<isFighter>false</isFighter>						
+														
+			<isNecromancer>false</isNecromancer>			
+			<isUndead>false</isUndead>						
+															
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>
+
+		  <!-- Custom Class - the Blossom Blader -->
+		  <li>		  
+			<classTrait>TM_BlossomBlader</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff>TM_ApothecaryHerbsHD</classHediff>
+			<showHediffOnGizmo>true</showHediffOnGizmo>							
+			<classTexturePath>blossombladertexture</classTexturePath>
+			<classIconPath>blossombladericon</classIconPath>		
+			<classIconColor>(.4,0.6,0)</classIconColor>		
+			<tornScript></tornScript>								
+			<fullScript>BookOfBlossomBlader</fullScript>			
+			
+			<classMageAbilities>						
+			</classMageAbilities>
+			<learnableSpells>						
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+				<li>TM_Lancet</li>
+				<li>TM_Lancet_I</li>
+				<li>TM_Lancet_II</li>
+				<li>TM_Lancet_III</li>
+				<li>TM_HornetSting</li>
+				<li>TM_HornetSting_I</li>
+				<li>TM_HornetSting_II</li>
+				<li>TM_HornetSting_III</li>
+				<li>TM_DoubleArc</li>
+				<li>TM_DoubleArc_I</li>
+				<li>TM_DoubleArc_II</li>
+				<li>TM_DoubleArc_III</li>
+				<li>TM_GraspingVines</li>
+				<li>TM_GraspingVines_I</li>
+				<li>TM_GraspingVines_II</li>
+				<li>TM_GraspingVines_III</li>
+				<li>TM_FloatingLeaf</li>
+				<li>TM_FloatingLeaf_I</li>
+				<li>TM_FloatingLeaf_II</li>
+				<li>TM_FloatingLeaf_III</li>
+				<li>TM_ArcingSwallow</li>
+				<li>TM_ArcingSwallow_I</li>
+				<li>TM_ArcingSwallow_II</li>
+				<li>TM_ArcingSwallow_III</li>
+				<li>TM_SeedOfLife</li>
+				<li>TM_SeedOfLife_I</li>
+				<li>TM_SeedOfLife_II</li>
+				<li>TM_SeedOfLife_III</li>
+				<li>TM_Herbalist</li>
+			</classFighterAbilities>
+			<learnableSkills>					
+			</learnableSkills>
+			
+			<isMage>false</isMage>							
+			<isFighter>true</isFighter>				
+														
+			<isNecromancer>false</isNecromancer>		
+			<isUndead>false</isUndead>					
+															
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>
+
+		  <!-- Custom Class - the Ravenous -->
+		  <li>		  
+			<classTrait>TM_Ravenous</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff>TM_AcidosisHD</classHediff>
+			<showHediffOnGizmo>true</showHediffOnGizmo>						
+			<classTexturePath>ravenoustexture</classTexturePath>
+			<classIconPath>ravenousicon</classIconPath>		
+			<classIconColor>(0.21,0.97,0.31)</classIconColor>		
+			<tornScript></tornScript>						
+			<fullScript></fullScript>
+			
+			<classMageAbilities>
+				<li>TM_DevourCorpse</li>
+				<li>TM_DevourMana</li>
+				<li>TM_DevourMana_I</li>
+				<li>TM_DevourMana_II</li>
+				<li>TM_DevourMana_III</li>
+				<li>TM_DevourCreature</li>
+				<li>TM_DevourCreature_I</li>
+				<li>TM_DevourCreature_II</li>
+				<li>TM_DevourCreature_III</li>
+			</classMageAbilities>
+			<learnableSpells>								
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+				<li>TM_ConsumePlant</li>
+				<li>TM_ConsumePlant_I</li>
+				<li>TM_ConsumePlant_II</li>
+				<li>TM_ConsumePlant_III</li>
+				<li>TM_ConsumeBuilding</li>
+				<li>TM_ConsumeBuilding_I</li>
+				<li>TM_ConsumeBuilding_II</li>
+				<li>TM_ConsumeBuilding_III</li>
+				<li>TM_Digest</li>
+				<li>TM_Digest_I</li>
+				<li>TM_Digest_II</li>
+				<li>TM_Digest_III</li>
+				<li>TM_Regurgitate</li>
+				<li>TM_Regurgitate_I</li>
+				<li>TM_Regurgitate_II</li>
+				<li>TM_Regurgitate_III</li>
+				<li>TM_Liquefy</li>
+				<li>TM_Liquefy_I</li>
+				<li>TM_Liquefy_II</li>
+				<li>TM_Liquefy_III</li>
+				<li>TM_CausticSpittle</li>
+				<li>TM_CausticSpittle_I</li>
+				<li>TM_CausticSpittle_II</li>
+				<li>TM_CausticSpittle_III</li>
+			</classFighterAbilities>
+			<learnableSkills>								
+			</learnableSkills>
+			
+			<isMage>true</isMage>							
+			<isFighter>true</isFighter>	
+													
+			<isNecromancer>false</isNecromancer>			
+			<isUndead>false</isUndead>						
+															
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>	
+		  </li>
+
+		  <!-- Custom Class - the Mech Hunter -->
+		  <li>		  
+			<classTrait>TM_MechHunter</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff>TM_NaniteBulletsHD</classHediff>
+			<showHediffOnGizmo>true</showHediffOnGizmo>							
+			<classTexturePath>mechhuntertexture</classTexturePath>
+			<classIconPath>mechhuntericon</classIconPath>		
+			<classIconColor>(.61,0.62,0.66)</classIconColor>		
+			<tornScript></tornScript>								
+			<fullScript>BookOfMechHunter</fullScript>			
+			
+			<classMageAbilities>						
+			</classMageAbilities>
+			<learnableSpells>						
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+				<li>TM_EAPShell</li>
+				<li>TM_EAPShell_I</li>
+				<li>TM_EAPShell_II</li>
+				<li>TM_EAPShell_III</li>
+				<li>TM_FragmentationShot</li>
+				<li>TM_FragmentationShot_I</li>
+				<li>TM_FragmentationShot_II</li>
+				<li>TM_FragmentationShot_III</li>
+				<li>TM_Starshot</li>
+				<li>TM_Starshot_I</li>
+				<li>TM_Starshot_II</li>
+				<li>TM_Starshot_III</li>
+				<li>TM_Destabilizer</li>
+				<li>TM_Destabilizer_I</li>
+				<li>TM_Destabilizer_II</li>
+				<li>TM_Destabilizer_III</li>
+				<li>TM_HookshotB</li>
+				<li>TM_HookshotB_I</li>
+				<li>TM_HookshotB_II</li>
+				<li>TM_HookshotB_III</li>
+				<li>TM_NaniteBullet</li>
+			</classFighterAbilities>
+			<learnableSkills>					
+			</learnableSkills>
+			
+			<isMage>false</isMage>							
+			<isFighter>true</isFighter>				
+														
+			<isNecromancer>false</isNecromancer>		
+			<isUndead>false</isUndead>					
+															
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>
+
+		  <!-- Custom Class - the Gunslinger -->
+		  <li>		  
+			<classTrait>TM_Gunslinger</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff>TM_GunslingerShellsHD</classHediff>
+			<showHediffOnGizmo>true</showHediffOnGizmo>							
+			<classTexturePath>gunslingertexture</classTexturePath>
+			<classIconPath>gunslingericon</classIconPath>
+			<classIconColor>(.85,.75,0.48)</classIconColor>		
+			<tornScript></tornScript>								
+			<fullScript>BookOfGunslinger</fullScript>			
+			
+			<classMageAbilities>						
+			</classMageAbilities>
+			<learnableSpells>						
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+				<li>TM_QuickReload</li>
+				<li>TM_QuickReload_I</li>
+				<li>TM_QuickReload_II</li>
+				<li>TM_QuickReload_III</li>
+				<li>TM_TacticalDive</li>
+				<li>TM_TacticalDive_I</li>
+				<li>TM_TacticalDive_II</li>
+				<li>TM_TacticalDive_III</li>
+				<li>TM_GasGrenade</li>
+				<li>TM_GasGrenade_I</li>
+				<li>TM_GasGrenade_II</li>
+				<li>TM_GasGrenade_III</li>
+				<li>TM_FullMetalJacket</li>
+				<li>TM_FullMetalJacket_I</li>
+				<li>TM_FullMetalJacket_II</li>
+				<li>TM_FullMetalJacket_III</li>
+				<li>TM_Volley</li>
+				<li>TM_Volley_I</li>
+				<li>TM_Volley_II</li>
+				<li>TM_Volley_III</li>
+				<li>TM_Bulletstorm</li>
+				<li>TM_Bulletstorm_I</li>
+				<li>TM_Bulletstorm_II</li>
+				<li>TM_Bulletstorm_III</li>
+				<li>TM_BlastingZone</li>
+				<li>TM_BlastingZone_I</li>
+				<li>TM_BlastingZone_II</li>
+				<li>TM_BlastingZone_III</li>
+			</classFighterAbilities>
+			<learnableSkills>					
+			</learnableSkills>
+			
+			<isMage>false</isMage>							
+			<isFighter>true</isFighter>				
+														
+			<isNecromancer>false</isNecromancer>		
+			<isUndead>false</isUndead>					
+															
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>
+
+		  <!-- Custom Class - the Shadowbringer -->
+		  <li>		  
+			<classTrait>TM_Shadowbringer</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff></classHediff>			
+			<classTexturePath>shadowbringertexture</classTexturePath>
+			<classIconPath>shadowbringericon</classIconPath>			
+			<tornScript></tornScript>						
+			<fullScript>BookOfShadowbringer</fullScript>
+			
+			<classMageAbilities>
+				<li>TM_FloodOfShadow</li>
+				<li>TM_FloodOfShadow_I</li>
+				<li>TM_FloodOfShadow_II</li>
+				<li>TM_FloodOfShadow_III</li>
+				<li>TM_Delirium</li>
+				<li>TM_Delirium_I</li>
+				<li>TM_Delirium_II</li>
+				<li>TM_Delirium_III</li>
+				<li>TM_BloodSiphon</li>
+				<li>TM_BloodSiphon_I</li>
+				<li>TM_BloodSiphon_II</li>
+				<li>TM_BloodSiphon_III</li>
+				<li>TM_DeathNova</li>
+				<li>TM_DeathNova_I</li>
+				<li>TM_DeathNova_II</li>
+				<li>TM_DeathNova_III</li>
+				<li>TM_SoleSurvivor</li>
+				<li>TM_SoleSurvivor_I</li>
+				<li>TM_SoleSurvivor_II</li>
+				<li>TM_SoleSurvivor_III</li>
+			</classMageAbilities>
+			<learnableSpells>								
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+				<li>TM_Shroud</li>
+				<li>TM_CarveAndSpit</li>
+				<li>TM_CarveAndSpit_I</li>
+				<li>TM_CarveAndSpit_II</li>
+				<li>TM_CarveAndSpit_III</li>
+				<li>TM_Unmend</li>
+				<li>TM_Unmend_I</li>
+				<li>TM_Unmend_II</li>
+				<li>TM_Unmend_III</li>
+				<li>TM_Souleater</li>
+				<li>TM_Souleater_I</li>
+				<li>TM_Souleater_II</li>
+				<li>TM_Souleater_III</li>
+			</classFighterAbilities>
+			<learnableSkills>								
+			</learnableSkills>
+			
+			<isMage>true</isMage>							
+			<isFighter>true</isFighter>	
+													
+			<isNecromancer>false</isNecromancer>			
+			<isUndead>false</isUndead>						
+															
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>	
+		  </li>
+
+		  <!-- Custom Class - the Warden -->
+		  <li>		  
+			<classTrait>TM_Warden</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff>TM_EarthenGritHD</classHediff>			
+			<classTexturePath>wardentexture</classTexturePath>
+			<classIconPath>wardenicon</classIconPath>		
+			<classIconColor>(.85,.75,0.48)</classIconColor>		
+			<tornScript></tornScript>						
+			<fullScript>BookOfWarden</fullScript>
+			
+			<classMageAbilities>
+				<li>TM_StoneSheath</li>
+				<li>TM_StoneSheath_I</li>
+				<li>TM_StoneSheath_II</li>
+				<li>TM_StoneSheath_III</li>
+				<li>TM_MagneticWave</li>
+				<li>TM_MagneticWave_I</li>
+				<li>TM_MagneticWave_II</li>
+				<li>TM_MagneticWave_III</li>
+				<li>TM_PileDriver</li>
+				<li>TM_PileDriver_I</li>
+				<li>TM_PileDriver_II</li>
+				<li>TM_PileDriver_III</li>
+				<li>TM_Stoneskin</li>
+			</classMageAbilities>
+			<learnableSpells>								
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+				<li>TM_RockFist</li>
+				<li>TM_RockFist_I</li>
+				<li>TM_RockFist_II</li>
+				<li>TM_RockFist_III</li>
+				<li>TM_GraspingEarth</li>
+				<li>TM_GraspingEarth_I</li>
+				<li>TM_GraspingEarth_II</li>
+				<li>TM_GraspingEarth_III</li>
+				<li>TM_EarthenRush</li>
+				<li>TM_EarthenRush_I</li>
+				<li>TM_EarthenRush_II</li>
+				<li>TM_EarthenRush_III</li>
+				<li>TM_ArmorOfEarth</li>
+				<li>TM_ArmorOfEarth_I</li>
+				<li>TM_ArmorOfEarth_II</li>
+				<li>TM_ArmorOfEarth_III</li>
+				<li>TM_MagneticShield</li>
+			</classFighterAbilities>
+			<learnableSkills>								
+			</learnableSkills>
+			
+			<isMage>true</isMage>							
+			<isFighter>true</isFighter>	
+													
+			<isNecromancer>false</isNecromancer>			
+			<isUndead>false</isUndead>						
+															
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>	
+		  </li>
+
+		  <!-- Custom Class - the Chempunk -->
+		  <li>		  
+			<classTrait>TM_Chempunk</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff>TM_RotHD</classHediff>
+			<showHediffOnGizmo>true</showHediffOnGizmo>							
+			<classTexturePath>chempunktexture</classTexturePath>
+			<classIconPath>chempunkicon</classIconPath>
+			<classIconColor>(.4,.4,0.25)</classIconColor>		
+			<tornScript></tornScript>								
+			<fullScript>BookOfChempunk</fullScript>			
+			
+			<classMageAbilities>						
+			</classMageAbilities>
+			<learnableSpells>						
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+				<li>TM_VentExhaust</li>
+				<li>TM_Injection</li>
+				<li>TM_Injection_I</li>
+				<li>TM_Injection_II</li>
+				<li>TM_Injection_III</li>
+				<li>TM_MeatHook</li>
+				<li>TM_MeatHook_I</li>
+				<li>TM_MeatHook_II</li>
+				<li>TM_MeatHook_III</li>
+				<li>TM_Fumigate</li>
+				<li>TM_Fumigate_I</li>
+				<li>TM_Fumigate_II</li>
+				<li>TM_Fumigate_III</li>
+				<li>TM_ToxicBarrage</li>
+				<li>TM_ToxicBarrage_I</li>
+				<li>TM_ToxicBarrage_II</li>
+				<li>TM_ToxicBarrage_III</li>
+				<li>TM_GasCannon</li>
+				<li>TM_GasCannon_I</li>
+				<li>TM_GasCannon_II</li>
+				<li>TM_GasCannon_III</li>
+				<li>TM_ChemCharge</li>
+				<li>TM_ChemCharge_I</li>
+				<li>TM_ChemCharge_II</li>
+				<li>TM_ChemCharge_III</li>
+				<li>TM_Shimmer</li>
+				<li>TM_Shimmer_I</li>
+				<li>TM_Shimmer_II</li>
+				<li>TM_Shimmer_III</li>
+			</classFighterAbilities>
+			<learnableSkills>					
+			</learnableSkills>
+			
+			<isMage>false</isMage>							
+			<isFighter>true</isFighter>				
+														
+			<isNecromancer>false</isNecromancer>		
+			<isUndead>false</isUndead>					
+															
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>		
+		  </li>
+
+		  <!-- Custom Class - the Explorer -->
+		  <li>		  
+			<classTrait>TM_Explorer</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff></classHediff>			
+			<classTexturePath>explorertexture</classTexturePath>
+			<classIconPath>explorericon</classIconPath>				
+			<tornScript></tornScript>						
+			<fullScript>BookOfExplorer</fullScript>
+			
+			<classMageAbilities>
+			</classMageAbilities>
+			<learnableSpells>
+				<li>SpellOf_HolyWrath</li>
+				<li>SpellOf_BattleHymn</li>
+				<li>SpellOf_Blizzard</li>
+				<li>SpellOf_EyeOfTheStorm</li>
+				<li>SpellOf_Firestorm</li>
+				<li>SpellOf_FoldReality</li>
+				<li>SpellOf_GuardianSpirit</li>
+				<li>SpellOf_LichForm</li>
+				<li>SpellOf_LivingWall</li>
+				<li>SpellOf_Meteor</li>
+				<li>SpellOf_OrbitalStrike</li>
+				<li>SpellOf_PsychicShock</li>
+				<li>SpellOf_Recall</li>
+				<li>SpellOf_RegrowLimb</li>
+				<li>SpellOf_Resurrection</li>
+				<li>SpellOf_Scorn</li>
+				<li>SpellOf_Shapeshift</li>
+				<li>SpellOf_SummonPoppi</li>
+				<li>SpellOf_SpiritOfLight</li>	
+				<li>SpellOf_ShieldOther</li>
+				<li>SpellOf_Discord</li>
+				<li>SpellOf_FadeEmotions</li>
+				<li>SpellOf_AlterStorm</li>
+				<li>SpellOf_HeatShield</li>
+				<li>SpellOf_BrandSiphon</li>	
+				<li>SpellOf_BrandFitness</li>	
+				<li>SpellOf_BrandEmotion</li>	
+				<li>SpellOf_BrandVitality</li>	
+				<li>SpellOf_BrandProtection</li>	
+				<li>SpellOf_BrandAwareness</li>	
+				<li>SpellOf_CauterizeWound</li>	
+				<li>SpellOf_DryGround</li>	
+				<li>SpellOf_WetGround</li>	
+				<li>SpellOf_BlankMind</li>	
+				<li>SpellOf_BriarPatch</li>	
+				<li>SpellOf_FertileLands</li>	
+				<li>SpellOf_MechaniteReprogramming</li>
+				<li>SpellOf_Overdrive</li>
+				<li>SpellOf_Sabotage</li>
+				<li>SpellOf_TechnoShield</li>	
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+			</classFighterAbilities>
+			<learnableSkills>
+				<li>SkillOf_HerbalClarity</li>
+				<li>SkillOf_HerbalBliss</li>								
+			</learnableSkills>
+			
+			<isMage>true</isMage>							
+			<isFighter>true</isFighter>	
+													
+			<isNecromancer>false</isNecromancer>			
+			<isUndead>false</isUndead>						
+															
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>	
+		  </li>
+
+		  <!-- Custom Class - the Architect -->
+		  <li>		  
+			<classTrait>TM_Architect</classTrait>			
+			<traitDegree>4</traitDegree>					
+			<classHediff></classHediff>			
+			<classTexturePath>architecttexture</classTexturePath>
+			<classIconPath>architecticon</classIconPath>				
+			<tornScript>Torn_BookOfArchitect</tornScript>						
+			<fullScript>BookOfArchitect</fullScript>
+			
+			<classMageAbilities>
+				<li>TM_GuidedHands</li>
+				<li>TM_GuidedHands_I</li>
+				<li>TM_GuidedHands_II</li>
+				<li>TM_GuidedHands_III</li>
+				<li>TM_CreateSupplies</li>
+				<li>TM_CreateSupplies_I</li>
+				<li>TM_CreateSupplies_II</li>
+				<li>TM_CreateSupplies_III</li>
+				<li>TM_CreateWall</li>
+				<li>TM_CreateWall_I</li>
+				<li>TM_CreateWall_II</li>
+				<li>TM_CreateWall_III</li>
+				<li>TM_CreateDoor</li>
+				<li>TM_CreateDoor_I</li>
+				<li>TM_CreateDoor_II</li>
+				<li>TM_CreateDoor_III</li>
+				<li>TM_CreateLight</li>
+				<li>TM_CreateLight_I</li>
+				<li>TM_CreateLight_II</li>
+				<li>TM_CreateLight_III</li>
+				<li>TM_Demolish</li>
+				<li>TM_Demolish_I</li>
+				<li>TM_Demolish_II</li>
+				<li>TM_Demolish_III</li>
+				<li>TM_RendingVines</li>
+				<li>TM_RendingVines_I</li>
+				<li>TM_RendingVines_II</li>
+				<li>TM_RendingVines_III</li>
+				<li>TM_WallDrop</li>
+				<li>TM_WallDrop_I</li>
+				<li>TM_WallDrop_II</li>
+				<li>TM_WallDrop_III</li>
+				<li>TM_Destabilize</li>
+				<li>TM_Destabilize_I</li>
+				<li>TM_Destabilize_II</li>
+				<li>TM_Destabilize_III</li>
+			</classMageAbilities>
+			<learnableSpells>
+			</learnableSpells>								
+			
+			<classFighterAbilities>
+			</classFighterAbilities>
+			<learnableSkills>								
+			</learnableSkills>
+			
+			<isMage>true</isMage>							
+			<isFighter>false</isFighter>	
+													
+			<isNecromancer>false</isNecromancer>			
+			<isUndead>false</isUndead>						
+															
+			<isAndroid>false</isAndroid>					
+			<isAdvancedClass>false</isAdvancedClass>	
+		  </li>
+	</value>
+  </Operation> 
+  
+</Patch>

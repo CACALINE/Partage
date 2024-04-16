@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Tous les vanilla animals expanded.-->
+  <!-- abyssinian cat -->
+  <AEXP_CatAbyssinian.label>chat abyssin</AEXP_CatAbyssinian.label>
+  <!-- A slender, fine-boned, medium sized shrubland cat. -->
+  <AEXP_CatAbyssinian.description>Un chat de taille moyenne à os mince.</AEXP_CatAbyssinian.description>
+  <!-- left claw -->
+  <AEXP_CatAbyssinian.tools.left_claw.label>griffe gauche</AEXP_CatAbyssinian.tools.left_claw.label>
+  <!-- right claw -->
+  <AEXP_CatAbyssinian.tools.right_claw.label>griffe droite</AEXP_CatAbyssinian.tools.right_claw.label>
+  <!-- head -->
+  <AEXP_CatAbyssinian.tools.head.label>tête</AEXP_CatAbyssinian.tools.head.label>
+
+  <!-- bengal cat -->
+  <AEXP_CatBengal.label>chat bengal</AEXP_CatBengal.label>
+  <!-- A domesticated hybrid of a domestic cat and tropical leopard.-->
+  <AEXP_CatBengal.description>C'est une race de chat domestique développée pour ressembler à des chats sauvages exotiques tels que les léopards.</AEXP_CatBengal.description>
+  <!-- left claw -->
+  <AEXP_CatBengal.tools.left_claw.label>griffe gauche</AEXP_CatBengal.tools.left_claw.label>
+  <!-- right claw -->
+  <AEXP_CatBengal.tools.right_claw.label>griffe droite</AEXP_CatBengal.tools.right_claw.label>
+  <!-- head -->
+  <AEXP_CatBengal.tools.head.label>tête</AEXP_CatBengal.tools.head.label>
+
+  <!-- british shorthair cat -->
+  <AEXP_CatBritishShorthair.label>chat british shorthairr</AEXP_CatBritishShorthair.label>
+  <!-- A pedigreed version of a regular british cat, with a distinctively chunky body, dense coat and a very broad face. While being relatively powerful-looking due to the large chest and massive paws, these cats are absolutely harmless. -->
+  <AEXP_CatBritishShorthair.description>Une version pédigrée d'un chat britannique ordinaire, avec un corps nettement trapu, un pelage dense et un visage très large. Tout en étant relativement puissants en raison de la grande poitrine et des pattes massives, ces chats sont absolument inoffensifs.</AEXP_CatBritishShorthair.description>
+  <!-- left claw -->
+  <AEXP_CatBritishShorthair.tools.left_claw.label>griffe gauche</AEXP_CatBritishShorthair.tools.left_claw.label>
+  <!-- right claw -->
+  <AEXP_CatBritishShorthair.tools.right_claw.label>griffe droite</AEXP_CatBritishShorthair.tools.right_claw.label>
+  <!-- head -->
+  <AEXP_CatBritishShorthair.tools.head.label>tête</AEXP_CatBritishShorthair.tools.head.label>
+
+  <!-- maine coon -->
+  <AEXP_CatMaineCoon.label>chat maine coon</AEXP_CatMaineCoon.label>
+  <!-- A largest domesticated cat, it has a distinctive physical appearance and valuable hunting skills. It's a large and sociable cat, hence it has been given a nickname "the gentle giant." -->
+  <AEXP_CatMaineCoon.description>C'est l'un des plus grands chats domestiques, a une apparence physique distinctive et de précieuses compétences de chasse. C'est un chat grand et sociable, d'où le surnom de "gentil géant".</AEXP_CatMaineCoon.description>
+  <!-- left claw -->
+  <AEXP_CatMaineCoon.tools.left_claw.label>griffe gauche</AEXP_CatMaineCoon.tools.left_claw.label>
+  <!-- right claw -->
+  <AEXP_CatMaineCoon.tools.right_claw.label>griffe droite</AEXP_CatMaineCoon.tools.right_claw.label>
+  <!-- head -->
+  <AEXP_CatMaineCoon.tools.head.label>tête</AEXP_CatMaineCoon.tools.head.label>
+
+  <!-- munchkin cat -->
+  <AEXP_CatMunchkin.label>chat munchkin</AEXP_CatMunchkin.label>
+  <!-- Also known as a sausage cat, this new cat breed has distinctively short legs. Sweet natured, playful and people-oriented, these cats are perfect companions for people with lazy lifestyle. -->
+  <AEXP_CatMunchkin.description>Aussi connu sous le nom de chat saucisse, cette nouvelle race de chat a des pattes très courtes. Doux, ludiques et axés sur les gens, ces chats sont des compagnons parfaits pour les personnes au style de vie paresseux.</AEXP_CatMunchkin.description>
+  <!-- left claw -->
+  <AEXP_CatMunchkin.tools.left_claw.label>griffe gauche</AEXP_CatMunchkin.tools.left_claw.label>
+  <!-- right claw -->
+  <AEXP_CatMunchkin.tools.right_claw.label>griffe droite</AEXP_CatMunchkin.tools.right_claw.label>
+  <!-- head -->
+  <AEXP_CatMunchkin.tools.head.label>tête</AEXP_CatMunchkin.tools.head.label>
+
+  <!-- norwegian forest cat -->
+  <AEXP_CatNorwegianForest.label>chat des forêts norvégiennes</AEXP_CatNorwegianForest.label>
+  <!-- A cat adapted for very cold climates due to the top coat of glossy, water-shedding hair. -->
+  <AEXP_CatNorwegianForest.description>Un chat adapté aux climats très froids grâce à son pelage brillant qui se détache de l'eau.</AEXP_CatNorwegianForest.description>
+  <!-- left claw -->
+  <AEXP_CatNorwegianForest.tools.left_claw.label>griffe gauche</AEXP_CatNorwegianForest.tools.left_claw.label>
+  <!-- right claw -->
+  <AEXP_CatNorwegianForest.tools.right_claw.label>griffe droite</AEXP_CatNorwegianForest.tools.right_claw.label>
+  <!-- head -->
+  <AEXP_CatNorwegianForest.tools.head.label>tête</AEXP_CatNorwegianForest.tools.head.label>
+
+  <!-- persian cat -->
+  <AEXP_CatPersian.label>chat persan</AEXP_CatPersian.label>
+  <!-- A long haired cat originating from desert wildcats, Persian cats are regal, intelligent and agile, which makes them excellent for hunting small rodents and birds. -->
+  <AEXP_CatPersian.description>Chat à poil long issu de chats sauvages du désert, les chats persans sont majestueux, intelligents et agiles, ce qui les rend excellents pour chasser les petits rongeurs et les oiseaux.</AEXP_CatPersian.description>
+  <!-- left claw -->
+  <AEXP_CatPersian.tools.left_claw.label>griffe gauche</AEXP_CatPersian.tools.left_claw.label>
+  <!-- right claw -->
+  <AEXP_CatPersian.tools.right_claw.label>griffe droite</AEXP_CatPersian.tools.right_claw.label>
+  <!-- head -->
+  <AEXP_CatPersian.tools.head.label>tête</AEXP_CatPersian.tools.head.label>
+
+  <!-- siamese cat -->
+  <AEXP_CatSiamese.label>chat siamois</AEXP_CatSiamese.label>
+  <!-- A cat with distinctively triangular head, blue eyes and long and muscular body, renowned for it's social nature. -->
+  <AEXP_CatSiamese.description>Un chat avec une tête clairement triangulaire, des yeux bleus et un corps large et musclé, célèbre pour son caractère social.</AEXP_CatSiamese.description>
+  <!-- left claw -->
+  <AEXP_CatSiamese.tools.left_claw.label>griffe gauche</AEXP_CatSiamese.tools.left_claw.label>
+  <!-- right claw -->
+  <AEXP_CatSiamese.tools.right_claw.label>griffe droite</AEXP_CatSiamese.tools.right_claw.label>
+  <!-- head -->
+  <AEXP_CatSiamese.tools.head.label>tête</AEXP_CatSiamese.tools.head.label>
+
+  <!-- somali cat -->
+  <AEXP_CatSomali.label>chat somali</AEXP_CatSomali.label>
+  <!-- A shrubland cat, sharing the same family as the Abyssinian cat. It has a bushy tail and almond shaped eyes. -->
+  <AEXP_CatSomali.description>Chat des broussailles, partageant la même famille que le chat abyssin. Il a une queue touffue et des yeux en forme d'amande.</AEXP_CatSomali.description>
+  <!-- left claw -->
+  <AEXP_CatSomali.tools.left_claw.label>griffe gauche</AEXP_CatSomali.tools.left_claw.label>
+  <!-- right claw -->
+  <AEXP_CatSomali.tools.right_claw.label>griffe droite</AEXP_CatSomali.tools.right_claw.label>
+  <!-- head -->
+  <AEXP_CatSomali.tools.head.label>tête</AEXP_CatSomali.tools.head.label>
+
+  <!-- sphynx cat -->
+  <AEXP_CatSphynx.label>chat sphinx</AEXP_CatSphynx.label>
+  <!-- A cat known for it's lack of fur, developed due to selective breeding. Being warm to the touch, they lose body temperature easily which makes it seek out heat sources. -->
+  <AEXP_CatSphynx.description>Un chat connu pour son manque de fourrure, développé grâce à un élevage sélectif. Étant chauds au toucher, ils perdent facilement leur température corporelle, ce qui les poussent à rechercher des sources de chaleur.</AEXP_CatSphynx.description>
+  <!-- left claw -->
+  <AEXP_CatSphynx.tools.left_claw.label>griffe gauche</AEXP_CatSphynx.tools.left_claw.label>
+  <!-- right claw -->
+  <AEXP_CatSphynx.tools.right_claw.label>griffe droite</AEXP_CatSphynx.tools.right_claw.label>
+  <!-- head -->
+  <AEXP_CatSphynx.tools.head.label>tête</AEXP_CatSphynx.tools.head.label>
+
+</LanguageData>

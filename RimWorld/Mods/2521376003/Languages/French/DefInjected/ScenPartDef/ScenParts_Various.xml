@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--Traduction FR vanilla expanded framework-->
+  <VFEC_ForcedFactionGoodwill.label>relations forcées entre factions</VFEC_ForcedFactionGoodwill.label>
+  <VFEC_PlayerPawnsArriveMethodEdge.label>méthode d’arrivée du pion</VFEC_PlayerPawnsArriveMethodEdge.label>
+  <VFEC_AddStartingStructure.label>ajouter une structure personnalisée à la carte de départ</VFEC_AddStartingStructure.label>
+
+</LanguageData>

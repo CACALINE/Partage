@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<QRY_QuarriedGround.label>sol de carrière</QRY_QuarriedGround.label>
+<QRY_QuarriedGroundWall.label>sol de carrière</QRY_QuarriedGroundWall.label>
+
+<QRY_ReclaimedSoil.label>sol récupéré</QRY_ReclaimedSoil.label>
+
+<QRY_ReclaimedSoil.tools.dirt.label>terre</QRY_ReclaimedSoil.tools.dirt.label>
+
+
+</LanguageData>

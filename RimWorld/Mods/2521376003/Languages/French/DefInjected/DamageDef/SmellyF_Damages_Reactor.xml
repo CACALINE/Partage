@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<!--Traduction FR Nuclear Energy-->
+  <NuclearSmall.label>explosion d'un petit réacteur</NuclearSmall.label>
+  <NuclearSmall.deathMessage>{0} est mort dans une explosion.</NuclearSmall.deathMessage>
+  
+  <NuclearMedium.label>explosion du réacteur</NuclearMedium.label>
+  <NuclearMedium.deathMessage>{0} est mort dans une explosion.</NuclearMedium.deathMessage>
+  
+  <NuclearGiant.label>explosion d'un réacteur géant</NuclearGiant.label>
+  <NuclearGiant.deathMessage>{0} est mort dans une explosion.</NuclearGiant.deathMessage>
+  
+</LanguageData>

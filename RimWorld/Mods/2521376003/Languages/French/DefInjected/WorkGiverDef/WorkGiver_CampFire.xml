@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+	<!-- cook meals at stone campfire -->
+	<DoBillsCookStone_Campfire.label>cuisiner sur le feu de camp en pierre</DoBillsCookStone_Campfire.label>
+	<!-- cook -->
+	<DoBillsCookStone_Campfire.verb>cuisiner</DoBillsCookStone_Campfire.verb>
+	<!-- cooking at -->
+	<DoBillsCookStone_Campfire.gerund>cuisine</DoBillsCookStone_Campfire.gerund>
+
+	<!-- do bills at stone campfire -->
+	<DoBillsHaulStone_Campfire.label>travailler sur le feu de camp en pierre</DoBillsHaulStone_Campfire.label>
+	<!-- work at -->
+	<DoBillsHaulStone_Campfire.verb>travailler</DoBillsHaulStone_Campfire.verb>
+	<!-- working at -->
+	<DoBillsHaulStone_Campfire.gerund>travaille</DoBillsHaulStone_Campfire.gerund>
+
+
+</LanguageData>

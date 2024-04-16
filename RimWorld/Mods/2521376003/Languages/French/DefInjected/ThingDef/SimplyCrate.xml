@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--Traduction FR [JDS] Simple Storage-->
+  <JDS_Wooden_Crate.label>Caisse A</JDS_Wooden_Crate.label>
+  <JDS_Wooden_Crate.description>Une boîte ouverte de lattes de bois ou une caisse ou un cadre de protection généralement en bois pour l'expédition.</JDS_Wooden_Crate.description>
+  
+  <JDS_Wooden_Crate_Two.label>Caisse A2</JDS_Wooden_Crate_Two.label>
+  <JDS_Wooden_Crate_Two.description>Une boîte ouverte de lattes de bois ou une caisse ou un cadre de protection généralement en bois pour l'expédition.</JDS_Wooden_Crate_Two.description>
+  
+  <JDS_Wooden_Crate_Three.label>Caisse A3</JDS_Wooden_Crate_Three.label>
+  <JDS_Wooden_Crate_Three.description>Une boîte ouverte de lattes de bois ou une caisse ou un cadre de protection généralement en bois pour l'expédition.</JDS_Wooden_Crate_Three.description>
+  
+  <JDS_Wooden_Crate_four.label>Caisse A4</JDS_Wooden_Crate_four.label>
+  <JDS_Wooden_Crate_four.description>Une boîte ouverte de lattes de bois ou une caisse ou un cadre de protection généralement en bois pour l'expédition.</JDS_Wooden_Crate_four.description>
+  
+  <JDS_Wooden_Crate_B.label>Caisse B</JDS_Wooden_Crate_B.label>
+  <JDS_Wooden_Crate_B.description>Une boîte ouverte de lattes de bois ou une caisse ou un cadre de protection généralement en bois pour l'expédition.</JDS_Wooden_Crate_B.description>
+  
+  <JDS_Wooden_Crate_C.label>Caisse C</JDS_Wooden_Crate_C.label>
+  <JDS_Wooden_Crate_C.description>Une boîte ouverte de lattes de bois ou une caisse ou un cadre de protection généralement en bois pour l'expédition.</JDS_Wooden_Crate_C.description>
+  
+  <Wooden_Crate_Medium.label>Caisse en bois moyenne</Wooden_Crate_Medium.label>
+  <Wooden_Crate_Medium.description>Une caisse de grande capacité pour stocker en toute sécurité de nombreuses armes. Les objets qui y sont stockés ne se détérioreront pas, même s'ils sont à l'extérieur.</Wooden_Crate_Medium.description>
+
+  <JDS_Wooden_Crate_Large.label>Caisse large</JDS_Wooden_Crate_Large.label>
+  <JDS_Wooden_Crate_Large.description>Une caisse en bois de grande capacité pour ranger en toute sécurité de nombreux articles.</JDS_Wooden_Crate_Large.description>
+  
+  <JDS_Wooden_Barrel.label>Fût</JDS_Wooden_Barrel.label>
+  <JDS_Wooden_Barrel.description>...</JDS_Wooden_Barrel.description>
+  
+  <JDS_Wooden_Barrel_Pile.label>Pile de fûts</JDS_Wooden_Barrel_Pile.label>
+  <JDS_Wooden_Barrel_Pile.description>...</JDS_Wooden_Barrel_Pile.description>
+  
+  <JDS_Metal_Crate.label>Caisse métallique</JDS_Metal_Crate.label>
+  <JDS_Metal_Crate.description>Une caisse de grande capacité pour stocker en toute sécurité de nombreux objets. Les objets qui y sont stockés ne se détérioreront pas, même s'ils sont à l'extérieur.</JDS_Metal_Crate.description>
+  
+  <JDS_Metal_Crate_Pile.label>Pile de caisses métalliques</JDS_Metal_Crate_Pile.label>
+  <JDS_Metal_Crate_Pile.description>Une caisse de grande capacité pour stocker en toute sécurité de nombreux objets. Les objets qui y sont stockés ne se détérioreront pas, même s'ils sont à l'extérieur.</JDS_Metal_Crate_Pile.description>
+  
+  <JDS_Metal_Crate_Pile.label>Pile de caisses métalliques</JDS_Metal_Crate_Pile.label>
+  <JDS_Metal_Crate_Pile.description>Une caisse de grande capacité pour stocker en toute sécurité de nombreux objets. Les objets qui y sont stockés ne se détérioreront pas, même s'ils sont à l'extérieur.</JDS_Metal_Crate_Pile.description>
+  
+  <JDS_Metal_Crate_Small_Pile.label>Petite pile de caisses métalliques</JDS_Metal_Crate_Small_Pile.label>
+  <JDS_Metal_Crate_Small_Pile.description>Une caisse de grande capacité pour stocker en toute sécurité de nombreux objets. Les objets qui y sont stockés ne se détérioreront pas, même s'ils sont à l'extérieur.</JDS_Metal_Crate_Small_Pile.description>
+  
+  <JDSMilitaryGradeCrateSmall.label>Petite caisse de qualité militaire</JDSMilitaryGradeCrateSmall.label>
+  <JDSMilitaryGradeCrateSmall.description>Une caisse de qualité militaire permettant de stocker en toute sécurité de nombreuses armes et autres objets.</JDSMilitaryGradeCrateSmall.description>
+  
+  <JDSMilitary_Grade_Crate_Small_Pile.label>Petite pile de caisses de qualité militaire</JDSMilitary_Grade_Crate_Small_Pile.label>
+  <JDSMilitary_Grade_Crate_Small_Pile.description>Une caisse de qualité militaire permettant de stocker en toute sécurité de nombreuses armes et autres objets.</JDSMilitary_Grade_Crate_Small_Pile.description>
+  
+  <JDSMilitary_Grade_Crate_Long.label>Longue caisse de qualité militaire</JDSMilitary_Grade_Crate_Long.label>
+  <JDSMilitary_Grade_Crate_Long.description>Une caisse de qualité militaire permettant de stocker en toute sécurité de nombreuses armes et autres objets.</JDSMilitary_Grade_Crate_Long.description>
+  
+  <JDSMilitary_Grade_crate_Large.label>Grande caisse de qualité militaire</JDSMilitary_Grade_crate_Large.label>
+  <JDSMilitary_Grade_crate_Large.description>Une caisse de qualité militaire permettant de stocker en toute sécurité de nombreuses armes et autres objets.</JDSMilitary_Grade_crate_Large.description>
+  
+  <JDSShippingContainerRed.label>Conteneur d'expédition rouge</JDSShippingContainerRed.label>
+  <JDSShippingContainerRed.description>Un conteneur d'expédition est un conteneur dont la résistance est adaptée à l'expédition, au stockage et à la manutention.</JDSShippingContainerRed.description>
+  
+  <JDSShippingContainerBlue.label>Conteneur d'expédition bleu</JDSShippingContainerBlue.label>
+  <JDSShippingContainerBlue.description>Un conteneur d'expédition est un conteneur dont la résistance est adaptée à l'expédition, au stockage et à la manutention.</JDSShippingContainerBlue.description>
+  
+  <JDSShippingContainerGreen.label>Conteneur d'expédition vert</JDSShippingContainerGreen.label>
+  <JDSShippingContainerGreen.description>Un conteneur d'expédition est un conteneur dont la résistance est adaptée à l'expédition, au stockage et à la manutention.</JDSShippingContainerGreen.description>
+  
+  <JDSTool_Box.label>Boîte à outils</JDSTool_Box.label>
+  <JDSTool_Box.description>...</JDSTool_Box.description>
+  
+  <JDSBeer_Crate.label>Caisse de bières</JDSBeer_Crate.label>
+  <JDSBeer_Crate.description>Boîtes en carton sur une palette</JDSBeer_Crate.description>
+  
+  <JDSPallet_Box.label>Cartons sur palette</JDSPallet_Box.label>
+  <JDSPallet_Box.description>Boîtes en carton sur une palette</JDSPallet_Box.description>
+  
+  <JDSPallet_Container.label>Palette de bidon</JDSPallet_Container.label>
+  <JDSPallet_Container.description>...</JDSPallet_Container.description>
+  
+  <JDSMetal_Shelf_A.label>Étagère métallique A (vide)</JDSMetal_Shelf_A.label>
+  <JDSMetal_Shelf_A.description>...</JDSMetal_Shelf_A.description>
+  
+  <JDSMetal_Shelf_B.label>Étagère métallique B (vide)</JDSMetal_Shelf_B.label>
+  <JDSMetal_Shelf_B.description>...</JDSMetal_Shelf_B.description>
+  
+  <JDSIndustrial_shelf.label>Étagère industrielle (pleine)</JDSIndustrial_shelf.label>
+  <JDSIndustrial_shelf.description>...</JDSIndustrial_shelf.description>
+  
+  <JDSIndustrial_shelf_empty.label>Étagère industrielle (vide)</JDSIndustrial_shelf_empty.label>
+  <JDSIndustrial_shelf_empty.description>...</JDSIndustrial_shelf_empty.description>
+  
+  <JDSBank_Vault.label>Coffre-fort</JDSBank_Vault.label>
+  <JDSBank_Vault.description>...</JDSBank_Vault.description>
+  
+  <JDSAmmo_BoxA.label>Boîte de munitions</JDSAmmo_BoxA.label>
+  <JDSAmmo_BoxA.description>...</JDSAmmo_BoxA.description>
+  
+  <JDSAmmo_BoxB.label>Boîte de munitions</JDSAmmo_BoxB.label>
+  <JDSAmmo_BoxB.description>...</JDSAmmo_BoxB.description>
+  
+  <JDSAmmo_BoxC.label>Boîte de munitions</JDSAmmo_BoxC.label>
+  <JDSAmmo_BoxC.description>...</JDSAmmo_BoxC.description>
+  
+  <JDSAmmo_Crate.label>Caisse de munitions</JDSAmmo_Crate.label>
+  <JDSAmmo_Crate.description>...</JDSAmmo_Crate.description>
+  
+  <JDSAmmo_Crate_Piles.label>Piles de caisses de munitions</JDSAmmo_Crate_Piles.label>
+  <JDSAmmo_Crate_Piles.description>...</JDSAmmo_Crate_Piles.description>
+  
+</LanguageData>

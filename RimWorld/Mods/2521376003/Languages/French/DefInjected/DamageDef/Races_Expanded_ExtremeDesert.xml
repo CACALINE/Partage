@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Tous les vanilla animals expanded.-->
+  <!-- Rattlesnake -->
+
+  <AEXP_RattleSnakeToxicBuildUp.label>morsure venimeuse</AEXP_RattleSnakeToxicBuildUp.label>
+  <AEXP_RattleSnakeToxicBuildUp.deathMessage>{0} a été mordu à mort.</AEXP_RattleSnakeToxicBuildUp.deathMessage>
+
+
+  <!-- Megascorpion -->
+
+  <AEXP_MegascorpionToxicBuildUp.label>morsure venimeuse</AEXP_MegascorpionToxicBuildUp.label>
+  <AEXP_MegascorpionToxicBuildUp.deathMessage>{0} a été mordu à mort.</AEXP_MegascorpionToxicBuildUp.deathMessage>
+
+
+</LanguageData>

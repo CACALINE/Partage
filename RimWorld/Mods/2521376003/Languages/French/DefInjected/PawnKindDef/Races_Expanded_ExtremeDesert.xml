@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Tous les vanilla animals expanded.-->
+  <!-- Camel -->
+
+  <!-- camel -->
+  <AEXP_Camel.label>chameau</AEXP_Camel.label>
+  <!-- camels -->
+  <AEXP_Camel.labelPlural>chameaux</AEXP_Camel.labelPlural>
+  <!-- camel calf -->
+  <AEXP_Camel.lifeStages.0.label>bébé chameau</AEXP_Camel.lifeStages.0.label>
+  <!-- camel calves -->
+  <AEXP_Camel.lifeStages.0.labelPlural>bébés chameaux</AEXP_Camel.lifeStages.0.labelPlural>
+  <!-- male camel calf -->
+  <AEXP_Camel.lifeStages.0.labelMale>bébé chameau</AEXP_Camel.lifeStages.0.labelMale>
+  <!-- male camel calves -->
+  <AEXP_Camel.lifeStages.0.labelMalePlural>bébés chameaux</AEXP_Camel.lifeStages.0.labelMalePlural>
+  <!-- female camel calf -->
+  <AEXP_Camel.lifeStages.0.labelFemale>bébé chameau</AEXP_Camel.lifeStages.0.labelFemale>
+  <!-- female camel calves -->
+  <AEXP_Camel.lifeStages.0.labelFemalePlural>bébés chameaux</AEXP_Camel.lifeStages.0.labelFemalePlural>
+  <!-- camel -->
+  <AEXP_Camel.lifeStages.1.label>chameau</AEXP_Camel.lifeStages.1.label>
+  <!-- camels -->
+  <AEXP_Camel.lifeStages.1.labelPlural>chameaux</AEXP_Camel.lifeStages.1.labelPlural>
+  <!-- male camel -->
+  <AEXP_Camel.lifeStages.1.labelMale>chameau</AEXP_Camel.lifeStages.1.labelMale>
+  <!-- male camels -->
+  <AEXP_Camel.lifeStages.1.labelMalePlural>chameaux</AEXP_Camel.lifeStages.1.labelMalePlural>
+  <!-- female camel -->
+  <AEXP_Camel.lifeStages.1.labelFemale>chameau</AEXP_Camel.lifeStages.1.labelFemale>
+  <!-- female camels -->
+  <AEXP_Camel.lifeStages.1.labelFemalePlural>chameaux</AEXP_Camel.lifeStages.1.labelFemalePlural>
+  <!-- camel -->
+  <AEXP_Camel.lifeStages.2.label>chameau</AEXP_Camel.lifeStages.2.label>
+  <!-- camels -->
+  <AEXP_Camel.lifeStages.2.labelPlural>chameaux</AEXP_Camel.lifeStages.2.labelPlural>
+  <!-- male camel -->
+  <AEXP_Camel.lifeStages.2.labelMale>chameau</AEXP_Camel.lifeStages.2.labelMale>
+  <!-- male camels -->
+  <AEXP_Camel.lifeStages.2.labelMalePlural>chameaux</AEXP_Camel.lifeStages.2.labelMalePlural>
+  <!-- female camel -->
+  <AEXP_Camel.lifeStages.2.labelFemale>chameau</AEXP_Camel.lifeStages.2.labelFemale>
+  <!-- female camels -->
+  <AEXP_Camel.lifeStages.2.labelFemalePlural>chameaux</AEXP_Camel.lifeStages.2.labelFemalePlural>
+  <!-- male camel -->
+  <AEXP_Camel.labelMale>chameau</AEXP_Camel.labelMale>
+  <!-- male camels -->
+  <AEXP_Camel.labelMalePlural>chameaux</AEXP_Camel.labelMalePlural>
+  <!-- female camel -->
+  <AEXP_Camel.labelFemale>chameau</AEXP_Camel.labelFemale>
+  <!-- female camels -->
+  <AEXP_Camel.labelFemalePlural>chameaux</AEXP_Camel.labelFemalePlural>
+
+
+  <!-- Rattlesnake -->
+
+  <!-- rattlesnake -->
+  <AEXP_Rattlesnake.label>serpent à sonnette</AEXP_Rattlesnake.label>
+  <!-- rattlesnakes -->
+  <AEXP_Rattlesnake.labelPlural>serpents à sonnette</AEXP_Rattlesnake.labelPlural>
+  <!-- rattlesnake -->
+  <AEXP_Rattlesnake.lifeStages.0.label>bébé serpent à sonnette</AEXP_Rattlesnake.lifeStages.0.label>
+  <!-- rattlesnake -->
+  <AEXP_Rattlesnake.lifeStages.0.labelPlural>bébés serpents à sonnette</AEXP_Rattlesnake.lifeStages.0.labelPlural>
+  <!-- male rattlesnake -->
+  <AEXP_Rattlesnake.lifeStages.0.labelMale>bébé serpent à sonnette</AEXP_Rattlesnake.lifeStages.0.labelMale>
+  <!-- male rattlesnakes -->
+  <AEXP_Rattlesnake.lifeStages.0.labelMalePlural>bébés serpents à sonnette</AEXP_Rattlesnake.lifeStages.0.labelMalePlural>
+  <!-- female rattlesnake -->
+  <AEXP_Rattlesnake.lifeStages.0.labelFemale>bébé serpent à sonnette</AEXP_Rattlesnake.lifeStages.0.labelFemale>
+  <!-- female rattlesnakes -->
+  <AEXP_Rattlesnake.lifeStages.0.labelFemalePlural>bébés serpents à sonnette</AEXP_Rattlesnake.lifeStages.0.labelFemalePlural>
+  <!-- rattlesnake -->
+  <AEXP_Rattlesnake.lifeStages.1.label>serpent à sonnette</AEXP_Rattlesnake.lifeStages.1.label>
+  <!-- rattlesnake -->
+  <AEXP_Rattlesnake.lifeStages.1.labelPlural>serpents à sonnette</AEXP_Rattlesnake.lifeStages.1.labelPlural>
+  <!-- male rattlesnake -->
+  <AEXP_Rattlesnake.lifeStages.1.labelMale>serpent à sonnette</AEXP_Rattlesnake.lifeStages.1.labelMale>
+  <!-- male rattlesnakes -->
+  <AEXP_Rattlesnake.lifeStages.1.labelMalePlural>serpents à sonnette</AEXP_Rattlesnake.lifeStages.1.labelMalePlural>
+  <!-- female rattlesnake -->
+  <AEXP_Rattlesnake.lifeStages.1.labelFemale>serpent à sonnette</AEXP_Rattlesnake.lifeStages.1.labelFemale>
+  <!-- rattlesnakes -->
+  <AEXP_Rattlesnake.lifeStages.1.labelFemalePlural>serpents à sonnette</AEXP_Rattlesnake.lifeStages.1.labelFemalePlural>
+  <!-- rattlesnake -->
+  <AEXP_Rattlesnake.lifeStages.2.label>serpent à sonnette</AEXP_Rattlesnake.lifeStages.2.label>
+  <!-- rattlesnake -->
+  <AEXP_Rattlesnake.lifeStages.2.labelPlural>serpents à sonnette</AEXP_Rattlesnake.lifeStages.2.labelPlural>
+  <!-- male rattlesnake -->
+  <AEXP_Rattlesnake.lifeStages.2.labelMale>serpent à sonnette</AEXP_Rattlesnake.lifeStages.2.labelMale>
+  <!-- male rattlesnakes -->
+  <AEXP_Rattlesnake.lifeStages.2.labelMalePlural>serpents à sonnette</AEXP_Rattlesnake.lifeStages.2.labelMalePlural>
+  <!-- female rattlesnake -->
+  <AEXP_Rattlesnake.lifeStages.2.labelFemale>serpent à sonnette</AEXP_Rattlesnake.lifeStages.2.labelFemale>
+  <!-- female rattlesnakes -->
+  <AEXP_Rattlesnake.lifeStages.2.labelFemalePlural>serpents à sonnette</AEXP_Rattlesnake.lifeStages.2.labelFemalePlural>
+  <!-- male rattlesnake -->
+  <AEXP_Rattlesnake.labelMale>serpent à sonnette</AEXP_Rattlesnake.labelMale>
+  <!-- male rattlesnakes -->
+  <AEXP_Rattlesnake.labelMalePlural>serpents à sonnette</AEXP_Rattlesnake.labelMalePlural>
+  <!-- female rattlesnake -->
+  <AEXP_Rattlesnake.labelFemale>serpent à sonnette</AEXP_Rattlesnake.labelFemale>
+  <!-- female rattlesnakes -->
+  <AEXP_Rattlesnake.labelFemalePlural>serpents à sonnette</AEXP_Rattlesnake.labelFemalePlural>
+
+
+
+  <!-- Megascorpion -->
+
+<!-- female rattlesnakes -->
+  <AEXP_Megascorpion.label>mégascorpion</AEXP_Megascorpion.label>
+<!-- megascorpions -->
+  <AEXP_Megascorpion.labelPlural>mégascorpions</AEXP_Megascorpion.labelPlural>
+<!-- megascorpion -->
+  <AEXP_Megascorpion.lifeStages.0.label>bébé mégascorpion</AEXP_Megascorpion.lifeStages.0.label>
+<!-- megascorpion -->
+  <AEXP_Megascorpion.lifeStages.0.labelPlural>bébés mégascorpions</AEXP_Megascorpion.lifeStages.0.labelPlural>
+<!-- male megascorpion -->
+  <AEXP_Megascorpion.lifeStages.0.labelMale>bébé mégascorpion</AEXP_Megascorpion.lifeStages.0.labelMale>
+<!-- male megascorpions -->
+  <AEXP_Megascorpion.lifeStages.0.labelMalePlural>bébés mégascorpions</AEXP_Megascorpion.lifeStages.0.labelMalePlural>
+<!-- female megascorpion -->
+  <AEXP_Megascorpion.lifeStages.0.labelFemale>bébé mégascorpion</AEXP_Megascorpion.lifeStages.0.labelFemale>
+<!-- female megascorpions -->
+  <AEXP_Megascorpion.lifeStages.0.labelFemalePlural>bébés mégascorpions</AEXP_Megascorpion.lifeStages.0.labelFemalePlural>
+<!-- megascorpion -->
+  <AEXP_Megascorpion.lifeStages.1.label>mégascorpion</AEXP_Megascorpion.lifeStages.1.label>
+<!-- megascorpion -->
+  <AEXP_Megascorpion.lifeStages.1.labelPlural>mégascorpions</AEXP_Megascorpion.lifeStages.1.labelPlural>
+<!-- male megascorpion -->
+  <AEXP_Megascorpion.lifeStages.1.labelMale>mégascorpion</AEXP_Megascorpion.lifeStages.1.labelMale>
+<!-- male megascorpions -->
+  <AEXP_Megascorpion.lifeStages.1.labelMalePlural>mégascorpions</AEXP_Megascorpion.lifeStages.1.labelMalePlural>
+<!-- female megascorpion -->
+  <AEXP_Megascorpion.lifeStages.1.labelFemale>mégascorpion</AEXP_Megascorpion.lifeStages.1.labelFemale>
+<!-- female megascorpions -->
+  <AEXP_Megascorpion.lifeStages.1.labelFemalePlural>mégascorpions</AEXP_Megascorpion.lifeStages.1.labelFemalePlural>
+<!-- megascorpion -->
+  <AEXP_Megascorpion.lifeStages.2.label>mégascorpion</AEXP_Megascorpion.lifeStages.2.label>
+<!-- megascorpion -->
+  <AEXP_Megascorpion.lifeStages.2.labelPlural>mégascorpions</AEXP_Megascorpion.lifeStages.2.labelPlural>
+<!-- male megascorpion -->
+  <AEXP_Megascorpion.lifeStages.2.labelMale>mégascorpion</AEXP_Megascorpion.lifeStages.2.labelMale>
+<!-- male megascorpions -->
+  <AEXP_Megascorpion.lifeStages.2.labelMalePlural>mégascorpions</AEXP_Megascorpion.lifeStages.2.labelMalePlural>
+<!-- female megascorpion -->
+  <AEXP_Megascorpion.lifeStages.2.labelFemale>mégascorpion</AEXP_Megascorpion.lifeStages.2.labelFemale>
+<!-- female megascorpions -->
+  <AEXP_Megascorpion.lifeStages.2.labelFemalePlural>mégascorpions</AEXP_Megascorpion.lifeStages.2.labelFemalePlural>
+<!-- male megascorpion -->
+  <AEXP_Megascorpion.labelMale>mégascorpion</AEXP_Megascorpion.labelMale>
+<!-- male megascorpions -->
+  <AEXP_Megascorpion.labelMalePlural>mégascorpions</AEXP_Megascorpion.labelMalePlural>
+<!-- female megascorpion -->
+  <AEXP_Megascorpion.labelFemale>mégascorpion</AEXP_Megascorpion.labelFemale>
+<!-- female megascorpions -->
+  <AEXP_Megascorpion.labelFemalePlural>mégascorpions</AEXP_Megascorpion.labelFemalePlural>
+
+
+
+</LanguageData>

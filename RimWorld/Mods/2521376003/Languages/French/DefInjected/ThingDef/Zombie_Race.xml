@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR zombieland.-->
+  <Zombie.label>zombie</Zombie.label>
+  <Zombie.description>Un zombie.</Zombie.description>
+  <Zombie.tools.0.label>mordre</Zombie.tools.0.label>
+  <Zombie.tools.1.label>poing gauche</Zombie.tools.1.label>
+  <Zombie.tools.2.label>poing droit</Zombie.tools.2.label>
+  <!-- Leather Amount: 0 -->
+  <!-- Meat Amount: 0 -->
+  <Zombie_Corpse.label>Cadavre de zombie</Zombie_Corpse.label>
+  <Zombie_Corpse.description>Cadavre de zombie</Zombie_Corpse.description>
+
+
+</LanguageData>

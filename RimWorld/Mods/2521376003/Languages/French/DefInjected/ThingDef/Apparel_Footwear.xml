@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR vanilla apparel expanded.-->
+  <!-- Boots -->
+
+  <VAE_Footwear_Boots.label>Chaussures</VAE_Footwear_Boots.label>
+  <VAE_Footwear_Boots.description>Une simple paire de bottes en cuir.</VAE_Footwear_Boots.description>
+
+
+  <!-- Shoes -->
+
+  <VAE_Footwear_Shoes.label>Chaussures</VAE_Footwear_Shoes.label>
+  <VAE_Footwear_Shoes.description>Une belle paire de chaussures en cuir.</VAE_Footwear_Shoes.description>
+
+</LanguageData>

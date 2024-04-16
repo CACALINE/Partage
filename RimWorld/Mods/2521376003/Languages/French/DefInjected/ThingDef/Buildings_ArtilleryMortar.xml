@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+	<!-- artillery -->
+	<VFES_Turret_Artillery.label>artillerie</VFES_Turret_Artillery.label>
+	<!-- A manned artillery that launches all kinds of shells. Capable of inflicting devastating damage to both enemy forces and structures, this military machinery excels at laying down fire support for soldiers in the field.\n\nCapable of targeting other areas of the world within a medium radius. -->
+	<VFES_Turret_Artillery.description>Une artillerie habitée qui lance toutes sortes de projectiles. Capable d’infliger des dégâts dévastateurs aux forces et structures ennemies, cette machine militaire excelle dans l’appui-feu des soldats sur le terrain. \n\nCapable de cibler d’autres régions du monde dans un rayon moyen.</VFES_Turret_Artillery.description>
+	<!-- EN: artillery -->
+	<VFES_Artillery_Weapon.verbs.Verb_Shoot.label>artillerie</VFES_Artillery_Weapon.verbs.Verb_Shoot.label>
+
+	<!-- artillery -->
+	<VFES_Artillery_Weapon.label>canon d'artillerie</VFES_Artillery_Weapon.label>
+	<!-- Artillery cannon capable of long range bombardment. -->
+	<VFES_Artillery_Weapon.description>Un canon d'artillerie capable de bombarder à longue portée.</VFES_Artillery_Weapon.description>
+
+
+</LanguageData>

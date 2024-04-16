@@ -1,0 +1,362 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Tous les vanilla animals expanded.-->
+  <!-- Endangered -->
+  <!-- black-footed ferret -->
+  <AEXP_BlackFootedFerret.label>furet à pattes noires</AEXP_BlackFootedFerret.label>
+  <!-- black-footed ferrets -->
+  <AEXP_BlackFootedFerret.labelPlural>furets à pattes noires</AEXP_BlackFootedFerret.labelPlural>
+  <!-- black-footed ferret -->
+  <AEXP_BlackFootedFerret.lifeStages.0.label>bébé furet à pattes noires</AEXP_BlackFootedFerret.lifeStages.0.label>
+  <!-- black-footed ferret -->
+  <AEXP_BlackFootedFerret.lifeStages.0.labelPlural>bébé furet à pattes noires</AEXP_BlackFootedFerret.lifeStages.0.labelPlural>
+  <!-- male black-footed ferret -->
+  <AEXP_BlackFootedFerret.lifeStages.0.labelMale>bébés furets à pattes noires</AEXP_BlackFootedFerret.lifeStages.0.labelMale>
+  <!-- male black-footed ferrets -->
+  <AEXP_BlackFootedFerret.lifeStages.0.labelMalePlural>bébés furets à pattes noires</AEXP_BlackFootedFerret.lifeStages.0.labelMalePlural>
+  <!-- female black-footed ferret -->
+  <AEXP_BlackFootedFerret.lifeStages.0.labelFemale>bébé furet à pattes noires</AEXP_BlackFootedFerret.lifeStages.0.labelFemale>
+  <!-- female black-footed ferrets -->
+  <AEXP_BlackFootedFerret.lifeStages.0.labelFemalePlural>bébés furets à pattes noires</AEXP_BlackFootedFerret.lifeStages.0.labelFemalePlural>
+  <!-- black-footed ferret -->
+  <AEXP_BlackFootedFerret.lifeStages.1.label>furet à pattes noires</AEXP_BlackFootedFerret.lifeStages.1.label>
+  <!-- black-footed ferret -->
+  <AEXP_BlackFootedFerret.lifeStages.1.labelPlural>furets à pattes noires</AEXP_BlackFootedFerret.lifeStages.1.labelPlural>
+  <!-- male black-footed ferret -->
+  <AEXP_BlackFootedFerret.lifeStages.1.labelMale>furet à pattes noires</AEXP_BlackFootedFerret.lifeStages.1.labelMale>
+  <!-- male black-footed ferrets -->
+  <AEXP_BlackFootedFerret.lifeStages.1.labelMalePlural>furets à pattes noires</AEXP_BlackFootedFerret.lifeStages.1.labelMalePlural>
+  <!-- female black-footed ferret -->
+  <AEXP_BlackFootedFerret.lifeStages.1.labelFemale>furet à pattes noires</AEXP_BlackFootedFerret.lifeStages.1.labelFemale>
+  <!-- female black-footed ferrets -->
+  <AEXP_BlackFootedFerret.lifeStages.1.labelFemalePlural>furets à pattes noires</AEXP_BlackFootedFerret.lifeStages.1.labelFemalePlural>
+  <!-- male black-footed ferret -->
+  <AEXP_BlackFootedFerret.lifeStages.2.label>furet à pattes noires</AEXP_BlackFootedFerret.lifeStages.2.label>
+  <!-- male black-footed ferret -->
+  <AEXP_BlackFootedFerret.lifeStages.2.labelPlural>furets à pattes noires</AEXP_BlackFootedFerret.lifeStages.2.labelPlural>
+  <!-- male black-footed ferret -->
+  <AEXP_BlackFootedFerret.lifeStages.2.labelMale>furet à pattes noires</AEXP_BlackFootedFerret.lifeStages.2.labelMale>
+  <!-- male black-footed ferrets -->
+  <AEXP_BlackFootedFerret.lifeStages.2.labelMalePlural>furets à pattes noires</AEXP_BlackFootedFerret.lifeStages.2.labelMalePlural>
+  <!-- female black-footed ferret -->
+  <AEXP_BlackFootedFerret.lifeStages.2.labelFemale>furet à pattes noires</AEXP_BlackFootedFerret.lifeStages.2.labelFemale>
+  <!-- female black-footed ferrets -->
+  <AEXP_BlackFootedFerret.lifeStages.2.labelFemalePlural>furets à pattes noires</AEXP_BlackFootedFerret.lifeStages.2.labelFemalePlural>
+  <!-- male black-footed ferret -->
+  <AEXP_BlackFootedFerret.labelMale>furet à pattes noires</AEXP_BlackFootedFerret.labelMale>
+  <!-- male black-footed ferrets -->
+  <AEXP_BlackFootedFerret.labelMalePlural>furets à pattes noires</AEXP_BlackFootedFerret.labelMalePlural>
+  <!-- female black-footed ferret -->
+  <AEXP_BlackFootedFerret.labelFemale>furet à pattes noires</AEXP_BlackFootedFerret.labelFemale>
+  <!-- female black-footed ferrets -->
+  <AEXP_BlackFootedFerret.labelFemalePlural>furets à pattes noires</AEXP_BlackFootedFerret.labelFemalePlural>
+
+  <!-- black rhinoceros -->
+  <AEXP_BlackRhino.label>rhinocéros noir</AEXP_BlackRhino.label>
+  <!-- black rhinoceroses -->
+  <AEXP_BlackRhino.labelPlural>rhinocéros noirs</AEXP_BlackRhino.labelPlural>
+  <!-- black rhinoceros -->
+  <AEXP_BlackRhino.lifeStages.0.label>bébé rhinocéros noir</AEXP_BlackRhino.lifeStages.0.label>
+  <!-- black rhinoceroses -->
+  <AEXP_BlackRhino.lifeStages.0.labelPlural>bébés rhinocéros noir</AEXP_BlackRhino.lifeStages.0.labelPlural>
+  <!-- male black rhinoceros -->
+  <AEXP_BlackRhino.lifeStages.0.labelMale>bébé rhinocéros noir</AEXP_BlackRhino.lifeStages.0.labelMale>
+  <!-- male black rhinoceross -->
+  <AEXP_BlackRhino.lifeStages.0.labelMalePlural>bébés rhinocéros noir</AEXP_BlackRhino.lifeStages.0.labelMalePlural>
+  <!-- female black rhinoceros -->
+  <AEXP_BlackRhino.lifeStages.0.labelFemale>bébé rhinocéros noir</AEXP_BlackRhino.lifeStages.0.labelFemale>
+  <!-- female black rhinoceross -->
+  <AEXP_BlackRhino.lifeStages.0.labelFemalePlural>bébés rhinocéros noir</AEXP_BlackRhino.lifeStages.0.labelFemalePlural>
+  <!-- black rhinoceros -->
+  <AEXP_BlackRhino.lifeStages.1.label>rhinocéros noir</AEXP_BlackRhino.lifeStages.1.label>
+  <!-- black rhinoceros -->
+  <AEXP_BlackRhino.lifeStages.1.labelPlural>rhinocéros noirs</AEXP_BlackRhino.lifeStages.1.labelPlural>
+  <!-- male black rhinoceros -->
+  <AEXP_BlackRhino.lifeStages.1.labelMale>rhinocéros noir</AEXP_BlackRhino.lifeStages.1.labelMale>
+  <!-- male black rhinoceross -->
+  <AEXP_BlackRhino.lifeStages.1.labelMalePlural>rhinocéros noirs</AEXP_BlackRhino.lifeStages.1.labelMalePlural>
+  <!-- female black rhinoceros -->
+  <AEXP_BlackRhino.lifeStages.1.labelFemale>rhinocéros noir</AEXP_BlackRhino.lifeStages.1.labelFemale>
+  <!-- female black rhinoceross -->
+  <AEXP_BlackRhino.lifeStages.1.labelFemalePlural>rhinocéros noirs</AEXP_BlackRhino.lifeStages.1.labelFemalePlural>
+  <!-- black rhinoceros -->
+  <AEXP_BlackRhino.lifeStages.2.label>rhinocéros noir</AEXP_BlackRhino.lifeStages.2.label>
+  <!-- black rhinoceros -->
+  <AEXP_BlackRhino.lifeStages.2.labelPlural>rhinocéros noirs</AEXP_BlackRhino.lifeStages.2.labelPlural>
+  <!-- male black rhinoceros -->
+  <AEXP_BlackRhino.lifeStages.2.labelMale>rhinocéros noir</AEXP_BlackRhino.lifeStages.2.labelMale>
+  <!-- male black rhinoceross -->
+  <AEXP_BlackRhino.lifeStages.2.labelMalePlural>rhinocéros noirs</AEXP_BlackRhino.lifeStages.2.labelMalePlural>
+  <!-- female black rhinoceros -->
+  <AEXP_BlackRhino.lifeStages.2.labelFemale>rhinocéros noir</AEXP_BlackRhino.lifeStages.2.labelFemale>
+  <!-- female black rhinoceross -->
+  <AEXP_BlackRhino.lifeStages.2.labelFemalePlural>rhinocéros noirs</AEXP_BlackRhino.lifeStages.2.labelFemalePlural>
+  <!-- male black rhinoceros -->
+  <AEXP_BlackRhino.labelMale>rhinocéros noir</AEXP_BlackRhino.labelMale>
+  <!-- male black rhinoceross -->
+  <AEXP_BlackRhino.labelMalePlural>rhinocéros noirs</AEXP_BlackRhino.labelMalePlural>
+  <!-- female black rhinoceros -->
+  <AEXP_BlackRhino.labelFemale>rhinocéros noir</AEXP_BlackRhino.labelFemale>
+  <!-- female black rhinoceross -->
+  <AEXP_BlackRhino.labelFemalePlural>rhinocéros noirs</AEXP_BlackRhino.labelFemalePlural>
+
+  <!-- bonobo -->
+  <AEXP_Bonobo.label>bonobo</AEXP_Bonobo.label>
+  <AEXP_Bonobo.labelPlural>bonobos</AEXP_Bonobo.labelPlural>
+  <AEXP_Bonobo.lifeStages.0.label>bébé bonobo</AEXP_Bonobo.lifeStages.0.label>
+  <AEXP_Bonobo.lifeStages.0.labelPlural>bébés bonobo</AEXP_Bonobo.lifeStages.0.labelPlural>
+  <AEXP_Bonobo.lifeStages.0.labelMale>bébé bonobo</AEXP_Bonobo.lifeStages.0.labelMale>
+  <AEXP_Bonobo.lifeStages.0.labelMalePlural>bébés bonobo</AEXP_Bonobo.lifeStages.0.labelMalePlural>
+  <AEXP_Bonobo.lifeStages.0.labelFemale>bébé bonobo</AEXP_Bonobo.lifeStages.0.labelFemale>
+  <AEXP_Bonobo.lifeStages.0.labelFemalePlural>bébés bonobo</AEXP_Bonobo.lifeStages.0.labelFemalePlural>
+  <AEXP_Bonobo.lifeStages.1.label>bonobo</AEXP_Bonobo.lifeStages.1.label>
+  <AEXP_Bonobo.lifeStages.1.labelPlural>bonobos</AEXP_Bonobo.lifeStages.1.labelPlural>
+  <AEXP_Bonobo.lifeStages.1.labelMale>bonobo</AEXP_Bonobo.lifeStages.1.labelMale>
+  <AEXP_Bonobo.lifeStages.1.labelMalePlural>bonobos</AEXP_Bonobo.lifeStages.1.labelMalePlural>
+  <AEXP_Bonobo.lifeStages.1.labelFemale>bonobo</AEXP_Bonobo.lifeStages.1.labelFemale>
+  <AEXP_Bonobo.lifeStages.1.labelFemalePlural>bonobos</AEXP_Bonobo.lifeStages.1.labelFemalePlural>
+  <AEXP_Bonobo.lifeStages.2.label>bonobo</AEXP_Bonobo.lifeStages.2.label>
+  <AEXP_Bonobo.lifeStages.2.labelPlural>bonobos</AEXP_Bonobo.lifeStages.2.labelPlural>
+  <AEXP_Bonobo.lifeStages.2.labelMale>bonobo</AEXP_Bonobo.lifeStages.2.labelMale>
+  <AEXP_Bonobo.lifeStages.2.labelMalePlural>bonobos</AEXP_Bonobo.lifeStages.2.labelMalePlural>
+  <AEXP_Bonobo.lifeStages.2.labelFemale>bonobo</AEXP_Bonobo.lifeStages.2.labelFemale>
+  <AEXP_Bonobo.lifeStages.2.labelFemalePlural>bonobos</AEXP_Bonobo.lifeStages.2.labelFemalePlural>
+  <AEXP_Bonobo.labelMale>bonobo</AEXP_Bonobo.labelMale>
+  <AEXP_Bonobo.labelMalePlural>bonobos</AEXP_Bonobo.labelMalePlural>
+  <AEXP_Bonobo.labelFemale>bonobo</AEXP_Bonobo.labelFemale>
+  <AEXP_Bonobo.labelFemalePlural>bonobos</AEXP_Bonobo.labelFemalePlural>
+
+  <!-- moa -->
+  <AEXP_Moa.label>moa</AEXP_Moa.label>
+  <AEXP_Moa.labelPlural>moas</AEXP_Moa.labelPlural>
+  <AEXP_Moa.lifeStages.0.label>bébé moa</AEXP_Moa.lifeStages.0.label>
+  <AEXP_Moa.lifeStages.0.labelPlural>bébés moas</AEXP_Moa.lifeStages.0.labelPlural>
+  <AEXP_Moa.lifeStages.0.labelMale>bébé moa</AEXP_Moa.lifeStages.0.labelMale>
+  <AEXP_Moa.lifeStages.0.labelMalePlural>bébés moas</AEXP_Moa.lifeStages.0.labelMalePlural>
+  <AEXP_Moa.lifeStages.0.labelFemale>bébé moa</AEXP_Moa.lifeStages.0.labelFemale>
+  <AEXP_Moa.lifeStages.0.labelFemalePlural>bébés moas</AEXP_Moa.lifeStages.0.labelFemalePlural>
+  <AEXP_Moa.lifeStages.1.label>moa</AEXP_Moa.lifeStages.1.label>
+  <AEXP_Moa.lifeStages.1.labelPlural>moas</AEXP_Moa.lifeStages.1.labelPlural>
+  <AEXP_Moa.lifeStages.1.labelMale>moa</AEXP_Moa.lifeStages.1.labelMale>
+  <AEXP_Moa.lifeStages.1.labelMalePlural>moas</AEXP_Moa.lifeStages.1.labelMalePlural>
+  <AEXP_Moa.lifeStages.1.labelFemale>moa</AEXP_Moa.lifeStages.1.labelFemale>
+  <AEXP_Moa.lifeStages.1.labelFemalePlural>moas</AEXP_Moa.lifeStages.1.labelFemalePlural>
+  <AEXP_Moa.lifeStages.2.label>moa</AEXP_Moa.lifeStages.2.label>
+  <AEXP_Moa.lifeStages.2.labelPlural>moa</AEXP_Moa.lifeStages.2.labelPlural>
+  <AEXP_Moa.lifeStages.2.labelMale>moa</AEXP_Moa.lifeStages.2.labelMale>
+  <AEXP_Moa.lifeStages.2.labelMalePlural>moas</AEXP_Moa.lifeStages.2.labelMalePlural>
+  <AEXP_Moa.lifeStages.2.labelFemale>moa</AEXP_Moa.lifeStages.2.labelFemale>
+  <AEXP_Moa.lifeStages.2.labelFemalePlural>moas</AEXP_Moa.lifeStages.2.labelFemalePlural>
+  <AEXP_Moa.labelMale>moa</AEXP_Moa.labelMale>
+  <AEXP_Moa.labelMalePlural>moas</AEXP_Moa.labelMalePlural>
+  <AEXP_Moa.labelFemale>moa</AEXP_Moa.labelFemale>
+  <AEXP_Moa.labelFemalePlural>moas</AEXP_Moa.labelFemalePlural>
+
+
+  <!-- giant panda -->
+  <AEXP_Panda.label>panda</AEXP_Panda.label>
+  <AEXP_Panda.labelPlural>pandas</AEXP_Panda.labelPlural>
+  <AEXP_Panda.lifeStages.0.label>bébé panda</AEXP_Panda.lifeStages.0.label>
+  <AEXP_Panda.lifeStages.0.labelPlural>bébés pandas</AEXP_Panda.lifeStages.0.labelPlural>
+  <AEXP_Panda.lifeStages.0.labelMale>bébé panda</AEXP_Panda.lifeStages.0.labelMale>
+  <AEXP_Panda.lifeStages.0.labelMalePlural>bébés pandas</AEXP_Panda.lifeStages.0.labelMalePlural>
+  <AEXP_Panda.lifeStages.0.labelFemale>bébé panda</AEXP_Panda.lifeStages.0.labelFemale>
+  <AEXP_Panda.lifeStages.0.labelFemalePlural>bébés pandas</AEXP_Panda.lifeStages.0.labelFemalePlural>
+  <AEXP_Panda.lifeStages.1.label>panda</AEXP_Panda.lifeStages.1.label>
+  <AEXP_Panda.lifeStages.1.labelPlural>pandas</AEXP_Panda.lifeStages.1.labelPlural>
+  <AEXP_Panda.lifeStages.1.labelMale>panda</AEXP_Panda.lifeStages.1.labelMale>
+  <AEXP_Panda.lifeStages.1.labelMalePlural>pandas</AEXP_Panda.lifeStages.1.labelMalePlural>
+  <AEXP_Panda.lifeStages.1.labelFemale>panda</AEXP_Panda.lifeStages.1.labelFemale>
+  <AEXP_Panda.lifeStages.1.labelFemalePlural>pandas</AEXP_Panda.lifeStages.1.labelFemalePlural>
+  <AEXP_Panda.lifeStages.2.label>panda</AEXP_Panda.lifeStages.2.label>
+  <AEXP_Panda.lifeStages.2.labelPlural>pandas</AEXP_Panda.lifeStages.2.labelPlural>
+  <AEXP_Panda.lifeStages.2.labelMale>panda</AEXP_Panda.lifeStages.2.labelMale>
+  <AEXP_Panda.lifeStages.2.labelMalePlural>pandas</AEXP_Panda.lifeStages.2.labelMalePlural>
+  <AEXP_Panda.lifeStages.2.labelFemale>panda</AEXP_Panda.lifeStages.2.labelFemale>
+  <AEXP_Panda.lifeStages.2.labelFemalePlural>pandas</AEXP_Panda.lifeStages.2.labelFemalePlural>
+  <AEXP_Panda.labelMale>panda</AEXP_Panda.labelMale>
+  <AEXP_Panda.labelMalePlural>pandas</AEXP_Panda.labelMalePlural>
+  <AEXP_Panda.labelFemale>panda</AEXP_Panda.labelFemale>
+  <AEXP_Panda.labelFemalePlural>pandas</AEXP_Panda.labelFemalePlural>
+
+  <!-- quagga -->
+  <AEXP_Quagga.label>quagga</AEXP_Quagga.label>
+  <!-- quaggas -->
+  <AEXP_Quagga.labelPlural>quaggas</AEXP_Quagga.labelPlural>
+  <!-- quagga foal -->
+  <AEXP_Quagga.lifeStages.0.label>poulain quagga</AEXP_Quagga.lifeStages.0.label>
+  <!-- quagga foals -->
+  <AEXP_Quagga.lifeStages.0.labelPlural>poulains quagga</AEXP_Quagga.lifeStages.0.labelPlural>
+  <!-- male quagga foal -->
+  <AEXP_Quagga.lifeStages.0.labelMale>poulain quagga</AEXP_Quagga.lifeStages.0.labelMale>
+  <!-- male quagga foals -->
+  <AEXP_Quagga.lifeStages.0.labelMalePlural>poulains quagga</AEXP_Quagga.lifeStages.0.labelMalePlural>
+  <!-- female quagga foal -->
+  <AEXP_Quagga.lifeStages.0.labelFemale>poulain quagga</AEXP_Quagga.lifeStages.0.labelFemale>
+  <!-- female quagga foals -->
+  <AEXP_Quagga.lifeStages.0.labelFemalePlural>poulains quagga</AEXP_Quagga.lifeStages.0.labelFemalePlural>
+  <!-- quagga -->
+  <AEXP_Quagga.lifeStages.1.label>quagga</AEXP_Quagga.lifeStages.1.label>
+  <!-- quagga -->
+  <AEXP_Quagga.lifeStages.1.labelPlural>quaggas</AEXP_Quagga.lifeStages.1.labelPlural>
+  <!-- male quagga -->
+  <AEXP_Quagga.lifeStages.1.labelMale>quagga</AEXP_Quagga.lifeStages.1.labelMale>
+  <!-- male quaggas -->
+  <AEXP_Quagga.lifeStages.1.labelMalePlural>quaggas</AEXP_Quagga.lifeStages.1.labelMalePlural>
+  <!-- female quagga -->
+  <AEXP_Quagga.lifeStages.1.labelFemale>quagga</AEXP_Quagga.lifeStages.1.labelFemale>
+  <!-- female quaggas -->
+  <AEXP_Quagga.lifeStages.1.labelFemalePlural>quaggas</AEXP_Quagga.lifeStages.1.labelFemalePlural>
+  <!-- quagga -->
+  <AEXP_Quagga.lifeStages.2.label>quagga</AEXP_Quagga.lifeStages.2.label>
+  <!-- quagga -->
+  <AEXP_Quagga.lifeStages.2.labelPlural>quaggas</AEXP_Quagga.lifeStages.2.labelPlural>
+  <!-- male quagga -->
+  <AEXP_Quagga.lifeStages.2.labelMale>quagga</AEXP_Quagga.lifeStages.2.labelMale>
+  <!-- male quaggas -->
+  <AEXP_Quagga.lifeStages.2.labelMalePlural>quaggas</AEXP_Quagga.lifeStages.2.labelMalePlural>
+  <!-- female quagga -->
+  <AEXP_Quagga.lifeStages.2.labelFemale>quagga</AEXP_Quagga.lifeStages.2.labelFemale>
+  <!-- female quaggas -->
+  <AEXP_Quagga.lifeStages.2.labelFemalePlural>quaggas</AEXP_Quagga.lifeStages.2.labelFemalePlural>
+  <!-- male quagga -->
+  <AEXP_Quagga.labelMale>quagga</AEXP_Quagga.labelMale>
+  <!-- male quaggas -->
+  <AEXP_Quagga.labelMalePlural>quaggas</AEXP_Quagga.labelMalePlural>
+  <!-- female quagga -->
+  <AEXP_Quagga.labelFemale>quagga</AEXP_Quagga.labelFemale>
+  <!-- female quaggas -->
+  <AEXP_Quagga.labelFemalePlural>quaggas</AEXP_Quagga.labelFemalePlural>
+
+  <!-- Rockhopper Penguin -->
+  <AEXP_RockhopperPenguin.label>gorfou sauteur</AEXP_RockhopperPenguin.label>
+  <AEXP_RockhopperPenguin.labelPlural>gorfous sauteurs</AEXP_RockhopperPenguin.labelPlural>
+  <AEXP_RockhopperPenguin.lifeStages.0.label> gorfou sauteur</AEXP_RockhopperPenguin.lifeStages.0.label>
+  <AEXP_RockhopperPenguin.lifeStages.0.labelPlural> gorfou sauteur</AEXP_RockhopperPenguin.lifeStages.0.labelPlural>
+  <AEXP_RockhopperPenguin.lifeStages.0.labelMale> gorfou sauteur</AEXP_RockhopperPenguin.lifeStages.0.labelMale>
+  <AEXP_RockhopperPenguin.lifeStages.0.labelMalePlural> gorfou sauteur</AEXP_RockhopperPenguin.lifeStages.0.labelMalePlural>
+  <AEXP_RockhopperPenguin.lifeStages.0.labelFemale> gorfou sauteur</AEXP_RockhopperPenguin.lifeStages.0.labelFemale>
+  <AEXP_RockhopperPenguin.lifeStages.0.labelFemalePlural> gorfou sauteur</AEXP_RockhopperPenguin.lifeStages.0.labelFemalePlural>
+  <AEXP_RockhopperPenguin.lifeStages.1.label>gorfou sauteur</AEXP_RockhopperPenguin.lifeStages.1.label>
+  <AEXP_RockhopperPenguin.lifeStages.1.labelPlural>gorfous sauteurs</AEXP_RockhopperPenguin.lifeStages.1.labelPlural>
+  <AEXP_RockhopperPenguin.lifeStages.1.labelMale>gorfou sauteur</AEXP_RockhopperPenguin.lifeStages.1.labelMale>
+  <AEXP_RockhopperPenguin.lifeStages.1.labelMalePlural>gorfous sauteurs</AEXP_RockhopperPenguin.lifeStages.1.labelMalePlural>
+  <AEXP_RockhopperPenguin.lifeStages.1.labelFemale>gorfou sauteur</AEXP_RockhopperPenguin.lifeStages.1.labelFemale>
+  <AEXP_RockhopperPenguin.lifeStages.1.labelFemalePlural>gorfous sauteurs</AEXP_RockhopperPenguin.lifeStages.1.labelFemalePlural>
+  <AEXP_RockhopperPenguin.lifeStages.2.label>gorfou sauteur</AEXP_RockhopperPenguin.lifeStages.2.label>
+  <AEXP_RockhopperPenguin.lifeStages.2.labelPlural>gorfous sauteurs</AEXP_RockhopperPenguin.lifeStages.2.labelPlural>
+  <AEXP_RockhopperPenguin.lifeStages.2.labelMale>gorfou sauteur</AEXP_RockhopperPenguin.lifeStages.2.labelMale>
+  <AEXP_RockhopperPenguin.lifeStages.2.labelMalePlural>gorfous sauteurs</AEXP_RockhopperPenguin.lifeStages.2.labelMalePlural>
+  <AEXP_RockhopperPenguin.lifeStages.2.labelFemale>gorfou sauteur</AEXP_RockhopperPenguin.lifeStages.2.labelFemale>
+  <AEXP_RockhopperPenguin.lifeStages.2.labelFemalePlural>gorfous sauteurs</AEXP_RockhopperPenguin.lifeStages.2.labelFemalePlural>
+  <AEXP_RockhopperPenguin.labelMale>gorfou sauteur</AEXP_RockhopperPenguin.labelMale>
+  <AEXP_RockhopperPenguin.labelMalePlural>gorfous sauteurs</AEXP_RockhopperPenguin.labelMalePlural>
+  <AEXP_RockhopperPenguin.labelFemale>gorfou sauteur</AEXP_RockhopperPenguin.labelFemale>
+  <AEXP_RockhopperPenguin.labelFemalePlural>gorfous sauteurs</AEXP_RockhopperPenguin.labelFemalePlural>
+
+  <!-- tasmanian devil -->
+  <AEXP_TasmanianDevil.label>diable de Tasmanie</AEXP_TasmanianDevil.label>
+  <AEXP_TasmanianDevil.labelPlural>diables de Tasmanie</AEXP_TasmanianDevil.labelPlural>
+  <AEXP_TasmanianDevil.lifeStages.0.label>bébé diable de Tasmanie</AEXP_TasmanianDevil.lifeStages.0.label>
+  <AEXP_TasmanianDevil.lifeStages.0.labelPlural>bébés diables de Tasmanie</AEXP_TasmanianDevil.lifeStages.0.labelPlural>
+  <AEXP_TasmanianDevil.lifeStages.0.labelMale>bébé diable de Tasmanie</AEXP_TasmanianDevil.lifeStages.0.labelMale>
+  <AEXP_TasmanianDevil.lifeStages.0.labelMalePlural>bébés diables de Tasmanie</AEXP_TasmanianDevil.lifeStages.0.labelMalePlural>
+  <AEXP_TasmanianDevil.lifeStages.0.labelFemale>bébé diable de Tasmanie</AEXP_TasmanianDevil.lifeStages.0.labelFemale>
+  <AEXP_TasmanianDevil.lifeStages.0.labelFemalePlural>bébés diables de Tasmanie</AEXP_TasmanianDevil.lifeStages.0.labelFemalePlural>
+  <AEXP_TasmanianDevil.lifeStages.1.label>diable de Tasmanie</AEXP_TasmanianDevil.lifeStages.1.label>
+  <AEXP_TasmanianDevil.lifeStages.1.labelPlural>diables de Tasmanie</AEXP_TasmanianDevil.lifeStages.1.labelPlural>
+  <AEXP_TasmanianDevil.lifeStages.1.labelMale>diable de Tasmanie</AEXP_TasmanianDevil.lifeStages.1.labelMale>
+  <AEXP_TasmanianDevil.lifeStages.1.labelMalePlural>diables de Tasmanie</AEXP_TasmanianDevil.lifeStages.1.labelMalePlural>
+  <AEXP_TasmanianDevil.lifeStages.1.labelFemale>diable de Tasmanie</AEXP_TasmanianDevil.lifeStages.1.labelFemale>
+  <AEXP_TasmanianDevil.lifeStages.1.labelFemalePlural>diables de Tasmanie</AEXP_TasmanianDevil.lifeStages.1.labelFemalePlural>
+  <AEXP_TasmanianDevil.lifeStages.2.label>diable de Tasmanie</AEXP_TasmanianDevil.lifeStages.2.label>
+  <AEXP_TasmanianDevil.lifeStages.2.labelPlural>diables de Tasmanie</AEXP_TasmanianDevil.lifeStages.2.labelPlural>
+  <AEXP_TasmanianDevil.lifeStages.2.labelMale>diable de Tasmanie</AEXP_TasmanianDevil.lifeStages.2.labelMale>
+  <AEXP_TasmanianDevil.lifeStages.2.labelMalePlural>diables de Tasmanie</AEXP_TasmanianDevil.lifeStages.2.labelMalePlural>
+  <AEXP_TasmanianDevil.lifeStages.2.labelFemale>diable de Tasmanie</AEXP_TasmanianDevil.lifeStages.2.labelFemale>
+  <AEXP_TasmanianDevil.lifeStages.2.labelFemalePlural>diables de Tasmanie</AEXP_TasmanianDevil.lifeStages.2.labelFemalePlural>
+  <AEXP_TasmanianDevil.labelMale>diable de Tasmanie</AEXP_TasmanianDevil.labelMale>
+  <AEXP_TasmanianDevil.labelMalePlural>diables de Tasmanie</AEXP_TasmanianDevil.labelMalePlural>
+  <AEXP_TasmanianDevil.labelFemale>diable de Tasmanie</AEXP_TasmanianDevil.labelFemale>
+  <AEXP_TasmanianDevil.labelFemalePlural>diables de Tasmanie</AEXP_TasmanianDevil.labelFemalePlural>
+
+  <!-- thylacine -->
+  <AEXP_Thylacine.label>thylacine</AEXP_Thylacine.label>
+  <AEXP_Thylacine.labelPlural>thylacines</AEXP_Thylacine.labelPlural>
+  <AEXP_Thylacine.lifeStages.0.label>bébé thylacine</AEXP_Thylacine.lifeStages.0.label>
+  <AEXP_Thylacine.lifeStages.0.labelPlural>bébés thylacines</AEXP_Thylacine.lifeStages.0.labelPlural>
+  <AEXP_Thylacine.lifeStages.0.labelMale>bébé thylacine</AEXP_Thylacine.lifeStages.0.labelMale>
+  <AEXP_Thylacine.lifeStages.0.labelMalePlural>bébés thylacines</AEXP_Thylacine.lifeStages.0.labelMalePlural>
+  <AEXP_Thylacine.lifeStages.0.labelFemale>bébé thylacine</AEXP_Thylacine.lifeStages.0.labelFemale>
+  <AEXP_Thylacine.lifeStages.0.labelFemalePlural>bébés thylacines</AEXP_Thylacine.lifeStages.0.labelFemalePlural>
+  <AEXP_Thylacine.lifeStages.1.label>thylacine</AEXP_Thylacine.lifeStages.1.label>
+  <AEXP_Thylacine.lifeStages.1.labelPlural>thylacines</AEXP_Thylacine.lifeStages.1.labelPlural>
+  <AEXP_Thylacine.lifeStages.1.labelMale>thylacine</AEXP_Thylacine.lifeStages.1.labelMale>
+  <AEXP_Thylacine.lifeStages.1.labelMalePlural>thylacines</AEXP_Thylacine.lifeStages.1.labelMalePlural>
+  <AEXP_Thylacine.lifeStages.1.labelFemale>thylacine</AEXP_Thylacine.lifeStages.1.labelFemale>
+  <AEXP_Thylacine.lifeStages.1.labelFemalePlural>thylacines</AEXP_Thylacine.lifeStages.1.labelFemalePlural>
+  <AEXP_Thylacine.lifeStages.2.label>thylacine</AEXP_Thylacine.lifeStages.2.label>
+  <AEXP_Thylacine.lifeStages.2.labelPlural>thylacines</AEXP_Thylacine.lifeStages.2.labelPlural>
+  <AEXP_Thylacine.lifeStages.2.labelMale>thylacine</AEXP_Thylacine.lifeStages.2.labelMale>
+  <AEXP_Thylacine.lifeStages.2.labelMalePlural>thylacines</AEXP_Thylacine.lifeStages.2.labelMalePlural>
+  <AEXP_Thylacine.lifeStages.2.labelFemale>thylacine</AEXP_Thylacine.lifeStages.2.labelFemale>
+  <AEXP_Thylacine.lifeStages.2.labelFemalePlural>thylacines</AEXP_Thylacine.lifeStages.2.labelFemalePlural>
+  <AEXP_Thylacine.labelMale>thylacine</AEXP_Thylacine.labelMale>
+  <AEXP_Thylacine.labelMalePlural>thylacines</AEXP_Thylacine.labelMalePlural>
+  <AEXP_Thylacine.labelFemale>thylacine</AEXP_Thylacine.labelFemale>
+  <AEXP_Thylacine.labelFemalePlural>thylacines</AEXP_Thylacine.labelFemalePlural>
+
+
+  <!-- african wild dog -->
+  <AEXP_AfricanWildDog.label>chien sauvage africain</AEXP_AfricanWildDog.label>
+  <AEXP_AfricanWildDog.labelPlural>chiens sauvages africains</AEXP_AfricanWildDog.labelPlural>
+  <AEXP_AfricanWildDog.lifeStages.0.label>chiot sauvage africain</AEXP_AfricanWildDog.lifeStages.0.label>
+  <AEXP_AfricanWildDog.lifeStages.0.labelPlural>chiots sauvage africain</AEXP_AfricanWildDog.lifeStages.0.labelPlural>
+  <AEXP_AfricanWildDog.lifeStages.0.labelMale>chiot sauvage africain</AEXP_AfricanWildDog.lifeStages.0.labelMale>
+  <AEXP_AfricanWildDog.lifeStages.0.labelMalePlural>chiots sauvage africain</AEXP_AfricanWildDog.lifeStages.0.labelMalePlural>
+  <AEXP_AfricanWildDog.lifeStages.0.labelFemale>chiot chien sauvage africain</AEXP_AfricanWildDog.lifeStages.0.labelFemale>
+  <AEXP_AfricanWildDog.lifeStages.0.labelFemalePlural>chiots chien sauvage africain</AEXP_AfricanWildDog.lifeStages.0.labelFemalePlural>
+  <AEXP_AfricanWildDog.lifeStages.1.label>chien sauvage africain</AEXP_AfricanWildDog.lifeStages.1.label>
+  <AEXP_AfricanWildDog.lifeStages.1.labelPlural>chiens sauvages africains</AEXP_AfricanWildDog.lifeStages.1.labelPlural>
+  <AEXP_AfricanWildDog.lifeStages.1.labelMale>chien sauvage africain</AEXP_AfricanWildDog.lifeStages.1.labelMale>
+  <AEXP_AfricanWildDog.lifeStages.1.labelMalePlural>chiens sauvages africains</AEXP_AfricanWildDog.lifeStages.1.labelMalePlural>
+  <AEXP_AfricanWildDog.lifeStages.1.labelFemale>chienne sauvage africaine</AEXP_AfricanWildDog.lifeStages.1.labelFemale>
+  <AEXP_AfricanWildDog.lifeStages.1.labelFemalePlural>chiennes sauvage africaine</AEXP_AfricanWildDog.lifeStages.1.labelFemalePlural>
+  <AEXP_AfricanWildDog.lifeStages.2.label>chien sauvage africain</AEXP_AfricanWildDog.lifeStages.2.label>
+  <AEXP_AfricanWildDog.lifeStages.2.labelPlural>chiens sauvages africains</AEXP_AfricanWildDog.lifeStages.2.labelPlural>
+  <AEXP_AfricanWildDog.lifeStages.2.labelMale>chien sauvage africain</AEXP_AfricanWildDog.lifeStages.2.labelMale>
+  <AEXP_AfricanWildDog.lifeStages.2.labelMalePlural>chiens sauvages africains</AEXP_AfricanWildDog.lifeStages.2.labelMalePlural>
+  <AEXP_AfricanWildDog.lifeStages.2.labelFemale>chienne sauvage africaine</AEXP_AfricanWildDog.lifeStages.2.labelFemale>
+  <AEXP_AfricanWildDog.lifeStages.2.labelFemalePlural>chiennes sauvage africaine</AEXP_AfricanWildDog.lifeStages.2.labelFemalePlural>
+  <AEXP_AfricanWildDog.labelMale>chien sauvage africain</AEXP_AfricanWildDog.labelMale>
+  <AEXP_AfricanWildDog.labelMalePlural>chiens sauvages africains</AEXP_AfricanWildDog.labelMalePlural>
+  <AEXP_AfricanWildDog.labelFemale>chienne sauvage africaine</AEXP_AfricanWildDog.labelFemale>
+  <AEXP_AfricanWildDog.labelFemalePlural>chiennes sauvage africaine</AEXP_AfricanWildDog.labelFemalePlural>
+
+  <!-- giant pangolin -->
+  <AEXP_Pangolin.label>pangolin</AEXP_Pangolin.label>
+  <AEXP_Pangolin.labelPlural>pangolins</AEXP_Pangolin.labelPlural>
+  <AEXP_Pangolin.lifeStages.0.label>bébé pangolin</AEXP_Pangolin.lifeStages.0.label>
+  <AEXP_Pangolin.lifeStages.0.labelPlural>bébés pangolin</AEXP_Pangolin.lifeStages.0.labelPlural>
+  <AEXP_Pangolin.lifeStages.0.labelMale>bébé pangolin</AEXP_Pangolin.lifeStages.0.labelMale>
+  <AEXP_Pangolin.lifeStages.0.labelMalePlural>bébés pangolin</AEXP_Pangolin.lifeStages.0.labelMalePlural>
+  <AEXP_Pangolin.lifeStages.0.labelFemale>bébé pangolin</AEXP_Pangolin.lifeStages.0.labelFemale>
+  <AEXP_Pangolin.lifeStages.0.labelFemalePlural>bébés pangolin</AEXP_Pangolin.lifeStages.0.labelFemalePlural>
+  <AEXP_Pangolin.lifeStages.1.label>pangolin</AEXP_Pangolin.lifeStages.1.label>
+  <AEXP_Pangolin.lifeStages.1.labelPlural>pangolins</AEXP_Pangolin.lifeStages.1.labelPlural>
+  <AEXP_Pangolin.lifeStages.1.labelMale>pangolin</AEXP_Pangolin.lifeStages.1.labelMale>
+  <AEXP_Pangolin.lifeStages.1.labelMalePlural>pangolins</AEXP_Pangolin.lifeStages.1.labelMalePlural>
+  <AEXP_Pangolin.lifeStages.1.labelFemale>pangolin</AEXP_Pangolin.lifeStages.1.labelFemale>
+  <AEXP_Pangolin.lifeStages.1.labelFemalePlural>pangolins</AEXP_Pangolin.lifeStages.1.labelFemalePlural>
+  <AEXP_Pangolin.lifeStages.2.label>pangolin</AEXP_Pangolin.lifeStages.2.label>
+  <AEXP_Pangolin.lifeStages.2.labelPlural>pangolins</AEXP_Pangolin.lifeStages.2.labelPlural>
+  <AEXP_Pangolin.lifeStages.2.labelMale>pangolin</AEXP_Pangolin.lifeStages.2.labelMale>
+  <AEXP_Pangolin.lifeStages.2.labelMalePlural>pangolins</AEXP_Pangolin.lifeStages.2.labelMalePlural>
+  <AEXP_Pangolin.lifeStages.2.labelFemale>pangolin</AEXP_Pangolin.lifeStages.2.labelFemale>
+  <AEXP_Pangolin.lifeStages.2.labelFemalePlural>pangolins</AEXP_Pangolin.lifeStages.2.labelFemalePlural>
+  <AEXP_Pangolin.labelMale>pangolin</AEXP_Pangolin.labelMale>
+  <AEXP_Pangolin.labelMalePlural>pangolins</AEXP_Pangolin.labelMalePlural>
+  <AEXP_Pangolin.labelFemale>pangolin</AEXP_Pangolin.labelFemale>
+  <AEXP_Pangolin.labelFemalePlural>pangolins</AEXP_Pangolin.labelFemalePlural>
+
+</LanguageData>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Tous les vanilla animals expanded.-->
+  <!-- hyena -->
+  <AEXP_Hyena.label>hyène</AEXP_Hyena.label>
+   <!-- large dog-like carnivore most often found in the shrublands and deserts. A common trope in tribal legends, the laughter produced by these animals can sow fear during the long desert nights. -->
+  <AEXP_Hyena.description>Un grand carnivore ressemblant à un chien que l'on trouve le plus souvent dans les arbustes et les déserts. Le rire produit par ces animaux peut semer la peur pendant les longues nuits du désert.</AEXP_Hyena.description>
+  <!-- left claw -->
+  <AEXP_Hyena.tools.left_claw.label>griffe gauche</AEXP_Hyena.tools.left_claw.label>
+  <!-- right claw -->
+  <AEXP_Hyena.tools.right_claw.label>griffe droite</AEXP_Hyena.tools.right_claw.label>
+  <!-- head -->
+  <AEXP_Hyena.tools.head.label>tête</AEXP_Hyena.tools.head.label>
+
+  <Corpse_AEXP_Hyena.label>cadavre de hyène</Corpse_AEXP_Hyena.label>
+  <Corpse_AEXP_Hyena.description>Le corps sans vie d'une hyène.</Corpse_AEXP_Hyena.description>
+  <Meat_AEXP_Hyena.label>viande de hyène</Meat_AEXP_Hyena.label>
+  <Meat_AEXP_Hyena.description>Viande crue dépecée. Peut être cuit ou consommé cru.</Meat_AEXP_Hyena.description>
+
+  <!-- desert tortoise -->
+  <AEXP_DesertTortoise.label>tortue du désert</AEXP_DesertTortoise.label>
+  <!-- this heavily armored desert-dwelling reptile is known for its slow moving speed and extremely hard, flat domed shell, making it tough to kill. Desert tortoises, despite their small size, are great combat animals and are relatively easy to tame. -->
+  <AEXP_DesertTortoise.description>Ce reptile du désert avec une coquille blindée est connu pour sa vitesse lente et sa coquille extrêmement dure et plate, ce qui le rend difficile à tuer. Les tortues du désert, malgré leur petite taille, sont d'excellents animaux de combat et relativement faciles à apprivoiser.</AEXP_DesertTortoise.description>
+  <!-- beak -->
+  <AEXP_DesertTortoise.tools.beak.label>bec</AEXP_DesertTortoise.tools.beak.label>
+  <!-- head -->
+  <AEXP_DesertTortoise.tools.head.label>tête</AEXP_DesertTortoise.tools.head.label>
+
+  <Corpse_AEXP_DesertTortoise.label>cadavre de tortue du désert</Corpse_AEXP_DesertTortoise.label>
+  <Corpse_AEXP_DesertTortoise.description>Le corps sans vie d'une tortue du désert.</Corpse_AEXP_DesertTortoise.description>
+
+  <!-- lion -->
+  <AEXP_Lion.label>Lion</AEXP_Lion.label>
+  <!-- A king of the animal kingdom, a lion is a muscular, deep-chested cat with a short head and a prominent mane. Being the biggest of the cat species, lions are excellent combat animals despite their wildness. -->
+  <AEXP_Lion.description>Roi du règne animal, le lion est un chat musclé avec une poitrine profonde, une petite tête et une crinière proéminente. Étant l'une des plus grandes espèces de chats, les lions sont d'excellents animaux de combat, même s'ils sont sauvages.</AEXP_Lion.description>
+  <!-- left claw -->
+  <AEXP_Lion.tools.left_claw.label>griffe gauche</AEXP_Lion.tools.left_claw.label>
+  <!-- right claw -->
+  <AEXP_Lion.tools.right_claw.label>griffe droite</AEXP_Lion.tools.right_claw.label>
+  <!-- head -->
+  <AEXP_Lion.tools.head.label>tête</AEXP_Lion.tools.head.label>
+
+  <Corpse_AEXP_Lion.label>cadavre de Lion</Corpse_AEXP_Lion.label>
+  <Corpse_AEXP_Lion.description>Le corps sans vie d'un Lion.</Corpse_AEXP_Lion.description>
+  <Meat_AEXP_Lion.label>viande de Lion</Meat_AEXP_Lion.label>
+  <Meat_AEXP_Lion.description>Viande crue dépecée. Peut être cuit ou consommé cru.</Meat_AEXP_Lion.description>
+
+  <!-- gila monster -->
+  <AEXP_GilaMonster.label>monstre de Gila</AEXP_GilaMonster.label>
+  <!-- A large, slow moving type of lizard found mostly in the desert, known for it's highly venomous bite which inflicts a severe toxic build-up in it's prey. Outlanders to this day believe in tales which state that this lizard is a spawn from hell, and that it's foul breath is lethal. -->
+  <AEXP_GilaMonster.description>Un grand lézard lent, trouvé principalement dans le désert, et connu pour sa morsure hautement toxique qu'il inflige à sa proie. Les étrangers, même à ce jour, croient aux contes que ces lézards sont une progéniture de l'enfer et que leur haleine sale est mortelle.</AEXP_GilaMonster.description>
+  <!-- left claw -->
+  <AEXP_GilaMonster.tools.left_claw.label>griffe gauche</AEXP_GilaMonster.tools.left_claw.label>
+  <!-- right claw -->
+  <AEXP_GilaMonster.tools.right_claw.label>griffe droite</AEXP_GilaMonster.tools.right_claw.label>
+  <!-- teeth -->
+  <AEXP_GilaMonster.tools.teeth.label>dents</AEXP_GilaMonster.tools.teeth.label>
+  <!-- head -->
+  <AEXP_GilaMonster.tools.head.label>tête</AEXP_GilaMonster.tools.head.label>
+
+  <Corpse_AEXP_GilaMonster.label>cadavre de monstre de Gila</Corpse_AEXP_GilaMonster.label>
+  <Corpse_AEXP_GilaMonster.description>Le corps sans vie d'un monstre de Gila.</Corpse_AEXP_GilaMonster.description>
+  <Meat_AEXP_GilaMonster.label>viande de monstre de Gila</Meat_AEXP_GilaMonster.label>
+  <Meat_AEXP_GilaMonster.description>Viande crue dépecée. Peut être cuit ou consommé cru.</Meat_AEXP_GilaMonster.description>
+
+
+</LanguageData>

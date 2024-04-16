@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Vanilla Achivements Expanded.-->
+  <aFormalComplaint.label>Fou furieux</aFormalComplaint.label>
+  <aFormalComplaint.description>Faire en sorte qu'un colon devienne fou furieux</aFormalComplaint.description>
+  
+  <callOfTheWild.label>Homme sauvage</callOfTheWild.label>
+  <callOfTheWild.description>Faire en sorte qu'un colon devienne sauvage</callOfTheWild.description>
+  
+  <letsStartARevolution.label>Révolution</letsStartARevolution.label>
+  <letsStartARevolution.description>Avoir 5 colons en état mental en même temps</letsStartARevolution.description>
+  
+  <fiftyShadesOfGrey.label>50 Nuances de Grey</fiftyShadesOfGrey.label>
+  <fiftyShadesOfGrey.description>Faire en sorte qu'un colon entre dans une rage sadique sur un prisonnier.</fiftyShadesOfGrey.description>
+  
+</LanguageData>

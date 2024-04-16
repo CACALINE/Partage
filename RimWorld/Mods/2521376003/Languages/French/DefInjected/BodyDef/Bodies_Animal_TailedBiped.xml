@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Tous les vanilla animals expanded.-->
+  <!-- tailed biped -->
+  <AEXP_TailedBiped.label>bipède avec queue</AEXP_TailedBiped.label>
+  <!-- left lung-->
+  <AEXP_TailedBiped.corePart.parts.left_lung.customLabel>poumon gauche</AEXP_TailedBiped.corePart.parts.left_lung.customLabel>
+  <!-- right lung-->
+  <AEXP_TailedBiped.corePart.parts.right_lung.customLabel>poumon droit</AEXP_TailedBiped.corePart.parts.right_lung.customLabel>
+  <!-- left kidney-->
+  <AEXP_TailedBiped.corePart.parts.left_kidney.customLabel>rein gauche</AEXP_TailedBiped.corePart.parts.left_kidney.customLabel>
+  <!-- right kidney-->
+  <AEXP_TailedBiped.corePart.parts.right_kidney.customLabel>rein droit</AEXP_TailedBiped.corePart.parts.right_kidney.customLabel>
+  <!-- left eye-->
+  <AEXP_TailedBiped.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>oeil gauche</AEXP_TailedBiped.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- right eye-->
+  <AEXP_TailedBiped.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>oeil droit</AEXP_TailedBiped.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- left ear-->
+  <AEXP_TailedBiped.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>oreille gauche</AEXP_TailedBiped.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- right ear-->
+  <AEXP_TailedBiped.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>oreille droite</AEXP_TailedBiped.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- left arm-->
+  <AEXP_TailedBiped.corePart.parts.left_arm.customLabel>bras gauche</AEXP_TailedBiped.corePart.parts.left_arm.customLabel>
+  <!-- right arm-->
+  <AEXP_TailedBiped.corePart.parts.right_arm.customLabel>bras droit</AEXP_TailedBiped.corePart.parts.right_arm.customLabel>
+  <!-- left leg-->
+  <AEXP_TailedBiped.corePart.parts.left_leg.customLabel>patte gauche</AEXP_TailedBiped.corePart.parts.left_leg.customLabel>
+  <!-- right leg-->
+  <AEXP_TailedBiped.corePart.parts.right_leg.customLabel>patte droite</AEXP_TailedBiped.corePart.parts.right_leg.customLabel>
+</LanguageData>

@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+<!--<Traduction FR Tous les vanilla animals expanded.-->
+  <!-- Muskox -->
+
+  <!-- musk ox -->
+  <AEXP_Muskox.label>boeuf musqué</AEXP_Muskox.label>
+  <!-- musk oxen -->
+  <AEXP_Muskox.labelPlural>boeufs musqués</AEXP_Muskox.labelPlural>
+  <!-- musk ox calf -->
+  <AEXP_Muskox.lifeStages.0.label>veau boeuf musqué</AEXP_Muskox.lifeStages.0.label>
+  <!-- musk oxen calves -->
+  <AEXP_Muskox.lifeStages.0.labelPlural>veaux boeuf musqué</AEXP_Muskox.lifeStages.0.labelPlural>
+  <!-- male musk ox calf -->
+  <AEXP_Muskox.lifeStages.0.labelMale>veau boeuf musqué</AEXP_Muskox.lifeStages.0.labelMale>
+  <!-- male musk oxen calves -->
+  <AEXP_Muskox.lifeStages.0.labelMalePlural>veaux musqués</AEXP_Muskox.lifeStages.0.labelMalePlural>
+  <!-- female musk ox calf -->
+  <AEXP_Muskox.lifeStages.0.labelFemale>velle musqué</AEXP_Muskox.lifeStages.0.labelFemale>
+  <!-- female musk oxen calves -->
+  <AEXP_Muskox.lifeStages.0.labelFemalePlural>velles musqués</AEXP_Muskox.lifeStages.0.labelFemalePlural>
+  <!-- musk ox -->
+  <AEXP_Muskox.lifeStages.1.label>boeuf musqué</AEXP_Muskox.lifeStages.1.label>
+  <!-- musk oxen -->
+  <AEXP_Muskox.lifeStages.1.labelPlural>boeufs musqués</AEXP_Muskox.lifeStages.1.labelPlural>
+  <!-- male musk ox -->
+  <AEXP_Muskox.lifeStages.1.labelMale>boeuf musqué</AEXP_Muskox.lifeStages.1.labelMale>
+  <!-- male musk oxs -->
+  <AEXP_Muskox.lifeStages.1.labelMalePlural>boeufs musqués</AEXP_Muskox.lifeStages.1.labelMalePlural>
+  <!-- female musk ox -->
+  <AEXP_Muskox.lifeStages.1.labelFemale>boeuf musqué</AEXP_Muskox.lifeStages.1.labelFemale>
+  <!-- female musk oxs -->
+  <AEXP_Muskox.lifeStages.1.labelFemalePlural>boeuf musqué</AEXP_Muskox.lifeStages.1.labelFemalePlural>
+  <!-- musk ox -->
+  <AEXP_Muskox.lifeStages.2.label>boeuf musqué</AEXP_Muskox.lifeStages.2.label>
+  <!-- musk oxen -->
+  <AEXP_Muskox.lifeStages.2.labelPlural>boeufs musqués</AEXP_Muskox.lifeStages.2.labelPlural>
+  <!-- male musk ox -->
+  <AEXP_Muskox.lifeStages.2.labelMale>boeuf musqué</AEXP_Muskox.lifeStages.2.labelMale>
+  <!-- male musk oxs -->
+  <AEXP_Muskox.lifeStages.2.labelMalePlural>boeufs musqués</AEXP_Muskox.lifeStages.2.labelMalePlural>
+  <!-- female musk ox -->
+  <AEXP_Muskox.lifeStages.2.labelFemale>boeuf musqué</AEXP_Muskox.lifeStages.2.labelFemale>
+  <!-- female musk oxs -->
+  <AEXP_Muskox.lifeStages.2.labelFemalePlural>boeufs musqués</AEXP_Muskox.lifeStages.2.labelFemalePlural>
+  <!-- male musk ox -->
+  <AEXP_Muskox.labelMale>boeuf musqué</AEXP_Muskox.labelMale>
+  <!-- male musk oxen -->
+  <AEXP_Muskox.labelMalePlural>boeufs musqués</AEXP_Muskox.labelMalePlural>
+  <!-- female musk ox -->
+  <AEXP_Muskox.labelFemale>boeuf musqué</AEXP_Muskox.labelFemale>
+  <!-- female musk oxen -->
+  <AEXP_Muskox.labelFemalePlural>boeufs musqués</AEXP_Muskox.labelFemalePlural>
+
+
+  <!-- Moose -->
+
+  <!-- moose -->
+  <AEXP_Moose.label>élan</AEXP_Moose.label>
+  <!-- moose -->
+  <AEXP_Moose.labelPlural>élans</AEXP_Moose.labelPlural>
+  <!-- moose calf -->
+  <AEXP_Moose.lifeStages.0.label>élan</AEXP_Moose.lifeStages.0.label>
+  <!-- moose calves -->
+  <AEXP_Moose.lifeStages.0.labelPlural>élans</AEXP_Moose.lifeStages.0.labelPlural>
+  <!-- male moose calf -->
+  <AEXP_Moose.lifeStages.0.labelMale>élan</AEXP_Moose.lifeStages.0.labelMale>
+  <!-- male moose calves -->
+  <AEXP_Moose.lifeStages.0.labelMalePlural>élans</AEXP_Moose.lifeStages.0.labelMalePlural>
+  <!-- female moose calf -->
+  <AEXP_Moose.lifeStages.0.labelFemale>élan</AEXP_Moose.lifeStages.0.labelFemale>
+  <!-- female moose calves -->
+  <AEXP_Moose.lifeStages.0.labelFemalePlural>élans</AEXP_Moose.lifeStages.0.labelFemalePlural>
+  <!-- moose -->
+  <AEXP_Moose.lifeStages.1.label>élan</AEXP_Moose.lifeStages.1.label>
+  <!-- moose -->
+  <AEXP_Moose.lifeStages.1.labelPlural>élans</AEXP_Moose.lifeStages.1.labelPlural>
+  <!-- male moose -->
+  <AEXP_Moose.lifeStages.1.labelMale>élan</AEXP_Moose.lifeStages.1.labelMale>
+  <!-- male mooses -->
+  <AEXP_Moose.lifeStages.1.labelMalePlural>élans</AEXP_Moose.lifeStages.1.labelMalePlural>
+  <!-- female moose -->
+  <AEXP_Moose.lifeStages.1.labelFemale>élan</AEXP_Moose.lifeStages.1.labelFemale>
+  <!-- female mooses -->
+  <AEXP_Moose.lifeStages.1.labelFemalePlural>élans</AEXP_Moose.lifeStages.1.labelFemalePlural>
+  <!-- moose -->
+  <AEXP_Moose.lifeStages.2.label>élan</AEXP_Moose.lifeStages.2.label>
+  <!-- moose -->
+  <AEXP_Moose.lifeStages.2.labelPlural>élans</AEXP_Moose.lifeStages.2.labelPlural>
+  <!-- male moose -->
+  <AEXP_Moose.lifeStages.2.labelMale>élan</AEXP_Moose.lifeStages.2.labelMale>
+  <!-- male mooses -->
+  <AEXP_Moose.lifeStages.2.labelMalePlural>élans</AEXP_Moose.lifeStages.2.labelMalePlural>
+  <!-- female moose -->
+  <AEXP_Moose.lifeStages.2.labelFemale>élan</AEXP_Moose.lifeStages.2.labelFemale>
+  <!-- female mooses -->
+  <AEXP_Moose.lifeStages.2.labelFemalePlural>élans</AEXP_Moose.lifeStages.2.labelFemalePlural>
+  <!-- male moose -->
+  <AEXP_Moose.labelMale>élan</AEXP_Moose.labelMale>
+  <!-- male moose -->
+  <AEXP_Moose.labelMalePlural>élans</AEXP_Moose.labelMalePlural>
+  <!-- female moose -->
+  <AEXP_Moose.labelFemale>élan</AEXP_Moose.labelFemale>
+  <!-- female moose -->
+  <AEXP_Moose.labelFemalePlural>élans</AEXP_Moose.labelFemalePlural>
+
+
+
+  <!-- Megawolverine -->
+
+<!-- megawolverine -->
+  <AEXP_MegaWolverine.label>serval</AEXP_MegaWolverine.label>
+<!-- megawolverines -->
+  <AEXP_MegaWolverine.labelPlural>servals</AEXP_MegaWolverine.labelPlural>
+<!-- megawolverine -->
+  <AEXP_MegaWolverine.lifeStages.0.label>serval</AEXP_MegaWolverine.lifeStages.0.label>
+<!-- megawolverine -->
+  <AEXP_MegaWolverine.lifeStages.0.labelPlural>servals</AEXP_MegaWolverine.lifeStages.0.labelPlural>
+<!-- male megawolverine -->
+  <AEXP_MegaWolverine.lifeStages.0.labelMale>serval</AEXP_MegaWolverine.lifeStages.0.labelMale>
+<!-- male megawolverines -->
+  <AEXP_MegaWolverine.lifeStages.0.labelMalePlural>servals</AEXP_MegaWolverine.lifeStages.0.labelMalePlural>
+<!-- female megawolverine -->
+  <AEXP_MegaWolverine.lifeStages.0.labelFemale>serval</AEXP_MegaWolverine.lifeStages.0.labelFemale>
+<!-- female megawolverines -->
+  <AEXP_MegaWolverine.lifeStages.0.labelFemalePlural>servals</AEXP_MegaWolverine.lifeStages.0.labelFemalePlural>
+<!-- megawolverine -->
+  <AEXP_MegaWolverine.lifeStages.1.label>serval</AEXP_MegaWolverine.lifeStages.1.label>
+<!-- megawolverine -->
+  <AEXP_MegaWolverine.lifeStages.1.labelPlural>servals</AEXP_MegaWolverine.lifeStages.1.labelPlural>
+<!-- male megawolverine -->
+  <AEXP_MegaWolverine.lifeStages.1.labelMale>serval</AEXP_MegaWolverine.lifeStages.1.labelMale>
+<!-- male megawolverines -->
+  <AEXP_MegaWolverine.lifeStages.1.labelMalePlural>servals</AEXP_MegaWolverine.lifeStages.1.labelMalePlural>
+<!-- female megawolverine -->
+  <AEXP_MegaWolverine.lifeStages.1.labelFemale>serval</AEXP_MegaWolverine.lifeStages.1.labelFemale>
+<!-- female megawolverines -->
+  <AEXP_MegaWolverine.lifeStages.1.labelFemalePlural>servals</AEXP_MegaWolverine.lifeStages.1.labelFemalePlural>
+<!-- megawolverine -->
+  <AEXP_MegaWolverine.lifeStages.2.label>serval</AEXP_MegaWolverine.lifeStages.2.label>
+<!-- megawolverine -->
+  <AEXP_MegaWolverine.lifeStages.2.labelPlural>servals</AEXP_MegaWolverine.lifeStages.2.labelPlural>
+<!-- male megawolverine -->
+  <AEXP_MegaWolverine.lifeStages.2.labelMale>serval</AEXP_MegaWolverine.lifeStages.2.labelMale>
+<!-- male megawolverines -->
+  <AEXP_MegaWolverine.lifeStages.2.labelMalePlural>servals</AEXP_MegaWolverine.lifeStages.2.labelMalePlural>
+<!-- female megawolverine -->
+  <AEXP_MegaWolverine.lifeStages.2.labelFemale>serval</AEXP_MegaWolverine.lifeStages.2.labelFemale>
+<!-- female megawolverines -->
+  <AEXP_MegaWolverine.lifeStages.2.labelFemalePlural>servals</AEXP_MegaWolverine.lifeStages.2.labelFemalePlural>
+<!-- male megawolverine -->
+  <AEXP_MegaWolverine.labelMale>male megawolverine</AEXP_MegaWolverine.labelMale>
+<!-- male megawolverines -->
+  <AEXP_MegaWolverine.labelMalePlural>servals</AEXP_MegaWolverine.labelMalePlural>
+<!-- female megawolverine -->
+  <AEXP_MegaWolverine.labelFemale>serval</AEXP_MegaWolverine.labelFemale>
+<!-- female megawolverines -->
+  <AEXP_MegaWolverine.labelFemalePlural>servals</AEXP_MegaWolverine.labelFemalePlural>
+
+
+  <!-- Porcupine -->
+
+<!-- porcupine -->
+  <AEXP_Porcupine.label>porc-épic</AEXP_Porcupine.label>
+<!-- porcupines -->
+  <AEXP_Porcupine.labelPlural>porcs-épics</AEXP_Porcupine.labelPlural>
+<!-- porcupine -->
+  <AEXP_Porcupine.lifeStages.0.label>porc-épic</AEXP_Porcupine.lifeStages.0.label>
+<!-- porcupine -->
+  <AEXP_Porcupine.lifeStages.0.labelPlural>porcs-épics</AEXP_Porcupine.lifeStages.0.labelPlural>
+<!-- male porcupine -->
+  <AEXP_Porcupine.lifeStages.0.labelMale>porc-épic</AEXP_Porcupine.lifeStages.0.labelMale>
+<!-- male porcupines -->
+  <AEXP_Porcupine.lifeStages.0.labelMalePlural>porcs-épics</AEXP_Porcupine.lifeStages.0.labelMalePlural>
+<!-- female porcupine -->
+  <AEXP_Porcupine.lifeStages.0.labelFemale>porc-épic</AEXP_Porcupine.lifeStages.0.labelFemale>
+<!-- female porcupines -->
+  <AEXP_Porcupine.lifeStages.0.labelFemalePlural>porcs-épics</AEXP_Porcupine.lifeStages.0.labelFemalePlural>
+<!-- porcupine -->
+  <AEXP_Porcupine.lifeStages.1.label>porc-épic</AEXP_Porcupine.lifeStages.1.label>
+<!-- porcupine -->
+  <AEXP_Porcupine.lifeStages.1.labelPlural>porcs-épics</AEXP_Porcupine.lifeStages.1.labelPlural>
+<!-- male porcupine -->
+  <AEXP_Porcupine.lifeStages.1.labelMale>porc-épic</AEXP_Porcupine.lifeStages.1.labelMale>
+<!-- male porcupines -->
+  <AEXP_Porcupine.lifeStages.1.labelMalePlural>porcs-épics</AEXP_Porcupine.lifeStages.1.labelMalePlural>
+<!-- female porcupine -->
+  <AEXP_Porcupine.lifeStages.1.labelFemale>porc-épic</AEXP_Porcupine.lifeStages.1.labelFemale>
+<!-- female porcupines -->
+  <AEXP_Porcupine.lifeStages.1.labelFemalePlural>porcs-épics</AEXP_Porcupine.lifeStages.1.labelFemalePlural>
+<!-- porcupine -->
+  <AEXP_Porcupine.lifeStages.2.label>porc-épic</AEXP_Porcupine.lifeStages.2.label>
+<!-- porcupine -->
+  <AEXP_Porcupine.lifeStages.2.labelPlural>porcs-épics</AEXP_Porcupine.lifeStages.2.labelPlural>
+<!-- male porcupine -->
+  <AEXP_Porcupine.lifeStages.2.labelMale>porc-épic</AEXP_Porcupine.lifeStages.2.labelMale>
+<!-- male porcupines -->
+  <AEXP_Porcupine.lifeStages.2.labelMalePlural>porcs-épics</AEXP_Porcupine.lifeStages.2.labelMalePlural>
+<!-- female porcupine -->
+  <AEXP_Porcupine.lifeStages.2.labelFemale>porc-épic</AEXP_Porcupine.lifeStages.2.labelFemale>
+<!-- female porcupines -->
+  <AEXP_Porcupine.lifeStages.2.labelFemalePlural>porcs-épics</AEXP_Porcupine.lifeStages.2.labelFemalePlural>
+<!-- male porcupine -->
+  <AEXP_Porcupine.labelMale>porc-épic</AEXP_Porcupine.labelMale>
+<!-- male porcupines -->
+  <AEXP_Porcupine.labelMalePlural>porcs-épics</AEXP_Porcupine.labelMalePlural>
+<!-- female porcupine -->
+  <AEXP_Porcupine.labelFemale>porc-épic</AEXP_Porcupine.labelFemale>
+<!-- female porcupines -->
+  <AEXP_Porcupine.labelFemalePlural>porcs-épics</AEXP_Porcupine.labelFemalePlural>
+  
+
+</LanguageData>

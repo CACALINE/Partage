@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+	<!-- charge turret -->
+	<VFES_Turret_ChargeTurret.label>tourelle à impulsion</VFES_Turret_ChargeTurret.label>
+	<!-- An automatic turret with a charge pulser gun on top, utilising advanced sensors which offer improved accuracy. Requires plasteel to refurbish its barrel after heavy use. May explode when damaged. -->
+	<VFES_Turret_ChargeTurret.description>Une tourelle automatique avec un fusil à impulsion sur le dessus, qui utilise des capteurs avancés offrant une plus grande précision. Nécessite du plastacier pour renouveler le canon après une utilisation intense. Elle peut exploser si elle est endommagée.</VFES_Turret_ChargeTurret.description>
+	<!-- EN: Barrel durability -->
+	<VFES_Turret_ChargeTurret.comps.CompRefuelable.fuelGizmoLabel>Durabilité du canon</VFES_Turret_ChargeTurret.comps.CompRefuelable.fuelGizmoLabel>
+	<!-- EN: Shots until barrel change -->
+	<VFES_Turret_ChargeTurret.comps.CompRefuelable.fuelLabel>Tirs jusqu'au changement de canon</VFES_Turret_ChargeTurret.comps.CompRefuelable.fuelLabel>
+	<!-- EN: Cannot shoot: Needs new barrel -->
+	<VFES_Turret_ChargeTurret.comps.CompRefuelable.outOfFuelMessage>Incapable de tirer: nécessite un nouveau canon</VFES_Turret_ChargeTurret.comps.CompRefuelable.outOfFuelMessage>
+
+	<!-- charged turret gun -->
+	<VFES_Gun_ChargeTurret.label>canon de la tourelle à impulsion</VFES_Gun_ChargeTurret.label>
+	<!-- A charge rifle made to be mounted on a turret. -->
+	<VFES_Gun_ChargeTurret.description>Un fusil à impulsion conçu pour être monté sur une tourelle.</VFES_Gun_ChargeTurret.description>
+	<!-- EN: charged turret gun -->
+	<VFES_Gun_ChargeTurret.verbs.Verb_Shoot.label>canon de la tourelle à impulsion</VFES_Gun_ChargeTurret.verbs.Verb_Shoot.label>
+
+	<!-- charge railgun -->
+	<VFES_Turret_ChargeRailgunTurret.label>tourelle de railgun</VFES_Turret_ChargeRailgunTurret.label>
+	<!-- A heavy railgun cannon usually mounted on spacecraft, utilising an array of advanced sensors which offer top-class accuracy. Requires components to be replaced in order to operate. May explode when damaged. -->
+	<VFES_Turret_ChargeRailgunTurret.description>Un canon lourd, généralement monté sur un vaisseau spatial, qui utilise une gamme de capteurs avancés offrant une précision de première classe. Nécessite le remplacement des composants pour fonctionner. Peut exploser s'il est endommagé.</VFES_Turret_ChargeRailgunTurret.description>
+	<!-- EN: Component durability -->
+	<VFES_Turret_ChargeRailgunTurret.comps.CompRefuelable.fuelGizmoLabel>Durabilité des composants</VFES_Turret_ChargeRailgunTurret.comps.CompRefuelable.fuelGizmoLabel>
+	<!-- EN: Shots until component replacement -->
+	<VFES_Turret_ChargeRailgunTurret.comps.CompRefuelable.fuelLabel>Tirs jusqu'au moment du changement de composant</VFES_Turret_ChargeRailgunTurret.comps.CompRefuelable.fuelLabel>
+	<!-- EN: Cannot shoot: Needs new components -->
+	<VFES_Turret_ChargeRailgunTurret.comps.CompRefuelable.outOfFuelMessage>Impossible de tirer: nécessite de nouveaux composants</VFES_Turret_ChargeRailgunTurret.comps.CompRefuelable.outOfFuelMessage>
+
+	<!-- charge railgun -->
+	<VFES_Gun_RailgunTurret.label>canon de rail</VFES_Gun_RailgunTurret.label>
+	<!-- An advanced railgun designed to launch two electromagnetically accelerated projectiles simultaneously. -->
+	<VFES_Gun_RailgunTurret.description>Un railgun avancé conçu pour lancer simultanément deux projectiles à accélération électromagnétique</VFES_Gun_RailgunTurret.description>
+	<!-- charge railgun shots -->
+	<VFES_Bullet_DoubleChargeLance.label>coups de feu sur rail</VFES_Bullet_DoubleChargeLance.label>
+	<!-- EN: charge railgun -->
+	<VFES_Gun_RailgunTurret.verbs.Verb_Shoot.label>canon de rail</VFES_Gun_RailgunTurret.verbs.Verb_Shoot.label>
+
+	<!-- EMP cannon -->
+	<VFES_Turret_EMPTurret.label>canon EMP</VFES_Turret_EMPTurret.label>
+	<!-- An electro-magnetic pulse cannon usually mounted on a spacecraft. Requires uranium rods to be replaced in order to operate. Can only target mechanoids and may explode if damaged. -->
+	<VFES_Turret_EMPTurret.description>Un canon à impulsions électromagnétiques généralement monté sur un vaisseau spatial. Nécessite le remplacement des barres d'uranium pour fonctionner. Ne peut cibler que les mécanoïdes et peut exploser s'il est endommagé.</VFES_Turret_EMPTurret.description>
+	<!-- EN: Uranium rods -->
+	<VFES_Turret_EMPTurret.comps.CompRefuelable.fuelGizmoLabel>Barres d'uranium</VFES_Turret_EMPTurret.comps.CompRefuelable.fuelGizmoLabel>
+	<!-- EN: Shots until out of uranium -->
+	<VFES_Turret_EMPTurret.comps.CompRefuelable.fuelLabel>Tirs jusqu'à épuisement de l'uranium</VFES_Turret_EMPTurret.comps.CompRefuelable.fuelLabel>
+	<!-- EN: Cannot shoot: Need uranium -->
+	<VFES_Turret_EMPTurret.comps.CompRefuelable.outOfFuelMessage>Impossible de tirer: a besoin d'uranium</VFES_Turret_EMPTurret.comps.CompRefuelable.outOfFuelMessage>
+
+	<!-- EMP cannon -->
+	<VFES_Gun_EMPTurret.label>canon EMP</VFES_Gun_EMPTurret.label>
+	<!-- An EMP coil gun made to be mounted on a turret. -->
+	<VFES_Gun_EMPTurret.description>Un canon à bobine EMP conçu pour être monté sur une tourelle.</VFES_Gun_EMPTurret.description>
+	<!-- EMP shot -->
+	<VFES_Bullet_EMPCannon.label>Tir EMP</VFES_Bullet_EMPCannon.label>
+	<!-- EN: EMP cannon -->
+	<VFES_Gun_EMPTurret.verbs.Verb_Shoot.label>canon EMP</VFES_Gun_EMPTurret.verbs.Verb_Shoot.label>
+
+	<Frame_VFES_Turret_EMPTurret>canon EMP (construction)</Frame_VFES_Turret_EMPTurret>
+
+</LanguageData>

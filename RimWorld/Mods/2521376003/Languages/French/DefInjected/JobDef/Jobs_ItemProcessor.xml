@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+<!--Traduction FR vanilla expanded framework-->
+  <IP_InsertFirstIngredient.reportString>insérer l'ingrédient.</IP_InsertFirstIngredient.reportString>
+  <IP_InsertSecondIngredient.reportString>insérer l'ingrédient.</IP_InsertSecondIngredient.reportString>
+  <IP_InsertThirdIngredient.reportString>insérer l'ingrédient.</IP_InsertThirdIngredient.reportString>
+  <IP_RemoveProduct.reportString>enlever le produit fini.</IP_RemoveProduct.reportString>
+
+</LanguageData>

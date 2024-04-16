@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--Traduction FR Seamless Embrasures for Armored and Reinforces-->
+	<O21_Embrasure_Letterbox_Reinforced.label>Embrasure renforcée (fente)</O21_Embrasure_Letterbox_Reinforced.label>
+	<O21_Embrasure_Letterbox_Reinforced.description>Une embrasure infranchissable. Capable de retenir un toit, les armes peuvent être tirées à travers.</O21_Embrasure_Letterbox_Reinforced.description>
+	
+	<O21_Embrasure_Hole_Reinforced.label>Embrasure renforcée (trou)</O21_Embrasure_Hole_Reinforced.label>
+	<O21_Embrasure_Hole_Reinforced.description>Une embrasure infranchissable. Capable de retenir un toit, les armes peuvent être tirées à travers.</O21_Embrasure_Hole_Reinforced.description>
+	
+	<O21_Embrasure_Letterbox_Armored.label>Embrasure blindée (fente)</O21_Embrasure_Letterbox_Armored.label>
+	<O21_Embrasure_Letterbox_Armored.description>Une embrasure infranchissable. Capable de retenir un toit, les armes peuvent être tirées à travers.</O21_Embrasure_Letterbox_Armored.description>
+	
+	<O21_Embrasure_Hole_Armored.label>Embrasure blindée (trou)</O21_Embrasure_Hole_Armored.label>
+	<O21_Embrasure_Hole_Armored.description>Une embrasure infranchissable. Capable de retenir un toit, les armes peuvent être tirées à travers.</O21_Embrasure_Hole_Armored.description>
+</LanguageData>

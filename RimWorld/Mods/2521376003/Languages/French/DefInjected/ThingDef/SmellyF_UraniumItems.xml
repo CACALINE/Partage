@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<!--Traduction FR Nuclear Energy-->
+	<RefinedUranium.label>Uranium raffiné</RefinedUranium.label>
+	<RefinedUranium.description>De l'uranium raffiné. Peut être utilisé pour créer de l'énergie.</RefinedUranium.description>
+	
+	<CoolingComp.label>Composants du système de refroidissement</CoolingComp.label>
+	<CoolingComp.description>Un ensemble de composants. Utilisé pour créer un système de refroidissement avancé pour les réacteurs.</CoolingComp.description>
+	
+	<CoolingInjector.label>Injecteur de liquide</CoolingInjector.label>
+	<CoolingInjector.description>Injecte du liquide dans le réservoir pour refroidir le réacteur. Une des nombreuses pièces du système de refroidissement.</CoolingInjector.description>
+	
+	<CoolingTank.label>Réservoir de liquide</CoolingTank.label>
+	<CoolingTank.description>Stocke le liquide qui refroidit le réacteur. Une des nombreuses parties du système de refroidissement.</CoolingTank.description>
+	
+	<CoolingAI.label>Refroidissement de l'IA</CoolingAI.label>
+	<CoolingAI.description>L'IA de refroidissement avancée détectera quand le réacteur doit être refroidi. Une des nombreuses parties du système de refroidissement.</CoolingAI.description>
+	
+	<CoolingSys.label>Systèmes de refroidissement</CoolingSys.label>
+	<CoolingSys.description>Le système de refroidissement le plus avancé. Il se compose d'un réservoir de liquide, d'un injecteur de liquide et d'une IA.</CoolingSys.description>
+	
+	<SmallCoolingSys.label>Petits systèmes de refroidissement</SmallCoolingSys.label>
+	<SmallCoolingSys.description>Une version plus petite des systèmes de refroidissement. Il se compose d'un réservoir de liquide et d'un injecteur de liquide.</SmallCoolingSys.description>
+</LanguageData>

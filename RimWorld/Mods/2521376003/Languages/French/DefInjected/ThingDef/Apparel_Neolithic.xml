@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR vanilla apparel expanded.-->
+  <!-- Pelt Coat -->
+
+  <VAE_Apparel_PeltCoat.label>Manteau en fourrure</VAE_Apparel_PeltCoat.label>
+  <VAE_Apparel_PeltCoat.description>Un manteau épais isolé en raison de la fourrure animale, fournissant la chaleur et l’armure.</VAE_Apparel_PeltCoat.description>
+
+
+  <!-- Tribal Poncho -->
+
+  <VAE_Apparel_TribalPoncho.label>Poncho tribal</VAE_Apparel_TribalPoncho.label>
+  <VAE_Apparel_TribalPoncho.description>Un poncho fabriqué à l’aide d’outils néolithiques. Bien qu’il puisse sembler primitif, il est efficace pour isoler le porteur.</VAE_Apparel_TribalPoncho.description>
+
+
+  <!-- Tribal Kilt -->
+
+  <VAE_Apparel_TribalKilt.label>Kilt tribal</VAE_Apparel_TribalKilt.label>
+  <VAE_Apparel_TribalKilt.description>Un kilt fabriqué à l’aide d’outils néolithiques. Bien qu’il puisse sembler primitif, il est efficace pour isoler le porteur.</VAE_Apparel_TribalKilt.description>
+
+
+  <!-- Hood -->
+
+  <VAE_Headgear_Hood.label>Capuche</VAE_Headgear_Hood.label>
+  <VAE_Headgear_Hood.description>Une capuche épaisse en tissu renforcé ou en cuir. Fournit une protection médiocre contre le froid et les dommages.</VAE_Headgear_Hood.description>
+
+</LanguageData>

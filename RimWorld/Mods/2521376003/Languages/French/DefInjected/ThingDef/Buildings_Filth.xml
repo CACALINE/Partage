@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+<!-- EN: dirt -->
+<VFEPD_FilthDirt.label>saleté</VFEPD_FilthDirt.label>
+<!-- EN: A small amount of dirt. -->
+<VFEPD_FilthDirt.description>Une petite quantité de saleté.</VFEPD_FilthDirt.description>
+
+<!-- EN: animal filth -->
+<VFEPD_FilthAnimalFilth.label>saleté animale</VFEPD_FilthAnimalFilth.label>
+<!-- EN: A small amount of animal filth. -->
+<VFEPD_FilthAnimalFilth.description>Une petite quantité de saleté animale.</VFEPD_FilthAnimalFilth.description>
+
+<!-- EN: sand -->
+<VFEPD_FilthSand.label>sable</VFEPD_FilthSand.label>
+<!-- EN: A small amount of sand. -->
+<VFEPD_FilthSand.description>Une petite quantité de sable.</VFEPD_FilthSand.description>
+
+<!-- EN: trash -->
+<VFEPD_FilthTrash.label>déchets</VFEPD_FilthTrash.label>
+<!-- EN: A small amount of trash. -->
+<VFEPD_FilthTrash.description>Une petite quantité de déchets.</VFEPD_FilthTrash.description>
+
+<!-- EN: rock rubble -->
+<VFEPD_FilthRubbleRock.label>gravats de pierre</VFEPD_FilthRubbleRock.label>
+<!-- EN: A small amount of rock rubble. -->
+<VFEPD_FilthRubbleRock.description>Une petite quantité de gravats de pierre.</VFEPD_FilthRubbleRock.description>
+
+<!-- EN: scattered slag -->
+<VFEPD_FilthRubbleSlag.label>scories dispersées</VFEPD_FilthRubbleSlag.label>
+<!-- EN: A small amount of scattered slag. -->
+<VFEPD_FilthRubbleSlag.description>Une petite quantité de scories dispersées.</VFEPD_FilthRubbleSlag.description>
+
+<!-- EN: scattered sandbags -->
+<VFEPD_FilthRubbleSandbags.label>sacs de sable épars</VFEPD_FilthRubbleSandbags.label>
+<!-- EN: A small amount of scattered sandbags. -->
+<VFEPD_FilthRubbleSandbags.description>Une petite quantité de sacs de sable épars.</VFEPD_FilthRubbleSandbags.description>
+
+<!-- EN: blood -->
+<VFEPD_FilthBlood.label>sang</VFEPD_FilthBlood.label>
+<!-- EN: A splatter of blood. -->
+<VFEPD_FilthBlood.description>Des taches de sang.</VFEPD_FilthBlood.description>
+
+<!-- EN: bugblood -->
+<VFEPD_FilthBugBlood.label>sang insectoïde</VFEPD_FilthBugBlood.label>
+<!-- EN: A splatter of insect blood. -->
+<VFEPD_FilthBugBlood.description>Une tache de sang insectoïde.</VFEPD_FilthBugBlood.description>
+
+<!-- EN: machine bits -->
+<VFEPD_FilthMachineBits.label>fragments de machine</VFEPD_FilthMachineBits.label>
+<!-- EN: A bunch of machine bits. -->
+<VFEPD_FilthMachineBits.description>Beaucoup de fragments de machine.</VFEPD_FilthMachineBits.description>
+
+<!-- EN: amniotic fluid -->
+<VFEPD_FilthAmnioticFluid.label>liquide amniotique</VFEPD_FilthAmnioticFluid.label>
+<!-- EN: A pool of amniotic fluid. -->
+<VFEPD_FilthAmnioticFluid.description>Une piscine de liquide amniotique.</VFEPD_FilthAmnioticFluid.description>
+
+<!-- EN: slime -->
+<VFEPD_FilthSlime.label>bave</VFEPD_FilthSlime.label>
+<!-- EN: A spatter of slime. -->
+<VFEPD_FilthSlime.description>Un soupçon de bave.</VFEPD_FilthSlime.description>
+
+<!-- EN: vomit -->
+<VFEPD_FilthVomit.label>vomit</VFEPD_FilthVomit.label>
+<!-- EN: A small, oozing pool of vomit. -->
+<VFEPD_FilthVomit.description>Une petite flaque suintante de vomi.</VFEPD_FilthVomit.description>
+
+<!-- EN: firefoam -->
+<VFEPD_FilthFireFoam.label>mousse coupe-feu</VFEPD_FilthFireFoam.label>
+<!-- EN: A large pile of firefoam. -->
+<VFEPD_FilthFireFoam.description>Un gros tas de mousse coupe-feu.</VFEPD_FilthFireFoam.description>
+
+<!-- EN: chemfuel puddle -->
+<VFEPD_FilthChemfuel.label>flaque de chemfuel</VFEPD_FilthChemfuel.label>
+<!-- EN: A puddle of flammable chemfuel. -->
+<VFEPD_FilthChemfuel.description>Une flaque de chemfuel.</VFEPD_FilthChemfuel.description>
+
+<!-- EN: corpse bile -->
+<VFEPD_FilthCorpseBile.label>bile de cadavre</VFEPD_FilthCorpseBile.label>
+<!-- EN: A small spatter of corpse bile. -->
+<VFEPD_FilthCorpseBile.description>Une petite éclaboussure de bile de cadavre.</VFEPD_FilthCorpseBile.description>
+
+<!-- EN: ash -->
+<VFEPD_FilthAsh.label>cendres</VFEPD_FilthAsh.label>
+<!-- EN: A pile of ash. -->
+<VFEPD_FilthAsh.description>Un tas de cendres.</VFEPD_FilthAsh.description>
+
+
+</LanguageData>

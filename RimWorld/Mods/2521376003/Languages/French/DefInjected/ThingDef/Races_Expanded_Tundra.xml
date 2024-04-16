@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+<!--<Traduction FR Tous les vanilla animals expanded.-->
+  <!-- musk ox -->
+  <AEXP_Muskox.label>boeuf musqué</AEXP_Muskox.label>
+  <!-- Musk oxen are massive buffalo-like mammals that roam the tundra areas in search for roots, mosses and lichens to sustain them. Being related to muffalos, musk oxen can be used as pack animals. They are noted for their thick coat and for the strong odor emitted during the seasonal rut by males, from which their name derives. -->
+  <AEXP_Muskox.description>Les boeufs musqués sont des animaux massifs ressemblant à des buffles qui parcourent la toundra à la recherche de racines, de mousses et de lichens pour se nourrir. Étant apparenté aux bœufs musqués, les bœufs musqués peuvent être utilisés comme bêtes de somme. Ils sont connus pour leur fourrure épaisse et la forte odeur qu'ils dégagent pendant la saison des amours.</AEXP_Muskox.description>
+  <!-- head -->
+  <AEXP_Muskox.tools.head.label>tête</AEXP_Muskox.tools.head.label>
+  <!-- left hoof -->
+  <AEXP_Muskox.tools.left_hoof.label>sabot gauche</AEXP_Muskox.tools.left_hoof.label>
+  <!-- right hoof -->
+  <AEXP_Muskox.tools.right_hoof.label>sabot droit</AEXP_Muskox.tools.right_hoof.label>
+
+  <Corpse_AEXP_Muskox.label>cadavre de boeuf musqué</Corpse_AEXP_Muskox.label>
+  <Corpse_AEXP_Muskox.description>Le corps sans vie d'un boeuf musqué.</Corpse_AEXP_Muskox.description>
+  <Meat_AEXP_Muskox.label>viande de boeuf musqué</Meat_AEXP_Muskox.label>
+  <Meat_AEXP_Muskox.description>Viande crue dépecée. Peut être cuit ou consommé crue.</Meat_AEXP_Muskox.description>
+
+  <!-- moose -->
+  <AEXP_Moose.label>élan</AEXP_Moose.label>
+  <!-- The largest and heaviest member of the deer family, well-adapted to life in cold climates. Can easily be identified due to the size of the antlers and long, thin legs. Cannot carry packs, but domesticated moose can be milked. Unlike most other deer species, moose do not form herds and are solitary animals. Although generally slow-moving and sedentary, moose can become aggressive and move quickly if angered or startled. -->
+  <AEXP_Moose.description>Le membre le plus grand et le plus lourd de la famille des cerfs, bien adapté aux climats froids. Il peut être facilement identifié par ses bois massifs et ses longues et fines pattes. Ils ne peuvent pas être utilisés comme bêtes de somme, mais les orignaux domestiques peuvent être traites. Contrairement à d'autres espèces de cerfs, les orignaux ne font pas de troupeau et sont des animaux solitaires. Bien que généralement lents et sédentaires, les orignaux peuvent devenir agressifs et se déplacer à une vitesse alarmante s'ils se mettent en colère ou ont peur.</AEXP_Moose.description>
+  <!-- left hoof -->
+  <AEXP_Moose.tools.left_hoof.label>sabot gauche</AEXP_Moose.tools.left_hoof.label>
+  <!-- right hoof -->
+  <AEXP_Moose.tools.right_hoof.label>sabot droit</AEXP_Moose.tools.right_hoof.label>
+  <!-- head -->
+  <AEXP_Moose.tools.head.label>tête</AEXP_Moose.tools.head.label>
+
+  <Corpse_AEXP_Moose.label>cadavre d'élan</Corpse_AEXP_Moose.label>
+  <Corpse_AEXP_Moose.description>Le corps sans vie d'un élan.</Corpse_AEXP_Moose.description>
+  <Meat_AEXP_Moose.label>viande d'élan</Meat_AEXP_Moose.label>
+  <Meat_AEXP_Moose.description>Viande crue dépecée. Peut être cuit ou consommé crue.</Meat_AEXP_Moose.description>
+
+  <!-- megawolverine -->
+  <AEXP_MegaWolverine.label>serval</AEXP_MegaWolverine.label>
+  <!-- A giant, genetically-engineered predator with massive paws to rip apart prey. Thick fur allows it to survive the coldest of climates, whilst it strength allows it to hunt even the largest of mammals for food. -->
+  <AEXP_MegaWolverine.description>Un énorme prédateur génétiquement modifié, avec des griffes géantes pour déchirer sa proie. Sa fourrure épaisse lui permet de survivre dans les climats les plus froids, tandis que sa force lui permet de chasser même le plus gros des mammifères pour se nourrir.</AEXP_MegaWolverine.description>
+  <!-- left claw -->
+  <AEXP_MegaWolverine.tools.left_claw.label>griffe gauche</AEXP_MegaWolverine.tools.left_claw.label>
+  <!-- right claw -->
+  <AEXP_MegaWolverine.tools.right_claw.label>griffe droite</AEXP_MegaWolverine.tools.right_claw.label>
+  <!-- head -->
+  <AEXP_MegaWolverine.tools.head.label>tête</AEXP_MegaWolverine.tools.head.label>
+
+  <Corpse_AEXP_MegaWolverine.label>cadavre de serval</Corpse_AEXP_MegaWolverine.label>
+  <Corpse_AEXP_MegaWolverine.description>Le corps sans vie d'un serval.</Corpse_AEXP_MegaWolverine.description>
+  <Meat_AEXP_MegaWolverine.label>viande de serval</Meat_AEXP_MegaWolverine.label>
+  <Meat_AEXP_MegaWolverine.description>Viande crue dépecée. Peut être cuit ou consommé crue.</Meat_AEXP_MegaWolverine.description>
+
+  <!-- porcupine -->
+  <AEXP_Porcupine.label>porc-épic</AEXP_Porcupine.label>
+  <!-- A large rodent with a coat of sharp quills that protect it against predators. -->
+  <AEXP_Porcupine.description>Un gros rongeur, avec une couche de pointes acérées qu'il utilise pour se protéger des prédateurs.</AEXP_Porcupine.description>
+  <!-- left claw -->
+  <AEXP_Porcupine.tools.left_claw.label>griffe gauche</AEXP_Porcupine.tools.left_claw.label>
+  <!-- right claw -->
+  <AEXP_Porcupine.tools.right_claw.label>griffe droite</AEXP_Porcupine.tools.right_claw.label>
+  <!-- head -->
+  <AEXP_Porcupine.tools.head.label>tête</AEXP_Porcupine.tools.head.label>
+
+  <Corpse_AEXP_Porcupine.label>cadavre de porc-épic</Corpse_AEXP_Porcupine.label>
+  <Corpse_AEXP_Porcupine.description>Le corps sans vie d'un porc-épic.</Corpse_AEXP_Porcupine.description>
+  <Meat_AEXP_Porcupine.label>viande de porc-épic</Meat_AEXP_Porcupine.label>
+  <Meat_AEXP_Porcupine.description>Viande crue dépecée. Peut être cuit ou consommé crue.</Meat_AEXP_Porcupine.description>
+  
+
+</LanguageData>

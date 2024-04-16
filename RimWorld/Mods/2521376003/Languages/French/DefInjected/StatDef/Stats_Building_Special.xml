@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+<!-- shield max energy -->
+<VFES_EnergyShieldEnergyMax.label>énergie maximale du bouclier</VFES_EnergyShieldEnergyMax.label>
+<!-- The maximum energy a shield generator can have at one time. More energy absorbs more damage. -->
+<VFES_EnergyShieldEnergyMax.description>L'énergie maximale qu'un générateur de bouclier peut avoir à la fois. Plus d'énergie absorbe plus de dégâts.</VFES_EnergyShieldEnergyMax.description>
+
+<!-- shield recharge rate -->
+<VFES_EnergyShieldRechargeRate.label>vitesse de rechargement du bouclier</VFES_EnergyShieldRechargeRate.label>
+<!-- The rate at which a shield gains energy as long as it is not broken. -->
+<VFES_EnergyShieldRechargeRate.description>La vitesse à laquelle un bouclier accumule de l'énergie sans être détruit.</VFES_EnergyShieldRechargeRate.description>
+<!-- {0}/s -->
+<VFES_EnergyShieldRechargeRate.formatString>{0}/s</VFES_EnergyShieldRechargeRate.formatString>
+
+<!-- shield radius -->
+<VFES_EnergyShieldRadius.label>rayon du bouclier</VFES_EnergyShieldRadius.label>
+<!-- The area covered when the energy shield is active. -->
+<VFES_EnergyShieldRadius.description>La zone couverte par le bouclier énergétique lorsqu'il est actif.</VFES_EnergyShieldRadius.description>
+<!-- {0} c -->
+<VFES_EnergyShieldRadius.formatString>{0} c</VFES_EnergyShieldRadius.formatString>
+
+
+</LanguageData>

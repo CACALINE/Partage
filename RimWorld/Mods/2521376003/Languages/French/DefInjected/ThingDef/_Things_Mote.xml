@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+	<!--EN: Mote -->
+	<Mote_HoldingChips.label>Mote</Mote_HoldingChips.label>
+	<!--EN: Mote -->
+	<Mote_HoldingGloves.label>Mote</Mote_HoldingGloves.label>
+	<!--EN: Mote -->
+	<Mote_FlyingDart.label>Mote</Mote_FlyingDart.label>
+	<!--EN: Mote -->
+	<Mote_MusicalNoteA.label>Mote</Mote_MusicalNoteA.label>
+	<!--EN: Mote -->
+	<VFEF_Mote_SprinklerWater.label>Mote</VFEF_Mote_SprinklerWater.label>
+	<!--EN: Mote -->
+	<VPE_Mote_GasPuff.label>Mote</VPE_Mote_GasPuff.label>
+	<!--EN: Mote -->
+	<VFES_Mote_SpotLight.label>Mote</VFES_Mote_SpotLight.label>
+		<!--EN: Mote -->
+	<Mote_Firetrail.label>Mote</Mote_Firetrail.label>
+	<!--EN: Mote -->
+	<Mote_FTSmoketrail.label>Mote</Mote_FTSmoketrail.label>
+</LanguageData>

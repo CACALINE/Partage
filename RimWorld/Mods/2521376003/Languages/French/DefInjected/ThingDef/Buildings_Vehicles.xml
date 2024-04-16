@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+	<!-- EN: forklift -->
+	<VFEPD_CarForklift.label>chariot élévateur</VFEPD_CarForklift.label>
+	<!-- EN: An industrial style forklift. -->
+	<VFEPD_CarForklift.description>Un chariot élévateur de style industriel.</VFEPD_CarForklift.description>
+
+	<!-- EN: black delivery truck -->
+	<VFEPD_CarDeliveryBlack.label>camion de livraison noir</VFEPD_CarDeliveryBlack.label>
+	<!-- EN: A large black delivery truck. -->
+	<VFEPD_CarDeliveryBlack.description>Un gros camion de livraison noir.</VFEPD_CarDeliveryBlack.description>
+
+	<!-- EN: black family car -->
+	<VFEPD_CarFamilyBlack.label>voiture familiale noire</VFEPD_CarFamilyBlack.label>
+	<!-- EN: A black family car. -->
+	<VFEPD_CarFamilyBlack.description>Une voiture familiale noire.</VFEPD_CarFamilyBlack.description>
+
+	<!-- EN: black pickup truck -->
+	<VFEPD_CarPickupBlack.label>camion noir</VFEPD_CarPickupBlack.label>
+	<!-- EN: A black pickup truck. -->
+	<VFEPD_CarPickupBlack.description>Un camion noir.</VFEPD_CarPickupBlack.description>
+
+	<!-- EN: black vintage car -->
+	<VFEPD_CarVintageBlack.label>voiture noire vintage</VFEPD_CarVintageBlack.label>
+	<!-- EN: A black vintage car. -->
+	<VFEPD_CarVintageBlack.description>Une voiture noire vintage.</VFEPD_CarVintageBlack.description>
+
+	<!-- EN: white delivery truck -->
+	<VFEPD_CarDeliveryWhite.label>camión de reparto blanco</VFEPD_CarDeliveryWhite.label>
+	<!-- EN: A large white delivery truck. -->
+	<VFEPD_CarDeliveryWhite.description>Un grand camion de livraison blanc.</VFEPD_CarDeliveryWhite.description>
+
+	<!-- EN: white family car -->
+	<VFEPD_CarFamilyWhite.label>voiture familiale blanche</VFEPD_CarFamilyWhite.label>
+	<!-- EN: A white family car. -->
+	<VFEPD_CarFamilyWhite.description>Une voiture familiale blanche.</VFEPD_CarFamilyWhite.description>
+
+	<!-- EN: white pickup truck -->
+	<VFEPD_CarPickupWhite.label>camion blanc</VFEPD_CarPickupWhite.label>
+	<!-- EN: A white pickup truck. -->
+	<VFEPD_CarPickupWhite.description>Un camion blanc.</VFEPD_CarPickupWhite.description>
+
+	<!-- EN: white vintage car -->
+	<VFEPD_CarVintageWhite.label>voiture blanche vintage</VFEPD_CarVintageWhite.label>
+	<!-- EN: A white vintage car. -->
+	<VFEPD_CarVintageWhite.description>Une voiture blanche vintage.</VFEPD_CarVintageWhite.description>
+
+	<!-- EN: silver delivery truck -->
+	<VFEPD_CarDeliverySilver.label>camion de livraison argentée</VFEPD_CarDeliverySilver.label>
+	<!-- EN: A large silver delivery truck. -->
+	<VFEPD_CarDeliverySilver.description>Un gros camion de livraison argentée.</VFEPD_CarDeliverySilver.description>
+
+	<!-- EN: silver family car -->
+	<VFEPD_CarFamilySilver.label>voiture familiale argentée</VFEPD_CarFamilySilver.label>
+	<!-- EN: A silver family car. -->
+	<VFEPD_CarFamilySilver.description>Une voiture familiale argentée.</VFEPD_CarFamilySilver.description>
+
+	<!-- EN: silver pickup truck -->
+	<VFEPD_CarPickupSilver.label>camion argenté</VFEPD_CarPickupSilver.label>
+	<!-- EN: A silver pickup truck. -->
+	<VFEPD_CarPickupSilver.description>Un camion argenté.</VFEPD_CarPickupSilver.description>
+
+	<!-- EN: silver vintage car -->
+	<VFEPD_CarVintageSilver.label>voiture argentée vintage</VFEPD_CarVintageSilver.label>
+	<!-- EN: A silver vintage car. -->
+	<VFEPD_CarVintageSilver.description>voiture argentée vintage.</VFEPD_CarVintageSilver.description>
+
+	<!-- EN: blue delivery truck -->
+	<VFEPD_CarDeliveryBlue.label>camion de livraison bleu</VFEPD_CarDeliveryBlue.label>
+	<!-- EN: A large blue delivery truck. -->
+	<VFEPD_CarDeliveryBlue.description>Un grand camion de livraison bleu.</VFEPD_CarDeliveryBlue.description>
+
+	<!-- EN: blue family car -->
+	<VFEPD_CarFamilyBlue.label>voiture familiale bleue</VFEPD_CarFamilyBlue.label>
+	<!-- EN: A blue family car. -->
+	<VFEPD_CarFamilyBlue.description>Une voiture familiale bleue.</VFEPD_CarFamilyBlue.description>
+
+	<!-- EN: blue pickup truck -->
+	<VFEPD_CarPickupBlue.label>camion bleu</VFEPD_CarPickupBlue.label>
+	<!-- EN: A blue pickup truck. -->
+	<VFEPD_CarPickupBlue.description>Un camion bleu.</VFEPD_CarPickupBlue.description>
+
+	<!-- EN: blue vintage car -->
+	<VFEPD_CarVintageBlue.label>voiture bleue vintage</VFEPD_CarVintageBlue.label>
+	<!-- EN: A blue vintage car. -->
+	<VFEPD_CarVintageBlue.description>Une voiture bleue vintage.</VFEPD_CarVintageBlue.description>
+
+	<!-- EN: red delivery truck -->
+	<VFEPD_CarDeliveryRed.label>camion de livraison rouge</VFEPD_CarDeliveryRed.label>
+	<!-- EN: A large red delivery truck. -->
+	<VFEPD_CarDeliveryRed.description>Un grand camion de livraison rouge.</VFEPD_CarDeliveryRed.description>
+
+	<!-- EN: red family car -->
+	<VFEPD_CarFamilyRed.label>voiture familiale rouge</VFEPD_CarFamilyRed.label>
+	<!-- EN: A red family car. -->
+	<VFEPD_CarFamilyRed.description>Une voiture familiale rouge.</VFEPD_CarFamilyRed.description>
+
+	<!-- EN: red pickup truck -->
+	<VFEPD_CarPickupRed.label>camion rouge</VFEPD_CarPickupRed.label>
+	<!-- EN: A red pickup truck. -->
+	<VFEPD_CarPickupRed.description>Un camion rouge.</VFEPD_CarPickupRed.description>
+
+	<!-- EN: red vintage car -->
+	<VFEPD_CarVintageRed.label>voiture rouge vintage</VFEPD_CarVintageRed.label>
+	<!-- EN: A red vintage car. -->
+	<VFEPD_CarVintageRed.description>Une voiture rouge vintage.</VFEPD_CarVintageRed.description>
+
+
+</LanguageData>

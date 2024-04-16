@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Tous les vanilla animals expanded.-->
+  	<!-- Fished by penguins -->
+ 	<!-- raw fish -->
+  	<AEXP_RawFish.label>poisson cru</AEXP_RawFish.label>
+ 	<!-- Raw fish. A resourceful penguin has fished this. -->
+ 	<AEXP_RawFish.description>Poisson cru. Un pingouin ingénieux l'a attrapé.</AEXP_RawFish.description>
+  	<!-- raw fish -->
+ 	<AEXP_RawFish.tools.raw_fish.label>poisson cru</AEXP_RawFish.tools.raw_fish.label>
+
+</LanguageData>

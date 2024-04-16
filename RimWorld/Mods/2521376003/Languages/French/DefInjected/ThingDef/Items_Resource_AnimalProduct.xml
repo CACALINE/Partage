@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Tous les vanilla animals expanded.-->
+  <!-- Tropical Swamp -->
+  <!-- anaconda egg (fert.) -->
+  <AEXP_EggAnacondaFertilized.label>oeuf d'anaconda (fécondé)</AEXP_EggAnacondaFertilized.label>
+  <!-- A fertilized anaconda egg. If all goes well, it should hatch into an anaconda. It can be eaten raw, but it's much better cooked. -->
+  <AEXP_EggAnacondaFertilized.description>Un oeuf d'anaconda fécondé. Si tout se passe bien, un bébé anaconda va naître. Il peut être mangé cru, mais il est beaucoup, beaucoup mieux cuit.</AEXP_EggAnacondaFertilized.description>
+
+	<!-- alligator egg (fert.) -->
+  <AEXP_EggAlligatorFertilized.label>oeuf d'alligator (fécondé)</AEXP_EggAlligatorFertilized.label>
+  <!-- A fertilized alligator egg. If all goes well, it should hatch into an alligator. It can be eaten raw, but it's much better cooked. -->
+  <AEXP_EggAlligatorFertilized.description>Un oeuf d'alligator fécondé. Si tout se passe bien, un bébé alligator va naître. Il peut être mangé cru, mais il est beaucoup, beaucoup mieux cuit.</AEXP_EggAlligatorFertilized.description>
+
+  <!-- Temperate Forest -->
+  <!-- wild goose egg (unfert.) -->
+  <AEXP_EggWildGooseUnfertilized.label>oeuf d'oie sauvage (non fécondé)</AEXP_EggWildGooseUnfertilized.label>
+  <!-- An unfertilized wild goose egg. It can be eaten raw, but it's much, much better cooked. -->
+  <AEXP_EggWildGooseUnfertilized.description>Un oeuf d'oie sauvage non fécondé. Il peut être mangé cru, mais il est beaucoup, beaucoup mieux cuit.</AEXP_EggWildGooseUnfertilized.description>
+
+  <!-- wild goose egg (fert.) -->
+  <AEXP_EggWildGooseFertilized.label>oeuf d'oie sauvage (fécondé)</AEXP_EggWildGooseFertilized.label>
+  <!-- A fertilized wild goose egg. If all goes well, it should hatch into a baby wild gosling. It can be eaten raw, but it's much better cooked. -->
+  <AEXP_EggWildGooseFertilized.description>Un oeuf d'oie sauvage fécondé. Si tout va bien, un poussin naîtra. Il peut être mangé cru, mais il est beaucoup mieux cuit.</AEXP_EggWildGooseFertilized.description>
+
+  <!-- Ice Sheet -->
+  <!-- penguin egg (fert.) -->
+  <AEXP_EggPenguinFertilized.label>oeuf de pingouin (fécondé)</AEXP_EggPenguinFertilized.label>
+  <!-- A fertilized penguin egg. If all goes well, it should hatch into a baby penguin. It can be eaten raw, but it's much better cooked. -->
+  <AEXP_EggPenguinFertilized.description>Un oeuf de pingouin fécondé. Si tout va bien, un poussin naîtra. Il peut être mangé cru, mais il est beaucoup, beaucoup mieux cuit.</AEXP_EggPenguinFertilized.description>
+
+  <!-- Extreme Desert -->
+  <!-- rattlesnake egg (unfert.) -->
+  <AEXP_EggRattlesnakeUnfertilized.label>oeuf de serpent à sonnette (non fécondé)</AEXP_EggRattlesnakeUnfertilized.label>
+  <!-- An unfertilized rattlesnake egg. It can be eaten raw, but it's much, much better cooked. -->
+  <AEXP_EggRattlesnakeUnfertilized.description>Un oeuf de serpent à sonnette non fécondé. Il peut être mangé cru, mais il est beaucoup, beaucoup mieux cuit.</AEXP_EggRattlesnakeUnfertilized.description>
+
+  <!-- rattlesnake egg (fert.) -->
+  <AEXP_EggRattlesnakeFertilized.label>oeuf de serpent à sonnette (fécondé)</AEXP_EggRattlesnakeFertilized.label>
+  <!-- A fertilized rattlesnake egg. If all goes well, it should hatch into a rattlesnake. It can be eaten raw, but it's much better cooked. -->
+  <AEXP_EggRattlesnakeFertilized.description>Un oeuf de serpent à sonnette fécondé. Si tout va bien, un bébé serpent naîtra. Il peut être mangé cru, mais il est beaucoup mieux cuit.</AEXP_EggRattlesnakeFertilized.description>
+
+  <!-- Endangered -->
+  <!-- EN: moa egg (fert.) -->
+  <AEXP_EggMoaFertilized.label>oeuf de moa (fécondé)</AEXP_EggMoaFertilized.label>
+  <!-- EN: A fertilized moa egg. If all goes well, it should hatch into a baby moa. It can be eaten raw, but it's much better cooked. -->
+  <AEXP_EggMoaFertilized.description>Un oeuf fécondé d'un moa. Si tout se passe bien, un bébé moa va naître. Il peut être mangé cru, mais il est beaucoup, beaucoup mieux cuit.</AEXP_EggMoaFertilized.description>
+
+  <!-- EN: rockhopper penguin egg (fert.) -->
+  <AEXP_EggRockhopperPenguinFertilized.label>oeuf de gorfou sauteur (fert.)</AEXP_EggRockhopperPenguinFertilized.label>
+  <!-- EN: A fertilized rockhopper penguin egg. If all goes well, it should hatch into a baby rockhopper penguin. It can be eaten raw, but it's much better cooked. -->
+  <AEXP_EggRockhopperPenguinFertilized.description>Un oeuf fécondé d'un gorfou sauteur. Si tout va bien, un bébé gorfou sauteur naîtra. Il peut être mangé cru, mais il est beaucoup, beaucoup mieux cuit.</AEXP_EggRockhopperPenguinFertilized.description>
+
+  <!-- EN: Desert -->
+  <!-- desert tortoise egg (unfert.) -->
+  <AEXP_EggDesertTortoiseUnfertilized.label>œuf de tortue du désert (non fécondé)</AEXP_EggDesertTortoiseUnfertilized.label>
+  <!-- An unfertilized desert tortoise egg. It can be eaten raw, but it's much, much better cooked. -->
+  <AEXP_EggDesertTortoiseUnfertilized.description>Un oeuf non fécondé d'une tortue du désert. Il peut être mangé cru, mais il est beaucoup, beaucoup mieux cuit.</AEXP_EggDesertTortoiseUnfertilized.description>
+  <!-- desert tortoise egg (fert.) -->
+  <AEXP_EggDesertTortoiseFertilized.label>oeuf de tortue du désert (fécondé)</AEXP_EggDesertTortoiseFertilized.label>
+  <!-- A fertilized desert tortoise egg. If all goes well, it should hatch into a baby desert tortoise. It can be eaten raw, but it's much better cooked. -->
+  <AEXP_EggDesertTortoiseFertilized.description>Un oeuf fécondé d'une tortue du désert. Si tout va bien, un bébé tortue éclosera. Il peut être mangé cru, mais il est beaucoup mieux cuit.</AEXP_EggDesertTortoiseFertilized.description>
+
+  <!-- gila monster egg (unfert.) -->
+  <AEXP_EggGilaMonsterUnfertilized.label>oeuf de monstre de gila (non fécondé)</AEXP_EggGilaMonsterUnfertilized.label>
+  <!-- An unfertilized desert gila monster egg. It can be eaten raw, but it's much, much better cooked. -->
+  <AEXP_EggGilaMonsterUnfertilized.description>Un oeuf non fécondé d'un monstre de gila. Il peut être mangé cru, mais il est beaucoup, beaucoup mieux cuit.</AEXP_EggGilaMonsterUnfertilized.description>
+
+  <!-- gila monster egg (fert.) -->
+  <AEXP_EggGilaMonsterFertilized.label>oeuf de monstre de gila (fécondé)</AEXP_EggGilaMonsterFertilized.label>
+  <!-- A fertilized gila monster egg. If all goes well, it should hatch into a baby gila monster. It can be eaten raw, but it's much better cooked. -->
+  <AEXP_EggGilaMonsterFertilized.description>Un oeuf fécondé d'un monstre de gila. Si tout va bien, un bébé monstre de gila va naître. Il peut être mangé cru, mais il est beaucoup mieux cuit.</AEXP_EggGilaMonsterFertilized.description>
+
+  <!-- Australia-->
+  <!-- platypus egg (fert.) -->
+  <AEXP_EggPlatypusFertilized.label>oeuf d'ornithorynque (fécondé)</AEXP_EggPlatypusFertilized.label>
+  <!-- A fertilized platypus egg. If all goes well, it should hatch into a platypus. It can be eaten raw, but it's much better cooked. -->
+  <AEXP_EggPlatypusFertilized.description>Un oeuf d'ornithorynque fécondé. Si tout se passe bien, un bébé ornithorynque va naître. Il peut être mangé cru, mais il est beaucoup, beaucoup mieux cuit.</AEXP_EggPlatypusFertilized.description>
+
+  <!-- AridShrubland-->
+  <!-- crocodile egg (fert.) -->
+  <AEXP_EggCrocodileFertilized.label>oeuf de crocodile (fécondé)</AEXP_EggCrocodileFertilized.label>
+  <!-- A fertilized crocodile egg. If all goes well, it should hatch into a crocodile. It can be eaten raw, but it's much better cooked. -->
+  <AEXP_EggCrocodileFertilized.description>Un oeuf de crocodile fécondé. Si tout se passe bien, un bébé crocodile va naître. Il peut être mangé cru, mais il est beaucoup mieux cuit.</AEXP_EggCrocodileFertilized.description>
+
+  <!-- crocodile egg (unfert.) -->
+  <AEXP_EggCrocodileUnfertilized.label>oeuf de crocodile (non fécondé)</AEXP_EggCrocodileUnfertilized.label>
+  <!-- An unfertilized crocodile egg. It can be eaten raw, but it's much, much better cooked. -->
+  <AEXP_EggCrocodileUnfertilized.description>Un oeuf de crocodile non fécondé. Il peut être mangé cru, mais il est beaucoup, beaucoup mieux cuit.</AEXP_EggCrocodileUnfertilized.description>
+
+</LanguageData>

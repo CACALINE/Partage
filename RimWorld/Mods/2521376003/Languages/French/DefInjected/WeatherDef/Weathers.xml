@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Mods Seasonal Weathers (Continued) de Mlie.-->
+  <Windy.label>Venteux</Windy.label>
+  <Windy.description>Une journée claire et venteuse, idéale pour les éoliennes mais pas si bonne pour le tir.</Windy.description>
+  <Cloudy.label>Nuageux</Cloudy.label>
+  <Cloudy.description>Une journée nuageuse qui abaisse la luminosité.</Cloudy.description>
+  <FogSnow.label>Neige brumeuse</FogSnow.label>
+  <FogSnow.description>La neige réduit la précision des armes à distance, éteint le feu et ralentit les gens, le brouillard réduit la vue.</FogSnow.description>
+  <Dust.label>Poussière</Dust.label>
+  <Dust.description>La poussière réduit la précision des armes à distance.</Dust.description>
+  <DryDuststorm.label>Tempête de poussière sèche</DryDuststorm.label>
+  <DryDuststorm.description>Les tempêtes de poussière sèche sont dangereuses parce que la foudre peut déclencher des incendies et qu’il n’y a pas de pluie pour les éteindre.</DryDuststorm.description>
+  <DoubleRainbow.label>Double arc-en-ciel</DoubleRainbow.label>
+  <DoubleRainbow.description>Un double arc-en-ciel. Le temps est apaisant.</DoubleRainbow.description>
+  
+  <!--<Traduction FR tous les vanilla furniture expanded.-->
+  <!-- EN: radioactive fog -->
+  <VPE_RadioactiveFog.label>brouillard radioactif</VPE_RadioactiveFog.label>
+  <!-- EN: A Nuclear reactor's meltdown has freed a cloud of radioactive material. This fog will hinder ranged attacks until it dissipates. -->
+  <VPE_RadioactiveFog.description>La fusion d'un réacteur nucléaire a libéré un nuage de matières radioactives. Cette brume gênera les attaques à distance jusqu'à ce qu'elle se dissipe.</VPE_RadioactiveFog.description>
+
+
+</LanguageData>

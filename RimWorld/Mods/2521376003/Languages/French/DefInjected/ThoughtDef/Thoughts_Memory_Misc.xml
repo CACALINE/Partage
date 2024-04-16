@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR vanilla social interactions expanded.-->
+  <VSIE_InspirationSatisfied.stages.0.label>Inspiration atteinte</VSIE_InspirationSatisfied.stages.0.label>
+  <VSIE_InspirationSatisfied.stages.0.description>J'ai terminé ma inspiration!</VSIE_InspirationSatisfied.stages.0.description>
+
+  <VSIE_InspirationNotSatisfied.stages.0.label>Inspiration négligée</VSIE_InspirationNotSatisfied.stages.0.label>
+  <VSIE_InspirationNotSatisfied.stages.0.description>Je n'ai pas rempli ma quête.</VSIE_InspirationNotSatisfied.stages.0.description>
+
+  <VSIE_HadNiceChatWithBeer.stages.0.label>a eu une bonne conversation autour d'une bière</VSIE_HadNiceChatWithBeer.stages.0.label>
+  <VSIE_HadNiceChatWithBeer.stages.0.description>J'ai apprécié la petite conversation, une bière fraîche à la main.</VSIE_HadNiceChatWithBeer.stages.0.description>
+
+  <VSIE_AttendedBingeParty.stages.0.label>A participé à une grosse fête</VSIE_AttendedBingeParty.stages.0.label>
+  <VSIE_AttendedBingeParty.stages.0.description>J'ai passé un bon moment à une grosse fête.</VSIE_AttendedBingeParty.stages.0.description>
+
+  <VSIE_AttendedOutdoorParty.stages.0.label>A participé à une fête en plein air</VSIE_AttendedOutdoorParty.stages.0.label>
+  <VSIE_AttendedOutdoorParty.stages.0.description>J'ai passé un bon moment dehors!</VSIE_AttendedOutdoorParty.stages.0.description>
+
+  <VSIE_GotSomeClosure.stages.0.label>A assisté à des funérailles</VSIE_GotSomeClosure.stages.0.label>
+  <VSIE_GotSomeClosure.stages.0.description>Je garderai chaque souvenir.</VSIE_GotSomeClosure.stages.0.description>
+
+  <VSIE_AttendedBirthdayParty.stages.0.label>A participé à une fête d'anniversaire</VSIE_AttendedBirthdayParty.stages.0.label>
+  <VSIE_AttendedBirthdayParty.stages.0.description>J'ai passé un bon moment à la fête d'anniversaire.</VSIE_AttendedBirthdayParty.stages.0.description>
+
+  <VSIE_HadBirthdayParty.stages.0.label>Fête d'anniversaire</VSIE_HadBirthdayParty.stages.0.label>
+  <VSIE_HadBirthdayParty.stages.0.description>Ils ont organisé une fête d'anniversaire pour moi!</VSIE_HadBirthdayParty.stages.0.description>
+
+
+</LanguageData>

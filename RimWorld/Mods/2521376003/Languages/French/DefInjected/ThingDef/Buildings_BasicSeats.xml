@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+	<!-- sitting cushion -->
+	<Seat_Cushion.label>coussin</Seat_Cushion.label>
+	<!-- A simple cushion for sitting on, popular amongst the tribes. Can be used at tables, work stations, and elsewhere. -->
+	<Seat_Cushion.description>Un coussin simple pour s'asseoir, apprécié des tribus. Peut être utilisé sur les tables, les postes de travail et ailleurs.</Seat_Cushion.description>
+	<!-- bench -->
+	<Seat_Bench.label>banc</Seat_Bench.label>
+	<!-- A simple long platform on which multiple people may sit at the same time, not very comfortable but much better than nothing. Can be used at tables, work stations, and elsewhere. -->
+	<Seat_Bench.description>Une longue plateforme sur laquelle plusieurs personnes peuvent s'asseoir en même temps, pas très confortable mais bien mieux que rien. Il peut être utilisé sur des tables, des postes de travail et d'autres endroits.</Seat_Bench.description>
+	<!-- square chair -->
+	<Seat_SquareChair.label>chaise carrée</Seat_SquareChair.label>
+	<!-- A comfortable and attractive chair not specifically used for dining. Can be used at tables, work stations, and elsewhere. -->
+	<Seat_SquareChair.description>Une chaise confortable et attrayante qui n'est pas spécifiquement utilisée pour les repas. Elle peut être utilisée pour des tables, des postes de travail et d'autres endroits.</Seat_SquareChair.description>
+</LanguageData>

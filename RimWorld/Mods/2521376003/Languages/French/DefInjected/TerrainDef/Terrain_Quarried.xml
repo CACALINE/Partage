@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--Traduction FR quarry 1.1-->
+  <QRY_QuarriedGround.label>carrière</QRY_QuarriedGround.label>
+  <QRY_QuarriedGroundWall.label>carrière</QRY_QuarriedGroundWall.label>
+  <QRY_ReclaimedSoil.label>terrain récupéré</QRY_ReclaimedSoil.label>
+
+
+</LanguageData>

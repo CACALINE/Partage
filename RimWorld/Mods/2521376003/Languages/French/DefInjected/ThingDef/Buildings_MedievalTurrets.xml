@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+<!-- EN: ballista -->
+<VFES_Turret_Ballista.label>baliste</VFES_Turret_Ballista.label>
+<!-- An ancient military siege engine in the form of a crossbow mounted on a wooden construct. Bolts fired from this machine explode into splinters on impact. -->
+<VFES_Turret_Ballista.description>Un ancien moteur de siège militaire sous la forme d'une arbalète montée sur une construction en bois. Les boulons tirés de cette machine explosent en éclats à l'impact.</VFES_Turret_Ballista.description>
+
+<!-- ballista bolt -->
+<VFES_Bullet_Ballista.label>flèche de baliste</VFES_Bullet_Ballista.label>
+<!-- EN: Ballista bolts -->
+<VFES_Turret_Ballista.comps.CompRefuelable.fuelGizmoLabel>flèches de baliste</VFES_Turret_Ballista.comps.CompRefuelable.fuelGizmoLabel>
+<!-- EN: Ballista bolts -->
+<VFES_Turret_Ballista.comps.CompRefuelable.fuelLabel>flèches de baliste</VFES_Turret_Ballista.comps.CompRefuelable.fuelLabel>
+<!-- EN: Cannot shoot: Needs ballista bolts -->
+<VFES_Turret_Ballista.comps.CompRefuelable.outOfFuelMessage>Impossible de tirer: nécessite des flèches de baliste</VFES_Turret_Ballista.comps.CompRefuelable.outOfFuelMessage>
+
+<!-- ballista -->
+<VFES_Gun_BallistaTurret.label>baliste</VFES_Gun_BallistaTurret.label>
+<!-- An ancient military siege engine in a form of a crossbow mounted on a wooden construct. -->
+<VFES_Gun_BallistaTurret.description>Une vieille machine de siège militaire en forme d'arbalète montée sur une construction en bois.</VFES_Gun_BallistaTurret.description>
+<!-- EN: ballista -->
+<VFES_Gun_BallistaTurret.verbs.Verb_Shoot.label>baliste</VFES_Gun_BallistaTurret.verbs.Verb_Shoot.label>
+
+<!-- catapult -->
+<VFES_Turret_Catapult.label>catapulte</VFES_Turret_Catapult.label>
+<!-- A catapult is a ballistic device used to launch a projectile a great distance without the aid of gunpowder or other propellants. In use since ancient times, the catapult has proven to be one of the most persistently effective mechanisms in warfare. -->
+<VFES_Turret_Catapult.description>Un dispositif balistique utilisé pour lancer un projectile à une grande distance sans l'aide de poudre à canon ou d'autres propulseurs. Utilisée depuis l'Antiquité, la catapulte s'est avérée être l'un des mécanismes les plus efficaces de la guerre.</VFES_Turret_Catapult.description>
+<!-- EN: catapult -->
+<VFES_Artillery_Catapult.verbs.Verb_Shoot.label>catapulte</VFES_Artillery_Catapult.verbs.Verb_Shoot.label>
+
+<!-- catapult -->
+<VFES_Artillery_Catapult.label>catapulte</VFES_Artillery_Catapult.label>
+<!-- A catapult is a ballistic device used to launch a projectile a great distance without the aid of gunpowder or other propellants. In use since ancient times, the catapult has proven to be one of the most persistently effective mechanisms in warfare. -->
+<VFES_Artillery_Catapult.description>Une ancienne machine de siège militaire pour lancer des projectiles à grande distance monté sur une construction en bois.</VFES_Artillery_Catapult.description>
+<!-- massive boulder -->
+<VFES_Artillery_Rock.label>rocher</VFES_Artillery_Rock.label>
+
+
+</LanguageData>

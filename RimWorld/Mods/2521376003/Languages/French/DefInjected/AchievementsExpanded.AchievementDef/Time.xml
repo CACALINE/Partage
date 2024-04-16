@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Vanilla Achivements Expanded.-->
+  <couldBeWorse.label>Cela pourrait être pire</couldBeWorse.label>
+  <couldBeWorse.description>Survivre à une saison</couldBeWorse.description>
+  
+  <itsAllDownhillFromHere.label>Tout va s'écrouler à partir d'ici</itsAllDownhillFromHere.label>
+  <itsAllDownhillFromHere.description>Survivre un an</itsAllDownhillFromHere.description>
+  
+  <tenHoursWoah.label>10 heures ? Woah !</tenHoursWoah.label>
+  <tenHoursWoah.description>Passer 10 heures à jouer la colonie actuelle</tenHoursWoah.description>
+  
+  <waitAMinute.label>Attends une minute !</waitAMinute.label>
+  <waitAMinute.description>Passer 100 heures à jouer la colonie actuelle</waitAMinute.description>
+  
+</LanguageData>

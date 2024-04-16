@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Tous les vanilla animals expanded.-->
+  <!-- red panda -->
+  <AEXP_RedPanda.label>panda roux</AEXP_RedPanda.label>
+  <!-- The red panda is a small mammal, slightly larger than a domestic cat, with a bear-like body and thick russet fur. The belly and limbs are black, and there are white markings on the side of the head and above its small eyes. Red pandas are very skillful and acrobatic animals that predominantly stay in trees. It is a solitary animal, mainly active from dusk to dawn, though they can be quite affectionate if properly tamed. -->
+  <AEXP_RedPanda.description>Le panda roux est un petit mammifère, légèrement plus gros qu'un chat domestique, avec un corps semblable à celui d'un ours, avec une fourrure rougeâtre épaisse. L'estomac et les pattes sont noirs et il y a des marques blanches sur les côtés de la tête, ainsi qu'au-dessus de ses petits yeux. Les pandas roux sont très adroits et acrobatiques et restent principalement dans les arbres. Ce sont des animaux solitaires, actifs du crépuscule à l'aube, mais qui peuvent être très affectueux s'ils sont correctement apprivoisés..</AEXP_RedPanda.description>
+  <!-- left fist -->
+  <AEXP_RedPanda.tools.left_fist.label>patte gauche</AEXP_RedPanda.tools.left_fist.label>
+  <!-- right fist -->
+  <AEXP_RedPanda.tools.right_fist.label>patte droite</AEXP_RedPanda.tools.right_fist.label>
+  <!-- head -->
+  <AEXP_RedPanda.tools.head.label>tête</AEXP_RedPanda.tools.head.label>
+
+  <Corpse_AEXP_RedPanda.label>cadavre de panda roux</Corpse_AEXP_RedPanda.label>
+  <Corpse_AEXP_RedPanda.description>Le corps sans vie d'un panda roux.</Corpse_AEXP_RedPanda.description>
+  <Meat_AEXP_RedPanda.label>viande de panda roux</Meat_AEXP_RedPanda.label>
+  <Meat_AEXP_RedPanda.description>.</Meat_AEXP_RedPanda.description>
+
+  <!-- badger -->
+  <AEXP_Badger.label>blaireau</AEXP_Badger.label>
+  <!-- Badgers are small nocturnal mammals with flat, wedge-shaped bodies, broad feet with long claws and coarse hair. Badgers have strong limbs and sharp claws that help them dig burrows and find food underground. They are omnivorous, with a diet consisting largely of earthworms, insects, grubs and small animals such as hedgehogs and rabbits. -->
+  <AEXP_Badger.description>Les blaireaux sont de petits mammifères nocturnes avec un corps plat et en forme de coin, de larges pattes avec de longues griffes et des cheveux rugueux. Les blaireaux ont des membres solides et des griffes acérées qui les aident à creuser des terriers et à trouver de la nourriture sous terre. Ce sont des omnivores et leur alimentation se compose principalement de vers, d'insectes, de larves et de petits animaux comme les hérissons et les lapins.</AEXP_Badger.description>
+  <!-- left paw -->
+  <AEXP_Badger.tools.left_paw.label>patte gauche</AEXP_Badger.tools.left_paw.label>
+  <!-- right paw -->
+  <AEXP_Badger.tools.right_paw.label>patte droite</AEXP_Badger.tools.right_paw.label>
+  <!-- head -->
+  <AEXP_Badger.tools.head.label>tête</AEXP_Badger.tools.head.label>
+
+  <Corpse_AEXP_Badger.label>cadavre de blaireau</Corpse_AEXP_Badger.label>
+  <Corpse_AEXP_Badger.description>Le corps sans vie d'un blaireau.</Corpse_AEXP_Badger.description>
+  <Meat_AEXP_Badger.label>viande de blaireau</Meat_AEXP_Badger.label>
+  <Meat_AEXP_Badger.description>viande crue coupée en quartiers. Il peut être cuit ou consommé cru.</Meat_AEXP_Badger.description>
+
+  <!-- wild goose -->
+  <AEXP_WildGoose.label>oie sauvage</AEXP_WildGoose.label>
+  <!-- A non-domesticated grey goose. Compared to their domesticated brethren, which have been selected over thousands of years for larger size, wild geese don't lay as many eggs, and they are renowned for their aggressive temperament. Peace was never an option. -->
+  <AEXP_WildGoose.description>Une oie grise sauvage. Par rapport à leurs frères domestiqués, sélectionnés depuis des milliers d'années pour leur plus grande taille, les oies sauvages ne pondent pas autant d'œufs et sont réputées pour leur tempérament agressif. La paix n'a jamais été une option.</AEXP_WildGoose.description>
+  <!-- claws -->
+  <AEXP_WildGoose.tools.claws.label>griffes</AEXP_WildGoose.tools.claws.label>
+  <!-- beak -->
+  <AEXP_WildGoose.tools.beak.label>bec</AEXP_WildGoose.tools.beak.label>
+  <!-- head -->
+  <AEXP_WildGoose.tools.head.label>tête</AEXP_WildGoose.tools.head.label>
+
+  <Corpse_AEXP_WildGoose.label>cadavre d'oie sauvage</Corpse_AEXP_WildGoose.label>
+  <Corpse_AEXP_WildGoose.description>Le corps sans vie d'une oie sauvage.</Corpse_AEXP_WildGoose.description>
+
+  <!-- beaver -->
+  <AEXP_Beaver.label>castor</AEXP_Beaver.label>
+  <!-- A large semiaquatic rodent with a flat, paddle-shaped tail and webbed hind feet. Beavers are renowned for their innate construction skills, building their homes, or "lodges", out of sticks, twigs, rocks, and mud in lakes, streams, and tidal river deltas. Beavers are well known for building dams across streams and constructing their lodges in the artificial ponds which form. -->
+  <AEXP_Beaver.description>C'est un gros rongeur semi-aquatique avec une queue plate en forme de pelle et des pattes arrière palmées. Les castors sont réputés pour leurs capacités constructives innées, car ils construisent leurs maisons, ou «abris», avec des bâtons, des brindilles, des roches et de la boue dans les lacs de marée, les ruisseaux et les deltas fluviaux. Les castors sont connus pour construire des barrages dans les ruisseaux et construire leurs abris dans les étangs artificiels qu'ils créent.</AEXP_Beaver.description>
+  <!-- left claw -->
+  <AEXP_Beaver.tools.left_claw.label>griffe gauche</AEXP_Beaver.tools.left_claw.label>
+  <!-- right claw -->
+  <AEXP_Beaver.tools.right_claw.label>griffe droite</AEXP_Beaver.tools.right_claw.label>
+  <!-- head -->
+  <AEXP_Beaver.tools.head.label>tête</AEXP_Beaver.tools.head.label>
+
+  <Corpse_AEXP_Beaver.label>cadavre de castor</Corpse_AEXP_Beaver.label>
+  <Corpse_AEXP_Beaver.description>Le corps sans vie d'un castor.</Corpse_AEXP_Beaver.description>
+
+  <!-- hedgehog -->
+  <AEXP_Hedgehog.label>hérisson</AEXP_Hedgehog.label>
+  <!-- Hedgehogs are diminutive mammals with cone-shaped faces, short legs and bodies that are covered with porcupine-like quills. When in danger, the hedgehog rolls into a ball so that the quills cover the entire area of their exposed body and protects the animal from predators. -->
+  <AEXP_Hedgehog.description>Les hérissons sont de minuscules mammifères avec un visage conique, des pattes courtes et un corps couvert d'épines ressemblant à des porc-épic. En cas de danger, le hérisson se recroqueville pour que les piquants recouvrent toute la surface de son corps et le protègent des prédateurs.</AEXP_Hedgehog.description>
+  <!-- left claw -->
+  <AEXP_Hedgehog.tools.left_claw.label>griffe gauche</AEXP_Hedgehog.tools.left_claw.label>
+  <!-- right claw -->
+  <AEXP_Hedgehog.tools.right_claw.label>griffe droite</AEXP_Hedgehog.tools.right_claw.label>
+  <!-- head -->
+  <AEXP_Hedgehog.tools.head.label>tête</AEXP_Hedgehog.tools.head.label>
+
+  <Corpse_AEXP_Hedgehog.label>cadavre de hérisson</Corpse_AEXP_Hedgehog.label>
+  <Corpse_AEXP_Hedgehog.description>Le corps sans vie d'un hérisson.</Corpse_AEXP_Hedgehog.description>
+  <Meat_AEXP_Hedgehog.label>viande de erizo</Meat_AEXP_Hedgehog.label>
+  <Meat_AEXP_Hedgehog.description>viande crue coupée en quartiers. Il peut être cuit ou consommé cru.</Meat_AEXP_Hedgehog.description>
+
+</LanguageData>

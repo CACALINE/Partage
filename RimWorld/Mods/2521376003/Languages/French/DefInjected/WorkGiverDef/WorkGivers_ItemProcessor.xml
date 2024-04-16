@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+<!--Traduction FR vanilla expanded framework-->
+  <IP_InsertFirstIngredient.label>apportant un ingrédient</IP_InsertFirstIngredient.label>
+  <IP_InsertFirstIngredient.verb>apporter l'ingrédient à</IP_InsertFirstIngredient.verb>
+  <IP_InsertFirstIngredient.gerund>apportant un ingrédient à</IP_InsertFirstIngredient.gerund>
+  
+  <IP_InsertSecondIngredient.label>apportant un ingrédient</IP_InsertSecondIngredient.label>
+  <IP_InsertSecondIngredient.verb>apporter l'ingrédient à</IP_InsertSecondIngredient.verb>
+  <IP_InsertSecondIngredient.gerund>apportant un ingrédient à</IP_InsertSecondIngredient.gerund>
+
+  <IP_InsertThirdIngredient.label>apportant un ingrédient</IP_InsertThirdIngredient.label>
+  <IP_InsertThirdIngredient.verb>apporter l'ingrédient à</IP_InsertThirdIngredient.verb>
+  <IP_InsertThirdIngredient.gerund>apportant un ingrédient à</IP_InsertThirdIngredient.gerund>
+  
+  <IP_RemoveProduct.label>retirer le produit fini </IP_RemoveProduct.label>
+  <IP_RemoveProduct.verb>retirer le produit fini de</IP_RemoveProduct.verb>
+  <IP_RemoveProduct.gerund>retirer le produit fini de</IP_RemoveProduct.gerund>
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Vanilla Achivements Expanded.-->
+  <inForAPenny.label>Pour un centime</inForAPenny.label>
+  <inForAPenny.description>Amasser la richesse d'une colonie de 100 000</inForAPenny.description>
+  
+  <inForAPound.label>Pour une livre</inForAPound.label>
+  <inForAPound.description>Amasser la richesse d'une colonie de 1 000 000</inForAPound.description>
+  
+</LanguageData>

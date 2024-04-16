@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Vanilla Achivements Expanded.-->
+  <oneStepCloser.label>Un pas de plus vers le futur</oneStepCloser.label>
+  <oneStepCloser.description>Obtenir un noyau d'IA de personnalité</oneStepCloser.description>
+  
+  <humanLeatherHat.label>Chapeau de cow-boy en cuir d'humain</humanLeatherHat.label>
+  <humanLeatherHat.description>Fabriquer un chapeau de cow-boy en cuir d'humain</humanLeatherHat.description>
+  
+  <midas.label>Midas</midas.label>
+  <midas.description>Avoir 5000 or</midas.description>
+  
+  <fourtwentyblazeIt.label>Trafiquant</fourtwentyblazeIt.label>
+  <fourtwentyblazeIt.description>Obtenir 420 smokeleaf</fourtwentyblazeIt.description>
+  
+  <silenceOfTheLambs.label>Silence des agneaux</silenceOfTheLambs.label>
+  <silenceOfTheLambs.description>Obtenir 100 viandes humaines</silenceOfTheLambs.description>
+  
+  <theStuffOfLegends.label>L'étoffe des légendes</theStuffOfLegends.label>
+  <theStuffOfLegends.description>Fabriquer n'importe quel objet légendaire</theStuffOfLegends.description>
+  
+  <futureCaveman.label>L'homme des cavernes du futur</futureCaveman.label>
+  <futureCaveman.description>Fabriquer une massue en plastacier</futureCaveman.description>
+  
+</LanguageData>

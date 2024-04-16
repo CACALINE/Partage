@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Vanilla Achivements Expanded.-->
+  <firstBlood.label>Premier sang</firstBlood.label>
+  <firstBlood.description>Tuer un autre colon</firstBlood.description>
+  
+  <bloodlust.label>Soif de sang</bloodlust.label>
+  <bloodlust.description>Tuer 100 humains au total</bloodlust.description>
+  
+  <bloodForTheBloodGod.label>Du sang pour Khorne (Dieu du sang)</bloodForTheBloodGod.label>
+  <bloodForTheBloodGod.description>Tuer 1000 humains au total</bloodForTheBloodGod.description>
+  
+  <bigGameHunter.label>Chasseur de gros gibiers</bigGameHunter.label>
+  <bigGameHunter.description>Chasser et tuer 20 Thrumbos</bigGameHunter.description>
+  
+  <exterminator.label>Exterminateur</exterminator.label>
+  <exterminator.description>Tuer 150 Insectoïdes</exterminator.description>
+  
+  <dragonSlayer.label>Tueur de dragon</dragonSlayer.label>
+  <dragonSlayer.description>Tuer 50 iguanes</dragonSlayer.description>
+  
+  <australianRevenge.label>La vengeance australienne</australianRevenge.label>
+  <australianRevenge.description>Tuer 30 émeus</australianRevenge.description>
+  
+</LanguageData>

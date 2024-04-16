@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+<!--Traduction FR vanilla expanded framework-->
+  <VEF_AcidBuildup.label>brûlure d'acide</VEF_AcidBuildup.label>
+  <VEF_AcidBuildup.description>Une projection d'acide qui continue à causer des brûlures pendant un certain temps après l'attaque initiale.</VEF_AcidBuildup.description>
+  
+  <VEF_AcidBurn.label>brûlure d'acide</VEF_AcidBurn.label>
+  <VEF_AcidBurn.labelNoun>une brûlure d'acide</VEF_AcidBurn.labelNoun>
+  <VEF_AcidBurn.description>Une brûlure d'acide.</VEF_AcidBurn.description>
+  
+  <VEF_LightSustenance.label>niveau d'ensoleillement</VEF_LightSustenance.label>
+  <VEF_LightSustenance.description>Cette créature se nourrit de la lumière du soleil. Un niveau de lumière inadéquat la tuera.</VEF_LightSustenance.description>
+  
+  <!--<Traduction FR children, school and learning.-->
+  <Postpartum.label>en post-partum</Postpartum.label>
+  <Postpartum.labelNoun>post-partum</Postpartum.labelNoun>
+  <Postpartum.description>La période du post-partum s'étend de la fin de l'accouchement jusqu'au retour de couches, c’est-à-dire les premières règles après la grossesse.</Postpartum.description>
+  
+  <OneChildOnly.label>a déjà eu une grossesse</OneChildOnly.label>
+  <OneChildOnly.labelNoun>a déjà eu une grossesse</OneChildOnly.labelNoun>
+  <OneChildOnly.description>a déjà eu une grossesse</OneChildOnly.description>
+
+  <NoReproductionLifestage.label>non reproductible</NoReproductionLifestage.label>
+  <NoReproductionLifestage.labelNoun>non reproductible</NoReproductionLifestage.labelNoun>
+  <NoReproductionLifestage.description>non reproductible</NoReproductionLifestage.description>
+  
+  <NoReproductionAndroid.label>non reproductible (Android)</NoReproductionAndroid.label>
+  <NoReproductionAndroid.labelNoun>non reproductible (Android)</NoReproductionAndroid.labelNoun>
+  <NoReproductionAndroid.description>non reproductible (Android)</NoReproductionAndroid.description>
+  
+  <NoReproductionLifestageOldAge.label>moins de fertilité (vieillesse)</NoReproductionLifestageOldAge.label>
+  <NoReproductionLifestageOldAge.labelNoun>moins de fertilité (vieillesse)</NoReproductionLifestageOldAge.labelNoun>
+  <NoReproductionLifestageOldAge.description>moins de fertilité (vieillesse)</NoReproductionLifestageOldAge.description>
+  
+  <PregnancyDiscovered.label>grossesse découverte</PregnancyDiscovered.label>
+  <PregnancyDiscovered.labelNoun>grossesse découverte</PregnancyDiscovered.labelNoun>
+  <PregnancyDiscovered.description>grossesse découverte</PregnancyDiscovered.description>
+  
+  <ChildRenamePending.label>changement de nom d'un enfant en attente</ChildRenamePending.label>
+  <ChildRenamePending.labelNoun>changement de nom d'un enfant en attente</ChildRenamePending.labelNoun>
+  <ChildRenamePending.description>changement de nom d'un enfant en attente</ChildRenamePending.description>
+  
+  <ChildBirthInProgress.label>naissance d'un enfant</ChildBirthInProgress.label>
+  <ChildBirthInProgress.labelNoun>naissance d'un enfant</ChildBirthInProgress.labelNoun>
+  <ChildBirthInProgress.description>naissance d'un enfant</ChildBirthInProgress.description>
+  
+  <FertilityDisabledDefault.label>fertilité désactivée par défaut (Option du Mod)</FertilityDisabledDefault.label>
+  <FertilityDisabledDefault.labelNoun>fertilité désactivée par défaut (Option du Mod)</FertilityDisabledDefault.labelNoun>
+  <FertilityDisabledDefault.description>fertilité désactivée par défaut (Option du Mod)</FertilityDisabledDefault.description>
+  
+  <ChildrenNoAddiction.label>trop jeune pour les addictions</ChildrenNoAddiction.label>
+  <ChildrenNoAddiction.labelNoun>trop jeune pour les addictions</ChildrenNoAddiction.labelNoun>
+  <ChildrenNoAddiction.description>[PAWN_nameDef] est trop jeune pour les addictions, elles sont maîtrisées pour le moment.</ChildrenNoAddiction.description>
+
+</LanguageData>

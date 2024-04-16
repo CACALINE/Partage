@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Tous les vanilla animals expanded.-->
+  <!-- Australia-->
+  <!-- boombat -->
+  <AEXP_Boombat.label>boombat</AEXP_Boombat.label>
+  <!-- Due to some insane experiment, these cute, fluffy rodents create a powerful fire-starting explosion when killed. -->
+  <AEXP_Boombat.description>En raison d'une expérience folle, ces rongeurs moelleux mignons créent une puissante explosion incendiaire lorsqu'ils sont tués.</AEXP_Boombat.description>
+  <!-- left claw -->
+  <AEXP_Boombat.tools.left_claw.label>griffe gauche</AEXP_Boombat.tools.left_claw.label>
+  <!-- right claw -->
+  <AEXP_Boombat.tools.right_claw.label>griffe droite</AEXP_Boombat.tools.right_claw.label>
+  <!-- head -->
+  <AEXP_Boombat.tools.head.label>tête</AEXP_Boombat.tools.head.label>
+
+  <Corpse_AEXP_Boombat.label>cadavre de boombat</Corpse_AEXP_Boombat.label>
+  <Corpse_AEXP_Boombat.description>Le corps sans vie d'un boombat.</Corpse_AEXP_Boombat.description>
+
+  <!-- kangaroo -->
+  <AEXP_Kangaroo.label>kangourou</AEXP_Kangaroo.label>
+  <!-- Kangaroo is a large, human-sized marsupial with strong legs and powerful arms. It's favoured by tribal hunters due to its tender meat and heat resistant leather. Kangaroos make for powerful adversaries in melee combat, and can be trained easily to become animal super-soldiers. -->
+  <AEXP_Kangaroo.description>Le kangourou est un grand marsupial de taille humaine avec des jambes solides et des bras puissants. Il est préféré par les chasseurs tribaux pour sa viande tendre et son cuir résistant à la chaleur. Les kangourous sont de puissants adversaires en combat rapproché et peuvent être facilement entraînés pour devenir des soldats super-animaux.</AEXP_Kangaroo.description>
+  <!-- head -->
+  <AEXP_Kangaroo.tools.head.label>tête</AEXP_Kangaroo.tools.head.label>
+
+  <Corpse_AEXP_Kangaroo.label>cadavre de kangourou</Corpse_AEXP_Kangaroo.label>
+  <Corpse_AEXP_Kangaroo.description>Le corps sans vie d'un kangourou.</Corpse_AEXP_Kangaroo.description>
+  <Meat_AEXP_Kangaroo.label>viande de kangourou</Meat_AEXP_Kangaroo.label>
+  <Meat_AEXP_Kangaroo.description>Viande crue dépecée. Peut être cuit ou consommé cru.</Meat_AEXP_Kangaroo.description>
+
+  <!-- koala -->
+  <AEXP_Koala.label>koala</AEXP_Koala.label>
+  <!-- Koalas are easily recognizable for their stout body and large, round heads with fluffy ears. They typically inhabit arid and temperate woodlands, but can rarely be seen in tropical areas. Favoured by royal families, koalas are great household animals due to their wonderful nuzzling effect. -->
+  <AEXP_Koala.description>Les koalas sont facilement reconnaissables à leur corps robuste et à leur grosse tête ronde avec des oreilles moelleuses. Ils habitent généralement les forêts arides et tempérées, mais sont rarement vus dans les zones tropicales. Les koalas, préférés des familles royales, font d'excellents animaux de compagnie grâce à leur merveilleux effet caressant.</AEXP_Koala.description>
+  <!-- left claw -->
+  <AEXP_Koala.tools.left_claw.label>griffe gauche</AEXP_Koala.tools.left_claw.label>
+  <!-- right claw -->
+  <AEXP_Koala.tools.right_claw.label>griffe droite</AEXP_Koala.tools.right_claw.label>
+  <!-- head -->
+  <AEXP_Koala.tools.head.label>tête</AEXP_Koala.tools.head.label>
+
+  <Corpse_AEXP_Koala.label>cadavre de koala</Corpse_AEXP_Koala.label>
+  <Corpse_AEXP_Koala.description>Le corps sans vie d'un koala.</Corpse_AEXP_Koala.description>
+  <Meat_AEXP_Koala.label>viande de koala</Meat_AEXP_Koala.label>
+  <Meat_AEXP_Koala.description>Viande crue dépecée. Peut être cuit ou consommé cru.</Meat_AEXP_Koala.description>
+
+  <!-- platypus -->
+  <AEXP_Platypus.label>ornithorynque</AEXP_Platypus.label>
+  <!-- Platypus is the sole surviving representative of its animal family. They are beaver-tailed, duck billed mammals, known for the fact that they lay eggs. It is an omnivore animal, capable of killing small rodents with it's venomous ankle spurs. -->
+  <AEXP_Platypus.description>L'ornithorynque est le seul représentant survivant de sa famille animale. Ce sont des mammifères à queue de castor et à bec de canard, connus pour le fait qu'ils pondent des œufs. C'est un animal omnivore, capable de tuer de petits rongeurs avec ses éperons venimeux sur ses chevilles.</AEXP_Platypus.description>
+  <!-- left claw -->
+  <AEXP_Platypus.tools.left_claw.label>griffe gauche</AEXP_Platypus.tools.left_claw.label>
+  <!-- right claw -->
+  <AEXP_Platypus.tools.right_claw.label>griffe droite</AEXP_Platypus.tools.right_claw.label>
+  <!-- head -->
+  <AEXP_Platypus.tools.head.label>tête</AEXP_Platypus.tools.head.label>
+
+  <Corpse_AEXP_Platypus.label>cadavre d'ornithorynque</Corpse_AEXP_Platypus.label>
+  <Corpse_AEXP_Platypus.description>Le corps sans vie d'un ornithorynque.</Corpse_AEXP_Platypus.description>
+  <Meat_AEXP_Platypus.label>viande d'ornithorynque</Meat_AEXP_Platypus.label>
+  <Meat_AEXP_Platypus.description>Viande crue dépecée. Peut être cuit ou consommé cru.</Meat_AEXP_Platypus.description>
+
+
+</LanguageData>

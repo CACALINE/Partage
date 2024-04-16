@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR zombieland.-->
+  <ZombieBite.label>morsure de zombie</ZombieBite.label>
+  <ZombieBite.description>Une morsure infectieuse d'un zombie</ZombieBite.description>
+  <ZombieBite.comps.0.labelTendedWell>bandage</ZombieBite.comps.0.labelTendedWell>
+  <ZombieBite.comps.0.labelTendedWellInner>suturé</ZombieBite.comps.0.labelTendedWellInner>
+  <ZombieBite.comps.0.labelSolidTendedWell>ensemble</ZombieBite.comps.0.labelSolidTendedWell>
+  <ZombieBite.injuryProps.destroyedLabel>Mordu par un zombie</ZombieBite.injuryProps.destroyedLabel>
+  <ZombieBite.injuryProps.destroyedOutLabel>Mordu par un zombie</ZombieBite.injuryProps.destroyedOutLabel>
+  
+  <ZombieInfection.label>infection zombie</ZombieInfection.label>
+  <ZombieInfection.description>Infection de zombies après la mort</ZombieInfection.description>
+
+
+</LanguageData>

@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+
+  <ThingDef ParentName="TM_CraftableArtifactBase">
+    <defName>TM_AmuletOfPerception</defName>
+    <label>Amulet of Perception</label>    
+    <description>A magical amulet that grants enhanced awareness. The wearer's ability cooldowns are halved, but stamina and mana costs are doubled.</description>
+    <graphicData> 
+		<texPath>Items/artifact_mindpendant</texPath>
+		<graphicClass>Graphic_Single</graphicClass> 
+	</graphicData>
+	<statBases>
+		<Mass>.05</Mass>
+		<MaxHitPoints>200</MaxHitPoints>
+		<WorkToMake>40000</WorkToMake>
+		<MarketValue>2200</MarketValue>
+	</statBases>
+	<recipeMaker>
+      <workAmount>40000</workAmount>
+	  <skillRequirements>
+			<Intellectual>8</Intellectual>
+	  </skillRequirements>
+	  <researchPrerequisite>
+		<li>TM_ArcaneArtifacts</li>
+	  </researchPrerequisite>
+    </recipeMaker>
+	<costList>
+	  <RawMagicyte>200</RawMagicyte>
+	  <Silver>30</Silver>
+	  <Jade>50</Jade>
+    </costList>
+	<generateCommonality>0.002</generateCommonality>
+	<apparel>
+	 <tags>
+	   <li>Arcane</li>
+	 </tags>
+		<layers>
+			<li>TM_Artifact</li>
+		</layers>
+		<bodyPartGroups>
+			<li>RightHand</li>
+		</bodyPartGroups>
+	</apparel>
+	<comps>
+	  <li Class="TorannMagic.Enchantment.CompProperties_EnchantedItem">
+		<hasEnchantment>true</hasEnchantment>
+		<mpCost>1.0</mpCost>
+		<mpCostTier>Crafted</mpCostTier>
+		<coolDown>-0.50</coolDown>
+		<coolDownTier>Crafted</coolDownTier>
+	  </li>
+	</comps>
+  </ThingDef>
+
+  <ThingDef ParentName="TM_CraftableArtifactBase">
+    <defName>TM_AmuletOfTranquility</defName>
+    <label>Amulet of Tranquility</label>    
+    <description>A magical amulet that imbues the wearer with a sense of peace. Their stamina and mana costs are halved, but cooldowns are doubled.</description>
+    <graphicData> 
+		<texPath>Items/artifact_bluependant</texPath>
+		<graphicClass>Graphic_Single</graphicClass> 
+	</graphicData>
+	<statBases>
+		<Mass>.05</Mass>
+		<MaxHitPoints>200</MaxHitPoints>
+		<WorkToMake>40000</WorkToMake>
+		<MarketValue>2200</MarketValue>
+	</statBases>
+	<recipeMaker>
+      <workAmount>40000</workAmount>
+	  <skillRequirements>
+			<Intellectual>8</Intellectual>
+	  </skillRequirements>
+	  <researchPrerequisite>
+		<li>TM_ArcaneArtifacts</li>
+	  </researchPrerequisite>
+    </recipeMaker>
+	<costList>
+	  <RawMagicyte>200</RawMagicyte>
+	  <Silver>30</Silver>
+	  <Jade>50</Jade>
+    </costList>
+	<generateCommonality>0.002</generateCommonality>
+	<apparel>
+	 <tags>
+	   <li>Arcane</li>
+	 </tags>
+		<layers>
+			<li>TM_Artifact</li>
+		</layers>
+		<bodyPartGroups>
+			<li>RightHand</li>
+		</bodyPartGroups>
+	</apparel>
+	<comps>
+	  <li Class="TorannMagic.Enchantment.CompProperties_EnchantedItem">
+		<hasEnchantment>true</hasEnchantment>
+		<mpCost>-0.5</mpCost>
+		<mpCostTier>Crafted</mpCostTier>
+		<coolDown>1.0</coolDown>
+		<coolDownTier>Crafted</coolDownTier>
+	  </li>
+	</comps>
+  </ThingDef>
+
+  <ThingDef ParentName="TM_CraftableArtifactBase">
+    <defName>TM_AmuletOfForce</defName>
+    <label>Amulet of Force</label>    
+    <description>A magical amulet that greatly increases ability damage.</description>
+    <graphicData> 
+		<texPath>Items/artifact_forcependant</texPath>
+		<graphicClass>Graphic_Single</graphicClass> 
+	</graphicData>
+	<statBases>
+		<Mass>.05</Mass>
+		<MaxHitPoints>200</MaxHitPoints>
+		<WorkToMake>40000</WorkToMake>
+		<MarketValue>2600</MarketValue>
+	</statBases>
+	<recipeMaker>
+      <workAmount>40000</workAmount>
+	  <skillRequirements>
+			<Intellectual>8</Intellectual>
+	  </skillRequirements>
+	  <researchPrerequisite>
+		<li>TM_ArcaneArtifacts</li>
+	  </researchPrerequisite>
+    </recipeMaker>
+	<costList>
+	  <RawMagicyte>240</RawMagicyte>
+	  <Silver>50</Silver>
+	  <Jade>70</Jade>
+    </costList>
+	<generateCommonality>0.002</generateCommonality>
+	<apparel>
+	 <tags>
+	   <li>Arcane</li>
+	 </tags>
+		<layers>
+			<li>TM_Artifact</li>
+		</layers>
+		<bodyPartGroups>
+			<li>RightHand</li>
+		</bodyPartGroups>
+	</apparel>
+	<comps>
+	  <li Class="TorannMagic.Enchantment.CompProperties_EnchantedItem">
+		<hasEnchantment>true</hasEnchantment>
+		<arcaneDmg>.5</arcaneDmg>
+		<arcaneDmgTier>Minor</arcaneDmgTier>
+	  </li>
+	</comps>
+  </ThingDef>
+
+  <ThingDef ParentName="TM_CraftableArtifactBase">
+    <defName>TM_AmuletOfClarity</defName>
+    <label>Amulet of Clarity</label>    
+    <description>An amulet that increases mental clarity, increasing stamina and mana regeneration of the wearer.</description>
+    <graphicData> 
+		<texPath>Items/artifact_bluependant</texPath>
+		<graphicClass>Graphic_Single</graphicClass> 
+	</graphicData>
+	<statBases>
+		<Mass>.05</Mass>
+		<MaxHitPoints>200</MaxHitPoints>
+		<WorkToMake>40000</WorkToMake>
+		<MarketValue>2600</MarketValue>
+	</statBases>
+	<recipeMaker>
+      <workAmount>40000</workAmount>
+	  <skillRequirements>
+			<Intellectual>8</Intellectual>
+	  </skillRequirements>
+	  <researchPrerequisite>
+		<li>TM_ArcaneArtifacts</li>
+	  </researchPrerequisite>
+    </recipeMaker>
+	<costList>
+	  <RawMagicyte>240</RawMagicyte>
+	  <Silver>50</Silver>
+	  <Jade>70</Jade>
+    </costList>
+	<generateCommonality>0.002</generateCommonality>
+	<apparel>
+	 <tags>
+	   <li>Arcane</li>
+	 </tags>
+		<layers>
+			<li>TM_Artifact</li>
+		</layers>
+		<bodyPartGroups>
+			<li>RightHand</li>
+		</bodyPartGroups>
+	</apparel>
+	<comps>
+	  <li Class="TorannMagic.Enchantment.CompProperties_EnchantedItem">
+		<hasEnchantment>true</hasEnchantment>
+		<mpRegenRate>0.25</mpRegenRate>
+		<mpRegenRateTier>Crafted</mpRegenRateTier>
+	  </li>
+	</comps>
+  </ThingDef>
+
+  <ThingDef ParentName="OrbitalUtilityBase">
+    <defName>ChildsTeddybear</defName>
+    <label>Child's teddy bear</label>
+    <description>A cute teddy bear that has inherited the pure wish of a child's dream. The teddy bear can be hugged to summon a snowman at a target location.</description>
+    <graphicData> 
+		<texPath>Items/teddybear</texPath>
+		<graphicClass>Graphic_Single</graphicClass> 
+	</graphicData>
+<thingSetMakerTags><li>RewardStandardHighFreq</li></thingSetMakerTags>
+    <statBases>
+      <MarketValue>1400</MarketValue>
+		<Beauty>20</Beauty>
+    </statBases>
+    <verbs>
+      <li>
+        <verbClass>Verb_Spawn</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <warmupTime>2.0</warmupTime>
+        <spawnDef>Snowman</spawnDef>
+        <range>8.0</range>
+        <burstShotCount>1</burstShotCount>
+		<ticksBetweenBurstShots>1</ticksBetweenBurstShots>
+        <onlyManualCast>true</onlyManualCast>
+        <targetParams>
+          <canTargetLocations>true</canTargetLocations>
+              <canTargetBuildings>false</canTargetBuildings>
+        </targetParams>
+      </li>
+    </verbs>
+    <comps>
+      <li Class="CompProperties_Reloadable">
+        <maxCharges>10</maxCharges>
+        <ammoDef>Silver</ammoDef>
+        <ammoCountToRefill>20</ammoCountToRefill>
+        <destroyOnEmpty>false</destroyOnEmpty>
+        <hotKey>Misc4</hotKey>
+        <chargeNoun>charge</chargeNoun>
+        <displayGizmoWhileUndrafted>true</displayGizmoWhileUndrafted>
+      </li>
+    </comps>
+  </ThingDef>
+
+  <ThingDef ParentName="OrbitalUtilityBase">
+    <defName>ScrollOfEnceladus</defName>
+    <label>Scroll of Enceladus</label>
+    <description>A single-use magical scroll capable of summoning a permanent steam geyser at a target location by magically rearranging the tectonic plates underfoot.</description>
+    <graphicData> 
+		<texPath>Books/scroll_power</texPath>
+		<graphicClass>Graphic_Single</graphicClass> 
+	</graphicData>    
+<thingSetMakerTags><li>RewardStandardHighFreq</li></thingSetMakerTags>
+    <statBases>
+      <MarketValue>1800</MarketValue>
+		<Beauty>10</Beauty>
+    </statBases>
+    <verbs>
+      <li>
+        <verbClass>Verb_Spawn</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <warmupTime>6.0</warmupTime>
+        <spawnDef>SteamGeyser</spawnDef>
+        <range>8.0</range>
+        <burstShotCount>1</burstShotCount>
+		<ticksBetweenBurstShots>1</ticksBetweenBurstShots>
+            <soundCast>TM_Gong</soundCast>
+			<soundCastTail>TM_VibrationLow</soundCastTail>
+        <onlyManualCast>true</onlyManualCast>
+        <targetParams>
+          <canTargetLocations>true</canTargetLocations>
+              <canTargetBuildings>false</canTargetBuildings>
+        </targetParams>
+      </li>
+    </verbs>
+    <comps>
+      <li Class="CompProperties_Reloadable">
+        <maxCharges>1</maxCharges>
+        <destroyOnEmpty>true</destroyOnEmpty>
+        <hotKey>Misc4</hotKey>
+        <chargeNoun>charge</chargeNoun>
+        <displayGizmoWhileUndrafted>true</displayGizmoWhileUndrafted>
+      </li>
+    </comps>
+  </ThingDef>
+
+  <ThingDef ParentName="OrbitalUtilityBase">
+    <defName>BeltOfExtravagance</defName>
+    <label>Belt of Extravagance</label>
+    <description>A magical belt inlaid with gems, with intricate designs traced into the filigree. The belt can be activated to summon a tile of mineable jade. Legends tell that this belt was a favored artifact of a trickster king. The belt's magic can be refueled with gold.</description>
+    <graphicData> 
+		<texPath>Items/magicbeltgold</texPath>
+		<graphicClass>Graphic_Single</graphicClass> 
+	</graphicData>    
+<thingSetMakerTags><li>RewardStandardHighFreq</li></thingSetMakerTags>
+    <statBases>
+      <MarketValue>1600</MarketValue>
+		<Beauty>10</Beauty>
+    </statBases>
+    <verbs>
+      <li>
+        <verbClass>Verb_Spawn</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <warmupTime>1.0</warmupTime>
+        <spawnDef>MineableJade</spawnDef>
+        <range>8.0</range>
+        <burstShotCount>1</burstShotCount>
+		<ticksBetweenBurstShots>1</ticksBetweenBurstShots>
+        <onlyManualCast>true</onlyManualCast>
+        <targetParams>
+          <canTargetLocations>true</canTargetLocations>
+              <canTargetBuildings>false</canTargetBuildings>
+        </targetParams>
+      </li>
+    </verbs>
+    <comps>
+      <li Class="CompProperties_Reloadable">
+        <maxCharges>5</maxCharges>
+        <ammoDef>Gold</ammoDef>
+        <ammoCountToRefill>200</ammoCountToRefill>
+        <baseReloadTicks>60</baseReloadTicks>
+        <destroyOnEmpty>false</destroyOnEmpty>
+        <hotKey>Misc4</hotKey>
+        <chargeNoun>charge</chargeNoun>
+        <displayGizmoWhileUndrafted>true</displayGizmoWhileUndrafted>
+      </li>
+    </comps>
+  </ThingDef>
+
+  <ThingDef ParentName="OrbitalUtilityBase">
+    <defName>BeltOfTheWilds</defName>
+    <label>Belt of the Wilds</label>
+    <description>A curious magical artifact capable of summoning a tree at a target location, even in places where trees can't normally be grown.</description>
+    <graphicData> 
+		<texPath>Items/magicbeltgreen</texPath>
+		<graphicClass>Graphic_Single</graphicClass> 
+	</graphicData>    
+<thingSetMakerTags><li>RewardStandardHighFreq</li></thingSetMakerTags>
+    <statBases>
+      <MarketValue>1200</MarketValue>
+		<Beauty>10</Beauty>
+    </statBases>
+    <verbs>
+      <li>
+        <verbClass>Verb_Spawn</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <warmupTime>2.0</warmupTime>
+        <spawnDef>Plant_TreeTeak</spawnDef>
+        <range>8.0</range>
+        <burstShotCount>1</burstShotCount>
+		<ticksBetweenBurstShots>1</ticksBetweenBurstShots>
+        <onlyManualCast>true</onlyManualCast>
+        <targetParams>
+          <canTargetLocations>true</canTargetLocations>
+              <canTargetBuildings>false</canTargetBuildings>
+        </targetParams>
+      </li>
+    </verbs>
+    <comps>
+      <li Class="CompProperties_Reloadable">
+        <maxCharges>10</maxCharges>
+        <ammoDef>MedicineHerbal</ammoDef>
+        <ammoCountToRefill>4</ammoCountToRefill>
+        <baseReloadTicks>300</baseReloadTicks>
+        <soundReload>Standard_Reload</soundReload>
+        <destroyOnEmpty>false</destroyOnEmpty>
+        <hotKey>Misc4</hotKey>
+        <chargeNoun>charge</chargeNoun>
+        <displayGizmoWhileUndrafted>true</displayGizmoWhileUndrafted>
+      </li>
+    </comps>
+  </ThingDef>
+
+  <ThingDef ParentName="OrbitalUtilityBase">
+    <defName>KeepersBelt</defName>
+    <label>Ambusher's Belt</label>
+    <description>A heavy belt that stores makeshift explosives. Allows the user to quickly create landmines. Any damage to the landmine will cause it to detonate in a violent explosion, but they are safe to walk around and are not triggered by movement. Traps summoned by the belt discharge harmlessly after 12 ingame hours.</description>
+    <graphicData> 
+		<texPath>Items/magicbelt</texPath>
+		<graphicClass>Graphic_Single</graphicClass> 
+	</graphicData>    
+<thingSetMakerTags><li>RewardStandardHighFreq</li></thingSetMakerTags>
+    <statBases>
+      <MarketValue>1600</MarketValue>
+		<Beauty>10</Beauty>
+    </statBases>
+    <verbs>
+      <li>
+        <verbClass>Verb_Spawn</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <warmupTime>0.5</warmupTime>
+        <spawnDef>TM_ExplosiveTrapBD</spawnDef>
+        <range>8.0</range>
+        <burstShotCount>1</burstShotCount>
+		<ticksBetweenBurstShots>1</ticksBetweenBurstShots>
+        <onlyManualCast>true</onlyManualCast>
+        <targetParams>
+          <canTargetLocations>true</canTargetLocations>
+              <canTargetBuildings>false</canTargetBuildings>
+        </targetParams>
+      </li>
+    </verbs>
+    <comps>
+      <li Class="CompProperties_Reloadable">
+        <maxCharges>5</maxCharges>
+        <ammoDef>ComponentIndustrial</ammoDef>
+        <ammoCountToRefill>5</ammoCountToRefill>
+        <baseReloadTicks>60</baseReloadTicks>
+        <soundReload>Standard_Reload</soundReload>
+        <destroyOnEmpty>false</destroyOnEmpty>
+        <hotKey>Misc4</hotKey>
+        <chargeNoun>charge</chargeNoun>
+        <displayGizmoWhileUndrafted>true</displayGizmoWhileUndrafted>
+      </li>
+    </comps>
+  </ThingDef>
+
+  <ThingDef ParentName="OrbitalUtilityBase">
+    <defName>TM_ScrollOfTriton</defName>
+    <label>Scroll of Triton</label>
+    <description>A single-use scroll that summons a small window to the realm of frost at a target location, chilling the nearby area. The window lasts until deconstructed or destroyed, but it cannot be moved.</description>
+    <graphicData> 
+		<texPath>Books/scroll_water</texPath>
+		<graphicClass>Graphic_Single</graphicClass> 
+	</graphicData>    
+<thingSetMakerTags><li>RewardStandardHighFreq</li></thingSetMakerTags>
+    <statBases>
+      <MarketValue>1200</MarketValue>
+		<Beauty>10</Beauty>
+    </statBases>
+    <verbs>
+      <li>
+        <verbClass>Verb_Spawn</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <warmupTime>6.0</warmupTime>
+        <spawnDef>TM_Cooler</spawnDef>
+        <range>8.0</range>
+        <burstShotCount>1</burstShotCount>
+		<ticksBetweenBurstShots>1</ticksBetweenBurstShots>
+        <onlyManualCast>true</onlyManualCast>
+        <targetParams>
+          <canTargetLocations>true</canTargetLocations>
+              <canTargetBuildings>false</canTargetBuildings>
+        </targetParams>
+      </li>
+    </verbs>
+    <comps>
+      <li Class="CompProperties_Reloadable">
+        <maxCharges>1</maxCharges>
+        <destroyOnEmpty>true</destroyOnEmpty>
+        <hotKey>Misc4</hotKey>
+        <chargeNoun>charge</chargeNoun>
+        <displayGizmoWhileUndrafted>true</displayGizmoWhileUndrafted>
+      </li>
+    </comps>
+  </ThingDef>
+
+  <ThingDef ParentName="OrbitalUtilityBase">
+    <defName>TM_ScrollOfDeimos</defName>
+    <label>Scroll of Deimos</label>
+    <description>A single-use scroll that summons a small window to the realm of fire at a target location, heating the nearby area. The window lasts until deconstructed or destroyed, but it cannot be moved.</description>
+    <graphicData> 
+		<texPath>Books/scroll_fire</texPath>
+		<graphicClass>Graphic_Single</graphicClass> 
+	</graphicData>    
+<thingSetMakerTags><li>RewardStandardHighFreq</li></thingSetMakerTags>
+    <statBases>
+      <MarketValue>1200</MarketValue>
+		<Beauty>10</Beauty>
+    </statBases>
+    <verbs>
+      <li>
+        <verbClass>Verb_Spawn</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <warmupTime>6.0</warmupTime>
+        <spawnDef>TM_Heater</spawnDef>
+        <range>8.0</range>
+        <burstShotCount>1</burstShotCount>
+		<ticksBetweenBurstShots>1</ticksBetweenBurstShots>
+        <onlyManualCast>true</onlyManualCast>
+        <targetParams>
+          <canTargetLocations>true</canTargetLocations>
+              <canTargetBuildings>false</canTargetBuildings>
+        </targetParams>
+      </li>
+    </verbs>
+    <comps>
+      <li Class="CompProperties_Reloadable">
+        <maxCharges>1</maxCharges>
+        <destroyOnEmpty>true</destroyOnEmpty>
+        <hotKey>Misc4</hotKey>
+        <chargeNoun>charge</chargeNoun>
+        <displayGizmoWhileUndrafted>true</displayGizmoWhileUndrafted>
+      </li>
+    </comps>
+  </ThingDef>
+
+  <ThingDef ParentName="OrbitalUtilityBase">
+    <defName>TM_ScrollOfIo</defName>
+    <label>Scroll of Io</label>
+    <description>A single-use scroll that summons a small window to the realm of lightning at a target location, creating a node that produces 600w of power. The node lasts until deconstructed or destroyed, but it cannot be moved.</description>
+    <graphicData> 
+		<texPath>Books/scroll_lightningA</texPath>
+		<graphicClass>Graphic_Single</graphicClass> 
+	</graphicData>    
+<thingSetMakerTags><li>RewardStandardHighFreq</li></thingSetMakerTags>
+    <statBases>
+      <MarketValue>1600</MarketValue>
+		<Beauty>10</Beauty>
+    </statBases>
+    <verbs>
+      <li>
+        <verbClass>Verb_Spawn</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <warmupTime>6.0</warmupTime>
+        <spawnDef>TM_PowerNode</spawnDef>
+        <range>8.0</range>
+        <burstShotCount>1</burstShotCount>
+		<ticksBetweenBurstShots>1</ticksBetweenBurstShots>
+        <onlyManualCast>true</onlyManualCast>
+        <targetParams>
+          <canTargetLocations>true</canTargetLocations>
+              <canTargetBuildings>false</canTargetBuildings>
+        </targetParams>
+      </li>
+    </verbs>
+    <comps>
+      <li Class="CompProperties_Reloadable">
+        <maxCharges>1</maxCharges>
+        <destroyOnEmpty>true</destroyOnEmpty>
+        <hotKey>Misc4</hotKey>
+        <chargeNoun>charge</chargeNoun>
+        <displayGizmoWhileUndrafted>true</displayGizmoWhileUndrafted>
+      </li>
+    </comps>
+  </ThingDef>
+
+  <ThingDef ParentName="OrbitalUtilityBase">
+    <defName>TM_ScrollOfGanymede</defName>
+    <label>Scroll of Ganymede</label>
+    <description>A single-use scroll that summons a small window to the realm of light at a target location, providing light intense enough for plants to grow in a small area. The window lasts until deconstructed or destroyed, but it cannot be moved.</description>
+    <graphicData> 
+		<texPath>Books/scroll_holy</texPath>
+		<graphicClass>Graphic_Single</graphicClass> 
+	</graphicData>    
+<thingSetMakerTags><li>RewardStandardHighFreq</li></thingSetMakerTags>
+    <statBases>
+      <MarketValue>1200</MarketValue>
+		<Beauty>10</Beauty>
+    </statBases>
+    <verbs>
+      <li>
+        <verbClass>Verb_Spawn</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <warmupTime>6.0</warmupTime>
+        <spawnDef>TM_Sunlight</spawnDef>
+        <range>8.0</range>
+        <burstShotCount>1</burstShotCount>
+		<ticksBetweenBurstShots>1</ticksBetweenBurstShots>
+        <onlyManualCast>true</onlyManualCast>
+        <targetParams>
+          <canTargetLocations>true</canTargetLocations>
+              <canTargetBuildings>false</canTargetBuildings>
+        </targetParams>
+      </li>
+    </verbs>
+    <comps>
+      <li Class="CompProperties_Reloadable">
+        <maxCharges>1</maxCharges>
+        <destroyOnEmpty>true</destroyOnEmpty>
+        <hotKey>Misc4</hotKey>
+        <chargeNoun>charge</chargeNoun>
+        <displayGizmoWhileUndrafted>true</displayGizmoWhileUndrafted>
+      </li>
+    </comps>
+  </ThingDef>
+
+  <ThingDef ParentName="OrbitalUtilityBase">
+    <defName>TM_ScrollOfOblivion</defName>
+    <label>Scroll of Oblivion</label>
+    <description>Opens an Oblivion Portal to a random elemental dimension. Hostile elementals will pour out from the portal until it is destroyed. The air itself may begin to rain fire, lightning, or poison while the portal is active. The scroll is destroyed after use.</description>
+    <graphicData> 
+		<texPath>Books/scroll_power</texPath>
+		<graphicClass>Graphic_Single</graphicClass> 
+	</graphicData>    
+<thingSetMakerTags><li>RewardStandardHighFreq</li></thingSetMakerTags>
+    <statBases>
+      <MarketValue>2600</MarketValue>
+		<Beauty>10</Beauty>
+    </statBases>
+    <verbs>
+      <li>
+        <verbClass>Verb_Spawn</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <warmupTime>6.0</warmupTime>
+        <spawnDef>TM_OblivionPortal</spawnDef>
+        <range>50.0</range>
+        <burstShotCount>1</burstShotCount>
+		<ticksBetweenBurstShots>1</ticksBetweenBurstShots>
+        <onlyManualCast>true</onlyManualCast>
+        <targetParams>
+          <canTargetLocations>true</canTargetLocations>
+              <canTargetBuildings>false</canTargetBuildings>
+        </targetParams>
+      </li>
+    </verbs>
+    <comps>
+      <li Class="CompProperties_Reloadable">
+        <maxCharges>1</maxCharges>
+        <destroyOnEmpty>true</destroyOnEmpty>
+        <hotKey>Misc4</hotKey>
+        <chargeNoun>charge</chargeNoun>
+        <displayGizmoWhileUndrafted>false</displayGizmoWhileUndrafted>
+      </li>
+    </comps>
+  </ThingDef>
+
+  <ThingDef ParentName="OrbitalUtilityBase">
+    <defName>TM_ArchmagesReceipt</defName>
+    <label>Archmage's Receipt</label>
+    <description>"One Arcane Capacitor. Granite. Southern-facing. Instant delivery. Single Order. Non-refundable."
+
+(It looks like this scroll will summon an Arcane Capacitor at a target location. Since it doesn't belong to anyone in particular, you'll need to claim it if you want to use it for storing mana.)</description>
+    <graphicData> 
+		<texPath>Books/scroll</texPath>
+		<graphicClass>Graphic_Single</graphicClass> 
+	</graphicData>    
+<thingSetMakerTags><li>RewardStandardHighFreq</li></thingSetMakerTags>
+    <statBases>
+      <MarketValue>2800</MarketValue>
+		<Beauty>10</Beauty>
+    </statBases>
+    <verbs>
+      <li>
+        <verbClass>Verb_Spawn</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <warmupTime>6.0</warmupTime>
+        <spawnDef>TM_ArcaneCapacitor</spawnDef>
+        <range>8.0</range>
+        <burstShotCount>1</burstShotCount>
+		<ticksBetweenBurstShots>1</ticksBetweenBurstShots>
+        <onlyManualCast>true</onlyManualCast>
+        <targetParams>
+          <canTargetLocations>true</canTargetLocations>
+              <canTargetBuildings>false</canTargetBuildings>
+        </targetParams>
+      </li>
+    </verbs>
+    <comps>
+      <li Class="CompProperties_Reloadable">
+        <maxCharges>1</maxCharges>
+        <destroyOnEmpty>true</destroyOnEmpty>
+        <hotKey>Misc4</hotKey>
+        <chargeNoun>charge</chargeNoun>
+        <displayGizmoWhileUndrafted>true</displayGizmoWhileUndrafted>
+      </li>
+    </comps>
+  </ThingDef>
+
+  <ThingDef ParentName="SkyfallerBase">
+    <defName>TM_SkyfallMeteor</defName>
+    <label>meteorite</label>
+    <size>(3, 3)</size>
+    <graphicData>
+      <texPath>Things/Skyfaller/Meteorite</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>Transparent</shaderType>
+      <drawSize>(24, 24)</drawSize>
+    </graphicData>
+    <skyfaller>
+      <shadowSize>(12, 12)</shadowSize>
+      <explosionRadius>12</explosionRadius>
+      <explosionDamage>TM_BreachingCharge</explosionDamage>
+	  <explosionDamageFactor>25</explosionDamageFactor>
+      <rotateGraphicTowardsDirection>true</rotateGraphicTowardsDirection>
+      <speed>.9</speed>
+    </skyfaller>
+  </ThingDef>
+
+  <ThingDef ParentName="OrbitalUtilityBase">
+    <defName>TM_DestructionSkyfall</defName>
+    <label>Destruction Scroll: Skyfall</label>
+    <description>A single-use scroll that that summons a massive meteor from the skies, utterly annihilating everything in the area.</description>
+    <thingSetMakerTags><li>RewardStandardHighFreq</li></thingSetMakerTags>
+    <graphicData> 
+		<texPath>Books/scroll_power</texPath>
+		<graphicClass>Graphic_Single</graphicClass> 
+	</graphicData>    
+    <statBases>
+      <MarketValue>1800</MarketValue>
+    </statBases>
+    <verbs>
+      <li>
+        <verbClass>Verb_Spawn</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <warmupTime>4.5</warmupTime>
+        <ai_AvoidFriendlyFireRadius>10</ai_AvoidFriendlyFireRadius>
+        <spawnDef>TM_SkyfallMeteor</spawnDef>
+        <range>56</range>
+        <burstShotCount>1</burstShotCount>
+        <soundAiming>OrbitalTargeter_Aiming</soundAiming>
+        <soundCast>OrbitalTargeter_Fire</soundCast>
+        <onlyManualCast>true</onlyManualCast>
+        <targetParams>
+          <canTargetLocations>true</canTargetLocations>
+        </targetParams>
+      </li>
+    </verbs>
+    <comps>
+      <li Class="CompProperties_Reloadable">
+        <maxCharges>1</maxCharges>
+        <destroyOnEmpty>true</destroyOnEmpty>
+        <hotKey>Misc4</hotKey>
+        <chargeNoun>charge</chargeNoun>
+        <displayGizmoWhileUndrafted>false</displayGizmoWhileUndrafted>
+      </li>
+    </comps>
+  </ThingDef>
+
+  <ThingDef ParentName="TM_BuildingBase">
+    <defName>TM_OblivionPortal</defName>
+    <label>Oblivion Portal</label>
+    <thingClass>TorannMagic.Building_TMElementalRift</thingClass>
+    <graphicData>
+      <texPath>Other/riftbldg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+      <damageData>
+        <rect>(0,0,3,1.8)</rect>
+        <cornerBL>Damage/Corner</cornerBL>
+        <cornerBR>Damage/Corner</cornerBR>
+      </damageData>
+    </graphicData>
+	<tickerType>Normal</tickerType>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Impassable</passability>
+    <blockWind>true</blockWind>
+    <castEdgeShadows>true</castEdgeShadows>
+    <fillPercent>1</fillPercent>
+    <canOverlapZones>false</canOverlapZones>
+    <statBases>
+      <MaxHitPoints>500</MaxHitPoints>
+      <WorkToBuild>8000</WorkToBuild>
+      <Flammability>1.0</Flammability>
+    </statBases>
+    <description>a summoned rift to an elemental dimension.</description>
+	<drawerType>MapMeshAndRealTime</drawerType>
+	<drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
+	<resourcesFractionWhenDeconstructed>50</resourcesFractionWhenDeconstructed>
+	<leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+    <size>(1,1)</size>
+    <costList>
+      <Steel>200</Steel>
+	  <Gold>100</Gold>
+	  <Jade>100</Jade>
+	  <Uranium>100</Uranium>	  
+    </costList>
+    <interactionCellOffset>(0,0,-2)</interactionCellOffset>
+    <hasInteractionCell>false</hasInteractionCell>
+    <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+<!--     <designationCategory>Misc</designationCategory> -->
+		<building>
+			<ai_chillDestination>false</ai_chillDestination>
+			<claimable>false</claimable>
+			<deconstructible>false</deconstructible>
+		</building>
+    <comps>
+		<li Class="CompProperties_Explosive">
+        <explosiveRadius>3.9</explosiveRadius>
+        <explosiveDamageType>TM_ManaMine</explosiveDamageType>
+		<startWickHitPointsPercent>0.05</startWickHitPointsPercent>
+      </li>
+    </comps>
+    <staticSunShadowHeight>0.9</staticSunShadowHeight>
+    <designationHotKey>Misc3</designationHotKey>
+  </ThingDef>
+	
+</Defs>

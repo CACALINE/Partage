@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Vanilla Achivements Expanded.-->
+  <sticksAndStones.label>Bâtons et pierres</sticksAndStones.label>
+  <sticksAndStones.description>Rechercher toutes les technologies néolithiques</sticksAndStones.description>
+  
+  <outOfTheDarkAges.label>Sortir de l'âge sombre</outOfTheDarkAges.label>
+  <outOfTheDarkAges.description>Rechercher toutes les technologies médiévales</outOfTheDarkAges.description>
+  
+  <industrialRevolution.label>Révolution industrielle</industrialRevolution.label>
+  <industrialRevolution.description>Rechercher toutes les technologies industrielles</industrialRevolution.description>
+  
+  <offToTheStars.label>En route vers les étoiles</offToTheStars.label>
+  <offToTheStars.description>Rechercher toutes les technologies spatiales</offToTheStars.description>
+  
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR children, school and learning.-->
+  <ChildrenDislikesChildren.label>n'aime pas les enfants</ChildrenDislikesChildren.label>
+  <ChildrenDislikesChildren.description>[PAWN_nameDef] n'aime pas les enfants.</ChildrenDislikesChildren.description>
+  
+  <ChildrenWerewolfChild.label>enfant loup-garou</ChildrenWerewolfChild.label>
+  <ChildrenWerewolfChild.description>[PAWN_nameDef] est l'enfant d'un loup-garou et se transfromera pour la première fois à sa majorité.</ChildrenWerewolfChild.description>
+  
+  <ChildrenNaturalColonyChild.label>enfant naturel de la colonie</ChildrenNaturalColonyChild.label>
+  <ChildrenNaturalColonyChild.description>[PAWN_nomDef] est né dans la colonie.</ChildrenNaturalColonyChild.description>
+  
+  <ChildrenToYoungToWork.label>trop jeune pour travailler</ChildrenToYoungToWork.label>
+  <ChildrenToYoungToWork.description>[PAWN_nameDef] est trop jeune pour travailler.</ChildrenToYoungToWork.description>
+  
+</LanguageData>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+
+	<!-- chemfuel barrel -->
+	<VFES_ChemfuelBarrel.label>baril de chemfuel</VFES_ChemfuelBarrel.label>
+	<!-- A barrel full of chemfuel. Ignites upon getting shot, which results in a massive explosion. -->
+	<VFES_ChemfuelBarrel.description>Un baril plein de chemfuel. S'enflamme si l'on tire dessus, ce qui entraîne une énorme explosion.</VFES_ChemfuelBarrel.description>
+
+	<!-- land mine -->
+	<VFES_Landmine.label>mine terrestre</VFES_Landmine.label>
+	<!-- An anti-tank container of explosive material, designed to incapacitate armored vehicles and enemy personnel. Explodes immediately. -->
+	<VFES_Landmine.description>Un dispositif antichar fait de matière explosive, conçu pour neutraliser les véhicules blindés et le personnel ennemi. Explose immédiatement.</VFES_Landmine.description>
+
+	<!-- decoy -->
+	<VFES_Turret_Decoy.label>leurre</VFES_Turret_Decoy.label>
+	<!-- A cloth dummy holding a wooden rifle. Attracts enemy attention. -->
+	<VFES_Turret_Decoy.description>Un mannequin en tissu tenant un fusil en bois. Attire l'attention de l'ennemi.</VFES_Turret_Decoy.description>
+
+	<!-- decoy gun -->
+	<VFES_Gun_None.label>arme leurre</VFES_Gun_None.label>
+	<!-- A replica gun made of wood for a turret. -->
+	<VFES_Gun_None.description>Une réplique d'un canon en bois pour une tourelle.</VFES_Gun_None.description>
+	 <!-- EN: decoy gun -->
+	<VFES_Gun_None.verbs.Verb_Shoot.label>arme leurre</VFES_Gun_None.verbs.Verb_Shoot.label>
+
+	<!-- invisible -->
+	<VFES_Bullet_Invisible.label>invisible</VFES_Bullet_Invisible.label>
+
+
+</LanguageData>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<MapPreview.Title>Map Preview </MapPreview.Title>
+
+    <MapPreview.Settings.Tab.Preview>Aperçu</MapPreview.Settings.Tab.Preview>
+    <MapPreview.Settings.Tab.Toolbar>Barre d'outils</MapPreview.Settings.Tab.Toolbar>
+<MapPreview.Settings.EnableMapPreview>Activer l'aperçu de la carte</MapPreview.Settings.EnableMapPreview>
+<MapPreview.Settings.EnableToolbar>Activer la barre d'outils sur la carte du monde</MapPreview.Settings.EnableToolbar>
+    <MapPreview.Settings.LockWindowPositions>Verrouiller les positions des fenêtres</MapPreview.Settings.LockWindowPositions>
+    <MapPreview.Settings.AutoOpenPreviewOnWorldMap>Ouverture automatique de la fenêtre d'aperçu lors du passage à la carte du monde.</MapPreview.Settings.AutoOpenPreviewOnWorldMap>
+<MapPreview.Settings.EnableSeedRerollFeature>Afficher le bouton Relancer la graine</MapPreview.Settings.EnableSeedRerollFeature>
+    <MapPreview.Settings.EnableSeedRerollFeature.MapRerollConflict>Bouton Relancer la graine de la carte (non disponible si le mod Map Reroll est installé)</MapPreview.Settings.EnableSeedRerollFeature.MapRerollConflict>
+    <MapPreview.Settings.EnableSeedRerollWindow>Relancer la graine (Clic) | Ouvrir une fenêtre avec plusieurs graines (Maj + Clic) | (Si activé, inverse les touches)</MapPreview.Settings.EnableSeedRerollWindow>
+    <MapPreview.Settings.EnableWorldSeedRerollFeature>Afficher le bouton Relancer la graine du monde</MapPreview.Settings.EnableWorldSeedRerollFeature>
+<MapPreview.Settings.PreviewWindowSize>Taille de la fenêtre d'aperçu</MapPreview.Settings.PreviewWindowSize>
+    <MapPreview.Settings.IncludeCaves>Inclure les grottes dans l'aperçu (désactiver le pour accélérer la génération de l'aperçu)</MapPreview.Settings.IncludeCaves>
+<MapPreview.Settings.EnableTrueTerrainColors>Activer les vraies couleurs des terrains (prend en charge les terrains ajoutés par les mods, s'applique aussi à Map Reroll)</MapPreview.Settings.EnableTrueTerrainColors>
+<MapPreview.Settings.SkipRiverFlowCalc>Utiliser l'optimisation du générateur de rivière (plus rapide, mais légèrement différent de vanilla)</MapPreview.Settings.SkipRiverFlowCalc>
+
+<MapPreview.World.WaitForPreview>Un aperçu de la carte est en cours de génération, veuillez patienter avant de continuer...</MapPreview.World.WaitForPreview>
+<MapPreview.World.ShowHidePreview>Afficher Map Preview</MapPreview.World.ShowHidePreview>
+<MapPreview.World.RerollMapSeed>Relancer la graine pour cette carte.</MapPreview.World.RerollMapSeed>
+<MapPreview.World.ResetMapSeed>Annuler les relances et réinitialiser la graine d'origine de cette carte.</MapPreview.World.ResetMapSeed>
+<MapPreview.World.RerollWorldSeed>Générer un nouveau monde avec une graine aléatoire.</MapPreview.World.RerollWorldSeed>
+<MapPreview.World.OpenSettings>Ouvrir les options du mod Map Preview.</MapPreview.World.OpenSettings>
+
+    <MapPreview.World.RerollWindow.Title>Relancer la graine de la carte</MapPreview.World.RerollWindow.Title>
+    <MapPreview.World.RerollWindow.Close>Fermer</MapPreview.World.RerollWindow.Close>
+    <MapPreview.World.RerollWindow.RefreshSeeds>Rafraîchir les graines</MapPreview.World.RerollWindow.RefreshSeeds>
+    <MapPreview.World.RerollWindow.ZoomOut>Dézoomer</MapPreview.World.RerollWindow.ZoomOut>
+    <MapPreview.World.RerollWindow.ZoomIn>Zoomer</MapPreview.World.RerollWindow.ZoomIn>
+    <MapPreview.World.RerollWindow.Apply>Appliquer cette graine</MapPreview.World.RerollWindow.Apply>
+    <MapPreview.World.RerollWindow.Pin>Épingler cette graine</MapPreview.World.RerollWindow.Pin>
+    <MapPreview.World.RerollWindow.Unpin>Désépingler cette graine</MapPreview.World.RerollWindow.Unpin>
+
+<MapPreview.PreviewGenerationFailed>Un conflit avec l'un de vos mods a provoqué l'échec du générateur d'aperçu de la carte. Veuillez le signaler sur la page du workshop de Map Preview afin qu'un patch de compatibilité puisse être créé. Après avoir fermé ce message, veuillez télécharger votre fichier journal et inclure ce lien dans votre rapport de bug.</MapPreview.PreviewGenerationFailed>
+
+<MapPreview.Integration.MapDesigner.OpenSettings>Ouvrir Map Designer.</MapPreview.Integration.MapDesigner.OpenSettings>
+    <MapPreview.Integration.MapDesigner.UnavailableForTile>Map Designer ne peut pas être utilisé sur cette tuile.</MapPreview.Integration.MapDesigner.UnavailableForTile>
+    <MapPreview.Integration.MapDesigner.Enabled>Afficher le bouton Map Designer</MapPreview.Integration.MapDesigner.Enabled>
+
+    <MapPreview.Integration.PrepareLanding.Open>Ouvrir préparer l'atterrissage.</MapPreview.Integration.PrepareLanding.Open>
+    <MapPreview.Integration.PrepareLanding.Enabled>Afficher le bouton Préparer l'atterrissage</MapPreview.Integration.PrepareLanding.Enabled>
+
+    <MapPreview.Integration.WorldEdit.Open>Ouvrir l'éditeur du monde.</MapPreview.Integration.WorldEdit.Open>
+    <MapPreview.Integration.WorldEdit.Enabled>Afficher le bouton Modifier le monde</MapPreview.Integration.WorldEdit.Enabled>
+
+    <MapPreview.Integration.LandformSettings.Open>Ouvrir les paramètres de la forme du terrain.</MapPreview.Integration.LandformSettings.Open>
+    <MapPreview.Integration.LandformSettings.Enabled>Afficher le bouton Paramètres du terrain</MapPreview.Integration.LandformSettings.Enabled>
+
+
+</LanguageData>

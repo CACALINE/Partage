@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Vanilla Achivements Expanded.-->
+  <pabloEmilioEscobarGaviria.label>Pablo Emilio Escobar Gaviria</pabloEmilioEscobarGaviria.label>
+  <pabloEmilioEscobarGaviria.description>Vendre 400 Yayo à un seul négociant en une seule transaction</pabloEmilioEscobarGaviria.description>
+  
+  <wolfOfWallStreet.label>Le Loup de Wall Street</wolfOfWallStreet.label>
+  <wolfOfWallStreet.description>Gagnez 3000 argent en une seule transaction</wolfOfWallStreet.description>
+  
+  <slaverScum.label>Marché aux esclaves</slaverScum.label>
+  <slaverScum.description>Vendre 5 prisonniers en une seule transaction</slaverScum.description>
+  
+</LanguageData>

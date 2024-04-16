@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR zombieland.-->
+  <Zombies.label>Zombies</Zombies.label>
+  <Zombies.description>Créatures mortes-vivantes.</Zombies.description>
+  <Zombies.fixedName>Zombies</Zombies.fixedName>
+  <Zombies.pawnsPlural>zombies</Zombies.pawnsPlural>
+
+
+</LanguageData>

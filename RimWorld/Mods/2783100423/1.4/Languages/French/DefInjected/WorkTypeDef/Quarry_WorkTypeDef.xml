@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<QuarryMining.description>Creuser et forer dans une carrière.</QuarryMining.description>
+<QuarryMining.gerundLabel>extraction</QuarryMining.gerundLabel>
+<QuarryMining.labelShort>Carrière</QuarryMining.labelShort>
+<QuarryMining.pawnLabel>Mineur</QuarryMining.pawnLabel>
+<QuarryMining.verb>Miner dans la carrière</QuarryMining.verb>
+
+
+</LanguageData>

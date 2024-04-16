@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR vanilla apparel expanded.-->
+  <!-- Tunic -->
+
+  <VAE_Apparel_Tunic.label>Tunique</VAE_Apparel_Tunic.label>
+  <VAE_Apparel_Tunic.description>Légèrement plus lourde qu’une chemise normale, une tunique est une grande isolation contre le froid.</VAE_Apparel_Tunic.description>
+
+
+  <!-- Blouse -->
+
+  <VAE_Apparel_Blouse.label>Chemisier</VAE_Apparel_Blouse.label>
+  <VAE_Apparel_Blouse.description>Chemisier très léger et fin, idéal pour les climats chauds.</VAE_Apparel_Blouse.description>
+
+
+  <!-- Apron -->
+
+  <VAE_Apparel_Apron.label>Tablier</VAE_Apparel_Apron.label>
+  <VAE_Apparel_Apron.description>Un tablier en cuir ou en tissu couvrant les jambes, la taille et la poitrine. Tablier comme cela est souvent utilisé par les artisans, les médecins et les chefs en raison de poches utiles et de la protection qu’il fournit.</VAE_Apparel_Apron.description>
+
+
+  <!-- Cape -->
+
+  <VAE_Apparel_Cape.label>Cape</VAE_Apparel_Cape.label>
+  <VAE_Apparel_Cape.description>Un manteau ample qui s'attache autour du cou de celui qui le porte. On pense que la cape est un talisman de bravoure sur le champ de bataille.</VAE_Apparel_Cape.description>
+
+
+  <!-- Trapper Hat -->
+
+  <VAE_Headgear_TrapperHat.label>Chapeau de trappeur</VAE_Headgear_TrapperHat.label>
+  <VAE_Headgear_TrapperHat.description>Un chapeau extrêmement chaud avec des couvre-oreilles, parfait pour une longue exposition au froid en hiver.</VAE_Headgear_TrapperHat.description>
+
+
+  <!-- Summer Hat -->
+
+  <VAE_Headgear_SummerHat.label>Chapeau d'été</VAE_Headgear_SummerHat.label>
+  <VAE_Headgear_SummerHat.description>Une paille légère de chapeau en tissu qui sert de protection contre les rayons du soleil.</VAE_Headgear_SummerHat.description>
+
+</LanguageData>

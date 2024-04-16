@@ -1,0 +1,544 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Tous les vanilla animals expanded.-->
+  <!-- beagle -->
+  <AEXP_Beagle.label>beagle</AEXP_Beagle.label>
+  <!-- beagles -->
+  <AEXP_Beagle.labelPlural>beagles</AEXP_Beagle.labelPlural>
+  <!-- beagle puppy -->
+  <AEXP_Beagle.lifeStages.0.label>chiot beagle</AEXP_Beagle.lifeStages.0.label>
+  <!-- beagle puppies -->
+  <AEXP_Beagle.lifeStages.0.labelPlural>chiots beagle</AEXP_Beagle.lifeStages.0.labelPlural>
+  <!-- male beagle puppy -->
+  <AEXP_Beagle.lifeStages.0.labelMale>chiot beagle</AEXP_Beagle.lifeStages.0.labelMale>
+  <!-- male beagle puppies -->
+  <AEXP_Beagle.lifeStages.0.labelMalePlural>chiots beagle</AEXP_Beagle.lifeStages.0.labelMalePlural>
+  <!-- female beagle puppy -->
+  <AEXP_Beagle.lifeStages.0.labelFemale>chiot beagle</AEXP_Beagle.lifeStages.0.labelFemale>
+  <!-- female beagle puppies -->
+  <AEXP_Beagle.lifeStages.0.labelFemalePlural>chiots beagle</AEXP_Beagle.lifeStages.0.labelFemalePlural>
+  <!-- beagle -->
+  <AEXP_Beagle.lifeStages.1.label>beagle</AEXP_Beagle.lifeStages.1.label>
+  <!-- beagles -->
+  <AEXP_Beagle.lifeStages.1.labelPlural>beagles</AEXP_Beagle.lifeStages.1.labelPlural>
+  <!-- male beagle -->
+  <AEXP_Beagle.lifeStages.1.labelMale>beagle</AEXP_Beagle.lifeStages.1.labelMale>
+  <!-- male beagles -->
+  <AEXP_Beagle.lifeStages.1.labelMalePlural>beagles</AEXP_Beagle.lifeStages.1.labelMalePlural>
+  <!-- female beagle -->
+  <AEXP_Beagle.lifeStages.1.labelFemale>beagle</AEXP_Beagle.lifeStages.1.labelFemale>
+  <!-- female beagles -->
+  <AEXP_Beagle.lifeStages.1.labelFemalePlural>beagles</AEXP_Beagle.lifeStages.1.labelFemalePlural>
+  <!-- beagle -->
+  <AEXP_Beagle.lifeStages.2.label>beagle</AEXP_Beagle.lifeStages.2.label>
+  <!-- beagles -->
+  <AEXP_Beagle.lifeStages.2.labelPlural>beagles</AEXP_Beagle.lifeStages.2.labelPlural>
+  <!-- male beagle -->
+  <AEXP_Beagle.lifeStages.2.labelMale>beagle</AEXP_Beagle.lifeStages.2.labelMale>
+  <!-- male beagles -->
+  <AEXP_Beagle.lifeStages.2.labelMalePlural>beagles</AEXP_Beagle.lifeStages.2.labelMalePlural>
+  <!-- female beagle -->
+  <AEXP_Beagle.lifeStages.2.labelFemale>beagle</AEXP_Beagle.lifeStages.2.labelFemale>
+  <!-- female beagles -->
+  <AEXP_Beagle.lifeStages.2.labelFemalePlural>beagles</AEXP_Beagle.lifeStages.2.labelFemalePlural>
+  <!-- male beagle -->
+  <AEXP_Beagle.labelMale>beagle</AEXP_Beagle.labelMale>
+  <!-- male beagles -->
+  <AEXP_Beagle.labelMalePlural>beagles</AEXP_Beagle.labelMalePlural>
+  <!-- female beagle -->
+  <AEXP_Beagle.labelFemale>beagle</AEXP_Beagle.labelFemale>
+  <!-- female beagles -->
+  <AEXP_Beagle.labelFemalePlural>beagles</AEXP_Beagle.labelFemalePlural>
+
+  <!-- chihuahua -->
+  <AEXP_Chihuahua.label>chihuahua</AEXP_Chihuahua.label>
+  <!-- chihuahuas -->
+  <AEXP_Chihuahua.labelPlural>chihuahuas</AEXP_Chihuahua.labelPlural>
+  <!-- chihuahua puppy -->
+  <AEXP_Chihuahua.lifeStages.0.label>chiot chihuahua</AEXP_Chihuahua.lifeStages.0.label>
+  <!-- chihuahua puppies -->
+  <AEXP_Chihuahua.lifeStages.0.labelPlural>chiots chihuahua</AEXP_Chihuahua.lifeStages.0.labelPlural>
+  <!-- male chihuahua puppy -->
+  <AEXP_Chihuahua.lifeStages.0.labelMale>chiot chihuahua</AEXP_Chihuahua.lifeStages.0.labelMale>
+  <!-- male chihuahua puppies -->
+  <AEXP_Chihuahua.lifeStages.0.labelMalePlural>chiots chihuahua</AEXP_Chihuahua.lifeStages.0.labelMalePlural>
+  <!-- female chihuahua puppy -->
+  <AEXP_Chihuahua.lifeStages.0.labelFemale>chiot chihuahua</AEXP_Chihuahua.lifeStages.0.labelFemale>
+  <!-- female chihuahua puppies -->
+  <AEXP_Chihuahua.lifeStages.0.labelFemalePlural>chiots chihuahua</AEXP_Chihuahua.lifeStages.0.labelFemalePlural>
+  <!-- chihuahua -->
+  <AEXP_Chihuahua.lifeStages.1.label>chihuahua</AEXP_Chihuahua.lifeStages.1.label>
+  <!-- chihuahuas -->
+  <AEXP_Chihuahua.lifeStages.1.labelPlural>chihuahuas</AEXP_Chihuahua.lifeStages.1.labelPlural>
+  <!-- male chihuahua -->
+  <AEXP_Chihuahua.lifeStages.1.labelMale>chihuahua</AEXP_Chihuahua.lifeStages.1.labelMale>
+  <!-- male chihuahuas -->
+  <AEXP_Chihuahua.lifeStages.1.labelMalePlural>chihuahuas</AEXP_Chihuahua.lifeStages.1.labelMalePlural>
+  <!-- female chihuahua -->
+  <AEXP_Chihuahua.lifeStages.1.labelFemale>chihuahua</AEXP_Chihuahua.lifeStages.1.labelFemale>
+  <!-- female chihuahuas -->
+  <AEXP_Chihuahua.lifeStages.1.labelFemalePlural>chihuahuas</AEXP_Chihuahua.lifeStages.1.labelFemalePlural>
+  <!-- chihuahua -->
+  <AEXP_Chihuahua.lifeStages.2.label>chihuahua</AEXP_Chihuahua.lifeStages.2.label>
+  <!-- chihuahuas -->
+  <AEXP_Chihuahua.lifeStages.2.labelPlural>chihuahuas</AEXP_Chihuahua.lifeStages.2.labelPlural>
+  <!-- male chihuahua -->
+  <AEXP_Chihuahua.lifeStages.2.labelMale>chihuahua</AEXP_Chihuahua.lifeStages.2.labelMale>
+  <!-- male chihuahuas -->
+  <AEXP_Chihuahua.lifeStages.2.labelMalePlural>chihuahuas</AEXP_Chihuahua.lifeStages.2.labelMalePlural>
+  <!-- female chihuahua -->
+  <AEXP_Chihuahua.lifeStages.2.labelFemale>chihuahua</AEXP_Chihuahua.lifeStages.2.labelFemale>
+  <!-- female chihuahuas -->
+  <AEXP_Chihuahua.lifeStages.2.labelFemalePlural>chihuahuas</AEXP_Chihuahua.lifeStages.2.labelFemalePlural>
+  <!-- male chihuahua -->
+  <AEXP_Chihuahua.labelMale>chihuahua</AEXP_Chihuahua.labelMale>
+  <!-- male chihuahuas -->
+  <AEXP_Chihuahua.labelMalePlural>chihuahuas</AEXP_Chihuahua.labelMalePlural>
+  <!-- female chihuahua -->
+  <AEXP_Chihuahua.labelFemale>chihuahua</AEXP_Chihuahua.labelFemale>
+  <!-- female chihuahuas -->
+  <AEXP_Chihuahua.labelFemalePlural>chihuahuas</AEXP_Chihuahua.labelFemalePlural>
+
+  <!-- corgi -->
+  <AEXP_Corgi.label>corgi</AEXP_Corgi.label>
+  <!-- corgis -->
+  <AEXP_Corgi.labelPlural>corgis</AEXP_Corgi.labelPlural>
+  <!-- corgi puppy -->
+  <AEXP_Corgi.lifeStages.0.label>chiot corgi</AEXP_Corgi.lifeStages.0.label>
+  <!-- corgi puppies -->
+  <AEXP_Corgi.lifeStages.0.labelPlural>chiots corgi</AEXP_Corgi.lifeStages.0.labelPlural>
+  <!-- >male corgi puppy -->
+  <AEXP_Corgi.lifeStages.0.labelMale>chiot corgi</AEXP_Corgi.lifeStages.0.labelMale>
+  <!-- male corgi puppies -->
+  <AEXP_Corgi.lifeStages.0.labelMalePlural>chiots corgi</AEXP_Corgi.lifeStages.0.labelMalePlural>
+  <!-- female corgi puppy -->
+  <AEXP_Corgi.lifeStages.0.labelFemale>chiot corgi</AEXP_Corgi.lifeStages.0.labelFemale>
+  <!-- female corgi puppies -->
+  <AEXP_Corgi.lifeStages.0.labelFemalePlural>chiots corgi</AEXP_Corgi.lifeStages.0.labelFemalePlural>
+  <!-- corgi -->
+  <AEXP_Corgi.lifeStages.1.label>corgi</AEXP_Corgi.lifeStages.1.label>
+  <!-- corgis -->
+  <AEXP_Corgi.lifeStages.1.labelPlural>corgis</AEXP_Corgi.lifeStages.1.labelPlural>
+  <!-- male corgi -->
+  <AEXP_Corgi.lifeStages.1.labelMale>corgi</AEXP_Corgi.lifeStages.1.labelMale>
+  <!-- male corgis -->
+  <AEXP_Corgi.lifeStages.1.labelMalePlural>corgis</AEXP_Corgi.lifeStages.1.labelMalePlural>
+  <!-- female corgi -->
+  <AEXP_Corgi.lifeStages.1.labelFemale>corgi</AEXP_Corgi.lifeStages.1.labelFemale>
+  <!-- female corgis -->
+  <AEXP_Corgi.lifeStages.1.labelFemalePlural>corgis</AEXP_Corgi.lifeStages.1.labelFemalePlural>
+  <!-- corgi -->
+  <AEXP_Corgi.lifeStages.2.label>corgi</AEXP_Corgi.lifeStages.2.label>
+  <!-- corgis -->
+  <AEXP_Corgi.lifeStages.2.labelPlural>corgis</AEXP_Corgi.lifeStages.2.labelPlural>
+  <!-- male corgi -->
+  <AEXP_Corgi.lifeStages.2.labelMale>corgi</AEXP_Corgi.lifeStages.2.labelMale>
+  <!-- male corgis -->
+  <AEXP_Corgi.lifeStages.2.labelMalePlural>corgis</AEXP_Corgi.lifeStages.2.labelMalePlural>
+  <!-- female corgi -->
+  <AEXP_Corgi.lifeStages.2.labelFemale>corgi</AEXP_Corgi.lifeStages.2.labelFemale>
+  <!-- female corgis -->
+  <AEXP_Corgi.lifeStages.2.labelFemalePlural>corgis</AEXP_Corgi.lifeStages.2.labelFemalePlural>
+  <!-- male corgi -->
+  <AEXP_Corgi.labelMale>corgi</AEXP_Corgi.labelMale>
+  <!-- male corgis -->
+  <AEXP_Corgi.labelMalePlural>corgis</AEXP_Corgi.labelMalePlural>
+  <!-- female corgi -->
+  <AEXP_Corgi.labelFemale>corgi</AEXP_Corgi.labelFemale>
+  <!-- female corgis -->
+  <AEXP_Corgi.labelFemalePlural>corgis</AEXP_Corgi.labelFemalePlural>
+
+  <!-- french bouledogue -->
+  <AEXP_FrenchBulldog.label>bouledogue français</AEXP_FrenchBulldog.label>
+  <!-- french bouledogues -->
+  <AEXP_FrenchBulldog.labelPlural>bouledogues français</AEXP_FrenchBulldog.labelPlural>
+  <!-- french bouledogue puppy -->
+  <AEXP_FrenchBulldog.lifeStages.0.label>chiot bouledogue</AEXP_FrenchBulldog.lifeStages.0.label>
+  <!-- french bouledogue puppies -->
+  <AEXP_FrenchBulldog.lifeStages.0.labelPlural>chiots bouledogue</AEXP_FrenchBulldog.lifeStages.0.labelPlural>
+  <!-- male french bouledogue puppy -->
+  <AEXP_FrenchBulldog.lifeStages.0.labelMale>chiot bouledogue</AEXP_FrenchBulldog.lifeStages.0.labelMale>
+  <!-- male french bouledogue puppies -->
+  <AEXP_FrenchBulldog.lifeStages.0.labelMalePlural>chiots bouledogue</AEXP_FrenchBulldog.lifeStages.0.labelMalePlural>
+  <!-- female french bouledogue puppy -->
+  <AEXP_FrenchBulldog.lifeStages.0.labelFemale>chiot bouledogue</AEXP_FrenchBulldog.lifeStages.0.labelFemale>
+  <!-- female french bouledogue puppies -->
+  <AEXP_FrenchBulldog.lifeStages.0.labelFemalePlural>chiots bouledogue</AEXP_FrenchBulldog.lifeStages.0.labelFemalePlural>
+  <!-- french bouledogue -->
+  <AEXP_FrenchBulldog.lifeStages.1.label>bouledogue français</AEXP_FrenchBulldog.lifeStages.1.label>
+  <!-- french bouledogues -->
+  <AEXP_FrenchBulldog.lifeStages.1.labelPlural>bouledogues français</AEXP_FrenchBulldog.lifeStages.1.labelPlural>
+  <!-- male french bouledogue -->
+  <AEXP_FrenchBulldog.lifeStages.1.labelMale>bouledogue français</AEXP_FrenchBulldog.lifeStages.1.labelMale>
+  <!-- male french bouledogues -->
+  <AEXP_FrenchBulldog.lifeStages.1.labelMalePlural>bouledogues français</AEXP_FrenchBulldog.lifeStages.1.labelMalePlural>
+  <!-- female french bouledogue -->
+  <AEXP_FrenchBulldog.lifeStages.1.labelFemale>bouledogue français</AEXP_FrenchBulldog.lifeStages.1.labelFemale>
+  <!-- female french bouledogues -->
+  <AEXP_FrenchBulldog.lifeStages.1.labelFemalePlural>bouledogues français</AEXP_FrenchBulldog.lifeStages.1.labelFemalePlural>
+  <!-- french bouledogue -->
+  <AEXP_FrenchBulldog.lifeStages.2.label>bouledogue français</AEXP_FrenchBulldog.lifeStages.2.label>
+  <!-- french bouledogues -->
+  <AEXP_FrenchBulldog.lifeStages.2.labelPlural>bouledogues français</AEXP_FrenchBulldog.lifeStages.2.labelPlural>
+  <!-- male french bouledogue -->
+  <AEXP_FrenchBulldog.lifeStages.2.labelMale>bouledogue français</AEXP_FrenchBulldog.lifeStages.2.labelMale>
+  <!-- male french bouledogues -->
+  <AEXP_FrenchBulldog.lifeStages.2.labelMalePlural>bouledogues français</AEXP_FrenchBulldog.lifeStages.2.labelMalePlural>
+  <!-- female french bouledogue -->
+  <AEXP_FrenchBulldog.lifeStages.2.labelFemale>bouledogue français</AEXP_FrenchBulldog.lifeStages.2.labelFemale>
+  <!-- female french bouledogues -->
+  <AEXP_FrenchBulldog.lifeStages.2.labelFemalePlural>bouledogues français</AEXP_FrenchBulldog.lifeStages.2.labelFemalePlural>
+  <!-- male french bouledogue -->
+  <AEXP_FrenchBulldog.labelMale>bouledogue français</AEXP_FrenchBulldog.labelMale>
+  <!-- male french bouledogues -->
+  <AEXP_FrenchBulldog.labelMalePlural>bouledogues français</AEXP_FrenchBulldog.labelMalePlural>
+  <!-- female french bouledogue -->
+  <AEXP_FrenchBulldog.labelFemale>bouledogue français</AEXP_FrenchBulldog.labelFemale>
+  <!-- female french bouledogues -->
+  <AEXP_FrenchBulldog.labelFemalePlural>bouledogues français</AEXP_FrenchBulldog.labelFemalePlural>
+
+  <!-- german shepherd -->
+  <AEXP_GermanShepherd.label>berger allemand</AEXP_GermanShepherd.label>
+  <!-- german shepherds -->
+  <AEXP_GermanShepherd.labelPlural>bergers allemands</AEXP_GermanShepherd.labelPlural>
+  <!-- german shepherd puppy -->
+  <AEXP_GermanShepherd.lifeStages.0.label>chiot berger allemand</AEXP_GermanShepherd.lifeStages.0.label>
+  <!-- german shepherd puppies -->
+  <AEXP_GermanShepherd.lifeStages.0.labelPlural>chiots berger allemand</AEXP_GermanShepherd.lifeStages.0.labelPlural>
+  <!-- male german shepherd puppy -->
+  <AEXP_GermanShepherd.lifeStages.0.labelMale>chiot berger allemand</AEXP_GermanShepherd.lifeStages.0.labelMale>
+  <!-- male german shepherd puppies -->
+  <AEXP_GermanShepherd.lifeStages.0.labelMalePlural>chiots berger allemand</AEXP_GermanShepherd.lifeStages.0.labelMalePlural>
+  <!-- female german shepherd puppy -->
+  <AEXP_GermanShepherd.lifeStages.0.labelFemale>chiot berger allemand</AEXP_GermanShepherd.lifeStages.0.labelFemale>
+  <!-- female german shepherd puppies -->
+  <AEXP_GermanShepherd.lifeStages.0.labelFemalePlural>chiots berger allemand</AEXP_GermanShepherd.lifeStages.0.labelFemalePlural>
+  <!-- german shepherd -->
+  <AEXP_GermanShepherd.lifeStages.1.label>berger allemand</AEXP_GermanShepherd.lifeStages.1.label>
+  <!-- german shepherd -->
+  <AEXP_GermanShepherd.lifeStages.1.labelPlural>bergers allemands</AEXP_GermanShepherd.lifeStages.1.labelPlural>
+  <!-- male german shepherd -->
+  <AEXP_GermanShepherd.lifeStages.1.labelMale>berger allemand</AEXP_GermanShepherd.lifeStages.1.labelMale>
+  <!-- male german shepherds -->
+  <AEXP_GermanShepherd.lifeStages.1.labelMalePlural>bergers allemands</AEXP_GermanShepherd.lifeStages.1.labelMalePlural>
+  <!-- male german shepherds -->
+  <AEXP_GermanShepherd.lifeStages.1.labelFemale>berger allemand</AEXP_GermanShepherd.lifeStages.1.labelFemale>
+  <!-- female german shepherds -->
+  <AEXP_GermanShepherd.lifeStages.1.labelFemalePlural>bergers allemands</AEXP_GermanShepherd.lifeStages.1.labelFemalePlural>
+  <!-- german shepherd -->
+  <AEXP_GermanShepherd.lifeStages.2.label>berger allemand</AEXP_GermanShepherd.lifeStages.2.label>
+  <!-- german shepherd -->
+  <AEXP_GermanShepherd.lifeStages.2.labelPlural></AEXP_GermanShepherd.lifeStages.2.labelPlural>
+  <!-- male german shepherd -->
+  <AEXP_GermanShepherd.lifeStages.2.labelMale>berger allemand</AEXP_GermanShepherd.lifeStages.2.labelMale>
+  <!-- male german shepherds -->
+  <AEXP_GermanShepherd.lifeStages.2.labelMalePlural>bergers allemands</AEXP_GermanShepherd.lifeStages.2.labelMalePlural>
+  <!-- female german shepherd -->
+  <AEXP_GermanShepherd.lifeStages.2.labelFemale>berger allemand</AEXP_GermanShepherd.lifeStages.2.labelFemale>
+  <!-- female german shepherds -->
+  <AEXP_GermanShepherd.lifeStages.2.labelFemalePlural>bergers allemands</AEXP_GermanShepherd.lifeStages.2.labelFemalePlural>
+  <!-- male german shepherd -->
+  <AEXP_GermanShepherd.labelMale>berger allemand</AEXP_GermanShepherd.labelMale>
+  <!-- male german shepherds -->
+  <AEXP_GermanShepherd.labelMalePlural>bergers allemands</AEXP_GermanShepherd.labelMalePlural>
+  <!-- female german shepherd -->
+  <AEXP_GermanShepherd.labelFemale>berger allemand</AEXP_GermanShepherd.labelFemale>
+  <!-- female german shepherds -->
+  <AEXP_GermanShepherd.labelFemalePlural>bergers allemands</AEXP_GermanShepherd.labelFemalePlural>
+
+  <!-- great dane -->
+  <AEXP_GreatDane.label>dogue allemand</AEXP_GreatDane.label>
+  <!-- great danes -->
+  <AEXP_GreatDane.labelPlural>dogues allemands</AEXP_GreatDane.labelPlural>
+  <!-- great dane puppy -->
+  <AEXP_GreatDane.lifeStages.0.label>chiot dogue allemand</AEXP_GreatDane.lifeStages.0.label>
+  <!-- great dane puppies -->
+  <AEXP_GreatDane.lifeStages.0.labelPlural>chiots dogue allemand</AEXP_GreatDane.lifeStages.0.labelPlural>
+  <!-- male great dane puppy -->
+  <AEXP_GreatDane.lifeStages.0.labelMale>chiot dogue allemand</AEXP_GreatDane.lifeStages.0.labelMale>
+  <!-- male great dane puppies -->
+  <AEXP_GreatDane.lifeStages.0.labelMalePlural>chiots dogue allemand</AEXP_GreatDane.lifeStages.0.labelMalePlural>
+  <!-- female great dane puppy -->
+  <AEXP_GreatDane.lifeStages.0.labelFemale>chiot dogue allemand</AEXP_GreatDane.lifeStages.0.labelFemale>
+  <!-- female great dane puppies -->
+  <AEXP_GreatDane.lifeStages.0.labelFemalePlural>chiots dogue allemand</AEXP_GreatDane.lifeStages.0.labelFemalePlural>
+  <!-- great dane -->
+  <AEXP_GreatDane.lifeStages.1.label>dogue allemand</AEXP_GreatDane.lifeStages.1.label>
+  <!-- great dane -->
+  <AEXP_GreatDane.lifeStages.1.labelPlural>dogues allemands</AEXP_GreatDane.lifeStages.1.labelPlural>
+  <!-- male great dane -->
+  <AEXP_GreatDane.lifeStages.1.labelMale>dogue allemand</AEXP_GreatDane.lifeStages.1.labelMale>
+  <!-- male great danes -->
+  <AEXP_GreatDane.lifeStages.1.labelMalePlural>dogues allemands</AEXP_GreatDane.lifeStages.1.labelMalePlural>
+  <!-- female great dane -->
+  <AEXP_GreatDane.lifeStages.1.labelFemale>dogue allemand</AEXP_GreatDane.lifeStages.1.labelFemale>
+  <!-- female great danes -->
+  <AEXP_GreatDane.lifeStages.1.labelFemalePlural>dogues allemands</AEXP_GreatDane.lifeStages.1.labelFemalePlural>
+  <!-- great dane -->
+  <AEXP_GreatDane.lifeStages.2.label>dogue allemand</AEXP_GreatDane.lifeStages.2.label>
+  <!-- great dane -->
+  <AEXP_GreatDane.lifeStages.2.labelPlural>dogues allemands</AEXP_GreatDane.lifeStages.2.labelPlural>
+  <!-- male great dane -->
+  <AEXP_GreatDane.lifeStages.2.labelMale>dogue allemand</AEXP_GreatDane.lifeStages.2.labelMale>
+  <!-- male great danes -->
+  <AEXP_GreatDane.lifeStages.2.labelMalePlural>dogues allemands</AEXP_GreatDane.lifeStages.2.labelMalePlural>
+  <!-- female great dane -->
+  <AEXP_GreatDane.lifeStages.2.labelFemale>dogue allemand</AEXP_GreatDane.lifeStages.2.labelFemale>
+  <!-- female great danes -->
+  <AEXP_GreatDane.lifeStages.2.labelFemalePlural>dogues allemands</AEXP_GreatDane.lifeStages.2.labelFemalePlural>
+  <!-- male great dane -->
+  <AEXP_GreatDane.labelMale>dogue allemand</AEXP_GreatDane.labelMale>
+  <!-- male great danes -->
+  <AEXP_GreatDane.labelMalePlural>dogues allemands</AEXP_GreatDane.labelMalePlural>
+  <!-- female great dane -->
+  <AEXP_GreatDane.labelFemale>dogue allemand</AEXP_GreatDane.labelFemale>
+  <!-- female great dane -->
+  <AEXP_GreatDane.labelFemalePlural>dogues allemands</AEXP_GreatDane.labelFemalePlural>
+
+  <!-- caniche -->
+  <AEXP_Poodle.label>caniche</AEXP_Poodle.label>
+  <!-- caniches -->
+  <AEXP_Poodle.labelPlural>caniches</AEXP_Poodle.labelPlural>
+  <!-- caniche puppy -->
+  <AEXP_Poodle.lifeStages.0.label>chiot caniche</AEXP_Poodle.lifeStages.0.label>
+  <!-- caniche puppies -->
+  <AEXP_Poodle.lifeStages.0.labelPlural>chiots caniches</AEXP_Poodle.lifeStages.0.labelPlural>
+  <!-- male caniche puppy -->
+  <AEXP_Poodle.lifeStages.0.labelMale>chiot caniche</AEXP_Poodle.lifeStages.0.labelMale>
+  <!-- male caniche puppies -->
+  <AEXP_Poodle.lifeStages.0.labelMalePlural>chiots caniches</AEXP_Poodle.lifeStages.0.labelMalePlural>
+  <!-- female caniche puppy -->
+  <AEXP_Poodle.lifeStages.0.labelFemale>chiot caniche</AEXP_Poodle.lifeStages.0.labelFemale>
+  <!-- female caniche puppies -->
+  <AEXP_Poodle.lifeStages.0.labelFemalePlural>chiots caniches</AEXP_Poodle.lifeStages.0.labelFemalePlural>
+  <!-- caniche -->
+  <AEXP_Poodle.lifeStages.1.label>caniche</AEXP_Poodle.lifeStages.1.label>
+  <!-- caniche -->
+  <AEXP_Poodle.lifeStages.1.labelPlural>caniches</AEXP_Poodle.lifeStages.1.labelPlural>
+  <!-- male caniche -->
+  <AEXP_Poodle.lifeStages.1.labelMale>caniche</AEXP_Poodle.lifeStages.1.labelMale>
+  <!-- male caniches -->
+  <AEXP_Poodle.lifeStages.1.labelMalePlural>caniches</AEXP_Poodle.lifeStages.1.labelMalePlural>
+  <!-- female caniche -->
+  <AEXP_Poodle.lifeStages.1.labelFemale>caniche</AEXP_Poodle.lifeStages.1.labelFemale>
+  <!-- female caniche -->
+  <AEXP_Poodle.lifeStages.1.labelFemalePlural>caniches</AEXP_Poodle.lifeStages.1.labelFemalePlural>
+  <!-- caniche -->
+  <AEXP_Poodle.lifeStages.2.label>caniche</AEXP_Poodle.lifeStages.2.label>
+  <!-- caniche -->
+  <AEXP_Poodle.lifeStages.2.labelPlural>caniches</AEXP_Poodle.lifeStages.2.labelPlural>
+  <!-- male caniche -->
+  <AEXP_Poodle.lifeStages.2.labelMale>caniche</AEXP_Poodle.lifeStages.2.labelMale>
+  <!-- male caniches -->
+  <AEXP_Poodle.lifeStages.2.labelMalePlural>caniches</AEXP_Poodle.lifeStages.2.labelMalePlural>
+  <!-- female caniche -->
+  <AEXP_Poodle.lifeStages.2.labelFemale>caniche</AEXP_Poodle.lifeStages.2.labelFemale>
+  <!-- female caniches -->
+  <AEXP_Poodle.lifeStages.2.labelFemalePlural>caniches</AEXP_Poodle.lifeStages.2.labelFemalePlural>
+  <!-- male caniche -->
+  <AEXP_Poodle.labelMale>caniche</AEXP_Poodle.labelMale>
+  <!-- male caniches -->
+  <AEXP_Poodle.labelMalePlural>caniches</AEXP_Poodle.labelMalePlural>
+  <!-- female caniche -->
+  <AEXP_Poodle.labelFemale>caniche</AEXP_Poodle.labelFemale>
+  <!-- female caniches -->
+  <AEXP_Poodle.labelFemalePlural>caniches</AEXP_Poodle.labelFemalePlural>
+
+  <!-- carlin -->
+  <AEXP_Pug.label>carlin</AEXP_Pug.label>
+  <!-- carlins -->
+  <AEXP_Pug.labelPlural>carlins</AEXP_Pug.labelPlural>
+  <!-- carlin puppy -->
+  <AEXP_Pug.lifeStages.0.label>chiot carlin</AEXP_Pug.lifeStages.0.label>
+  <!-- carlin puppies -->
+  <AEXP_Pug.lifeStages.0.labelPlural>chiots carlins</AEXP_Pug.lifeStages.0.labelPlural>
+  <!-- male carlin puppy -->
+  <AEXP_Pug.lifeStages.0.labelMale>chiot carlin</AEXP_Pug.lifeStages.0.labelMale>
+  <!-- male carlin puppies -->
+  <AEXP_Pug.lifeStages.0.labelMalePlural>chiots carlins</AEXP_Pug.lifeStages.0.labelMalePlural>
+  <!-- female carlin puppy -->
+  <AEXP_Pug.lifeStages.0.labelFemale>chiot carlin</AEXP_Pug.lifeStages.0.labelFemale>
+  <!-- female carlin puppies -->
+  <AEXP_Pug.lifeStages.0.labelFemalePlural>chiots carlins</AEXP_Pug.lifeStages.0.labelFemalePlural>
+  <!-- carlin -->
+  <AEXP_Pug.lifeStages.1.label>carlin</AEXP_Pug.lifeStages.1.label>
+  <!-- carlins -->
+  <AEXP_Pug.lifeStages.1.labelPlural>carlins</AEXP_Pug.lifeStages.1.labelPlural>
+  <!-- male carlin -->
+  <AEXP_Pug.lifeStages.1.labelMale>carlin</AEXP_Pug.lifeStages.1.labelMale>
+  <!-- male carlins -->
+  <AEXP_Pug.lifeStages.1.labelMalePlural>carlins</AEXP_Pug.lifeStages.1.labelMalePlural>
+  <!-- female carlin -->
+  <AEXP_Pug.lifeStages.1.labelFemale>carlin</AEXP_Pug.lifeStages.1.labelFemale>
+  <!-- female carlins -->
+  <AEXP_Pug.lifeStages.1.labelFemalePlural>carlins</AEXP_Pug.lifeStages.1.labelFemalePlural>
+  <!-- carlin -->
+  <AEXP_Pug.lifeStages.2.label>carlin</AEXP_Pug.lifeStages.2.label>
+  <!-- carlins -->
+  <AEXP_Pug.lifeStages.2.labelPlural>carlins</AEXP_Pug.lifeStages.2.labelPlural>
+  <!-- male carlin -->
+  <AEXP_Pug.lifeStages.2.labelMale>carlin</AEXP_Pug.lifeStages.2.labelMale>
+  <!-- male carlins -->
+  <AEXP_Pug.lifeStages.2.labelMalePlural>carlins</AEXP_Pug.lifeStages.2.labelMalePlural>
+  <!-- female carlin -->
+  <AEXP_Pug.lifeStages.2.labelFemale>carlin</AEXP_Pug.lifeStages.2.labelFemale>
+  <!-- female carlins -->
+  <AEXP_Pug.lifeStages.2.labelFemalePlural>carlins</AEXP_Pug.lifeStages.2.labelFemalePlural>
+  <!-- male carlin -->
+  <AEXP_Pug.labelMale>carlin</AEXP_Pug.labelMale>
+  <!-- male carlins -->
+  <AEXP_Pug.labelMalePlural>carlins</AEXP_Pug.labelMalePlural>
+  <!-- female carlin -->
+  <AEXP_Pug.labelFemale>carlin</AEXP_Pug.labelFemale>
+  <!-- female carlins -->
+  <AEXP_Pug.labelFemalePlural>carlins</AEXP_Pug.labelFemalePlural>
+
+  <!-- rottweiler -->
+  <AEXP_Rottweiler.label>rottweiler</AEXP_Rottweiler.label>
+  <!-- rottweilers -->
+  <AEXP_Rottweiler.labelPlural>rottweilers</AEXP_Rottweiler.labelPlural>
+  <!-- rottweiler puppy -->
+  <AEXP_Rottweiler.lifeStages.0.label>chiot rottweiler</AEXP_Rottweiler.lifeStages.0.label>
+  <!-- rottweiler puppies -->
+  <AEXP_Rottweiler.lifeStages.0.labelPlural>chiots rottweilers</AEXP_Rottweiler.lifeStages.0.labelPlural>
+  <!-- male rottweiler puppy -->
+  <AEXP_Rottweiler.lifeStages.0.labelMale>chiot rottweiler</AEXP_Rottweiler.lifeStages.0.labelMale>
+  <!-- male rottweiler puppies -->
+  <AEXP_Rottweiler.lifeStages.0.labelMalePlural>chiots rottweilers</AEXP_Rottweiler.lifeStages.0.labelMalePlural>
+  <!-- female rottweiler puppy -->
+  <AEXP_Rottweiler.lifeStages.0.labelFemale>chiot rottweiler</AEXP_Rottweiler.lifeStages.0.labelFemale>
+  <!-- female rottweiler puppies -->
+  <AEXP_Rottweiler.lifeStages.0.labelFemalePlural>chiots rottweilers</AEXP_Rottweiler.lifeStages.0.labelFemalePlural>
+  <!-- rottweiler -->
+  <AEXP_Rottweiler.lifeStages.1.label>rottweiler</AEXP_Rottweiler.lifeStages.1.label>
+  <!-- rottweiler -->
+  <AEXP_Rottweiler.lifeStages.1.labelPlural>rottweilers jévenes</AEXP_Rottweiler.lifeStages.1.labelPlural>
+  <!-- male rottweiler -->
+  <AEXP_Rottweiler.lifeStages.1.labelMale>rottweiler</AEXP_Rottweiler.lifeStages.1.labelMale>
+  <!-- male rottweilers -->
+  <AEXP_Rottweiler.lifeStages.1.labelMalePlural>rottweilers jévenes</AEXP_Rottweiler.lifeStages.1.labelMalePlural>
+  <!-- female rottweiler -->
+  <AEXP_Rottweiler.lifeStages.1.labelFemale>rottweiler</AEXP_Rottweiler.lifeStages.1.labelFemale>
+  <!-- female rottweilers -->
+  <AEXP_Rottweiler.lifeStages.1.labelFemalePlural>rottweilers jévenes</AEXP_Rottweiler.lifeStages.1.labelFemalePlural>
+  <!-- rottweiler -->
+  <AEXP_Rottweiler.lifeStages.2.label>rottweiler</AEXP_Rottweiler.lifeStages.2.label>
+  <!-- rottweiler -->
+  <AEXP_Rottweiler.lifeStages.2.labelPlural>rottweilers</AEXP_Rottweiler.lifeStages.2.labelPlural>
+  <!-- male rottweiler -->
+  <AEXP_Rottweiler.lifeStages.2.labelMale>rottweiler</AEXP_Rottweiler.lifeStages.2.labelMale>
+  <!-- male rottweilers -->
+  <AEXP_Rottweiler.lifeStages.2.labelMalePlural>rottweilers</AEXP_Rottweiler.lifeStages.2.labelMalePlural>
+  <!-- female rottweiler -->
+  <AEXP_Rottweiler.lifeStages.2.labelFemale>rottweiler</AEXP_Rottweiler.lifeStages.2.labelFemale>
+  <!-- female rottweilers -->
+  <AEXP_Rottweiler.lifeStages.2.labelFemalePlural>rottweilers</AEXP_Rottweiler.lifeStages.2.labelFemalePlural>
+  <!-- male rottweiler -->
+  <AEXP_Rottweiler.labelMale>rottweiler</AEXP_Rottweiler.labelMale>
+  <!-- male rottweilers -->
+  <AEXP_Rottweiler.labelMalePlural>rottweilers</AEXP_Rottweiler.labelMalePlural>
+  <!-- female rottweiler -->
+  <AEXP_Rottweiler.labelFemale>rottweiler</AEXP_Rottweiler.labelFemale>
+  <!-- female rottweilers -->
+  <AEXP_Rottweiler.labelFemalePlural>rottweilers</AEXP_Rottweiler.labelFemalePlural>
+
+  <!-- shih-tzu -->
+  <AEXP_Shih-Tzu.label>shih-tzu</AEXP_Shih-Tzu.label>
+  <!-- shih-tzus -->
+  <AEXP_Shih-Tzu.labelPlural>shih-tzues</AEXP_Shih-Tzu.labelPlural>
+  <!-- shih-tzu puppy -->
+  <AEXP_Shih-Tzu.lifeStages.0.label>chiot shih-tzu</AEXP_Shih-Tzu.lifeStages.0.label>
+  <!-- shih-tzu puppies -->
+  <AEXP_Shih-Tzu.lifeStages.0.labelPlural>chiots shih-tzu</AEXP_Shih-Tzu.lifeStages.0.labelPlural>
+  <!-- male shih-tzu puppy -->
+  <AEXP_Shih-Tzu.lifeStages.0.labelMale>chiot shih-tzu</AEXP_Shih-Tzu.lifeStages.0.labelMale>
+  <!-- male shih-tzu puppies -->
+  <AEXP_Shih-Tzu.lifeStages.0.labelMalePlural>chiots shih-tzu</AEXP_Shih-Tzu.lifeStages.0.labelMalePlural>
+  <!-- female shih-tzu puppy -->
+  <AEXP_Shih-Tzu.lifeStages.0.labelFemale>chiot shih-tzu</AEXP_Shih-Tzu.lifeStages.0.labelFemale>
+  <!-- female shih-tzu puppies -->
+  <AEXP_Shih-Tzu.lifeStages.0.labelFemalePlural>chiots shih-tzu</AEXP_Shih-Tzu.lifeStages.0.labelFemalePlural>
+  <!-- shih-tzu -->
+  <AEXP_Shih-Tzu.lifeStages.1.label>shih-tzu</AEXP_Shih-Tzu.lifeStages.1.label>
+  <!-- shih-tzus -->
+  <AEXP_Shih-Tzu.lifeStages.1.labelPlural>shih-tzu</AEXP_Shih-Tzu.lifeStages.1.labelPlural>
+  <!-- male shih-tzu -->
+  <AEXP_Shih-Tzu.lifeStages.1.labelMale>shih-tzu</AEXP_Shih-Tzu.lifeStages.1.labelMale>
+  <!-- male shih-tzus -->
+  <AEXP_Shih-Tzu.lifeStages.1.labelMalePlural>shih-tzu</AEXP_Shih-Tzu.lifeStages.1.labelMalePlural>
+  <!-- female shih-tzu -->
+  <AEXP_Shih-Tzu.lifeStages.1.labelFemale>shih-tzu</AEXP_Shih-Tzu.lifeStages.1.labelFemale>
+  <!-- female shih-tzus -->
+  <AEXP_Shih-Tzu.lifeStages.1.labelFemalePlural>shih-tzu</AEXP_Shih-Tzu.lifeStages.1.labelFemalePlural>
+  <!-- shih-tzu -->
+  <AEXP_Shih-Tzu.lifeStages.2.label>shih-tzu</AEXP_Shih-Tzu.lifeStages.2.label>
+  <!-- shih-tzus -->
+  <AEXP_Shih-Tzu.lifeStages.2.labelPlural>shih-tzu</AEXP_Shih-Tzu.lifeStages.2.labelPlural>
+  <!-- male shih-tzu -->
+  <AEXP_Shih-Tzu.lifeStages.2.labelMale>shih-tzu</AEXP_Shih-Tzu.lifeStages.2.labelMale>
+  <!-- male shih-tzus -->
+  <AEXP_Shih-Tzu.lifeStages.2.labelMalePlural>shih-tzu</AEXP_Shih-Tzu.lifeStages.2.labelMalePlural>
+  <!-- female shih-tzu -->
+  <AEXP_Shih-Tzu.lifeStages.2.labelFemale>shih-tzu</AEXP_Shih-Tzu.lifeStages.2.labelFemale>
+  <!-- female shih-tzus -->
+  <AEXP_Shih-Tzu.lifeStages.2.labelFemalePlural>shih-tzu</AEXP_Shih-Tzu.lifeStages.2.labelFemalePlural>
+  <!-- male shih-tzu -->
+  <AEXP_Shih-Tzu.labelMale>shih-tzu</AEXP_Shih-Tzu.labelMale>
+  <!-- male shih-tzus -->
+  <AEXP_Shih-Tzu.labelMalePlural>shih-tzu</AEXP_Shih-Tzu.labelMalePlural>
+  <!-- female shih-tzu -->
+  <AEXP_Shih-Tzu.labelFemale>shih-tzu</AEXP_Shih-Tzu.labelFemale>
+  <!-- female shih-tzus -->
+  <AEXP_Shih-Tzu.labelFemalePlural>shih-tzu</AEXP_Shih-Tzu.labelFemalePlural>
+
+  <!-- welsh terrier -->
+  <AEXP_WelshTerrier.label>welsh terrier</AEXP_WelshTerrier.label>
+  <!-- welsh terriers -->
+  <AEXP_WelshTerrier.labelPlural>welsh terriers</AEXP_WelshTerrier.labelPlural>
+  <!-- welsh terrier puppy -->
+  <AEXP_WelshTerrier.lifeStages.0.label>chiot welsh terrier</AEXP_WelshTerrier.lifeStages.0.label>
+  <!-- welsh terrier puppies -->
+  <AEXP_WelshTerrier.lifeStages.0.labelPlural>chiot welsh terrier</AEXP_WelshTerrier.lifeStages.0.labelPlural>
+  <!-- male welsh terrier puppy -->
+  <AEXP_WelshTerrier.lifeStages.0.labelMale>chiot welsh terrier</AEXP_WelshTerrier.lifeStages.0.labelMale>
+  <!-- male welsh terrier puppies -->
+  <AEXP_WelshTerrier.lifeStages.0.labelMalePlural>chiot welsh terrier</AEXP_WelshTerrier.lifeStages.0.labelMalePlural>
+  <!-- female welsh terrier puppy -->
+  <AEXP_WelshTerrier.lifeStages.0.labelFemale>chiot welsh terrier</AEXP_WelshTerrier.lifeStages.0.labelFemale>
+  <!-- female welsh terrier puppies -->
+  <AEXP_WelshTerrier.lifeStages.0.labelFemalePlural>chiot welsh terrier</AEXP_WelshTerrier.lifeStages.0.labelFemalePlural>
+  <!-- welsh terrier -->
+  <AEXP_WelshTerrier.lifeStages.1.label>welsh terrier</AEXP_WelshTerrier.lifeStages.1.label>
+  <!-- welsh terriers -->
+  <AEXP_WelshTerrier.lifeStages.1.labelPlural>welsh terriers</AEXP_WelshTerrier.lifeStages.1.labelPlural>
+  <!-- male welsh terrier -->
+  <AEXP_WelshTerrier.lifeStages.1.labelMale>welsh terrier</AEXP_WelshTerrier.lifeStages.1.labelMale>
+  <!-- male welsh terriers -->
+  <AEXP_WelshTerrier.lifeStages.1.labelMalePlural>welsh terriers</AEXP_WelshTerrier.lifeStages.1.labelMalePlural>
+  <!-- female welsh terrier -->
+  <AEXP_WelshTerrier.lifeStages.1.labelFemale>welsh terrier</AEXP_WelshTerrier.lifeStages.1.labelFemale>
+  <!-- female welsh terriers -->
+  <AEXP_WelshTerrier.lifeStages.1.labelFemalePlural>welsh terriers</AEXP_WelshTerrier.lifeStages.1.labelFemalePlural>
+  <!-- welsh terrier -->
+  <AEXP_WelshTerrier.lifeStages.2.label>welsh terrier</AEXP_WelshTerrier.lifeStages.2.label>
+  <!-- welsh terriers -->
+  <AEXP_WelshTerrier.lifeStages.2.labelPlural>welsh terriers</AEXP_WelshTerrier.lifeStages.2.labelPlural>
+  <!-- male welsh terrier -->
+  <AEXP_WelshTerrier.lifeStages.2.labelMale>welsh terrier</AEXP_WelshTerrier.lifeStages.2.labelMale>
+  <!-- male welsh terriers -->
+  <AEXP_WelshTerrier.lifeStages.2.labelMalePlural>welsh terriers</AEXP_WelshTerrier.lifeStages.2.labelMalePlural>
+  <!-- female welsh terrier -->
+  <AEXP_WelshTerrier.lifeStages.2.labelFemale>welsh terrier</AEXP_WelshTerrier.lifeStages.2.labelFemale>
+  <!-- female welsh terriers -->
+  <AEXP_WelshTerrier.lifeStages.2.labelFemalePlural>welsh terriers</AEXP_WelshTerrier.lifeStages.2.labelFemalePlural>
+  <!-- male welsh terrier -->
+  <AEXP_WelshTerrier.labelMale>welsh terrier</AEXP_WelshTerrier.labelMale>
+  <!-- male welsh terriers -->
+  <AEXP_WelshTerrier.labelMalePlural>welsh terriers</AEXP_WelshTerrier.labelMalePlural>
+  <!-- female welsh terrier -->
+  <AEXP_WelshTerrier.labelFemale>welsh terrier</AEXP_WelshTerrier.labelFemale>
+  <!-- female welsh terriers -->
+  <AEXP_WelshTerrier.labelFemalePlural>welsh terriers</AEXP_WelshTerrier.labelFemalePlural>
+
+
+</LanguageData>

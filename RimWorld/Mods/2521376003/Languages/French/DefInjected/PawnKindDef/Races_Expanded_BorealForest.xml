@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Tous les vanilla animals expanded.-->
+  <!-- Boreal Forest -->
+  <!-- otter -->
+  <AEXP_Otter.label>loutre</AEXP_Otter.label>
+  <!-- otters -->
+  <AEXP_Otter.labelPlural>loutres</AEXP_Otter.labelPlural>
+  <!-- otter -->
+  <AEXP_Otter.lifeStages.0.label>bébé loutre</AEXP_Otter.lifeStages.0.label>
+  <!-- otter -->
+  <AEXP_Otter.lifeStages.0.labelPlural>bébés loutre</AEXP_Otter.lifeStages.0.labelPlural>
+  <!-- male otter -->
+  <AEXP_Otter.lifeStages.0.labelMale>bébé loutre</AEXP_Otter.lifeStages.0.labelMale>
+  <!-- male otters -->
+  <AEXP_Otter.lifeStages.0.labelMalePlural>bébés loutre</AEXP_Otter.lifeStages.0.labelMalePlural>
+  <!-- female otter -->
+  <AEXP_Otter.lifeStages.0.labelFemale>bébé loutre</AEXP_Otter.lifeStages.0.labelFemale>
+  <!-- female otters -->
+  <AEXP_Otter.lifeStages.0.labelFemalePlural>bébés loutre</AEXP_Otter.lifeStages.0.labelFemalePlural>
+  <!-- otter -->
+  <AEXP_Otter.lifeStages.1.label>loutre</AEXP_Otter.lifeStages.1.label>
+  <!-- otter -->
+  <AEXP_Otter.lifeStages.1.labelPlural>loutres</AEXP_Otter.lifeStages.1.labelPlural>
+  <!-- male otter -->
+  <AEXP_Otter.lifeStages.1.labelMale>loutre</AEXP_Otter.lifeStages.1.labelMale>
+  <!-- male otters -->
+  <AEXP_Otter.lifeStages.1.labelMalePlural>loutres</AEXP_Otter.lifeStages.1.labelMalePlural>
+  <!-- female otter -->
+  <AEXP_Otter.lifeStages.1.labelFemale>loutre</AEXP_Otter.lifeStages.1.labelFemale>
+  <!-- female otters -->
+  <AEXP_Otter.lifeStages.1.labelFemalePlural>loutres</AEXP_Otter.lifeStages.1.labelFemalePlural>
+  <!-- otter -->
+  <AEXP_Otter.lifeStages.2.label>loutre</AEXP_Otter.lifeStages.2.label>
+  <!-- otter -->
+  <AEXP_Otter.lifeStages.2.labelPlural>loutres</AEXP_Otter.lifeStages.2.labelPlural>
+  <!-- male otter -->
+  <AEXP_Otter.lifeStages.2.labelMale>loutre</AEXP_Otter.lifeStages.2.labelMale>
+  <!-- male otters -->
+  <AEXP_Otter.lifeStages.2.labelMalePlural>loutres</AEXP_Otter.lifeStages.2.labelMalePlural>
+  <!-- female otter -->
+  <AEXP_Otter.lifeStages.2.labelFemale>loutre</AEXP_Otter.lifeStages.2.labelFemale>
+  <!-- female otters -->
+  <AEXP_Otter.lifeStages.2.labelFemalePlural>loutres</AEXP_Otter.lifeStages.2.labelFemalePlural>
+  <!-- male otter -->
+  <AEXP_Otter.labelMale>loutre</AEXP_Otter.labelMale>
+  <!-- male otters -->
+  <AEXP_Otter.labelMalePlural>loutres</AEXP_Otter.labelMalePlural>
+  <!-- female otter -->
+  <AEXP_Otter.labelFemale>loutre</AEXP_Otter.labelFemale>
+  <!-- female otters -->
+  <AEXP_Otter.labelFemalePlural>loutres</AEXP_Otter.labelFemalePlural>
+
+  <!-- arctic coyote -->
+  <AEXP_ArcticCoyote.label>coyote arctique</AEXP_ArcticCoyote.label>
+  <!-- arctic coyotes -->
+  <AEXP_ArcticCoyote.labelPlural>coyotes arctiques</AEXP_ArcticCoyote.labelPlural>
+  <!-- arctic coyote puppy -->
+  <AEXP_ArcticCoyote.lifeStages.0.label>coyote arctique</AEXP_ArcticCoyote.lifeStages.0.label>
+  <!-- arctic coyote puppies -->
+  <AEXP_ArcticCoyote.lifeStages.0.labelPlural>coyote arctique</AEXP_ArcticCoyote.lifeStages.0.labelPlural>
+  <!-- male arctic coyote puppy -->
+  <AEXP_ArcticCoyote.lifeStages.0.labelMale>coyote arctique</AEXP_ArcticCoyote.lifeStages.0.labelMale>
+  <!-- male arctic coyote puppies -->
+  <AEXP_ArcticCoyote.lifeStages.0.labelMalePlural>coyote arctique</AEXP_ArcticCoyote.lifeStages.0.labelMalePlural>
+  <!-- female arctic coyote puppy -->
+  <AEXP_ArcticCoyote.lifeStages.0.labelFemale>coyote arctique</AEXP_ArcticCoyote.lifeStages.0.labelFemale>
+  <!-- female arctic coyote puppies -->
+  <AEXP_ArcticCoyote.lifeStages.0.labelFemalePlural>coyote arctique</AEXP_ArcticCoyote.lifeStages.0.labelFemalePlural>
+  <!-- arctic coyote -->
+  <AEXP_ArcticCoyote.lifeStages.1.label>coyote arctique</AEXP_ArcticCoyote.lifeStages.1.label>
+  <!-- arctic coyotes -->
+  <AEXP_ArcticCoyote.lifeStages.1.labelPlural>coyotes arctiques</AEXP_ArcticCoyote.lifeStages.1.labelPlural>
+  <!-- male arctic coyote -->
+  <AEXP_ArcticCoyote.lifeStages.1.labelMale>coyote arctique</AEXP_ArcticCoyote.lifeStages.1.labelMale>
+  <!-- male arctic coyotes -->
+  <AEXP_ArcticCoyote.lifeStages.1.labelMalePlural>coyotes arctiques</AEXP_ArcticCoyote.lifeStages.1.labelMalePlural>
+  <!-- female arctic coyote -->
+  <AEXP_ArcticCoyote.lifeStages.1.labelFemale>coyote arctique</AEXP_ArcticCoyote.lifeStages.1.labelFemale>
+  <!-- female arctic coyotes -->
+  <AEXP_ArcticCoyote.lifeStages.1.labelFemalePlural>coyotes arctiques</AEXP_ArcticCoyote.lifeStages.1.labelFemalePlural>
+  <!-- arctic coyote -->
+  <AEXP_ArcticCoyote.lifeStages.2.label>coyote arctique</AEXP_ArcticCoyote.lifeStages.2.label>
+  <!-- arctic coyotes -->
+  <AEXP_ArcticCoyote.lifeStages.2.labelPlural>coyotes arctiques</AEXP_ArcticCoyote.lifeStages.2.labelPlural>
+  <!-- male arctic coyote -->
+  <AEXP_ArcticCoyote.lifeStages.2.labelMale>coyote arctique</AEXP_ArcticCoyote.lifeStages.2.labelMale>
+  <!-- male arctic coyotes -->
+  <AEXP_ArcticCoyote.lifeStages.2.labelMalePlural>coyotes arctiques</AEXP_ArcticCoyote.lifeStages.2.labelMalePlural>
+  <!-- female arctic coyote -->
+  <AEXP_ArcticCoyote.lifeStages.2.labelFemale>coyote arctique</AEXP_ArcticCoyote.lifeStages.2.labelFemale>
+  <!-- female arctic coyotes -->
+  <AEXP_ArcticCoyote.lifeStages.2.labelFemalePlural>coyotes arctiques</AEXP_ArcticCoyote.lifeStages.2.labelFemalePlural>
+  <!-- male arctic coyote -->
+  <AEXP_ArcticCoyote.labelMale>coyote arctique</AEXP_ArcticCoyote.labelMale>
+  <!-- male arctic coyotes -->
+  <AEXP_ArcticCoyote.labelMalePlural>coyotes arctiques</AEXP_ArcticCoyote.labelMalePlural>
+  <!-- female arctic coyote -->
+  <AEXP_ArcticCoyote.labelFemale>coyote arctique</AEXP_ArcticCoyote.labelFemale>
+  <!-- female arctic coyotes -->
+  <AEXP_ArcticCoyote.labelFemalePlural>coyotes arctiques</AEXP_ArcticCoyote.labelFemalePlural>
+
+  <!-- black bear -->
+  <AEXP_BlackBear.label>ours noir</AEXP_BlackBear.label>
+  <!-- black bears -->
+  <AEXP_BlackBear.labelPlural>ours noirs</AEXP_BlackBear.labelPlural>
+  <!-- black bear -->
+  <AEXP_BlackBear.lifeStages.0.label>bébé ours noir</AEXP_BlackBear.lifeStages.0.label>
+  <!-- black bear -->
+  <AEXP_BlackBear.lifeStages.0.labelPlural>bébés ours noir</AEXP_BlackBear.lifeStages.0.labelPlural>
+  <!-- male black bear -->
+  <AEXP_BlackBear.lifeStages.0.labelMale>bébé ours noir</AEXP_BlackBear.lifeStages.0.labelMale>
+  <!-- male black bears -->
+  <AEXP_BlackBear.lifeStages.0.labelMalePlural>bébés ours noir</AEXP_BlackBear.lifeStages.0.labelMalePlural>
+  <!-- female black bear -->
+  <AEXP_BlackBear.lifeStages.0.labelFemale>bébé ours noir</AEXP_BlackBear.lifeStages.0.labelFemale>
+  <!-- female black bears -->
+  <AEXP_BlackBear.lifeStages.0.labelFemalePlural>bébés ours noir</AEXP_BlackBear.lifeStages.0.labelFemalePlural>
+  <!-- black bear -->
+  <AEXP_BlackBear.lifeStages.1.label>ours noir</AEXP_BlackBear.lifeStages.1.label>
+  <!-- black bear -->
+  <AEXP_BlackBear.lifeStages.1.labelPlural>ours noirs</AEXP_BlackBear.lifeStages.1.labelPlural>
+  <!-- male black bear -->
+  <AEXP_BlackBear.lifeStages.1.labelMale>ours noir</AEXP_BlackBear.lifeStages.1.labelMale>
+  <!-- male black bears -->
+  <AEXP_BlackBear.lifeStages.1.labelMalePlural>ours noirs</AEXP_BlackBear.lifeStages.1.labelMalePlural>
+  <!-- female black bear -->
+  <AEXP_BlackBear.lifeStages.1.labelFemale>ours noir</AEXP_BlackBear.lifeStages.1.labelFemale>
+  <!-- female black bears -->
+  <AEXP_BlackBear.lifeStages.1.labelFemalePlural>ours noirs</AEXP_BlackBear.lifeStages.1.labelFemalePlural>
+  <!-- black bear -->
+  <AEXP_BlackBear.lifeStages.2.label>ours noir</AEXP_BlackBear.lifeStages.2.label>
+  <!-- black bear -->
+  <AEXP_BlackBear.lifeStages.2.labelPlural>ours noirs</AEXP_BlackBear.lifeStages.2.labelPlural>
+  <!-- male black bear -->
+  <AEXP_BlackBear.lifeStages.2.labelMale>ours noir</AEXP_BlackBear.lifeStages.2.labelMale>
+  <!-- male black bears -->
+  <AEXP_BlackBear.lifeStages.2.labelMalePlural>ours noirs</AEXP_BlackBear.lifeStages.2.labelMalePlural>
+  <!-- female black bear -->
+  <AEXP_BlackBear.lifeStages.2.labelFemale>ours noir</AEXP_BlackBear.lifeStages.2.labelFemale>
+  <!-- female black bears -->
+  <AEXP_BlackBear.lifeStages.2.labelFemalePlural>ours noirs</AEXP_BlackBear.lifeStages.2.labelFemalePlural>
+  <!-- male black bear -->
+  <AEXP_BlackBear.labelMale>ours noir</AEXP_BlackBear.labelMale>
+  <!-- male black bears -->
+  <AEXP_BlackBear.labelMalePlural>ours noirs</AEXP_BlackBear.labelMalePlural>
+  <!-- female black bear -->
+  <AEXP_BlackBear.labelFemale>ours noir</AEXP_BlackBear.labelFemale>
+  <!-- female black bears -->
+  <AEXP_BlackBear.labelFemalePlural>ours noirs</AEXP_BlackBear.labelFemalePlural>
+
+
+</LanguageData>

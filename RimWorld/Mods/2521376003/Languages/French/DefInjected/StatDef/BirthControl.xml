@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR children, school and learning.-->
+  <BirthControl.label>Contrôle des naissances</BirthControl.label>
+  <BirthControl.description>100% Empêche de tomber enceinte pendant 5 jours. (fonctionne pour les deux sexes, au moins l'un d'entre eux doit le prendre) - (Les paramètres par défaut du jeu de base ont la grossesse cachée pour le premier tiers de la durée, cela peut être désactivé dans les paramètres du mod).</BirthControl.description>
+  
+  <BirthControlActive.label>sur le contrôle des naissances</BirthControlActive.label>
+  <BirthControlActive.labelNoun>contrôle des naissances</BirthControlActive.labelNoun>
+  <BirthControlActive.description>contrôle des naissances</BirthControlActive.description>
+  
+</LanguageData>

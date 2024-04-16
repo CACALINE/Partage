@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+	<!-- outdoor lamp -->
+	<Light_Streetlamp.label>lampadaire</Light_Streetlamp.label>
+	<!-- A tall electrical lamp that lights an area, able to be placed outside without catching fire, making it ideal for road lighting and only turns on at night. -->
+	<Light_Streetlamp.description>Une grande lampe électrique qui éclaire une zone, peut être placée à l'extérieur sans prendre feu, ce qui la rend idéale pour l'éclairage routier et ne s'allume que la nuit.</Light_Streetlamp.description>
+	<!-- EN: Off during daylight hours-->
+	<Light_Streetlamp.comps.CompSchedule.offMessage>Off la journée</Light_Streetlamp.comps.CompSchedule.offMessage>
+	<!-- file cabinet -->
+	<Misc_FileCabinet.label>classeur</Misc_FileCabinet.label>
+	<!-- A piece of furniture used for organising documents and records in paper form. It will help you perform research taks faster. -->
+	<Misc_FileCabinet.description>Un meuble utilisé pour organiser des documents et des registres sous forme papier. Cela vous aidera à effectuer des recherches plus rapidement.</Misc_FileCabinet.description>
+	<!-- shelf (1x1) -->
+	<Shelf_1x1c.label>étagère (1x1)</Shelf_1x1c.label>
+	<!-- A small shelf for storing miscellaneous items. Items stored in this will not deteriorate, even if outside. -->
+	<Shelf_1x1c.description>Une petite étagère pour ranger divers articles. Les articles stockés dans celui-ci ne se détérioreront pas, même à l'extérieur.</Shelf_1x1c.description>
+	<!-- weapon rack -->
+	<Shelf_WeaponRack.label>support d'armes</Shelf_WeaponRack.label>
+	<!-- A heavy duty rack for storing weaponry. Weapons stored in this will not deteriorate, even if outside. -->
+	<Shelf_WeaponRack.description>Un support robuste pour ranger les armes. Les armes stockées dans celui-ci ne se détérioreront pas, même si elles sont à l'extérieur.</Shelf_WeaponRack.description>
+	<!-- small bin -->
+	<Bin_Small.label>petite poubelle</Bin_Small.label>
+	<!-- A small bin to help keeping the area around it somewhat clean. Slowly removes trash and filth in a 10 Cell radius. -->
+	<Bin_Small.description>Un petit contenant qui aide à garder l'environnement plus propre. Élimine lentement les déchets et la saleté dans un rayon de 10 cases.</Bin_Small.description>
+	<!-- large bin -->
+	<Bin_Large.label>grande poubelle</Bin_Large.label>
+	<!-- A large bin to help keeping the area around it clean. Slowly removes trash and filth in a 20 Cell radius. -->
+	<Bin_Large.description>Un grand contenant qui aide à garder l'environnement plus propre. Élimine lentement les déchets et la saleté dans un rayon de 20 cases.</Bin_Large.description>
+	<!--Farming-->
+	<!-- scarecrow -->
+	<VFE_Scarecrow.label>épouvantail</VFE_Scarecrow.label>
+	<!-- A humanoid figure made out of hay, dressed in old clothes to deter animals in a large radius. Small animals will be too afraid to approach. -->
+	<VFE_Scarecrow.description>Une figure humanoïde faite de foin, vêtue de vieux vêtements pour dissuader les animaux dans un grand rayon. Les petits animaux auront trop peur pour s'approcher.</VFE_Scarecrow.description>
+	
+	<!-- animal feeder -->
+	<VFE_AnimalFeeder.label>mangeoire pour animaux</VFE_AnimalFeeder.label>
+	<!-- A feeding trough. Food stored in this will not deteriorate, even if outside. -->
+	<VFE_AnimalFeeder.description>Un petit creux. La nourriture qui y est stockée ne se détériorera pas, même si elle est à l'extérieur.</VFE_AnimalFeeder.description>
+	
+	<!-- sprinkler -->
+	<VFE_Sprinkler.label>arroseur</VFE_Sprinkler.label>
+	<!-- A water sprinkler, providing an area around it with water. Enhances the growth of surrounding plants. -->
+	<VFE_Sprinkler.description>Un arroseur simple qui fournit de l'eau à une zone, améliorant la croissance des plantes à proximité.</VFE_Sprinkler.description>
+
+	<!-- Spacer -->
+	<!-- biolab sun lamp -->
+	<Spacer_SunLamp.label>lampe horticole solaire</Spacer_SunLamp.label>
+	<!-- A large sun lamp which lights a large area brightly enough to grow crops as well as providing heat for the area, whilst consuming only a moderate amount of power. Never turns off at night and will not short circuit in rain. -->
+	<Spacer_SunLamp.description>Une grande lampe solaire qui éclaire une grande zone avec suffisamment de luminosité pour cultiver et fournir de la chaleur à la zone, tout en ne consommant qu'une quantité d'énergie modérée. Ne s'éteint pas la nuit. Il ne court-circuite pas sous la pluie.</Spacer_SunLamp.description>
+	<!-- spacer lamp -->
+	<Light_SpacerLamp.label>lampe spatiale</Light_SpacerLamp.label>
+	<!-- A powerful advanced lamp for lighting up rooms effectively whilst utilising an integrated temperature regulation module to keep rooms warmer to a maximum temperature of 15C. Will not short circuit in rain. -->
+	<Light_SpacerLamp.description>Une lampe puissante et avancée pour éclairer efficacement les pièces, tout en utilisant un module de régulation de température intégré pour garder les pièces plus chaudes jusqu'à une température maximale de 15 ° C. Ne court-circuite pas sous la pluie.</Light_SpacerLamp.description>
+	<!-- repair shelf -->
+	<Shelf_RepairRack.label>support de réparation</Shelf_RepairRack.label>
+	<!-- A powered high-tech shelf that utilises mechanites to slowly heal any damage on any clothing, armour or weapons placed on it. -->
+	<Shelf_RepairRack.description>Une plate-forme de haute technologie qui utilise des mécanismes pour réparer lentement tout dommage aux vêtements, armures ou armes placés dessus.</Shelf_RepairRack.description>
+	<!-- outdoor solar lamp -->
+	<Spacer_OutdoorLamp.label>lampe solaire extérieure</Spacer_OutdoorLamp.label>
+	<!-- A self sustained lamp for outdoor use, weaker than a normal industrial lamp but does not require any power, storing energy during the day to power itself 24/7. Will not short circuit in rain. -->
+	<Spacer_OutdoorLamp.description>Une lampe autosuffisante pour une utilisation en extérieur, plus faible qu'une lampe industrielle mais ne nécessite aucune énergie. Ne court-circuite pas sous la pluie.</Spacer_OutdoorLamp.description>
+	<!-- reinforced wall -->
+	<Reinforced_WallAT.label>mur renforcé</Reinforced_WallAT.label>
+	<!-- A reinforced impassable wall, created by layering materials over eachother. Capable of holding up a roof. -->
+	<Reinforced_WallAT.description>Un mur infranchissable renforcé, créé par la superposition de matériaux. Capable de supporter un toit.</Reinforced_WallAT.description>
+	
+</LanguageData>

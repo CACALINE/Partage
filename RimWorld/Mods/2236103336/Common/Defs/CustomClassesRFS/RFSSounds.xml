@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  
+  <SoundDef>
+    <defName>KS_PitchPerfect</defName>  
+    <context>MapOnly</context>
+    <eventNames />  
+    <maxSimultaneous>1</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Abilities/pitchperfect</clipPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>55.2941</min>        
+          <max>55.2941</max>
+        </volumeRange>      
+        <pitchRange>
+          <min>0.91765</min>        
+          <max>0.925</max>
+        </pitchRange>      
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+
+  <SoundDef>
+    <defName>KS_Serenade</defName>  
+    <context>MapOnly</context>
+    <eventNames />  
+    <maxSimultaneous>1</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Abilities/serenade</clipPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>55.2941</min>        
+          <max>55.2941</max>
+        </volumeRange>      
+        <pitchRange>
+          <min>0.91765</min>        
+          <max>0.925</max>
+        </pitchRange>      
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+
+  <SoundDef>
+    <defName>KS_ArmysPaeon</defName>  
+    <context>MapOnly</context>
+    <eventNames />  
+    <maxSimultaneous>1</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Abilities/armyspaeon</clipPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>55.2941</min>        
+          <max>55.2941</max>
+        </volumeRange>      
+        <pitchRange>
+          <min>0.91765</min>        
+          <max>0.925</max>
+        </pitchRange>      
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+
+  <SoundDef>
+    <defName>KS_MagesBallad</defName>  
+    <context>MapOnly</context>
+    <eventNames />  
+    <maxSimultaneous>1</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Abilities/magesballad</clipPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>55.2941</min>        
+          <max>55.2941</max>
+        </volumeRange>      
+        <pitchRange>
+          <min>0.91765</min>        
+          <max>0.925</max>
+        </pitchRange>      
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+
+  <SoundDef>
+    <defName>KS_WanderersMinuet</defName>  
+    <context>MapOnly</context>
+    <eventNames />  
+    <maxSimultaneous>1</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Abilities/wanderersminuet</clipPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>55.2941</min>        
+          <max>55.2941</max>
+        </volumeRange>      
+        <pitchRange>
+          <min>0.91765</min>        
+          <max>0.925</max>
+        </pitchRange>      
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+
+  <SoundDef>
+    <defName>KS_NaturesMinne</defName>  
+    <context>MapOnly</context>
+    <eventNames />  
+    <maxSimultaneous>1</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Abilities/naturesminne</clipPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>55.2941</min>        
+          <max>55.2941</max>
+        </volumeRange>      
+        <pitchRange>
+          <min>0.91765</min>        
+          <max>0.925</max>
+        </pitchRange>      
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+
+  <SoundDef>
+    <defName>KS_EmpyrealArrow</defName>  
+    <context>MapOnly</context>
+    <eventNames />  
+    <maxSimultaneous>1</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Abilities/empyrealarrow</clipPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>55.2941</min>        
+          <max>55.2941</max>
+        </volumeRange>      
+        <pitchRange>
+          <min>0.91765</min>        
+          <max>0.925</max>
+        </pitchRange>      
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+
+  <SoundDef>
+    <defName>KS_WardensPaean</defName>  
+    <context>MapOnly</context>
+    <eventNames />  
+    <maxSimultaneous>1</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Abilities/wardenspaean</clipPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>55.2941</min>        
+          <max>55.2941</max>
+        </volumeRange>      
+        <pitchRange>
+          <min>0.91765</min>        
+          <max>0.925</max>
+        </pitchRange>      
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+
+  <SoundDef>
+    <defName>KS_Impromptu</defName>  
+    <context>MapOnly</context>
+    <eventNames />  
+    <maxSimultaneous>1</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Abilities/impromptu</clipPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>55.2941</min>        
+          <max>55.2941</max>
+        </volumeRange>      
+        <pitchRange>
+          <min>0.91765</min>        
+          <max>0.925</max>
+        </pitchRange>      
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+
+  <SoundDef>
+    <defName>KS_Draw</defName>  
+    <context>MapOnly</context>
+    <eventNames />  
+    <maxSimultaneous>1</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Abilities/drawcard</clipPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>90.2941</min>        
+          <max>95.2941</max>
+        </volumeRange>      
+        <pitchRange>
+          <min>0.91765</min>        
+          <max>0.925</max>
+        </pitchRange>      
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+
+  <SoundDef>
+    <defName>KS_Swiftsong</defName>  
+    <context>MapOnly</context>
+    <eventNames />  
+    <maxSimultaneous>1</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Abilities/swiftsong</clipPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>55.2941</min>        
+          <max>55.2941</max>
+        </volumeRange>      
+        <pitchRange>
+          <min>0.91765</min>        
+          <max>0.925</max>
+        </pitchRange>      
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+
+  <SoundDef>
+    <defName>KS_SleightOfHand</defName>  
+    <context>MapOnly</context>
+    <eventNames />  
+    <maxSimultaneous>1</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Abilities/sleightofhand</clipPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>65.2941</min>        
+          <max>70.2941</max>
+        </volumeRange>      
+        <pitchRange>
+          <min>0.91765</min>        
+          <max>0.925</max>
+        </pitchRange>      
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+
+  <SoundDef>
+    <defName>KS_Joker</defName>  
+    <context>MapOnly</context>
+    <eventNames />  
+    <maxSimultaneous>1</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Abilities/joker</clipPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>45.2941</min>        
+          <max>45.2941</max>
+        </volumeRange>      
+        <pitchRange>
+          <min>0.91765</min>        
+          <max>0.925</max>
+        </pitchRange>      
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+
+  <SoundDef>
+    <defName>KS_SoftBuff</defName>  
+    <context>MapOnly</context>
+    <eventNames />  
+    <maxSimultaneous>1</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Abilities/softbuff</clipPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>45.2941</min>        
+          <max>45.2941</max>
+        </volumeRange>      
+        <pitchRange>
+          <min>0.91765</min>        
+          <max>0.925</max>
+        </pitchRange>      
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+
+  <SoundDef>
+    <defName>KS_LordOfCrowns</defName>  
+    <context>MapOnly</context>
+    <eventNames />  
+    <maxSimultaneous>1</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Abilities/lordofcrowns</clipPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>45.2941</min>        
+          <max>45.2941</max>
+        </volumeRange>      
+        <pitchRange>
+          <min>0.91765</min>        
+          <max>0.925</max>
+        </pitchRange>      
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+
+  <SoundDef>
+    <defName>KS_LordOfCrownsB</defName>  
+    <context>MapOnly</context>
+    <eventNames />  
+    <maxSimultaneous>1</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Abilities/lordofcrowns2</clipPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>45.2941</min>        
+          <max>45.2941</max>
+        </volumeRange>      
+        <pitchRange>
+          <min>0.91765</min>        
+          <max>0.925</max>
+        </pitchRange>      
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+
+  <SoundDef>
+    <defName>KS_SleeveDraw</defName>  
+    <context>MapOnly</context>
+    <eventNames />  
+    <maxSimultaneous>1</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Abilities/sleevedraw</clipPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>45.2941</min>        
+          <max>45.2941</max>
+        </volumeRange>      
+        <pitchRange>
+          <min>0.91765</min>        
+          <max>0.925</max>
+        </pitchRange>      
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  
+  <SoundDef>
+    <defName>KS_BuffSound</defName>  
+    <context>MapOnly</context>
+    <eventNames />  
+    <maxSimultaneous>1</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Abilities/buffsound</clipPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>35.2941</min>        
+          <max>40.2941</max>
+        </volumeRange>      
+        <pitchRange>
+          <min>0.91765</min>        
+          <max>0.925</max>
+        </pitchRange>      
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+
+  <SoundDef>
+    <defName>KS_BuffCard</defName>  
+    <context>MapOnly</context>
+    <eventNames />  
+    <maxSimultaneous>1</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Abilities/buffcard</clipPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>45.2941</min>        
+          <max>45.2941</max>
+        </volumeRange>      
+        <pitchRange>
+          <min>0.91765</min>        
+          <max>0.925</max>
+        </pitchRange>      
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+
+  <SoundDef>
+    <defName>KS_DeckBlast</defName>  
+    <context>MapOnly</context>
+    <eventNames />  
+    <maxSimultaneous>1</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Abilities/deckblast</clipPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>45.2941</min>        
+          <max>45.2941</max>
+        </volumeRange>      
+        <pitchRange>
+          <min>0.91765</min>        
+          <max>0.925</max>
+        </pitchRange>      
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+
+  <SoundDef>
+    <defName>KS_VoidCard</defName>  
+    <context>MapOnly</context>
+    <eventNames />  
+    <maxSimultaneous>1</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Abilities/voidcard</clipPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>45.2941</min>        
+          <max>45.2941</max>
+        </volumeRange>      
+        <pitchRange>
+          <min>0.91765</min>        
+          <max>0.925</max>
+        </pitchRange>      
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+
+  <SoundDef>
+    <defName>KS_TheEwer</defName>  
+    <context>MapOnly</context>
+    <eventNames />  
+    <maxSimultaneous>1</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Abilities/theewer</clipPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>35.2941</min>        
+          <max>40.2941</max>
+        </volumeRange>      
+        <pitchRange>
+          <min>0.91765</min>        
+          <max>0.925</max>
+        </pitchRange>      
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+
+  <SoundDef>
+    <defName>KS_RedCardHit</defName>  
+    <context>MapOnly</context>
+    <eventNames />  
+    <maxSimultaneous>1</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Abilities/redcardhit</clipPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>35.2941</min>        
+          <max>45.2941</max>
+        </volumeRange>      
+        <pitchRange>
+          <min>0.91765</min>        
+          <max>0.925</max>
+        </pitchRange>      
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+
+  <SoundDef>
+    <defName>KS_PhotonBlitz</defName>  
+    <context>MapOnly</context>
+    <eventNames />  
+    <maxSimultaneous>1</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Abilities/photonblitz</clipPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>40.2941</min>        
+          <max>45.2941</max>
+        </volumeRange>      
+        <pitchRange>
+          <min>0.91765</min>        
+          <max>0.925</max>
+        </pitchRange>      
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+
+  <SoundDef>
+    <defName>KS_Sheltron</defName>  
+    <context>MapOnly</context>
+    <eventNames />  
+    <maxSimultaneous>1</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Abilities/sheltron</clipPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>50.2941</min>        
+          <max>55.2941</max>
+        </volumeRange>      
+        <pitchRange>
+          <min>0.85</min>        
+          <max>0.95</max>
+        </pitchRange>      
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+
+  <SoundDef>
+    <defName>KS_MagicBuff</defName>  
+    <context>MapOnly</context>
+    <eventNames />  
+    <maxSimultaneous>1</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Abilities/magicbuff</clipPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>60.2941</min>        
+          <max>65.2941</max>
+        </volumeRange>      
+        <pitchRange>
+          <min>0.91765</min>        
+          <max>0.925</max>
+        </pitchRange>      
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+
+  <SoundDef>
+    <defName>KS_WeirdBuff</defName>  
+    <context>MapOnly</context>
+    <eventNames />  
+    <maxSimultaneous>1</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Abilities/weirdbuff</clipPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>60.2941</min>        
+          <max>65.2941</max>
+        </volumeRange>      
+        <pitchRange>
+          <min>0.91765</min>        
+          <max>0.925</max>
+        </pitchRange>      
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+
+  <SoundDef>
+    <defName>KS_Destiny</defName>  
+    <eventNames />  
+    <maxSimultaneous>1</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <onCamera>True</onCamera> 
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Abilities/destiny</clipPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>70.2941</min>        
+          <max>75.2941</max>
+        </volumeRange>      
+        <pitchRange>
+          <min>0.91765</min>        
+          <max>0.925</max>
+        </pitchRange>      
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+
+  <SoundDef>
+    <defName>KS_Reload</defName>  
+    <context>MapOnly</context>
+    <eventNames />  
+    <maxSimultaneous>1</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Abilities/reloadsfx</clipPath>
+          </li>
+        </grains>      
+        <volumeRange>
+          <min>35.2941</min>        
+          <max>35.2941</max>
+        </volumeRange>      
+        <pitchRange>
+          <min>0.91765</min>        
+          <max>0.925</max>
+        </pitchRange>      
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+
+</Defs>

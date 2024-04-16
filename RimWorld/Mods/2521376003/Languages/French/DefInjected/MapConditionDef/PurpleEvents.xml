@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR vanilla events expanded.-->
+  <!--<L'ère glaciaire-->
+
+  <IceAge.label>L'ère glaciaire</IceAge.label>
+  <IceAge.description>La composition atmosphérique de la planète a radicalement changé, entraînant une baisse significative de la température.
+  
+La flore et la faune souffrent de ces changements, les biomes devenant plus froids. Les ressources se raréfient, forçant les factions à entrer en conflit.
+
+Il durera entre une saison et plusieurs années.</IceAge.description>
+  <IceAge.endMessage>L'ère glaciaire se termine</IceAge.endMessage>
+  
+  <!--<Réchauffement climatique-->
+  
+   <GlobalWarming.label>Réchauffement climatique</GlobalWarming.label>
+  <GlobalWarming.description>Les températures mondiales ont soudainement atteint des niveaux dangereux.
+  
+La flore et la faune souffrent de ces changements, car les biomes se transforment en leurs homologues plus chauds. Les ressources se raréfient, forçant les factions à entrer en conflit.
+
+Il durera entre une saison et plusieurs années.</GlobalWarming.description>
+  <GlobalWarming.endMessage>Le réchauffement climatique prend fin</GlobalWarming.endMessage>
+  
+    <!--<La pluie psychique-->
+  
+   <PsychicRain.label>La pluie psychique</PsychicRain.label>
+  <PsychicRain.description>Une dangereuse entité psychique a provoqué des perturbations à des niveaux subatomiques, résonnant à travers toutes les particules de l'atmosphère.
+  
+Une pluie surnaturelle apparemment sans fin a commencé, altérant la composition même du temps. Toute personne ou créature qui n'est pas sous le toit vieillira significativement plus vite.
+
+Il durera entre une saison et plusieurs années.</PsychicRain.description>
+  <PsychicRain.endMessage>La pluie psychique se termine</PsychicRain.endMessage>
+
+      <!--<Longue nuit-->
+  
+   <LongNight.label>Longue nuit</LongNight.label>
+  <LongNight.description>Une entité spatiale d'une taille inimaginable a recouvert une étoile locale, provoquant une éclipse de longue durée.
+  
+Terrifiées par ce phénomène surnaturel, les autres factions profiteront de cette période pour mener des guerres et des conflits à la surface.
+
+Il durera entre une saison et plusieurs années.</LongNight.description>
+  <LongNight.endMessage>La longue nuit s'achève</LongNight.endMessage>
+  
+        <!--<Floraison psychique -->
+  
+   <PsychicBloom.label>Floraison psychique</PsychicBloom.label>
+  <PsychicBloom.description>Une forte impulsion psychique émise par une entité oubliée depuis longtemps a modifié la structure génétique de la flore locale. Tandis que le ciel se remplissait d'aurores boréales apparemment sans fin, des fleurs colorées ont commencé à pousser partout. 
+  
+Tous les colons bénéficieront d'une amélioration de l'humeur pendant la durée de l'événement. Les fleurs qui se répandent rapidement envahiront tout, y compris vos champs. 
+
+Il durera entre une saison et plusieurs années.</PsychicBloom.description>
+  <PsychicBloom.endMessage>La floraison psychique est terminée</PsychicBloom.endMessage>
+  
+</LanguageData>

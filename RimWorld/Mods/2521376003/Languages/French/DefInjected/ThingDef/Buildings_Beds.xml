@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+	<!-- operating table -->
+	<Bed_OperatingTable.label>table d'opération</Bed_OperatingTable.label>
+	<!-- A crude table cluttered with instruments that supposedly make surgery easier, the cleanliness of the table is questionable though. Slightly improves medical outcomes over normal beds. -->
+	<Bed_OperatingTable.description>Une table brute pleine d'instruments qui facilitent la chirurgie, même si la propreté de la table est discutable. Améliore légèrement les résultats médicaux par rapport aux lits normaux.</Bed_OperatingTable.description>
+	<!-- cryptosleep suspender -->
+	<Bed_CryptoBed.label>suspension de crypto-sommeil</Bed_CryptoBed.label>
+	<!-- A medical that uses partial cryptosleep to slow down the degredation of wounds and help the body heal, although with the same side effects of cryptosleep, albeit at a lesser severity. -->
+	<Bed_CryptoBed.description>Une méthode médicale qui utilise le crypto-sommeil partiel pour réduire les blessures et aider à reconstruire le corps. Il a les mêmes effets secondaires que le crypto-sommeil, mais avec moins de gravité.</Bed_CryptoBed.description>
+
+	<!-- Spacer -->
+	<!-- advanced bed -->
+	<Bed_AdvBed.label>lit avancé</Bed_AdvBed.label>
+	<!-- A powered high-tech bed that automatically readjusts itself to perfectly fit the contours of the sleeper, with built in white noise generation. Sleepers often report feeling refreshed and more alert the morning after. -->
+	<Bed_AdvBed.description>Un lit de haute technologie qui se réajuste automatiquement pour épouser parfaitement les contours de l'utilisateur, avec une génération de bruit blanc intégrée. Les dormeurs déclarent souvent se sentir rafraîchis et plus alertes le lendemain matin.</Bed_AdvBed.description>
+	<!-- advanced double bed -->
+	<Bed_AdvDoubleBed.label>lit double avancé</Bed_AdvDoubleBed.label>
+	<!-- A powered high-tech double bed that automatically readjusts itself to perfectly fit the contours of both sleepers, with built in white noise generation. Sleepers often report feeling refreshed and more alert the morning after. -->
+	<Bed_AdvDoubleBed.description>Un lit double high-tech qui se réajuste automatiquement pour épouser parfaitement les contours des deux utilisateurs, avec génération de bruit blanc intégrée. Les dormeurs déclarent souvent se sentir rafraîchis et plus alertes le lendemain matin.</Bed_AdvDoubleBed.description>
+	<!-- illuminated end table -->
+	<Table_IlluminatedEndTable.label>table de chevet à led</Table_IlluminatedEndTable.label>
+	<!-- A small illuminated bedside table adorned with light strips which makes nearby beds a little bit more comfortable, whilst lighting the room. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect. -->
+	<Table_IlluminatedEndTable.description>Une petite table ornée de bandes lumineuses. Rend les lits voisins un peu plus confortables. Ils doivent être placés directement à côté de la tête du lit. Placer plus d'une table d'appoint près du même lit n'aura aucun effet.</Table_IlluminatedEndTable.description>
+	<!-- illuminated dresser -->
+	<Table_IlluminatedDresser.label>commode à led</Table_IlluminatedDresser.label>
+	<!-- An illuminated dresser, adorned with light strips. Gives a small comfort bonus to all nearby beds, whilst lighting up the room. Placing more than one dresser near the same bed has no effect. -->
+	<Table_IlluminatedDresser.description>Une commode lumineuse, ornée de bandes lumineuses. Fournit un petit bonus d'efficacité du sommeil à tous les lits à proximité. Placer plus d'un placard près du même lit n'a aucun effet.</Table_IlluminatedDresser.description>
+</LanguageData>

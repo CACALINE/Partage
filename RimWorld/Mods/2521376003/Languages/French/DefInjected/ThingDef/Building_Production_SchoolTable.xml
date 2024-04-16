@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR children, school and learning.-->
+  <SchoolTable.label>Table d'école</SchoolTable.label>
+  <SchoolTable.description>Une table d'apprentissage.</SchoolTable.description>
+
+</LanguageData>

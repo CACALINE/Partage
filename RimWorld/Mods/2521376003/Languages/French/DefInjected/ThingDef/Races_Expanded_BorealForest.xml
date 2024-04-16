@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR Tous les vanilla animals expanded.-->
+  <!-- Boreal Forest -->
+  <!-- otter -->
+  <AEXP_Otter.label>loutre</AEXP_Otter.label>
+  <!-- Long, slim, semi-aquatic mammal dieting mostly on fish and small plants. They are extremaly good swimmers and can hold breath under water for a prolonged amount of time. -->
+  <AEXP_Otter.description>Mammifères semi-aquatiques minces et longs qui consomment principalement des poissons et de petites plantes. Ce sont des nageurs extraordinaires qui peuvent retenir leur souffle sous l'eau pendant une période prolongée.</AEXP_Otter.description>
+  <!-- left claw -->
+  <AEXP_Otter.tools.left_claw.label>griffe gauche</AEXP_Otter.tools.left_claw.label>
+  <!-- right claw -->
+  <AEXP_Otter.tools.right_claw.label>griffe droite</AEXP_Otter.tools.right_claw.label>
+  <!-- head -->
+  <AEXP_Otter.tools.head.label>tête</AEXP_Otter.tools.head.label>
+
+  <Corpse_AEXP_Otter.label>cadavre de loutre</Corpse_AEXP_Otter.label>
+  <Corpse_AEXP_Otter.description>Le corps sans vie d'une loutre.</Corpse_AEXP_Otter.description>
+  <Meat_AEXP_Otter.label>viande de loutre</Meat_AEXP_Otter.label>
+  <Meat_AEXP_Otter.description>Viande crue dépecée. Peut être cuit ou consommé cru.</Meat_AEXP_Otter.description>
+
+  <!-- arctic coyote -->
+  <AEXP_ArcticCoyote.label>coyote artique</AEXP_ArcticCoyote.label>
+  <!-- A small canine native to tundra and boreal forests. It's capable of hunting much bigger prey, and is often found in packs, similar to a wolf. -->
+  <AEXP_ArcticCoyote.description>Un petit chien originaire de la toundra et des forêts boréales. Il est capable de chasser des proies beaucoup plus grosses que lui-même et se trouve souvent en meute, semblable à un loup.</AEXP_ArcticCoyote.description>
+  <!-- left claw -->
+  <AEXP_ArcticCoyote.tools.left_claw.label>griffe gauche</AEXP_ArcticCoyote.tools.left_claw.label>
+  <!-- right claw -->
+  <AEXP_ArcticCoyote.tools.right_claw.label>griffe droite</AEXP_ArcticCoyote.tools.right_claw.label>
+  <!-- head -->
+  <AEXP_ArcticCoyote.tools.head.label>tête</AEXP_ArcticCoyote.tools.head.label>
+
+  <Corpse_AEXP_ArcticCoyote.label>cadavre de coyote artique</Corpse_AEXP_ArcticCoyote.label>
+  <Corpse_AEXP_ArcticCoyote.description>Le corps sans vie d'un coyote artique.</Corpse_AEXP_ArcticCoyote.description>
+  <Meat_AEXP_ArcticCoyote.label>viande de coyote artique</Meat_AEXP_ArcticCoyote.label>
+  <Meat_AEXP_ArcticCoyote.description>Viande crue dépecée. Peut être cuit ou consommé cru.</Meat_AEXP_ArcticCoyote.description>
+
+  <!-- black bear -->
+  <AEXP_BlackBear.label>ours noir</AEXP_BlackBear.label>
+  <!-- A medium sized omnivorous mammal adapted for cold climates. Bears' thick blubber and fur keeps them warm in winter.\n\nWhile their usual diet consists of fish, berries, honey, and scavenged meat, the black bear is capable of using its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures. -->
+  <AEXP_BlackBear.description>Un mammifère omnivore de taille moyenne adapté aux climats froids. La graisse et la fourrure épaisse des ours les garde au chaud en hiver. \n\nBien que leur régime alimentaire habituel se compose de poisson, de baies, de miel et de viande récupérée, l'ours noir est capable d'utiliser sa force massive et ses griffes mortelles pour tuer des proies vivantes. Ils sont étonnamment rapides pour de telles créatures forestières.</AEXP_BlackBear.description>
+  <!-- left claw -->
+  <AEXP_BlackBear.tools.left_claw.label>griffe gauche</AEXP_BlackBear.tools.left_claw.label>
+  <!-- right claw -->
+  <AEXP_BlackBear.tools.right_claw.label>griffe droite</AEXP_BlackBear.tools.right_claw.label>
+  <!-- head -->
+  <AEXP_BlackBear.tools.head.label>tête</AEXP_BlackBear.tools.head.label>
+
+  <Corpse_AEXP_BlackBear.label>cadavre d'ours noir</Corpse_AEXP_BlackBear.label>
+  <Corpse_AEXP_BlackBear.description>Le corps sans vie d'un ours noir.</Corpse_AEXP_BlackBear.description>
+
+</LanguageData>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  
+  <ThingDef ParentName="TM_PlantBase">
+		<defName>TM_CaltropsBD</defName>
+		<label>caltrops</label>
+		<description>Sharp, pointy objects dropped to hinder passage in an area.</description>
+		<statBases>
+			<MaxHitPoints>100</MaxHitPoints>
+			<Nutrition>0.05</Nutrition>
+			<Beauty>-8</Beauty>
+     			 <Flammability>10.0</Flammability>
+		</statBases>
+		<tickerType>Normal</tickerType>
+		<pathCost>55</pathCost>
+		<graphicData>
+			<texPath>Spells/caltrops</texPath>
+		</graphicData>
+		<ingestible />
+		<plant>
+			<fertilitySensitivity>0.0</fertilitySensitivity>
+			<growDays>0.0</growDays>
+			<fertilityMin>0</fertilityMin>
+			<growMinGlow>0</growMinGlow>
+			<lifespanDaysPerGrowDays>20</lifespanDaysPerGrowDays>
+			<harvestWork>60</harvestWork>
+			<maxMeshCount>1</maxMeshCount>
+			<leaflessGraphicPath>Spells/caltrops</leaflessGraphicPath>
+			<dieIfLeafless>true</dieIfLeafless>
+			<visualSizeRange>
+				<min>1</min>
+				<max>1</max>
+			</visualSizeRange>
+			<topWindExposure>0.05</topWindExposure>
+			<wildOrder>2</wildOrder>
+			<wildEqualLocalDistribution>false</wildEqualLocalDistribution>
+		</plant>
+	<comps>
+	  <li>
+        <compClass>TorannMagic.CompPlantHazard</compClass>
+      </li>	  
+    </comps>
+	</ThingDef>
+  
+</Defs>

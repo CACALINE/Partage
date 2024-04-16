@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR vanilla social interactions expanded.-->
+  <VSIE_BondedPetButcheredOpinion.stages.0.label>{BUTCHER_nameDef} a massacré mon animal de compagnie, je ne lui pardonnerai jamais.</VSIE_BondedPetButcheredOpinion.stages.0.label>
+  <VSIE_ExposedCorpseOfMyFriendOpinion.stages.0.label>{OTHERPAWN_nameDef} a déterré le corps de mon {0} {VICTIM_nameDef} et l'a exposé. Je mépriserai toujours {OTHERPAWN_objective} pour cela.</VSIE_ExposedCorpseOfMyFriendOpinion.stages.0.label>
+  <VSIE_IngestedHumanFlesh.stages.0.label>{OTHERPAWN_nameDef} a mangé de la chair humaine. Je me méfie beaucoup de {OTHERPAWN_possessive}.</VSIE_IngestedHumanFlesh.stages.0.label>
+  <VSIE_BingedFood.stages.0.label>{OTHERPAWN_nameDef} a eu une orgie culinaire. Quel gaspillage.</VSIE_BingedFood.stages.0.label>
+  <VSIE_BingedDrug.stages.0.label>{OTHERPAWN_nameDef} a eu un problème de drogue. Comment peut-il être aussi irresponsable?</VSIE_BingedDrug.stages.0.label>
+  <VSIE_HideInRoom.stages.0.label>{OTHERPAWN_nameDef} se cachait dans sa chambre. Étrange.</VSIE_HideInRoom.stages.0.label>
+  <VSIE_WanderedInSaddness.stages.0.label>{OTHERPAWN_nameDef} erre dans la tristesse. Je suis désolé pour {OTHERPAWN_objective}.</VSIE_WanderedInSaddness.stages.0.label>
+  <VSIE_WentIntoSadisticRage.stages.0.label>{OTHERPAWN_nameDef} est entré dans une rage sadique. C'est absolument dégoûtant.</VSIE_WentIntoSadisticRage.stages.0.label>
+  <VSIE_ThrewTantrum.stages.0.label>{OTHERPAWN_nameDef} a eu un accès de colère. {OTHERPAWN_objective} doit apprendre à se maîtriser.</VSIE_ThrewTantrum.stages.0.label>
+  <VSIE_WentBerserk.stages.0.label>{OTHERPAWN_nameDef} est devenu un Berseker. Je ne me sens plus à l'aise avec {OTHERPAWN_objective}</VSIE_WentBerserk.stages.0.label>
+  <VSIE_WentOnFireStartingSpree.stages.0.label>{OTHERPAWN_nameDef} a mis le feu à des choses sans raison. Comment oublier ça?</VSIE_WentOnFireStartingSpree.stages.0.label>
+  <VSIE_WentOnMurderousRage.stages.0.label>{OTHERPAWN_nameDef} a une colère meurtrière. Et si j'étais sa prochaine cible ?</VSIE_WentOnMurderousRage.stages.0.label>
+  <VSIE_RanWild.stages.0.label>{OTHERPAWN_nameDef} a couru follement. Étrange.</VSIE_RanWild.stages.0.label>
+  <VSIE_InsultedMe.stages.0.label>{OTHERPAWN_nameDef} m'a insulté. Les mots coupent parfois plus profondément que les poignards.</VSIE_InsultedMe.stages.0.label>
+  <VSIE_SlaughteredAnimalInRage.stages.0.label>{OTHERPAWN_nameDef} a massacré notre animal dans une rage aveugle. Je méprise {OTHERPAWN_objective}.</VSIE_SlaughteredAnimalInRage.stages.0.label>
+  <VSIE_RebuffedMe.stages.0.label>{OTHERPAWN_nameDef} m'a rejeté. Je pensais que {OTHERPAWN_pronoun} était mon âme-soeur.</VSIE_RebuffedMe.stages.0.label>
+  <VSIE_InducedPrisonerToEscape.stages.0.label>{OTHERPAWN_nameDef} a libéré nos prisonniers. Cela aurait pu très mal finir!</VSIE_InducedPrisonerToEscape.stages.0.label>
+  <VSIE_TamedThrumbo.stages.0.label>{OTHERPAWN_nameDef} a apprivoisé un Thrumbo. Quelle réalisation légendaire!</VSIE_TamedThrumbo.stages.0.label>
+  <VSIE_WasPreviouslyOurEnemy.stages.0.label>{OTHERPAWN_nameDef} était récemment notre ennemi. Je ne fais pas confiance à {OTHERPAWN_objective}.</VSIE_WasPreviouslyOurEnemy.stages.0.label>
+  <VSIE_WasBadlyInjured.stages.0.label>{OTHERPAWN_nameDef} a été grièvement blessé au combat. J'admire son courage.</VSIE_WasBadlyInjured.stages.0.label>
+  <VSIE_DidNotAttendWedding.stages.0.label>{OTHERPAWN_nameDef} n'a pas assisté à notre cérémonie de mariage! Était-ce si difficile d'être là et d'être avec moi ce jour-là?</VSIE_DidNotAttendWedding.stages.0.label>
+  <VSIE_AttendedMyWedding.stages.0.label>{OTHERPAWN_nameDef} a assisté à mon mariage.</VSIE_AttendedMyWedding.stages.0.label>
+  <VSIE_RemovedPrisonersOrgans.stages.0.label>{OTHERPAWN_nameDef} a prélevé les organes d'un prisonnier! Comment une personne peut-elle être capable d'une telle chose?</VSIE_RemovedPrisonersOrgans.stages.0.label>
+  <VSIE_FailedMedicalOperationAndKilled.stages.0.label>{OTHERPAWN_nameDef} a échoué à une opération médicale et a tué l'un d'entre nous.</VSIE_FailedMedicalOperationAndKilled.stages.0.label>
+  <VSIE_TamedMe.stages.0.label>{OTHERPAWN_nameDef} m'a apprivoisé, je serai toujours heureux des miracles qui m'ont été montrés.</VSIE_TamedMe.stages.0.label>
+  <VSIE_ArrestedMe.stages.0.label>{OTHERPAWN_nameDef} m'a capturé.</VSIE_ArrestedMe.stages.0.label>
+  <VSIE_ResurrectedMe.stages.0.label>{OTHERPAWN_nameDef} m'a ressuscité.</VSIE_ResurrectedMe.stages.0.label>
+  <VSIE_BrokeUpWithMe.stages.0.label>{OTHERPAWN_nameDef} a rompu avec moi. Ne trouverai-je jamais quelqu'un qui me convient?</VSIE_BrokeUpWithMe.stages.0.label>
+  <VSIE_WeHadNiceChat.stages.0.label>{OTHERPAWN_nameDef} et moi avons eu une belle conversation. On a l'impression qu'on peut parler de n'importe quoi.</VSIE_WeHadNiceChat.stages.0.label>
+  <VSIE_WeHadSocialFight.stages.0.label>{OTHERPAWN_nameDef} et moi avons eu une lutte sociale.</VSIE_WeHadSocialFight.stages.0.label>
+  <VSIE_SavedMeFromMyWounds.stages.0.label>{OTHERPAWN_nameDef} m'a sauvé de mes blessures. Je lui serai à jamais redevable.</VSIE_SavedMeFromMyWounds.stages.0.label>
+  <VSIE_HasBeenMyFriendSinceChildhood.stages.0.label>{OTHERPAWN_nameDef} est mon ami depuis que je suis enfant, nous avons tellement de choses en commun que personne ne peut nous séparer.</VSIE_HasBeenMyFriendSinceChildhood.stages.0.label>
+  <VSIE_SavedMeFromRaiders.stages.0.label>{SECONDPAWN_nameDef} m'a sauvé de {THIRDPAWN_kindDef}. Je lui serai à jamais redevable.</VSIE_SavedMeFromRaiders.stages.0.label>
+  <VSIE_CuredMyFriend.stages.0.label>{SECONDPAWN_nameDef} a guéri {0} {THIRDPAWN_nameDef}. Je lui en serai toujours reconnaissant.</VSIE_CuredMyFriend.stages.0.label>
+  <VSIE_StoleMyLover.stages.0.label>{SECONDPAWN_nameDef} a volé mon {0} {THIRDPAWN_nameDef}. Qu'est-ce qui rend {SECONDPAWN_objective} tellement meilleur?</VSIE_StoleMyLover.stages.0.label>
+  <VSIE_IsRoyalty.stages.0.label>{OTHERPAWN_nameDef} est royal. je suis impressionné.</VSIE_IsRoyalty.stages.0.label>
+
+  <VSIE_GotSomeLovin.stages.0.label>A eu des relations sexuelles</VSIE_GotSomeLovin.stages.0.label>
+  <VSIE_GotSomeLovin.stages.0.description>Il n'y a rien de tel qu'un combat en tête-à-tête sous les couvertures.</VSIE_GotSomeLovin.stages.0.description>
+
+
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--Traduction FR vanilla expanded framework-->
+    <KCSG.Add>Ajouter</KCSG.Add>
+    <KCSG.Remove>Retirer</KCSG.Remove>
+    <KCSG.SpawnNearCenter>Apparaître près du centre</KCSG.SpawnNearCenter>
+    <KCSG.AllowFoggedPosition>Autoriser la position embuée</KCSG.AllowFoggedPosition>
+    <KCSG.SpawnPartOfEnnemyFaction>Apparition d'une partie de la faction ennemie</KCSG.SpawnPartOfEnnemyFaction>
+</LanguageData>

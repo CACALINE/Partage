@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--<Traduction FR tous les vanilla furniture expanded.-->
+
+	<!-- EN:
+	<li>physical_description_root->Ce.tte. [rug] [depicts] [image]. [desc_sentence_group]</li>
+	<li>physical_description_root->Ce.tte. [rug] porte une [depiction] de [image]. [desc_sentence_group]</li> 
+	<li>physical_description_root->Sur ce.tte [rug] se trouve une [depiction] de [image]. [desc_sentence_group]</li> 
+	<li>rug->couverture</li> 
+	<li>rug->travail</li>
+	<li>rug->pièce</li>
+	<li>rug->textile</li>  
+	-->
+	<ArtDescription_Rug.rulePack.rulesStrings>
+	<li>physical_description_root->Ce.tte. [rug] [depicts] [image]. [desc_sentence_group]</li>
+	<li>physical_description_root->Ce.tte. [rug] porte une [depiction] de [image]. [desc_sentence_group]</li> 
+	<li>physical_description_root->Sur ce.tte [rug] se trouve une [depiction] de [image]. [desc_sentence_group]</li> 
+		<li>rug->tapis</li>
+		<li>rug->moquette</li>
+		<li>rug->pièce</li>
+		<li>rug->tissu</li>
+	</ArtDescription_Rug.rulePack.rulesStrings>
+
+	<!-- EN:
+	<li>physical_description_root->This [pottery] [depicts] [image]. [desc_sentence_group]</li>
+	<li>physical_description_root->This [pottery] bears a [depiction] of [image]. [desc_sentence_group]</li>
+	<li>physical_description_root->On this [pottery] is a [depiction] of [image]. [desc_sentence_group]</li>
+	<li>pottery->pottery</li>
+	<li>pottery->work</li>
+	<li>pottery->piece</li>
+	<li>pottery->set</li>
+	 -->
+	<ArtDescription_Pottery.rulePack.rulesStrings>
+		<li>physical_description_root->Ces  [pottery] [depicts] [image]. [desc_sentence_group]</li>
+		<li>physical_description_root->Ces  [pottery] porte une [depiction] de [image]. [desc_sentence_group]</li>
+		<li>physical_description_root->Dans ces [pottery] se trouve une [depiction] de [image]. [desc_sentence_group]</li>
+		<li>physical_description_root->Cette [pottery1] [depicts] [image]. [desc_sentence_group]</li>
+		<li>physical_description_root->Cette [pottery1] porte une [depiction] de [image]. [desc_sentence_group]</li>
+		<li>physical_description_root->Dans cette [pottery1] se trouve une [depiction] de [image]. [desc_sentence_group]</li>
+		<li>pottery1->potteri(e)</li>
+		<li>pottery->poterie(s)</li>
+		<li>pottery->pièce</li>
+		<li>pottery1->ensemble de vases</li>
+	</ArtDescription_Pottery.rulePack.rulesStrings>
+
+	<!-- EN:
+	<li>physical_description_root->This [hologram] [depicts] [image]. [desc_sentence_group]</li>
+	<li>physical_description_root->This [hologram] bears a [depiction] of [image]. [desc_sentence_group]</li>
+	<li>physical_description_root->On this [hologram] is a [depiction] of [image]. [desc_sentence_group]</li>
+	<li>hologram->hologram</li>
+	<li>hologram->light sculpture</li>
+	<li>hologram->piece</li>
+	<li>hologram->model</li>
+	 -->
+	<ArtDescription_Hologram.rulePack.rulesStrings>
+		<li>physical_description_root->Cet-te- [hologram] [depicts] [image]. [desc_sentence_group]</li>
+		<li>physical_description_root->Cet-te- [hologram] porte une [depiction] de [image]. [desc_sentence_group]</li>
+		<li>physical_description_root->Dans cet-te- [hologram] se trouve une [depiction] de [image]. [desc_sentence_group]</li>
+		<li>physical_description_root->Cet(te) [hologram1] [depicts] [image]. [desc_sentence_group]</li>
+		<li>physical_description_root->Cet(te) [hologram1] porte une [depiction] de [image]. [desc_sentence_group]</li>
+		<li>physical_description_root->Dans cet-te [hologram1] se toruve une [depiction] de [image]. [desc_sentence_group]</li>
+		<li>hologram1->hologramme</li>
+		<li>hologram->sculptue</li>
+		<li>hologram->pièce</li>
+		<li>hologram1->modèle</li>
+	</ArtDescription_Hologram.rulePack.rulesStrings>
+
+	<!-- EN:
+	<li>physical_description_root->This [machine] [imprints] an image of [image]. [desc_sentence_group]</li>
+	<li>machine->machine</li>
+	<li>machine->ancient device</li>
+	<li>machine->unexplainable structure</li>
+	<li>machine->archotech sculpture </li>
+	<li>imprints->conveys</li>
+	<li>imprints->imprints</li>
+	<li>imprints->makes people think of</li>
+	 -->
+	<ArtDescription_Archotech.rulePack.rulesStrings>
+		<li>physical_description_root->Cette [machine] [imprints] une image de [image]. [desc_sentence_group]</li>
+		<li>physical_description_root->Cet-te- [machine1] [imprints] une image de [image]. [desc_sentence_group]</li>
+		<li>machine->machine</li>
+		<li>machine1->appareil ancestral</li>
+		<li>machine->structure inexplicable</li>
+		<li>machine->sculpture archéologique</li>
+		<li>imprints->transmet</li>
+		<li>imprints->imprime</li>
+		<li>imprints->fait penser à</li>
+	</ArtDescription_Archotech.rulePack.rulesStrings>
+
+</LanguageData>
